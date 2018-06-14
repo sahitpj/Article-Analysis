@@ -30,4 +30,14 @@ for link in xrange(len(article_links)):
 
 # batch number-2
 	#starting number - 1139
+	#ending number - 2314
+
+# batch number-3
+	#starting number - 2314
+	#ending number - 3424
+
+# batch number-4
+	#starting number - 3424
 	#ending number - 
+
+
