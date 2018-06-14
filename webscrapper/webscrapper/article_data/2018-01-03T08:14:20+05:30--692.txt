@@ -1,0 +1,7 @@
+PATIALA: The   ( ),  , in collaboration with the University of Tulsa, USA, is organising the 14th Annual ‘IFIP WG 11.9 International Conference’ on digital forensics at a private hotel in New Delhi from January 3 to 5.
+
+ Academics, researchers, law enforcement personnel and government officials from various countries will participate in the three-day event, in which 20 research papers will be presented on topics like digital forensic models, network forensics, digital forensic tools and techniques, cloud forensics, mobile and embedded device forensics, industrial control system and forensics.
+ 
+ The IFIP Working Group 11.9 on digital forensics is an active international community of scientists, engineers and practitioners dedicated to advancing state of the art research and practice in the field of digital forensics.
+ 
+ 
