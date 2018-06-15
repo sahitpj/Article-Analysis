@@ -1,0 +1,15 @@
+NAGPUR: As disconcerting news of Aadhar data breaches have come to fore in recent months, it is crucial to ask what steps the government has taken to mitigate such incidences in the future. Very few steps have been taken say experts in   law and forensics. 
+
+ On Friday, cyber   firm Prevoyance Cyber Forensics (PCF) organized a knowledge sharing and awareness programme on cyber forensics. The firm’s founding partner Saurabh Athawale said, “The government’s push to link Aadhar with PAN and other aspects is haphazard at best. There are major deficits in cyber infrastructure that haven’t been addressed yet.”
+ 
+ Athawale says the reason existing systems have been secure till now is because they have a paper trail which is relatively difficult to exploit. “Linking everything with   sounds good in theory but is very dangerous as the Aadhar system itself is not secure,” he said.
+ 
+ Explaining how a person can access a billion Aadhaar numbers with just Rs 500, Athawale said, “The hacker just tries accessing a ‘.gov.in’ portal which is the most vulnerable. Once the layer of security is breached, he has access to Aadhaar numbers. This data is valuable information for banks and telecom companies looking to exploit their competitors’ customers.”
+ 
+ Apart from more stringent cyber legislations Athawale says we also need special cyber courts with judges who are experts in information technology.
+ 
+ An official from the Enforcement Directorate (ED) on conditions of anonymity, said, “ED only deals which financial offences but often there is a cyber link to these crimes. The agency does lack in infrastructure to tackle such cases. Investigations which take 15 days have in fact taken several months, by which time evidences tend to go cold.”
+ 
+ Lawyer Priyanka Chokhare, who attended the programme said, “I have come across case studies where victims of cybercrimes did not get justice because law enforcement officers were unequipped to tackle such offences.”
+ 
+ 

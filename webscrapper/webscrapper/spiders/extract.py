@@ -20,7 +20,9 @@ for link in xrange(len(article_links)):
         print t
     if t == 1000:
         break
-    print link     
+    print link    
+
+
 
 #batch size = 1000
 
@@ -38,6 +40,16 @@ for link in xrange(len(article_links)):
 
 # batch number-4
 	#starting number - 3424
+	#ending number - 4582
+
+# batch number -5
+	#starting number - 4582
+	#ending number - 5692
+
+# batch number -6
+	#starting number - 5692
+	#ending number - 6848
+
+# batch number -7
+	#starting number - 6848
 	#ending number - 
-
-

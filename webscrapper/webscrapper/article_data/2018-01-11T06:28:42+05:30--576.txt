@@ -1,0 +1,11 @@
+MUMBAI: A company that provides technological solutions globally for the pharmaceutical industry was duped of Rs 17.5 lakh when one of its employees responded to a spoofed email under the impression that he was communicating with a genuine representative of a European corporate house.   police have registered a case under the Information Technology Act and are looking for the sender of the spoofed email. 
+
+ The technological solutions provider is headquartered in south Mumbai and has a sales office at   Industrial Estate. It was in talks for a business transaction with a Belgian company, which is engaged in high-tech filling solutions for the food, pharma and cosmetic industries. Communication between the two companies largely took place over email. 
+ 
+ Between November 29 and December 13, an employee of the technological solutions provider responded to an email that he believed was sent by the Belgian company. The mail that he received had a link with an account number where the techonological solutions provider had to make payment for the deal. The employee paid up Rs 17.5 lakh on the account number provided. Later, when the Belgian company stated that it hadn’t received any money, the technological solutions provider was alerted. After an internal inquiry, the technological solutions provider registered a police complaint on January 9. Charkop police is now taking help of cyber police to nab the sender of the spoofed email. 
+ 
+ 
+  
+ An FIR has been registered against an unknown person. Cybersecurity experts say that awareness sessions on such fraudulent practices are a must for every corporate employee if he or she must handle financial transactions on behalf of the company. “Always verify the email address. Remember, a single alphabet change could give away the spoof,” says Altaf  , global head for cybersecurity consulting firm  . “There are ways to segregate mails coming from trusted sources and those from external parties. 
+ 
+ A spoofed email will automatically end up in the external communications folder. Moreover, before a financial transaction is done, re-verification needs to be done with the person authorizing payment,” Halde adds.

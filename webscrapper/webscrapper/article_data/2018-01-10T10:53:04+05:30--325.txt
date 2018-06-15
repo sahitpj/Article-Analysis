@@ -1,0 +1,13 @@
+CHANDIGARH: Chandigarh traffic cops are planning to install automated emergency vehicle preemption system (AEVPS), which has been developed by National Institute of Technical Teachers Training and Research (NITTTR), Chandigarh, to easy movement of emergency vehicles on city roads.   traffic police have asked the institute to give a demo of the system. 
+
+ Prof C   from department of computer science and engineering, NITTTR said they have received a call from the UT traffic senior superintendent of police (SSP) to know about the the equipment and have been asked to give a demonstration of the equipment before it is installed on all traffic light points to lessen the manual deployment of the staff for clearing the road in case an emergency vehicle gets stuck in traffic. He added that the institute is planning to install an equipment on a traffic light point in the city as a pilot project to see its results. 
+ 
+ The institute is also trying to work on vehicle density at traffic light points so that the lights get automatically changed accordingly. Prof C Rama Krishna said they will send this proposal to the central department of science and technology ( ) for further funding of the second phase of the system.
+ 
+ The AEVPS automatically reads the movement of an emergency vehicle when the latter comes in the radar of one kilometre near the traffic light point and the traffic signals timing will be automatically controlled through zigbee transmitter and the road will be cleared for the vehicle at the earliest. 
+ 
+ After the installation of this system on traffic light points there will be no chaos at traffic light point when an emergency vehicle moves. The system has been developed in such a way that even though the timing of all traffic light points except for the one where the vehicle is moving from will decrease, it will not suddenly shut down the movement of the traffic.
+ 
+ The system was successfully tried at   and a project report was prepared for this system. NITTR received Rs 2 lakh from DST for developing this system.
+ 
+ 

@@ -1,0 +1,11 @@
+Pune: Pratyush, India’s latest (and fastest) supercomputer at the Indian Institute of Tropical Meteorology (IITM) in Pune will improve weather and climate forecasts, and other services under the Ministry of Earth Sciences, Union minister Harsh Vardhan said on Monday.
+
+ The minister said the computer cost the ministry Rs450 crore. “By 2019, the new facility should also help the ministry generate block-level monsoon forecasts for farmers and the public in general. The Union government also aims to increase the penetration of SMS dissemination to 45 million farmers by next year, with a goal of reaching 93 million farmers eventually,” Vardhan said on the sidelines of a function held to inaugurate Pratyush.
+ 
+ The new high-performance computing (HPC) system has catapulted India to the top 30 in the world in terms of such facilities. Pratyush is equipped with 1,19,232 Intel Xeon Broadwell cores, 414 TB of random access memory (RAM) and 8 petabytes of storage. “With the augmentation of this HPC of 6.8 petaflops (PF), India’s ranking will move from 368th in the world to the top 30, in the ‘Top500’ list of HPC facilities,” said Vardhan.
+ 
+ The HPC also improves India’s world ranking in the weather and climate domain. “India will be placed fourth after Japan, the UK and the US,” the minister added.
+ 
+ “To provide accurate forecast and prediction services, we need to run computer models on HPCs,” said Madhavan Nair Rajeevan, MoES secretary. “To provide more accurate forecasts, we need to constantly increase our computational power,” he explained the need for Pratyush. 
+ 
+ 

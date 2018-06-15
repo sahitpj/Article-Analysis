@@ -1,0 +1,11 @@
+Pune: An advanced traffic management system developed by Centre for Development of Advanced Computing ( ), which uses real-time data to monitor traffic lights, may be used by the Pune Municipal Corporation to control traffic flow in the city.
+
+ An earlier version of the system is already in use in six cities across the country. The system uses solar energy or conventional electric power as the situation demands. Once adopted, PMC will implement the system across the city, said Hemant Darbari, director general, C-DAC.
+ 
+ “The system analyses real time traffic flow and can also detect camera-based red light violation by vehicles. As the system monitors density of traffic in each road to turn on or off, it will lead to less traffic snarls at junctions,” said Darbari.
+ 
+ Darbari said that C-DAC had asked PMC to suggest 10 traffic locations to start the pilot project. “But the civic officials accepted the result of our Jaipur model and in principal agreed to implement the system across Pune. We had made a presentation before the officials of urban development ministry, which recommended the project for municipal corporations in Bhubaneshwar, Nagpur and Thiruvananthapuram,” said Darbari.
+ 
+ C-DAC has already implemented IT-based solutions for traffic management in cities such as Indore, Surat, Patna, Delhi and Gwalior, among others. But the new version, C-DAC claimed, is more advanced in terms of data analysis as well as how it is powered. TNN
+ 
+ 

@@ -1,0 +1,36 @@
+BOSTON: Scientists have developed an implantable medical robot that can stimulate tissue growth in stunted organs without causing discomfort.
+
+ 
+ 
+ The system induced cell proliferation and lengthened part of the   in a large animal by about 75 per cent, while the animal remained awake and mobile.
+ 
+ According to the researchers from   in the US, the system could treat long-gap oesophageal atresia, a rare birth defect in which part of the oesophagus is missing, and could also be used to lengthen the small intestine in short bowel syndrome.
+ 
+ The most effective current operation for long-gap esophageal atresia, called the Foker process, uses sutures anchored on the patient's back to gradually pull on the oesophagus.
+ 
+ To prevent the oesophagus from tearing, patients must be paralysed in a medically induced coma and placed on mechanical ventilation in the intensive care unit for one to four weeks.
+ 
+ The long period of immobilisation can also cause medical complications such as bone fractures and blood clots.
+ 
+ "This project demonstrates proof-of-concept that miniature robots can induce organ growth inside a living being for repair or replacement, while avoiding the sedation and paralysis currently required for the most difficult cases of oesophageal atresia," said  , from the Boston Children's Hospital.
+ 
+ "The potential uses of such robots are yet to be fully explored, but they will certainly be applied to many organs in the near future," said Jennings, co-investigator on the study published in the journal Science Robotics.
+ 
+ The motorised robotic device is attached only to the oesophagus, so would allow a patient to move freely.
+ 
+ Covered by a smooth, biocompatible, waterproof "skin," it includes two attachment rings, placed around the oesophagus and sewn into place with sutures.
+ 
+ A programmable control unit outside the body applies adjustable traction forces to the rings, slowly and steadily pulling the tissue in the desired direction.
+ 
+ The device was tested in the oesophagi of pigs - five received the implant and three served as controls.
+ 
+ The distance between the two rings was increased by small, 2.5-millimetre increments each day for 8 to 9 days.
+ 
+ The animals were able to eat normally even with the device applying traction to its oesophagus, and showed no sign of discomfort.
+ 
+ On day 10, the segment of oesophagus had increased in length by 77 per cent on average. Examination of the tissue showed a proliferation of the cells that make up the oesophagus. The organ also maintained its normal diameter.
+ 
+ "This shows we didn't simply stretch the oesophagus - it lengthened through cell growth," said  , Chief of Pediatric Cardiac Bioengineering at Boston Children's.
+ 
+ The research team is now starting to test the robotic system in a large animal model of short bowel syndrome.
+ 
