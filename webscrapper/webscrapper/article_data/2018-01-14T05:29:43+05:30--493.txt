@@ -1,0 +1,19 @@
+HYDERABAD: Even as major concerns are being raised about   data security, the existence of another huge database containing personal info of lakhs of Indian citizens, that has no legal framework, has sent alarm bells ringing among open data campaigners and data protection advocates.
+
+ This databank pertains to Union labour ministry’s Employees State   Corporation ( ) that holds biometric data of 1.92 crore insured persons by way of Pehchan cards in servers at Hyderabad, Telangana, and   in Delhi. Pehchan card is a completely parallel database, including biometrics, that mirrors the Central Identities Data Repository of Aadhaar. Biometric data of over 10 lakh people from AP and   also is part of Pehchan database.
+ 
+ In July 31, 2017, then Union labour minister  , in his reply to a question in Parliament on biometric identity card, had revealed that “capturing of biometrics of insured persons and their family members for issuing ‘Pehchan cards’ was done till May 31, 2016.” Apparently, on realising that Aadhaar drive was simultaneously on, Pehchan programme was suspended to avoid duplication.
+ 
+ 
+  
+ 
+ The Aadhaar-linked e-Pehchan Cards are being used as permanent ID for availing services under the insurance scheme with 1.02 crore Aadhaar numbers being linked to records in ESIC database that maintains medical history of employees and family members. ESIC officials said Pehchan cards were discontinued after it was mandated only UIDAI can capture biometrics.
+ 
+ There is a growing clamour for destroying this database that has no validity as Aadhaar is in place. Open data campaigner   said: “The passport office also collects biometrics, but it is based on individual consent. Pehchan cards are without the sanction of law and therefore not acceptable. The outcome of the case in   will decide all these aspects. Though we are for open data, we are for certain legal safeguards. The Pehchan data biometrics should be destroyed.”
+ 
+ However, government claims the database is safe. “Pehchan database was put together by   and is safe and secure. The data transfer is encrypted. There is no law for this, but it was a policy decision. To avoid impersonation in availing health benefits, we built a fingerprint-based biometric data for authentication but have almost stopped using it as we depend on Aadhaar authentication. But some still bring their Pehchan cards for authentication. In future, if there is no use for it and we need storage space, we may destroy it,” ESIC additional commissioner Sanjay Sinha told STOIover phone from Delhi.
+ 
+ TIMES VIEW: Now that Aadhaar is in place and law does not permit collection of biometric data of individuals by any other agency, the government should do best to dissolve Pehchan data.
+ 
+ This is because any security breach of such data could cause havoc on a large scale. Since Aadhaar has become the one point authentication system, the centre should eliminate any duplication of biometric data.
+ 

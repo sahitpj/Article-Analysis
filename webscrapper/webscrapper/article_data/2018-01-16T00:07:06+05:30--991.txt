@@ -1,0 +1,19 @@
+New Delhi: A recent study has found that Delhi needs to take very aggressive steps to reduce emissions, including a complete prohibition on crop residue burning in neighboring states, to even bring down people’s average PM2.5 exposure closer to the national   standard by  .
+
+ According to ‘Burden of Disease Attributable to Major Air Pollution Sources in India’, released on January 11, even if emission standards of vehicles improve as planned, thermal power plants and industries meet energy efficiency targets as expected, and cleaner technologies replace biomass burning at homes and in brick kilns, Delhi’s PM2.5 exposure will continue to rise till 2050.
+ 
+ The study on people’s PM2.5 exposure from different emission sources also simulates future scenarios depending on the nature of action taken to control   pollution. For example, while Delhi’s annual average exposure in 2015 was about 140 micrograms per cubic metres, in 2030 — under the scenario ‘S2’ — the annual average concentration only reduces to 120 micrograms per cubic metres but rises after that, hovering around the same levels as in 2015. Only in ‘S3’, when very stringent action has been taken, the annual average starts declining to a little over 80 in 2030 and a little under it in 2050, but continues to be higher than the national safe standard of 40 micrograms per cubic metres.
+ 
+ According to the study’s authors — from IIT Bombay, the US-based Health Effects Institute and Institute for Health Metrics and Evaluation, they used a global chemical transport model. Chandra Venkataraman, climate scientist at IIT Bombay, said it was a three-step process where detailed emission databases were developed that included nearly all emission sources. These are then deployed in an air quality model and also takes into account atmospheric chemistry.
+ 
+ The scenarios assessed include business as usual, S2— when energy efficiency targets for thermal power plants and industries are met as per India’s submissions during the Paris agreement in 2015, vehicle emission standards are improved as planned in the auto fuel policy, and cleaner technologies have replaced solid fuel burning at homes, brick kilns and industries, and S3 — when crop residue burning has fully stopped and low carbon growth has become a norm. Most north Indian states that presented the state-level assessments fail to meet PM2.5 standard in 2050, said the authors. 
+ 
+ According to the study, biomass burning at homes, followed by open waste or biomass burning, and then dust and coal fly ash are the highest contributors to the PM2.5 exposure in Delhi. 
+ 
+ Nationally, if no action is taken, population exposures to PM2.5 are likely to increase by over 40% by 2050. “Exposures increase from 74 micrograms per cubic metres in 2015 to 106 in 2050. Exposure levels are kept close to the 2015 levels under an ambitious S2 scenario. Only under the most active reductions under S3, exposures are likely to reduce by nearly 35% from 2015 to 2050, reaching about 48 micrograms per cubic metres.” 
+ 
+ If no action is taken, the burden of disease will also grow substantially by 2050. Compared with nearly 1.1 million deaths in 2015, deaths attributable to the PM2.5 exposure are expected to rise to 3.6 millions.
+ 
+ Despite polluted cities like Delhi making headlines all the time, the study also found more than 75% of premature deaths attributable to air pollution were in rural areas. But exposure to PM2.5 in cities and rural areas was found to be similar.
+ 
+ 

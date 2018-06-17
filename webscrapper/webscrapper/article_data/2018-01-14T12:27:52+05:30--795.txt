@@ -1,0 +1,97 @@
+ 
+  Unless you are a hermit in the remote Himalayas, you are likely to be troubled 24x7 by thoughts of   — from personal information to financial data to biometric details.
+
+ In the recent days, weeks and months, the overdrive by the government and India Inc to link  ,  ,  , mutual funds and more to the 12-digit Aadhaar has raised the billion-dollar query: Is   secure? In 2016, 3.2 million   and debit card details were stolen by Chinese hackers.
+ 
+ In April last year, the Food and Civil Supplies Department of Chandigarh was reported to have published Aadhaar numbers of their public distribution system beneficiaries. Later in July, the Jharkhand Directorate of Social Security reported similar leak.
+ 
+ 
+ 
+ Core platforms with citizen information
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ American whistle blower Edward Snowden, from his asylum in Russia, and an Australian security expert Troy Hunt have raised questions on database security in India. A 2017 study by PwC and Assocham revealed attacks on Indian websites increased five times in the past four years. It noted Digital India spends miniscule amount on security.
+ 
+ To reassure 1.19 billion Aadhaar users that their details cannot be accessed over platforms like WhatsApp, the Unique Identification Authority of India (UIDAI) gave an option last week to create a 16-digit virtual ID to mask the real Aadhaar. In the economy’s technology-driven growth story Aadhaar is the most credible identity, says Ajay Bhushan Pandey, CEO of UIDAI, which issues Aadhaar numbers.
+ 
+  
+  
+ 
+ 
+ 
+ There are other, equally critical data pools across Digital India platforms, with sensitive personal information about bank transactions, taxes filed, passport details, property ownership, birth certificates, photographs and so on. These reside in systems of Passport Seva, GSTN, egovernance portals, income tax e-filing, UIDAI and others. Data across systems and agencies is increasing every minute. A few lakh people apply for Aadhaar every month or go to its centres to update or correct information, including address, date of birth, name.
+ 
+ Sivarama Krishnan, partner & leader, cybersecurity, PricewaterhouseCoopers (PwC), says, “The government is the biggest player in digital India, with several petabytes (one petabyte is 1,000 terabytes or approximately 10 years of TV content) of data residing with various agencies. And there are multiple user agencies accessing that data to complete their tasks.”
+ 
+ These include banks, telcos, insurance companies, credit card issuers, mobile wallets, ecommerce companies, hospitals, security and gas agencies. “Linking Aadhaar with everything is a risk if done without adequate checks and balances. Who is the actor, who owns the information, how and why do multiple agencies have access to databases? There are good uses and bad uses of data. The trouble is we don’t know the bad users,” says Harinder Takhar, CEO, Paytm Labs. 
+ 
+  
+  
+ 
+ 
+ Paytm has a 50-strong team in Toronto to secure transactions for its 200 million users in India. UIDAI’s Pandey, however, is less fearful, saying linking Aadhaar with everything will improve security. “When every bank account is verified with Aadhaar, every transaction will be tracked. It will make it more secure as frauds will be detected.” The accent is clearly on the cure.
+ 
+ 
+ 
+ Reverting to older, time-consuming practices like paper transactions, money order transfers, queuing up in banks or writing cheques is not the answer. Reliance Jio’s user base ran into millions within weeks thanks to Aadhaar ID verification. Passports are now issued in two weeks with Aadhaar from six months earlier. Tax returns are filed in real time, thanks to e-filing. Digital India will continue to expand — less than 10% transactions are digital at present. Yet Digital India needs to build trust and greater security.
+ 
+ The problem with government databases is that these are live, accessed by multiple users within the government and outside. That multiplies the security challenge. Saket Modi, CEO, Lucideus, says, “Every opportunity comes with a cost.” Lucideus manages security for several financial institutions, insurance companies and even the BHIM app. “No one’s bank account has been compromised because of Aadhaar data leaks. As it is, the majority of non-biometric information that Aadhaar captures is already there in public domain and people share more voluntarily on Facebook and other social media platforms,” he adds.
+ 
+ For Aadhaar to be breached, the hacker needs biometrics as well, a near impossibility as they are securely encrypted and never shared with anyone. Biometrics-based Aadhaar has helped remove fake beneficiaries and ghost accounts. However, despite an unbreakable 2048 bit encryption of most government databases, 100% security may never be possible. Akhilesh Tuteja, head of risk consulting, KPMG India, says, “Given unlimited resources and motivation, anything can be hacked.” (See box Get Ready for Quantum Era). “Security is a journey. 100% security is a myth,” says Burgess Cooper, partner, cybersecurity, EY India.
+ 
+ Modi of Lucidious points out that there is more financial fraud in the US than in India (the US is also far more digital than India), yet they have not given up on Digital America. JP Morgan Chase, Visa, PayPal have all seen major cyber breaches in the past. The ratio of risk of financial fraud in the US to India is 8:1. Fraud in India has been under check due to Reserve Bank of India’s insistence on the tighter, two-factor authentication and because the number of people using digital services frequently is still low. More than 50% e-shoppers still insist on cash on delivery option.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Last week, UIDAI gave an option to users to mask their numbers by creating virtual identity. Chief technology officer of a bank who wished not to be named argues that while this move is great to protect identity, users have to be reasonably tech-savvy to use this. That may not be true of those at the bottom of the pyramid who get direct benefit transfer under various government schemes. Tuteja points to human risks to “secure” information pools. There could be a disgruntled employee who decides to misuse privileges.
+ 
+ He points to agencies’ need to keep pace with the speed at which technology changes — from a two-year upgrade cycle, now it is 60 days for some software. “Technology has increased in complexity. You don’t depend on one technology partner but an ecosystem of partners who supply different software. Your dependence on others is a security risk as well,” says Tuteja. 
+ 
+ Often users store personal information on their smartphones. They download free apps like WhatsApp or TrueCaller. “These apps want to make your life easier, but at the cost of sharing your address book,” says Tuteja. An app could seek permission in its long list of conditions — which nobody cares to read — to copy every word you key in, compromising security.
+ 
+ Facebook and Instagram have user’s name and birth dates, besides frequent updates. Amazon, Flipkart and other ecommerce companies know addresses, mobile numbers and credit card numbers. Over the next few years, if users are able to do banking via links, say, on Facebook, it will multiply risks. The biggest challenge, says KK Mookhey, founder & CEO, Network Intelligence, is “that your data is not just with your bank (or UIDAI or GSTN, etc).
+ 
+ There’s an entire ecosystem of players and not all of them run their shops with the same level of rigour and controls that banks do.” Users need to be aware of what they do in hotspots as well. Marty P Kamden, CMO, NordVPN, a virtual private network services provider, says “Users need to be careful before connecting to public Wi-Fi.” Also, using the corner photocopy shop or even printers and copiers in offices to get Aadhaar or passport copies is not without risks. These come with hard disks that store every copy or print.
+ 
+ 
+ 
+ Most companies still don’t spend the kind of money that securing digital assets needs. For instance, JP Morgan has a $10 billion IT budget and $1 billion spend on security. Says Modi: “In India, public sector banks spend 1-3% of their IT budgets on cybersecurity and it’s slightly higher in private banks vis-a-vis the US where, generally, spending 10-15% of the IT budget on digital security is a common trend among financial institutions. The US government spent $19 billion in 2017 to secure IT assets. In India, the Ministry of Electronics and IT mandated all government departments in September 2017 to spend 10% of their technology budgets on security. This was after attacks like WannaCry. The 2017 Global Cybersecurity Index by the UN ranked India 23rd among 165 countries in commitment to cybersecurity. India scored better in security than in ease of doing business, but is not entirely risk-free.
+ 
+ 
+ 
+ 
+ 
+ In the security world, it’s a never-ending cat-and-mouse game, with hackers trying to breach networks. The greatest threat to Digital India could arise from hackers residing anywhere in the world — state-sponsored or otherwise. About 20 years back, 40-bit encryption was considered high-tech. Today it can be breached in minutes and companies have moved to 128-bit and 256-bit encryption. Databases like Aadhaar are secured with 2048-bit encryption.
+ 
+ “That could take thousands of man hours or several years to break,” says Ritesh Pai, chief digital officer, Yes Bank. However, what appears impregnable today could succumb to quantum computing (QC) in just a few years. “Today’s encryption methods could be brought down with QC in minutes. It could become mainstream in 8-10 years,” says Harinder Takhar, CEO, Paytm Labs.
+ 
+ In today’s computing world, information is stored in binary — 0 and 1. QC increases the ability of computers to store information in multiple bits or states. This allows them to perform incredibly complex calculations at speeds unimaginable today. Governments and companies will have to migrate to quantum era — much like how they adjusted to Y2K — and is being called Y2Q (Years to Quantum).
+ 
+ Even in pre-QC era, the need for quantum-safe encryption is real. Sivarama Krishnan, partner & leader, cybersecurity, PwC, says, “QC can help in enhancing response to attacks and detection capability.” While QC is a few years away, companies are evaluating blockchain which strengthens security as data resides in multiple places.
+ 
+ Syed Ali, principal, Bain & Company, says, “100% security is a mythical target because of the variety of attack methods, number of known and unknown hardware and software vulnerabilities, limitations in detection and response technologies, etc.” The tried-and-tested principle, adds Houston-based Ali, who lead’s the firm’s IT practice, “is to apply cybersecurity capabilities in layers and follow best practices for cybersecurity technologies, processes and organisation”. Perhaps move to blockchain next and be QCready soon enough.
+ 
+ 
+ 
+ At a time when there’s a hue and cry over technology jobs drying up, the software security market is staring at a crisis. There aren’t enough geeks to protect digital assets. Digital India needs top professionals who can build hack-proof systems and are blockchain-and quantum-computing era ready and ensure 24x7 protection against threats. Burgess Cooper, partner, cybersecurity, EY India, says, “We talk of IT jobs going. Security is one area where there’s zero oversupply.”
+ 
+ According to technology lobby Nasscom, India is grappling to bridge the gap between demand for cybersecurity professionals and the talent pool available, with a shortfall of hundreds of thousands of skilled professionals in this domain. Nasscom and Data Security Council of India (DSCI) are planning to create a pool of half a million security professionals in line with the country’s National Cybersecurity policy. Lack of security professionals is a global problem as well — an area that Indian engineers can explore. Even the US is expected to have half-a-million or more unfilled cybersecurity jobs by 2021.
+ 
+ Every IT worker needs to be involved in protecting and defending apps, data, devices, infrastructure and people. Cybersecurity, a complex domain with constant flux and rapid changes, wants skilled professionals having expertise in mathematics, statistics, data science and computation in order to keep up with the latest challenges in the form of attacks, crimes and frauds.
+ 
+ According to Nasscom, domains like identity and access management, security operations, internet of things (IoT) security, big data and cyber forensics are areas of immense opportunities for professionals in IT. Joining the Digital India army of security geeks could be the next hot spot for engineers.
+ 
+ 

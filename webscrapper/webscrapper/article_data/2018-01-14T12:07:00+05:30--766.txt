@@ -1,0 +1,26 @@
+LONDON: Scientists have developed a way to 3D print soft biological structures, which could be used to build life-like models of the brain and lungs.
+
+ Being able to match the structure and softness of body tissues means that these structures could be used in medical procedures to form scaffolds that can act as a template for tissue regeneration, where damaged tissues are encouraged to regrow.
+ 
+ Regenerating damaged tissue by 'seeding' porous scaffolds with cells and encouraging them to grow allows the body to heal without the issues that normally affect tissue-replacing transplant procedures, such as rejection by the body.
+ 
+ The use of scaffolds is becoming more common and varied in its applications, but the new technique creates super-soft scaffolds that are like the softest tissues in the human body and could help to promote this regeneration.
+ 
+ In particular, there might be future potential in seeding neuronal cells; those involved in the brain and spinal cord.
+ 
+ Researchers from Imperial College London ( ) in the UK tested the 3D-printed structures by seeding them with dermal fibroblast cells, which generate connective tissue in the skin, and found that there was successful attachment and survival.
+ 
+ This success, alongside previous research, could lead to further possibilities around the growth of stem cells, which is medically exciting due to their ability to change into different types of cells.
+ 
+ The technique could also be used to create replica body parts or even whole organs. These could help scientists carry out experiments not possible on live subjects.
+ 
+ They could even be used to help with medical training, replacing the need for animal bodies to practice surgery on.
+ 
+ "At the moment we have created structures a few centimetres in size, but ideally we'd like to create a replica of a whole organ using this technique," said  , from ICL.
+ 
+ The technique uses solid carbon dioxide (dry ice) to rapidly cool a hydrogel ink as it is extruded from a 3D printer.
+ 
+ After being thawed, the gel formed is as soft as body tissues, but does not collapse under its own weight, which has been a problem for similar techniques in the past.
+ 
+ "Cryogenics is the novel aspect of this technology - it uses the phase change between liquid and solid to trigger polymerisation and create super soft objects that can hold their shape. This means that the technology has a wide variety of possible uses," said   from ICL.
+ 

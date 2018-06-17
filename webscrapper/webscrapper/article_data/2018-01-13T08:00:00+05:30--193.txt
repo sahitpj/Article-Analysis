@@ -1,0 +1,16 @@
+Robots are making old manuscripts more accessible
+
+ There is a wealth of knowledge in ancient manuscripts but due to the fragile nature of these tomes, access to them is understandably limited. However in the past couple of decades, libraries are moving towards digitising these ancient books, to make them accessible to all. 
+ 
+ A company called Quidenus Technologies has invented a   which has reduced the man hours of the process of  . It has all the requirements for scanning a book safely inside it's boxy interior along with a bionic finger that turns the pages without harming them. It's latest model can do 2,500 pages an hour at it's fastest setting! 
+ 
+ The manual process of digitising books is a painstakingly slow one. Books have to be rested on a V-shaped cradle in an appropriately lit place (preferably lit by LEDs as they harm old manuscripts less) with a camera on a tripod facing the book taking pictures. The pages have to be turned manually with utmost caution and sometimes the camera has to be adjusted for each page individually. Some books are scanned and for that, depending on when and how it was bound, and the current state the book is in, the book's binding has to be opened for the pages to be photographed or scanned properly.
+ 
+ Though fruitful, it is a time consuming process. However, as we move further from the times those books were written, we have robots to do that job for us.
+ 
+ The robot invented by Quidenus Technologies is currently at work at the National Library of Abhu Dhabi, the historical archives of the city of Buenos Aires in Argentina and the National Library of Norway.
+ 
+ Books are not just digitised at a physical level, the best ones are more than scanned pages available for viewing, but have the elements within recognised and tagged. This process was done manually, especially as computer softwares weren't always up to deciphering handwriting. However now the concept of that seems obsolete as Sofie Quidenus of Quidenus Technologies, said in an interview with Mega.Online that she would like to program an algorithm which would analyse text in the way as a person would. To actually read the text and not just extract and transcribe it. She cofounded SearchInk with Stephan Dorfmeister for this project.
+ 
+ So it looks like machines of the future are making works of the past available to people of the present, what a time to live in!
+ 
