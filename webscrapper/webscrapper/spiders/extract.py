@@ -66,6 +66,29 @@ for link in xrange(len(article_links)):
 	#starting number - 10316
 	#ending number - 11446
 
+# batch number - 11
+	#starting number - 11446
+	#ending number - 12611
+
+# batch number - 11
+	#starting number - 12611
+	#ending number - 13694
+
+# batch number - 11
+	#starting number - 13694
+	#ending number - 14850
+
+
+# batch number - 11
+	#starting number - 15966
+	#ending number - 17098
+
+# batch number - 11
+	#starting number - 17098
+	#ending number - 
+
+
+
 
 
 

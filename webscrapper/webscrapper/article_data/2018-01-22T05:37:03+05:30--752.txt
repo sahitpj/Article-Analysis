@@ -1,0 +1,22 @@
+CHENNAI:   on Sunday got into a Twitter argument with UIDAI. When   tweeted that   enabled identification and not profiling, Snowden responded that this was not the case.
+
+ “#Aadhaar is an identifier, not a profiling tool. Aadhaar database does not keep any information about bank accounts, shares, mutual funds, property details, health records, family details, religion, caste, education etc. #AadhaarMythBuster,” tweeted UIDAI.
+ 
+ To this, Snowden responded, “That might be true if banks, landlords, hospitals, schools, telephone & internet companies were prohibited by law from asking for your #Aadhaar number.”
+ 
+ 
+ 
+ 
+ “But any Indian can tell you they’re asked for their number by non-government entities — and those companies have databases too,” Snowden responded.
+ 
+ Snowden had on January 9 expressed support for a newspaper reporter who alleged that one could purchase Aadhaar data for as little as ₹500.
+ 
+ On Sunday, he quoted an article by a former RAW chief (K C Verma, from an online news website from a day earlier), which stated: “Aadhaar every tuppenny bureaucrat has discovered a new instrument of harassment...”
+ 
+ “Rarely do former intel chiefs and I agree, but the head of India’s RAW writes #Aadhaar is being abused by banks, telcos, and transport not to police entitlements, but as a proxy for identity — an improper gate to service. Such demands must be criminalised,” Snowden tweeted.
+ 
+ Snowden also retweeted other posts about how “operators, banks were threatening users with disconnection of service if they fail to link their #Aadhaar... No SIM card, insurance, bank account or delivery of goods shopped online.”
+ 
+ Snowden also retweeted   regional manager and Australian cybersecurity advisor Troy Hunt and French hacker and researcher Elliot Alderson’s posts on how the Aadhaar database can be hacked. Alderson’s account posted a screenshot-by-screenshot account — of another hacker’s claim — of how, purportedly, it is possible to hack UIDAI’s system.
+ 
+ 

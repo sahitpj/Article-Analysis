@@ -1,0 +1,13 @@
+SAN FRANCISCO: Ride-hailing app   has reportedly ignored a security flaw -- discovered by a New Delhi-based security researcher -- that can allow an attacker to hack into user accounts via bypassing its two-factor authentication feature.
+
+ "Two-factor authentication is a vital part of protecting online accounts that adds a second layer of security on top of your username and password -- which can be be stolen -- by sending a code by text message to your phone which only you would have access to," tech website   reported late on Sunday.
+ 
+ "That two-factor code can be bypassed, making the second layer of security protection effectively useless," security researcher Karan Saini was quoted as saying by ZDNet.
+ 
+ The security bug works by exploiting a weakness in how the app authenticates a user when they log in to the platform, thereby letting the user log in to an account and easily defeat the two-factor prompt, without entering the correct code. 
+ 
+ Uber reportedly said the security bug "is not a particularly severe" issue.
+ 
+ "This isn't a particularly severe report and is likely expected behaviour," Rob Fletcher, Security Engineering Manager at Uber, said in his correspondence with Saini about the bug report.
+ 
+ Uber began testing two-factor authentication on its systems in 2015 but the company has yet to widely push the security feature to its users.

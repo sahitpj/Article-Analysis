@@ -1,0 +1,25 @@
+Security of the Aadhaar information has been a matter of great concern for a while now and the Unique Identification Authority of India (UIDAI) is leaving no stone unturned to ensure the same. In order to offer more options of authenticating using Aadhaar, the UIDAI has now introduced the unique feature of face authentication along with fingerprint and iris. 
+
+ This new feature is likely to be introduced by July 2018 and would provide convenience for those who have difficulty in authentication through fingerprint or iris scan.
+ 
+ "The UIDAI has decided to enable face authentication in fusion mode on registered devices by July 1, 2018 so that people facing difficulty in other biometric authentication (fingerprint and iris) could easily authenticate," said an authority in his official statement on behalf of the office. 
+ 
+ This measure will be present with the already existing modes of authentication, like the OTP, fingerprints and iris. Introduction of this feature is likely to increase security by adding another layer of verification. 
+ 
+ To make it clearer, citizens need not go to an Aadhaar centre again for authentication of face recognition details. The UIDAI will tap into its own database to add this feature. Moreover, it will work along with a biometric device to integrate face modality into certified registered devices and also provide standalone registered device service as required by the ecosystem. 
+ 
+ The UIDAI said it will provide Software Development Kits (SDKs)/Registered Device (RD) services in a number of operating systems, which will further have the ability to capture the face image and create digitally signed and encrypted authentication input. 
+ 
+ 
+ 
+ 
+ - All users can ring-fence their bio-metrics by visiting the official website of the Unique Identification Authority of India (UIDAI) or open its app, and entering their respective Aadhaar number correctly.
+ 
+ - It is a must to have a registered mobile number to avail this service.
+ 
+ - Once the lock clicks into place and the system is enabled, it will accept a biometric request and also allow a physical lock blocking an unauthorized access.
+ 
+ - The user can unlock for their choice of transactions and then lock it back again.
+ 
+ - Once you enable the bio-metric locking system, it remains locked till you choose to unlock it or disable the locking system, confirmed the official.
+ 
