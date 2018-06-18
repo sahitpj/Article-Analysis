@@ -1,0 +1,17 @@
+Chennai: In an indication that more Indians are opting for paperless banking, e-KYC verification, account opening and cash disbursal through micro ATMs are witnessing a surge.
+
+ eKYC verification has more than doubled to 1,103.3 lakh transactions in 2017-18 (upto December 2017) from 475.5 lakh transactions.
+ 
+ Going by volumes, the month of July 2017 soon after the government announcement that there would be mandatory linking of Aadhaar card to bank accounts by December 31, 2017 (earlier deadline) saw the most frenzied activity with as high as 187 lakh transactions, a jump of 50% from the previous month.
+ 
+ Aadhaar-based e-KYC verification and authentication has been driving growth for financiers for both account opening and sale of new loan products. “NBFCs and banks today are in a much better place because the credit infrastructure of the country has been completely transformed. A majority of customers today have a CIBIL score, customer contactability has improved and the cost of KYC verification has come down. With Aadhaar, it has become easier to collect and verify customer details, spurring our ability to meet growing loan demand,” said Devang Mody, CEO, Reliance Money.
+ 
+ With rural India yet to fully embrace the world of ATM PINs, mobile banking, AEPS (Intra Bank) UIDAI authentication over micro ATMs is gaining traction. Aadhaar usage at micro ATMs has increased 45% in the last nine months to 684.6 lakh transactions by December 2017.
+ 
+ “ATM penetration in rural India is not high. In some cases, there is just one ATM in a 30km radius with four to five villages. The role of banking correspondent distributing cash after authentication via Aadhaar on their micro-ATM devices becomes crucial. While this is a digital mode of transaction, the use of biometric has made things easier for the under-privileged and people from lower-socio-economic backgrounds,” said an SBI official.
+ 
+ Aadhaar Mapper Enabled Services (AMES) has also seen steady growth and had 207.4 lakh transactions in the month of December 2017.
+ 
+ “Now, banks are using Aadhaar for biometric, OTP-based verification and demo auth. Demographic authentication is used for updation of Aadhaar in bank accounts through validation of certain fields such as name, date of birth and mobile number. to ensure that it is matched to the original user before linkage with Aadhaar,” said Deepak Sharma, chief digital officer, Kotak Mahindra Bank. 
+ 
+ 
