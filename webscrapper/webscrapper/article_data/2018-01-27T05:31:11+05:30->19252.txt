@@ -1,0 +1,26 @@
+HYDERABAD: Despite the Delhi Police booking a cheating case based on a complaint from the   ( ) against a Hyderabad-based and seven other IT startup companies, Telangana government agencies like the   and JNTU-H have been utilising the services of the city-based startup.
+
+ Based on UIDAI's complaint in April 2017, Delhi cops had booked a case of cheating and criminal breach of trust against Hyderabad IT startup   and 7 other firms that are located elsewhere in the country. The charge was that these firms had hosted an unofficial website rendering Aadhaar services. 
+ 
+ UIDAI held that the website
+  operated by   offering Aadhaar-related services was unauthorised. The other sites included 
+ , 
+ , aadhaarprinters.com, geteaadhaar.com, downloadaadhaarcard.in, 
+ , and 
+ .
+ 
+ Hyderabad police & JNTU-H using services of tainted Syntizen
+ 
+ UIDAI CEO Ajay Bhushan Pandey then revealed that the websites and companies running them were booked under the IT Act, Section 38 of Aadhaar Act 2016, and Section 409 (criminal breach of trust) and Section 420 (cheating) of the Indian Penal Code.
+ 
+ Even as the case is being investigated, several Telangana government bodies like Hyderabad Police and JNTU-H are utilising the services of the startup company in question for Aadhaar-enabled services like attendance system.
+ 
+ Claiming that it has a valid Sub Authentication User Agency Licence, Syntizen has denied any wrongdoing. “Syntizen is a startup company in the business of Aadhaar. We provide Aadhaar Services to different organizations by helping them to authenticate their customers using UIDAI Ecosystem. We do not have any information about the FIR. We have not received any communication neither from UIDAI nor from any other authority so far. We firmly believe that our actions are as per rules and we have not violated any of them,” the Syntizen Admin Team responded to TOIin an email.
+ 
+ Sources said the case of Syntizen differs from other websites which were booked. “Syntizen has a Sub AUA licence from National Securities Depository Limited (NSDL) and Central Depository Services (India) limited. UIDAI in May 2016 issued a notification asking for Authentication User Agencies AUAs to offer mobile update services. Following the mandatory notification, the company developed 
+  website and started updating mobile phone numbers and email addresses of the Aadhaar holders. The company had shown a demonstration to UIDAI in Delhi and Bengaluru. However, in March 2017, UIDAI told the firm to stop the services due to various reasons. Immediately, Syntizen stopped the services. But the reports of complaint and FIR against the website surfaced. Based on this, Syntizen had sought information regarding the UIDAI complaint and FIR but has not received any information so far,” said sources.
+ 
+ Syntizen submitted a representation to UIDAI stating that its name may have been mistakenly added with other websites as they are licenced and have been offering services as per notification. The firm also cited the email communication between UIDAI and the company regarding updating and even instances of updating of information of UIDAI officials. Other firms were printing plastic cards of entire Aadhaar, but Syntizen is into authentication of services.
+ 
+ 
+ 

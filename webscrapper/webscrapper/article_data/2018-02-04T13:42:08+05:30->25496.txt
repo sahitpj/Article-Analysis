@@ -1,0 +1,24 @@
+NEW YORK:   at the   and the   at Austin have developed   to learn to perform tasks effectively by interacting with a human instructor.
+
+ The findings of the study were presented at the Association for the Advancement of   in New Orleans, Louisiana.
+ 
+ The researchers considered a specific case where a human provides real-time feedback in the form of critique.
+ 
+ First introduced by collaborator Peter Stone from the University of Texas at Austin as TAMER, or Training an Agent Manually via Evaluative Reinforcement, the team developed a new algorithm called Deep TAMER.
+ 
+ The research is an extension of TAMER that uses deep learning — a class of machine learning algorithms that are loosely inspired by the brain to provide a robot the ability to learn how to perform tasks by viewing video streams in a short amount of time with a human trainer.
+ 
+ According to army researcher Garrett Warnell, the team considered situations where a human teaches an agent how to behave by observing it and providing critique.
+ 
+ "The army of the future will consist of soldiers and autonomous teammates working side-by-side," Warnell said.
+ 
+ The researchers extended earlier work in this field to enable this type of training for robots or computer programmes that currently see the world through images.
+ 
+ "While both humans and autonomous agents can be trained in advance, the team will inevitably be asked to perform tasks, for example, search and rescue or surveillance, in new environments they have not seen before. In these situations, humans are remarkably good at generalising their training, but current artificially-intelligent agents are not," he added.
+ 
+ Currently, several techniques in Artificial Intelligence (AI) require robots to interact with their environment for extended periods of time to learn how to optimally perform a task.
+ 
+ During this process, the agent might perform actions that may not only be wrong, but catastrophic.
+ 
+ Warnell said help from humans will speed things up for the agents and help them avoid potential pitfalls.
+ 
