@@ -1,0 +1,23 @@
+ science is as important a paper for Class XII students as any other. A solid foundation at an early stage can help students consider the subject for higher studies. International School (CBSE wing) teacher Priyanjana Yajnaseni shared some tips with Faryal Rumi to help students pass the exam with flying colours. Excerpts: 
+
+ Tell us about the important chapters for programming-based questions
+ 
+ Computer science is pretty much like mathematics. Almost 80% of the chapters, such as SQL, networking, stack and araay, data file handling, database concept, inheritance and constructor/destructor are based on programming. The only way to score well is by having a complete knowledge of programming as majority of the questions are based on them.
+ 
+ How many times students should revise to score well?
+ 
+ Students should practise the sample papers and questions of last 10 years. They should solve the practical questions and programming on computer. It will help them learn from their mistakes.
+ 
+ What are the important chapters for theory-based questions?
+ 
+ As far as theoretical questions are concerned, students have to work on only two chapters – networking (six marks) and function overloading (2 marks).
+ 
+ Last-minute suggestion...
+ 
+ Solve as many questions as possible before the examination. Do not forget to put the symbols and characters at the right place. Students should write codes to learn the programming language, practise networking diagrams on the computer as it contains eight marks and revise as many times as possible. They should also go through the solved questions from the text book and mug up full form of all abbreviations.
+ 
+ Things to be kept in mind while writing the paper...
+ 
+ Utilize first 15 minutes to read the question paper thoroughly before writing the examination. Show the rough work on the right side of the answer sheet with their solutions. Go through the paper before submitting. Special attention should be given on signs and symbols of programming.
+ 
+ 

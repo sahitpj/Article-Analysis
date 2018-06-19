@@ -1,0 +1,15 @@
+Madurai: Researchers from department of physical chemistry, School of Chemistry, Madurai Kamaraj University, in collaboration with the University of Texas in Austin, United States of America have developed direct urea fuel cells that can generate electricity from human urine using low-cost catalyst materials. Currently, this research group is further working on the construction of the developed direct fuel cells in real toilet premises, to meet the power and water demands on its own by utilising human urine as fuel.
+
+ Research scholar, N Senthil Kumar guided by Dr G Gnanakumar, assistant professor, department of physical chemistry, MKU and supported by A Manthiram researcher from University of Texas invented this mechanism. Gnanakumar is working as a visiting researcher in the University of Texas under the USA-Raman Fellowship. The concerned research effort was published in the Advanced Energy Materials, which is a peer-reviewed top scientific journal comprising energy related research. 
+ 
+ The electricity generation from direct urea fuel cell is achieved through the electrochemical oxidation of urea/urine and reduction reaction of an oxidant. Until now, both of the aforesaid electrochemical reactions are strongly dependent upon the platinum (Pt) catalyst, which is highly expensive.
+ 
+ Instead, this Madurai Kamaraj University research team has developed a bi-functional cobalt oxide nano-wire catalyst that addresses the challenges using decorated nickel oxide and manganese dioxide shells, which are easily affordable, explained Senthil Kumar. While platinum costs Rs 2,553 per gram, their catalyst material will cost only Rs 20 per gram, the researchers said.
+ 
+ Furthermore, the conventional electrode fabrication processes applicable for direct fuel cells involve the tedious steps such as substrate pre-treatment, slurry preparation, tedious catalyst loading/coating and binder selection, which collectively increases the time and cost consumption processes. The direct growth of electro-active catalysts on flexible carbon nano-fibers achieved by this new method overcomes these limitations of the conventional electrode fabrication processes, which additionally decreased the cost of an entire electricity generation process.
+ 
+ “The actual realisation on the mechanism involved in the urine oxidation in direct urea fuel cells is yet to be addressed, appearing to be a formidable hurdle for the development of direct urea fuel cells. This study is the first ever detailed investigation on the electro-oxidation mechanism of urea present in urine applicable for direct urea fuel cells”, said Dr G Gnanakumar.
+ 
+ The by-products of research are a small amount of carbon dioxide and water that can be used for non-potable purposes. They created a prototype at laboratory which powered LED lights. When implemented in large scale, it will be a solution to manage waste management, Senthil Kumar added.
+ 
+ 

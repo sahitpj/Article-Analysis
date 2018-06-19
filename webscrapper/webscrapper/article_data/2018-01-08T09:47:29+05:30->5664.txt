@@ -1,0 +1,24 @@
+WASHINGTON: An amateur scientist has discovered the largest known  , calculated by multiplying 77,232,917 twos, and then subtracting one.
+
+ On December 26 last year,   - a 51-year old electrical engineer in the US - stumbled on to the  , having 23,249,425 digits.
+ 
+ The new prime number, also known as  , is nearly one million digits larger than the previous record prime number, in a special class of extremely rare prime numbers known as Mersenne primes.
+ 
+ Mersenne prime is a prime number that is one less than a power of two. They were named for the French monk Marin Mersenne, who studied these numbers more than 350 years ago.
+ 
+ The primality proof for the new prime number took six days of non-stop computing.
+ 
+ To prove there were no errors in the prime discovery process, the new prime was independently verified using four different programmes on four different hardware configurations.
+ 
+ M77232917 is the 50th known Mersenne prime ever discovered, and are each increasingly difficult to find.
+ 
+ Thousands of volunteers use a free software called the Great Internet Mersenne Prime Search (GIMPS) to hunt for new prime numbers.
+ 
+ A cash award of $3,000 or 50,000 is offered to anyone lucky enough to find a new prime.
+ 
+ Pace has been hunting for big primes with GIMPS for over 14 years. His discovery is eligible for a $3,000 award.
+ 
+ GIMPS' next major goal is to win the $150,000 award administered by the   offered for finding a 100 million digit prime number.
+ 
+ Credit for this prime goes not only to Pace, but also the thousands of GIMPS volunteers that sifted through millions of non-prime candidates, GIMPS said in a statement. 
+ 

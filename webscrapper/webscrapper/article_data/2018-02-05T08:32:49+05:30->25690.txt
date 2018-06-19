@@ -1,0 +1,21 @@
+PUNE: Having unveiled a   early this month, the state government is set to instruct all its departments to shift their data onto the “cloud.” This will eliminate the chances of data being lost from physical servers.
+
+ The government resolution (GR), to be issued by the state IT department, is likely to set October as the deadline for all the departments to shift their storage onto the cloud.
+ 
+ “The state is keen not to have any new data centres. All the information, from all departments, should be shifted to the cloud,” said   Srinivas, the state IT secretary. The IT department will be helping all the departments shift the data.
+ 
+  
+  
+ Officials in the IT department believe this move will accelerate e-governance and will make information instantly accessible to all the departments.
+ 
+ According to the government, there are over 1 lakh documents currently being produced every day, and they have to be stored in over 75 centralised data centres. All this is leading to high maintenance costs. “If we use the cloud technology, there will be a reduction in such costs as the empanelled service provider will have the data stored for public/non-public use,” said the IT secretary.
+ 
+ Two months ago, the Fadnavis government had formed a four-member committee to draft a policy framework on cloud usage. The committee submitted the policy document, which is now being adopted as the public cloud policy, an IT official added.
+ 
+ The policy is likely to be formally set in motion through a detailed government resolution. In the next three months, five to six top cloud service providers will be empanelled, the official added. As per the framework, the government will make it mandatory for data to be stored within the country. 
+ 
+ However, even as new technologies are being adopted, citizens continue to be concerned.
+ 
+ “Even as the latest technologies are being embraced by the government, what remains important is whether basic services are being delivered to the citizens,” said  , an e-governance expert. He stresses on the need to have a data policy instead, that would maintain on transparency and citizens would be able to find out how each department is protecting equality, justice, dignity and liberty of all citizens.
+ 
+ 

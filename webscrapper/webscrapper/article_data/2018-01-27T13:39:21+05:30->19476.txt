@@ -1,0 +1,18 @@
+SEOUL: Scientists have developed a highly stretchable rechargeable lithium-ion battery (ARLB) based on aqueous electrolytes, necessary for the next wave of wearable electronics.
+
+ Stretchable electronic devices have recently attracted tremendous attention as next-generation devices due to their immense flexibility.
+ 
+ The increasing interest and demand for flexible electronics have fuelled the search for highly stretchable electrodes with high mechanical durability and high electrical conductivity during deformation.
+ 
+ Although many methods have been proposed for these electrodes, none of them has managed to simultaneously achieve high stretchability for the electrodes and have a scalable manufacturing process.
+ 
+ The researchers at the   in   solved such issues using a conductive polymer composite, composed of Jabuticaba-like hybrid carbon fillers containing carbon nanotubes and carbon black in a simple solution process.
+ 
+ The shape of this structure resembled that of a Jabuticaba tree, the Brazilian grapetree.
+ 
+ They observed that the HCP composite is found to effectively retain its electrical conductivity, even under high strain rates.
+ 
+ This makes it suitable for use in highly stretchable aqueous Li-ion batteries, according to the study published in the journal advanced energy materials.
+ 
+ "Our findings are expected to expand the number of stretchable nanocomposites with electrochemical and mechanical properties available for use in a wide variety of applications," said Professor  , from the Ulsan National Institute of Science and Technology.
+ 
