@@ -1,9 +1,0 @@
-HYDERABAD: With India being ranked fourth globally among the countries most affected by ransomware, cybersecurity continues to be one of the most pressing challenges faced by companies today, shows a report published by the National Association of Software and Services Companies ( ). According to experts, even non-IT companies in the city today are falling prey to ransomware and Petya malware attacks.
-
- As per the NASSCOM report, organizations are becoming more vulnerable to fraud and privacy breaches . Year 2017, proved to be difficult even for city-based companies, said experts.
- 
- “While ransomware attacks used to happen sporadically earlier, in the year 2017, there were a spate of ransomware attacks across the country and in Hyderabad as well. We also noticed that in 2017, even non-IT companies and companies working in the pharma space in Hyderabad fell prey to   and Petya cyber attacks. Today, the question is not only whether an attack would occur, but when will it occur and how prepared organizations are to deal with it. The extent of cyberthreats is expected to increase manifold in 2018,” said  , secretary of Society for Cyberabad Security Council ( ). According to cybersecurity experts, in 2018, hackers are likely to use advanced technologies such as artificial intelligence and machine learning to conduct massive attacks.
- 
- “The ways in which cybersecurity threats are growing is a serious cause for concern, especially among startups. We were also hit by the large-scale MongoDB database hacks that hit the globe in September, 2017. Fortunately, we did not suffer any data breaches. However, the incident really woke us up and we immediately put in remedial measures to protect our data and encrypt our entire database,” said  , founder of a citybased startup working in the financial technology space.
- 
- 
