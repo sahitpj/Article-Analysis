@@ -1,0 +1,31 @@
+Hyderabad: Wouldn’t it be great if you could just waltz into a tailor shop with a piece of fabric and walk out within minutes with the exact dress you wanted the tailor to stitch? Well, Hyderabad-based CreativeXperts Consulting is somewhat like that tailor, catering to enterprises of all hues and shades and providing them with tailor-made enterprise mobility tools based on their unique requirements. 
+
+ For the uninitiated, enterprise mobility is about digitising the workforce and using digital tools to enhance the customer experience, improve efficiency as well as enhance the productivity of existing employees. 
+ 
+ This may sound fancy but many enterprises find themselves struggling as the cost of adopting enterprise mobility solutions (which includes building an app or website) can be high.
+ 
+ In a bid to bring down the cost of enterprise mobility solutions, the husband-wife techie duo of Rama Krishna Kuppa and Anasuya Akilla quit their cushy MNC jobs and set up CreativeXperts Consulting Pvt Ltd in December 2009 in the city.
+ 
+ Rama Krishna recounts that in the early 2000s, the enterprise mobility business space was dominated by the big boys and they were keen to make their mark by providing affordable solutions so that SMEs too could adopt them and reap the benefits of going digital.
+ 
+ He points out that it was only in 2011 that the first prototype of his solution –   Framework -- was ready and that year, the startup also figured among the top six in the startup competition at the Advantage AP Summit.
+ 
+ ONGO Framework’s back-end was ready in 2013 and using that back-end, the startup helped some top notch corporates launch their products. “Our low-code model eliminated the development effort required in developing an app and hence, it reduced the go-to-market time for these organizations. This is how some funds flowed into the startup that year and we started developing the front-end of the framework. To put it in a nutshell, it took five years for the startup to develop ONGO Framework, which is unique as it is sector agnostic,” he says.
+ 
+ To put it plainly, the front-end is what the customers see on their mobile when they tap the app and all that goes behind the app is back-end. 
+ 
+ “In a developer’s language, I can tell you that it took us 82 sprints, more than 50,000 man-hours of effort and more than 18,000 code check-ins to build the ‘ONGO Framework’, which led to the creation of applications required for businesses to improve their customer experience and also their employee productivity in less than 60 minutes,” Rama Krishna says, adding that when he started in 2009, he had nine members and has now grown to 65.
+ 
+ Since April 2016, ONGO has digitized 68 enterprises, 480 SMEs and 26 startups by building app and websites. Rama Krishna feels that the ONGO platform has clicked with so many players because it is easy to use. 
+ 
+ “If I have to build an application for a restaurant, I have to ask for the logo, colour, location, menu and bookings etc but with ONGO one does not need to give me all these information, as ONGO will pick it all up from any of the social media sites the restaurant has presence on. Thus, our USP is that we are the first artificial intelligence (AI)-based enterprise mobility service provider,” he says, adding that the solution development time is less than an hour for an SME and they can get their solutions live within no time.
+ 
+ Talking about costs, Rama Krishna points out that it provides a SaaS model, wherein the tech is on rent. The fee can range between Rs 2,000 to Rs 6.5 lakh per month depending on how an enterprise uses the ONGO Framework.
+ 
+ Serial investor Mitesh Majithia, who is the director of growth and strategy, points out that the startup wants to focus on SMEs and large enterprises from which it can take care of its operational expenses. 
+ 
+ In the coming days, the startup also intends to be the technology incubator for startups by being their ‘technology partner’. 
+ 
+ Rama Krishna adds that the startup may look at setting up a full-fledged tech incubator in Hyderabad in the coming days when the number of startups it engages with increases in number.
+ 
+ 
