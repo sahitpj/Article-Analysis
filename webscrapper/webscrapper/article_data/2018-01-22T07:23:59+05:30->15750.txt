@@ -1,0 +1,17 @@
+CHENNAI: Tired of waiting to a get a LPG cylinder refill to your home? With a sensor-based device, your LPG distributor may keep track of your fuel consumption and land at your doorstep to refill before you may even know you will soon run out of gas. 
+
+ The lightweight device will doubles as a cylinder stand and measure its weight, as the  , through its sensors and alerts the distributor in time for a refill. 
+ 
+ The technology was developed by a student team from  . The team was one among those from 19 IITs across the country that showcased technological solutions to issues in various field at the 6th IIT Tech Meet held in IIT Madras .
+ 
+ Rahul Kumar, one of the team members, said their technology will reduce the delay in supply for customers, who end up waiting for a few days to weeks. . As a result, it will also help cut cost for both customers and distributors, who spend to stock up additional cylinders anticipating requirement. 
+ 
+ "At present, the LPG cylinder distribution system is not properly monitored. Our device will help digitize the monitoring system, so the customer need not keep an additional cylinder at home and the distributor need not stock up a lot in the inventory," he said.
+ 
+ Kumar said they have tied up with   to pilot test their device in houses across   starting February.
+ 
+ The device works on strain gauge load sensors placed on the four corners of a stand onto which the LPG cylinder is placed. The sensors attached stand is connected to a micro controller or a microchip at home, while the distributor will maintain a database of all his customers and supply in a cloud server. 
+ 
+ The sensors on the stand will keep track of the weight of the cylinder while the fuel is used. When the gas is about to run out, the sensors will send out a signal to the controller, which will in turn alert the cloud server letting the distributor know his customer's requirement.
+ 
+ 
