@@ -1,0 +1,9 @@
+Chennai: In a bid to deepen its Indian market presence,   has partnered with   Bank to offer   for customers using  , its cloud accounting software. With digital, contextual banking or the availability of seamless banking services at the place and time of customer’s requirement has become the next big opportunity for banks.
+
+ Working on this integration for a year, Sridhar Vembu, CEO, Zoho said, “This is the first time we are partnering with any corporate. It is being integrated through the cloud using APIs. ERP and bank integration was a luxury that only big companies could enjoy.This is our joint effort to democratise this technology for all businesses,” said Vembu. 
+ 
+ The integration will offer a host of benefits for common users of Zoho Books and ICICI Bank from automating reconciliations, making payments to vendors, collections with multiple payment options for customers besides requesting for working capital loans, all through the Zoho Books application. “Users can eliminate on data entry and manual errors. The integration will give real time visisbility and facilitate quicker decision making as users need not juggle between multiple interfaces. All this integration has been done with the security infrastructure in place,” said Sivaramakrishnan Iswaran, director - product management and business development, Zoho. For existing common customers, the integration comes at no additional cost. 
+ 
+ The Zoho Books subscription is priced at Rs 2,499, per organisation per annum.
+ 
+ 

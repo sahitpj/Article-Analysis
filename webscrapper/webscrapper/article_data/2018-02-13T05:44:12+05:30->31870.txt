@@ -1,0 +1,10 @@
+ BERLIN: A German court has ruled that Facebook’s insistence that users provide their real names violates the country’s data protection laws.
+
+ The Berlin state court ruled in a suit brought by the   that Facebook’s “real name” clause violated the country’s regulation that providers of online services must allow users to remain anonymous.
+ 
+ The dpa news agency reported on Monday that the court also ruled some clauses in Facebook’s terms of service were framed too broadly, and that several settings that are activated by default shouldn’t be. Those include a   smartphone app feature, which reveals the location a person is chatting from unless it’s turned off.
+ 
+ Facebook could face fines of up to 250,000 euros ($306,000) per infraction if it does not fix its conditions in  , but the company said it would appeal the ruling. “Our products and terms of service have changed a lot since the beginning of the case (in 2015), and we are making further changes this year to our terms of use and data protection guidelines, with a view to upcoming legal changes,” a spokeswoman said.
+ 
+ Monday’s judgment follows a December warning from Germany’s competition watchdog that Facebook was abusing its dominant market position to “limitlessly” harvest data from outside websites and apps.
+ 

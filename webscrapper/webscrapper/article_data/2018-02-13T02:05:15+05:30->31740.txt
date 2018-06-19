@@ -1,0 +1,19 @@
+Chennai: To record vitals in a non-invasive manner, IIT-Madras has developed the algorithm for a medical-grade, wearable device called ‘VinCense.’ The device can be used for unobtrusive monitoring of vital signs including pulse-rate, oxygen saturation, respiratory rate, skin temperature and blood pressure.
+
+ VinCense can also be deployed for home   delivery, insurance, analytics and occupational health screening. It also has applications in non-communicable diseases screening, general public health and community health. 
+ 
+ VinCense was developed by a team led by M Manivannan, head of Touch Lab, Biomedical Engineering Group, Department of Applied Mechanics, IIT-Madras, along with MedIoTek Health Systems which works on mobile health technology. Manivannan said his team is developing algorithms that provide more accurate vitals from the wearable device which IIT-M claimed is the first of its kind in the country.
+ 
+ The real-time data recorded by the device is stored in the patent-pending secured cloud from where healthcare providers can access vitals using an intuitive interface, said the institute. 
+ 
+ “With focus on preventive health, India has the potential to become a Global Healthcare Hub. Only with a fraction of National Institutes of Health budget, India can double the efficiency in delivering healthcare services to its population,” said Manivannan.
+ 
+ Health screening and monitoring towards preventive and curative care is increasingly using technologies including from virtual reality, gaming, data sciences and internet of medical things (IoMT).
+ 
+ While MedIoTek has been working on the wearable platform for four years, Touch Laboratory at IIT-Madras has been working on medical simulation technologies providing haptic (touch-based) feedback for 13 years.
+ 
+ “This collaboration would further lead to algorithms for medical simulation applied to wireless health monitoring systems. It can lead to early intervention to reduce risks and complications, and improving clinical outcomes,” the institute said. 
+ 
+ EoM
+ 
+ 

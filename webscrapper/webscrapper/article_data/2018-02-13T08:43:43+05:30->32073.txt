@@ -1,0 +1,15 @@
+CHENNAI: To record vitals in a non-invasive manner, a team from   has developed the algorithm for a medical-grade, wearable device called 'VinCense.' The device can be used for monitoring vital parameters including the pulse-rate, oxygen saturation, respiratory rate, skin temperature and blood pressure. 
+
+ VinCense can be deployed for home healthcare delivery, insurance analytics and corporate or industrial occupational health screening. It also has applications for non-communicable diseases screening and surveillance, general public health, and community health. 
+ 
+ VinCense was developed by a team led by prof M. Manivannan, head of Touch Lab, biomedical engineering group, department of applied mechanics in the institute along with   which works on mobile healthcare technologies. Prof Manivannan said that his team is developing algorithms that provide more accurate vitals from the wearable device, which IIT-M claimed is the first of its kind in the country.
+ 
+ The real-time data that is duly recorded is stored in a patent-pending secure cloud from where healthcare providers can access vitals using an intuitive interface, said the institute. 
+ 
+ "With focus on preventive health, India has the potential to become a  . Only with a fraction of   budget, India can double the efficiency in delivering healthcare services to its population," added Prof Manivannan.
+ 
+  While MedIoTek has been working on the wearable devices platform for the past four years, the Touch Lab at IIT Madras has been working on medical simulation technologies providing haptic or touch based feedback since 13 years.
+ 
+ "The outcome of this collaboration could lead to early intervention reducing risk and will help improve clinical outcomes," said IIT-M. 
+ 
+ 

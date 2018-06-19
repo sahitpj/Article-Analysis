@@ -1,0 +1,37 @@
+Kishore Kamble, manager of a housing society at Pargenagar in  , had an uphill task in hand till the other day. He would have to keep an eye on 14 overhead water tanks of seven buildings and climb 100 stairs to reach the rooftop of each wing and close the valves of the overflowing tanks.
+
+ From January 1 this year, Kamble has not only stopped worrying about the tanks but is also very relieved that he does not have to take the stairs. All he has to do is to keep an eye on a smart app that was designed by the DSK Garden Enclave society members. The aim is to reduce wastage of water while constantly measuring water levels in the overhead tanks and the tankers as well.
+ 
+ Society secretary Shailesh Rane, an IT professional, and resident Ashish Arora have designed the environment-friendly app for controlling wastage of water and reducing costs of purchasing water from the city’s private tanker operators.
+  
+  
+ The app was inaugurated by PMC corporator Nanda Lonkar during a simple ceremony organised at the society in the presence of prominent citizens from Kondhwa and Wanowrie.
+ 
+ The society is located in an area perennially hit by water scarcity. The   (PMC) supplies one tanker to the society daily. But the requirement is seven tankers a day.
+ 
+ The residents had no knowledge on how much water was being supplied to them by the civic body and the private tankers on a daily basis and what their requirement was, because the supply was mostly irregular. The situation compelled the society members to cough up hefty amounts to meet their water requirements.
+ 
+ Finally, a group of residents came together and developed an app for water management.
+ 
+ Sensors that measure water levels have been installed in the main underground PMC tank, which gets inputs from the (PMC) pipeline as well as the reverse osmosis (RO)-generated output. Similarly, such sensors have also been installed on the overhead and flush tanks atop buildings. The sensors read the water level of the tanks every few seconds and send data over the internet to the computer servers located on the cloud platform via hardware and over an Wi-Fi network (See graphics).
+ 
+ “There was an urgent need to efficiently monitor the water supplied by the civic body, the stock in the borewell and the RO plant to manage distribution of water to approximately 400 people living in 110 flats. Another aim was to cut down on water cost, ensure minimum disruption of supply and avoid wastage of one tanker or 10,000 litre of water overflowing from the overhead tanks,” Rane told TOI.
+ 
+ The society was spending Rs 12 lakh for water and an additional another Rs 8 lakh for electricity bills a year. “We took a small step in the digital world. We initially launched the app, the first of its kind in Pune, on a trial basis to prevent wastage of water in October, 2017. We monitored the app till the end of the year and found that the results were excellent. We decided to implement the app on a full-fledged basis from January 1,” he said.
+ 
+ “We also trained our society residents and staff members on how to measure the water level on smart phones, laptops and computers and reduce wastage. We will save Rs 1,200 on a water tanker per day. This means around Rs 4.38 lakh a year,” Rane added.
+ 
+ Kamble, on the other hand, said the app has stopped his hassles — climbing the staircases to close the valves of overhead tanks whenever they were full. “It also helps me ensure equal distribution of water in tanks. The wastage of water has stopped completely,” he said.
+ 
+ Homemaker Judith Menezes said: “We can ensure zero wastage of water after the launch of app. We can track the water levels from any place. Water can be supplied as per our requirements. The builder had earlier given us a sensor system to cut off the water supply. But its spare parts are not available. The app will help us measure the building-wise consumption,” she said.
+ 
+ Corporator Lonkar said: “We are encouraging housing societies in the area to use the app for better management of water. This is a very smart move.”
+ 
+ Recently, the irrigation department said the city may not face a water crisis over the summer months since the irrigation department has been able to save about 2 TMC water following the the early closure of water releasefor winter crops.
+ 
+ About 3.5 TMC water flows from   every year during thefirst rotation for winter crops. This year’s rotation was stopped in the early week of January after the release of 1.5 TMC water.
+ 
+ The rotation lasted for almost 21days between December and January first week. According to the department, the release was stopped after demand for water from rural areas was fulfilled.
+ 
+ Sources in the department had said saving about 2 TMC water during the first rotation was crucial. This stock can be utilized during the summer months to meet drinking water requirements. The city would not have to face water cuts because of adequate stock in dams till June. If demand from rural areas remains low, the department can save another 1TMCwater during the forthcoming rotations, a source said.
+ 
