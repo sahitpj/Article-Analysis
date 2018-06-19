@@ -15,7 +15,6 @@ import pandas as pd
 import os
 import nltk
 import re
-import csv
 
 folder = nltk.data.find(
     '/Users/Sahit/Documents/GitHub/Article-Analysis/webscrapper/webscrapper/article_data')
@@ -28,7 +27,7 @@ for item in dirListing:
         editFiles.append(path+'/'+item)
 print len(editFiles)
 
-g = open('gg.txt', 'r')
+g = open('article_links_final.txt', 'r')
 g = g.read().split('--')
 
 
@@ -96,7 +95,7 @@ for filepath in editFiles:
     entry['keywords'] = keywords
     data.append(entry)
     t += 1
-    if t == 1000:
+    if t == 10000:
         break
 
 article_df = pd.DataFrame(data)
