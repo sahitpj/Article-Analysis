@@ -1,0 +1,21 @@
+PUNE: Consumers need not be worried about being cheated at   anymore as the Centre has directed all the state-owned oil companies to upgrade their fuel dispensing units to make them tamper-proof. 
+
+ The ministry of consumer affairs, food and public distribution issued the directives through a government resolution (GR) on Friday. The changes will be effected in as many as 52,000 petrol pumps across the country.
+ 
+ “The legal metrology division of the department of consumer affairs has directed the oil companies as well as the Original Equipment Manufacturers (OEMs) of petrol dispensing units to upgrade their dispensing units at retail outlets across the country to put an end to pilferage of fuel,”  , spokesperson of All India Petrol Dealers Association (AIPDA), told TOI.
+ 
+ The GR states that all the fuel dispensers must be upgraded to include features like generation of one-time password (OTP) for any hardware change. Other features include   and calibration, replacement of the existing pulser with non-openable, self-destructive potted magnetic pulser and a software upgrade of the software encryption with a 128 bit  
+ 
+ The GR has also directed OEMs to submit a compliance report of all such proposed features to ensure that the features are safe and trail of authentications is available.
+ 
+ “It is requested that log information of all authentications should be passed on to the   quarterly. It is also requested to provide a list of all dispensers with name and address of the retail outlet and date of such upgrade,” the GR stated.
+ 
+ Daruwalla said the dealers across the country have welcomed the move in light of the growing suspicion among consumers with regard to cheating at petrol pumps. “Rest assured, consumers will not be cheated by chip-fitted petrol dispensing units. The year 2017 recorded numerous such cases since the dispensing machine’s motherboard was basic, vulnerable to chip tricks,” he said.
+ 
+ After the cases of cheating surfaced last year, AIPDA took a delegation to the ministry, urging it to develop new software and provide higher levels of encryption to make the machines tamper-proof,” Daruwalla said.
+ 
+ After the upgrade, the machines will beep a red light if they are tampered with, he said, adding, “An advanced version of the motherboard will be provided for the dispensing units. An OTP will be generated with the oil companies if any hardware change or calibration has to be taken up. If a machine is tampered with, a red light will start beeping and close down the fuel dispenser. All the details of the logs of dispensing units will be monitored by the government.”
+ 
+ Daruwalla said the upgrade will cost the government nearly Rs3-4 lakh per machine. “The new system will ensure that customers are not cheated,” he added.
+ 
+ 
