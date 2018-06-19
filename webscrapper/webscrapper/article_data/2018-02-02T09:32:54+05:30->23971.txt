@@ -1,0 +1,25 @@
+NEW DELHI: The government today deferred implementation of requirement to carry e-permits for inter- state transportation of goods following technical glitches. 
+
+  provision requiring transporters to carry an electronic waybill or e-way bill when moving goods between states was to be implemented from today to check rampant tax evasion. 
+ 
+ "In view of difficulties faced by the trade in generating e-way bill due to initial technological glitches, it has been decided to extend the trial phase for generation of e-way bill, both for inter and intra state movement of goods. It will be applicable from a date to be notified," the Central Board of Excise and Customs (CBEC) tweeted. 
+ 
+ After implementation of the Goods and Services Tax (GST) from July 1, the requirement of carrying e-way bill was postponed pending IT network readiness. 
+ 
+ GST Network, the company developing the I-T backbone for the new   regime, had been conducting trial runs for the e-way bill system since January 17, during which a whopping 2.84 lakh such permits were issued on the portal. 
+ 
+ However, with the formal launch of the e-way bill today, the system witnessed technical glitches. 
+ 
+ Sources said the along with inter-state e-way bill generation by all states, 17 states also started generating such permits for intra-state movement of goods, which created pressure on the portal. 
+ 
+ Central Board of Excise and Customs (CBEC) Chairperson Vanaja Sarna today held a review meeting to discuss on streamlining the system. 
+ 
+ The all-powerful GST Council had on December 16 decided to implement the e-way bill mechanism for intra-state movement of goods from June 1 and from February 1 for inter-state movement. 
+ 
+ E-way bill is an electronic way bill for movement of goods which can be generated on the   (  portal). Movement of goods of more than Rs 50,000 in value cannot be made by a registered person without an e-way bill. 
+ 
+ The e-way bill can also be generated or cancelled through SMS. When an e-way bill is generated, a unique e-way bill number (EBN) is allocated and is available to the supplier, recipient, and the transporter. 
+ 
+ Transporters, who want to generate e-way bill, can visit the 'ewaybill.nic.in' portal and register themselves by giving the GSTIN. Transporters, who are not registered under GST, can enrol themselves under e-way bill system by providing their PAN or Aadhaar to generate the e-way bill. 
+ 
+ E-way bill will bring uniformity across the states for seamless inter-state movement of goods.

@@ -1,0 +1,19 @@
+NEW DELHI: Facing technical glitches, the government on Friday decided to extend the trial phase for e-way bill generation, a tweet from Ministry of Finance stated. The extention comes for both for inter and intra-state movement of goods, it added.
+
+  
+  
+ 
+ The bill became mandatory from Friday (February 1, 2018) but there have reports of the platform crashing. The trial period of e-way bill had started on January 15. 
+ 
+ E-way bill is an electronic way bill for movement of goods which can be generated on the GSTN (common portal). Movement of goods of more than Rs 50,000 in value cannot be made by a registered person without an e-way bill.
+ 
+ It can also be generated or cancelled through SMS. When an e-way bill is generated, a unique e-way bill number (EBN) is allocated and is available to the supplier, recipient, and the transporter.
+ 
+ Transporters, who want to generate e-way bill, can visit the 'ewaybill.nic.in' portal and register themselves by giving the GSTIN. Transporters, who are not registered under Goods and Services Tax ( ), can enrol themselves under e-way bill system by providing their PAN or Aadhaar to generate the e-way bill.
+ 
+ E-way bill will bring uniformity across the states for seamless inter-state movement of goods.
+ 
+ After implementation of the GST from July 1, the requirement of carrying e-way bill was postponed pending IT network readiness.
+ 
+ GST Network, the company developing the I-T backbone for the new indirect tax regime, had been conducting trial runs for the e-way bill system since January 17, during which a whopping 2.84 lakh such permits were issued on the portal.
+ 

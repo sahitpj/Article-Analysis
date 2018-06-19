@@ -1,0 +1,14 @@
+MUMBAI: India has introduced equalisation levy via the backdoor, by widening the widened the provisions of its Income-tax laws. The proposals in the Finance Bill, 2018, will enable Indian tax authorities to tax the profits of a foreign company, even if it has no physical presence, such as an office, employees or dependent agents in India. 
+
+ It may be a wide open field for tax authorities, as come April, any transaction carried out by foreign entities with customers in India, such as sale of goods, services, including making available downloads of data or software could trigger tax. As of now, the nitty-gritty has not been outlined in the Bill. Both the value of the transactions and the number of transactions (each of them mutually exclusive) that could trigger a tax liability in India have not yet been defined. 
+ 
+ “Business operations, in a digital economy, can be run in another country without a physical business presence. The value of digital companies is skyrocketing, often with no rational basis. Such value is also created by the purchasing power of the market where the goods and services are consumed,” says a senior government official, explaining this move. The budget amends India's tax laws, however, the tax treaties entered into by India with various countries will need to be suitably amended, he adds. 
+ 
+ Currently, if a foreign entity has a business connection in India, the profits attributed to the Indian operations can be taxed. A business connection typically arose if the foreign entity regularly dealt with customers in India via an agent. Further, a business connection was created only if the transaction was not a one-off transaction and the agent regularly concluded contracts or secured orders for the foreign entity. 
+ 
+ The definition of a business connection has been widened by the Budget to include a “significant economic presence”. Thus, online viewing of a movie via a foreign channel, or downloading of software, music, books etc could result in a tax liability.
+ 
+ “There are many grey areas. The Bill has not yet defined the threshold limit, which would trigger the tax liability. Currently equalisation levy @6% applies only on B2B online advertising revenue, if the payments by the Indian party exceed Rs. 1 lakh. Will this wide scope for taxing the digital economy, as introduced by the Bill cover B2C transactions also? This remains to be seen,” says Anish Thacker, tax partner at EY India.
+ 
+ The term significant economic presence will be computed both based on the value of transactions and the number of transactions, both of which will be mutually exclusive. “Thus, if a foreign channel has an ardent movie fan in India, the number of transactions may exceed the threshold, even if the value is minuscule, resulting in a tax levy in India and an administrative burden,” adds Thacker.
+ 
