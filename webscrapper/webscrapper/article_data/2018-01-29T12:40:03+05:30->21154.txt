@@ -1,0 +1,32 @@
+WASHINGTON: Scientists have developed a superconducting switch that 'learns' like a biological system and could connect processors and store memories in future computers operating like the human brain.
+
+ The switch called a synapse, like its biological counterpart, supplies a missing piece for so-called neuromorphic computers, said researchers at The National Institute of Standards and Technology (NIST) in the US.
+ 
+ Envisioned as a new type of artificial intelligence, such computers could boost perception and decision-making for applications such as self-driving cars and cancer diagnosis, they said.
+ 
+ A synapse is a connection or switch between two brain cells.
+ 
+ The artificial synapse - a squat metallic cylinder 10 micrometres in diameter - is like the real thing because it can process incoming electrical spikes to customise spiking output signals.
+ 
+ This processing is based on a flexible internal design that can be tuned by experience or its environment. The more firing between cells or processors, the stronger the connection.
+ 
+ Both the real and artificial synapses can thus maintain old circuits and create new ones.
+ 
+ Even better than the real thing, the   can fire much faster than the human brain - one billion times per second, compared to a brain cell's 50 times per second - using just a whiff of energy, about one ten-thousandth as much as a human synapse.
+ 
+ "The NIST synapse has lower energy needs than the human synapse, and we do not know of any other artificial synapse that uses less energy," NIST physicist Mike Schneider said.
+ 
+ The new synapse would be used in neuromorphic computers made of superconducting components, which can transmit electricity without resistance, and therefore, would be more efficient than other designs based on semiconductors or software.
+ 
+ Data would be transmitted, processed and stored in units of magnetic flux. Superconducting devices mimicking brain cells and transmission lines have been developed, but until now, efficient synapses - a crucial piece - have been missing.
+ 
+ The brain is especially powerful for tasks like context recognition because it processes data both in sequence and simultaneously and it stores memories in synapses all over the system.
+ 
+ A conventional computer processes data only in sequence and stores memory in a separate unit.
+ 
+ The NIST synapse is a Josephson junction, long used in NIST voltage standards. These junctions are a sandwich of superconducting materials with an insulator as a filling.
+ 
+ When an electrical current through the junction exceeds a level called the critical current, voltage spikes are produced, researchers said.
+ 
+ The synapse uses standard niobium electrodes but has a unique filling made of nanoscale clusters of manganese in a silicon matrix.
+ 

@@ -1,0 +1,16 @@
+Ever since the   has come into being its information security has been a major concern for the public. This is solely because of the sensitive and personal data the Aadhaar holds. Moreover, the Aadhaar of   is probably the biggest identity database in the world with personal and biometric identification information gathered about a billion people all over India. 
+
+ To add on to the insecurity two incidents happened in the recent past have exposed the danger of security breaches. First, when the personal details of cricketer Mahendra Singh Dhoni were available in the public domain, a breach attributed to an outsourcing Aadhaar agency. Secondly, when persons were caught selling Aadhaar seals and setting up fake websites calling for personal information for registration. 
+ 
+ In their defense, the officials deny the facts that claim that UIDAI can track everybody’s details since it has all data of the individual, including biometrics, bank account, PAN, etc. 
+ 
+ It says UIDAI database has only minimal information that you give at the time of enrolment or updation. It includes your name, address, gender, date of birth, fingerprints, two IRIS scans, facial photograph, mobile number and email ID.
+ 
+ Secondly, UIDAI does not have your information about bank accounts, health records, family, caste, religion, education, shares,  , financial and property details etc and will never have this information in its database. In fact, Section 32(3) of the Aadhaar Act 2016 clarifies the fact that UIDAI cannot control, collect, keep or maintain any information about the purpose of authentication.
+ 
+ To clarify it further when you give Aadhaar number to your banks, mutual, fund companies, mobile phone companies, they only send Aadhaar number, your biometrics (given at the time authentication) and your name etc to UIDAI for verification for your identity. They do not send your bank account details to UIDAI.
+ 
+ So far as UIDAI is concerned, it responds to such verification requests by replying either ‘Yes’ or ‘No’.
+ 
+ Sometimes, if the verification answer is ‘Yes’, your basic KYC details (name, address, photo etc) are sent to the service provider.
+ 

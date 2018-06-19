@@ -1,0 +1,21 @@
+Nearly 2 lakh men patrol railway lines that traverse the length and breadth of the country to manually check for cracks and then repair them. Not only is this process cumbersome, it is deadly. Studies show that an average of 400 gangmen die every year in accidents, most hit by trains, while on duty.
+
+ A small robot can now save these lives and help keep thousands of passengers safe by detecting cracks on rails to avert accidents. ‘A rtemis’ the robot — developed by a team of students from the   — when fitted along a railway track, can detect cracks as small as 2cm with sensors and send out realtime data.
+ 
+ The students designed the robot so it could work even when a train is running on the tracks. The team showcased the technology at the Inter-IIT Tech Meet 2018 that the institute hosted on its campus earlier this month.
+ 
+ 
+  
+ 
+ “We have developed a system that is fully automatic and sends out real-time data with accurate location of the crack for action needed. It cuts response time,” said  , an IIT-M biotechnology student and a member of the team that made the robot. “It is cheap solution for Indian Railways — we used commonly available material to build the device,” he said.
+ 
+ The lightweight, 1.5-foot-long robot with six wheels moves back and forth at 1m/second on the tracks. As it moves, the robot uses a simple technology to identify cracks and send out alerts. Data tabled in   last year showed that track defects cause nearly 40% of train accidents in the country — which makes the robot an invaluable tool.
+ 
+ Sahoo said the ultrasonic and infrared sensors collect data from the tracks and send them to a microcontroller (microchip) inside the robot. A GPS module in the device reads the location and sends out data. The microcontroller works like a computer as it processes the information it receives and looks for an anomaly or a crack. When it identifies a crack, the microcontroller sends out an alert to a mobile phone via a SIM card (GSM) that is inserted at the start.
+ 
+ “We eventually plan to have a central database to which the robot could send the data,” Sahoo said.
+ 
+ As of now, the robot, which has received a provisional patent, has been tested on a dummy track on the   campus.  , another member of the group said, the team is planning to propose to the railways to provide it with a particular location where the robot can be tested and results procured.
+ 
+ “We will attach solar panels to power the battery of the robot. Also, the robot has a modular design, so no technical expertise is required to change its components,” he said.
+ 

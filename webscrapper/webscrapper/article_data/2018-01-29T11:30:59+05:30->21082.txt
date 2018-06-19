@@ -1,0 +1,24 @@
+SAN FRANCISCO:   Artificial Intelligence Researchers (FAIR) have tested a new approach that teaches bots how to chit-chat like humans.
+
+ The team used a special 164,000-utterance data set titled "Persona-Chat" to teach its AI to look for patterns.
+ 
+ "Persona-Chat" consists of more than 160,000 lines of dialogue, sourced from workers found on  's "Mechanical Turk" marketplace, The Verge reported on Monday.
+ 
+ Amazon Mechanical Turk (MTurk) is a crowdsourcing Internet marketplace enabling individuals and businesses to coordinate the use of human intelligence to perform tasks that computers are currently unable to do.
+ 
+ In the Facebook test, the data was used to train neural networks used for existing chatbots, with the results then assessed by another group of Mechanical Turkers.
+ 
+ In each case, they were asked to conduct a conversation with the persona-driven bot, and compare it with both other chatbots and humans.
+ 
+ The persona bot didn't score as highly on criteria like "fluency" and "consistency" as the humans but it outperformed the chatbot trained on movie dialogue.
+ 
+ The new test is significant after Facebook last year had to shut down one of its AI systems after chatbots started speaking in their own language defying the codes provided.
+ 
+ The FAIR team found that while they were busy trying to improve chatbots, the "dialogue agents" were creating their own language.
+ 
+ Soon, the bots began to deviate from the scripted norms and started communicating in an entirely new language which they created without human input.
+ 
+ Using Machine Learning (ML) algorithms, the "dialogue agents" were left to converse freely in an attempt to strengthen their conversational skills.
+ 
+ The researchers also found these bots to be "incredibly crafty negotiators".
+ 
