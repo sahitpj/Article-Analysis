@@ -1,0 +1,25 @@
+NEW DELHI:   ( ) on Wednesday unveiled a fresh layer of security — a ‘Virtual ID’ to prevent your   from being shared — as it sought to address privacy and security concerns. 
+
+ It also added a safety feature to ensure only need-based sharing of information, by way of a limited KYC, even as it asserted that the system and data were safe.
+ 
+ UIDAI’s Virtual ID, which will be issued from March, will allow over 119 crore Aadhaar holders to generate a 16-digit temporary number that can be shared with a bank, insurance company or telecom service provider instead of the 12-digit  . All service providers will have to upgrade their systems to mandatorily allow for the new tool from June. You can opt to use the Virtual ID as many times as you want, or keep generating a new one every time you have to share your unique ID.
+ 
+ “It will not be possible to locate an individual’s Aadhaar number by using the Virtual ID,” an official said.
+ 
+ The other safety feature introduced relates to limited sharing of information, again aimed at preventing possible misuse and data theft. Instead of the current system where the five details — name, date of birth, photo, address and mobile number — are shared with the service provider at the time of authentication, the new feature will allow only needbased sharing of data. For instance, if you want a new mobile connection, the telco will get only your name, photo and address. For a passport, though, all data may be shared.
+ 
+  
+  
+ 
+ Aadhaar is here to stay. Happy that UIDAI has introduced Virtual ID and limited KYC in the spirit of continuous innovation to enhance privacy and security, former UIDAI chief Nandan Nilekani tweeted on Wednesday.
+ 
+ “This is a unique innovation to strengthen privacy and security of 119 crore Aadhaar holders. This is unparalleled in the world,” UIDAI CEO Ajay Bhushan Pandey said.
+ 
+ An official said agencies had been given sufficient time to migrate to the new system by updating the software needed to offer the additional option of Virtual IDs to users. “Departments will tell us the data that is required to be shared and we will design the protocol accordingly,” the official added.
+ 
+ “Aadhaar holder can use Virtual ID in lieu of Aadhaar number whenever authentication or KYC services are performed. Authentication may be performed using the Virtual ID in a manner similar to using Aadhaar number,” a UIDAI circular said. Users can go to the UIDAI website to generate their Virtual ID which will be valid for adefined period of time, or till the user decides to change it.
+ 
+ They can give this Virtual ID to service providers along with fingerprints at the time of authentication. Since the system generated Virtual ID will be mapped to an individual's Aadhaar number at the back end, it will do away with the need for the user to share
+ 
+ Aadhaar number for authentication. It will also reduce collection of Aadhaar numbers by various agencies. As per UIDAI, agencies that undertake authentication will not be allowed to generate Virtual IDs on behalf of Aadhaar holders.
+ 

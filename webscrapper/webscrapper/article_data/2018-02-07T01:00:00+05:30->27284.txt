@@ -1,0 +1,26 @@
+Ever thought streetlights could sense human presence and switch on and off all by itself when not in use? A group of students from   (IIT-M) have made it possible by developing   ( ) that is built to save energy and cost by dimming the streetlights when they are not in use. Sushant Uttam Wadavkar, Shashank R, Abhishek Nair and Arunabh Srivastava, second-year mechanical and electrical engineering students from IIT-M, are the brains behind the project.
+
+ “We were in first year when our professor yelled at us for not being productive as engineering students. In a way, it was actually good for us,” laughs Sushant. Talking about the product, he says, “It has the ability to dim the light when there are no humans around. We’ve used our own printed circuit boards and have developed an integrated system which has the communication module, dimming module, and sensor all put together. It took us a year to come up with this.”
+ 
+ 
+  
+  
+ 
+ 
+ Streets, parks and other public facilities often drain a lot of city’s energy resources. Much of this energy is consumed at unusual hours, when these facilities serve no real purpose. “Carbon content emission and faulty streetlights are problem that we all face. During our research, we found that Chennai has 2.78 lakh streetlights and the government is spending `464 lakh per month on them, out of which `188 lakh is wasted due to such problems. The basic idea is to save energy and costs by dimming the streetlights when they are not in use,” says Arunabh.
+ 
+ Demonstrating its working module, Sushant says, “Communication is set up between adjacent lamp posts by using the nRF IC (integrated circuit) controlled by a specially built compact circuit. Detection of human presence is achieved by using the sensor combinations with servo motor, motion sensors and microwave sensors. There are plasma lamp drivers and dimmers that allow dimming the lights till 20 per cent. Also, we’ve incorporated technology that allows the intensity level of the light to be controlled remotely in case human intervention becomes necessary.”
+ 
+ 
+  
+  
+ 
+ The sensors sense the human presence up to 12 metres of distance from the light post. “The average width of the road is 10 metres, so it covers all the area. The brightening duration of the light is 10 seconds and in case of traffic, the lights remain on until the road is cleared. The other features include data analysis, LDR and fault detection. This reduces the dangers that electricians face while doing maintenance work. Data analysis helps in the fixing the dimming schedule, saving more energy,” says Shashank.
+ 
+ The streetlights can be dimmed to a minimum brightness of 30 per cent and the students say that it will save more than 60-70 per cent of energy. The product directly serves four entities — government, citizens, electricians and electrical stores, and the planet. “We believe this will help making our cities smarter and eco-friendly. We believe that our product can save up to 42 per cent energy,” says Sushant.
+ 
+ The students have a provisional patent and a working prototype that has been successfully tested in the hostels and workshops of IIT-M, and other officers. “We want to test it on streetlights, but we are yet to get permission from the local bodies. We have received a fund of `5 lakh from Carbon Zero Challenge, organised by IIT-M and the US consulate. We were among the top five teams in the Urban Development theme last year. We are planning to approach the government under the vision of Smart City as the next step,” signs off Sushant.
+ 
+ -Purnima.Sah@timesgroup.com
+ 
+ 
