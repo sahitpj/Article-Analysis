@@ -1,0 +1,24 @@
+NEW YORK: US neuroscientists have identified "anxiety cells" in the brains of mice, paving way for a potential treatment for humans suffering from anxiety disorders.
+
+ They found the cells inside a structure called the hippocampus. But the cells probably also exist in humans, said  , from   (CUMC) in the US.
+ 
+ The hippocampus plays a well-known role in the brain's ability to form new memories and to help animals - from mice to humans - navigate through complex environments.
+ 
+ "We call these anxiety cells because they only fire when the animals are in places that are innately frightening to them," Hen said.
+ 
+ "For a mouse, that's an open area where they are more exposed to predators, or an elevated platform," Hen said.
+ 
+ The firing of the anxiety cells sends messages to other parts of the brain that turn on anxious behaviours, in mice, those include avoiding the dangerous area or fleeing to a safe zone, according to a study published in the journal Neuron.
+ 
+ Though many other cells in the brain have been identified as playing a role in anxiety, the cells found in this study are the first known to represent the state of anxiety, regardless of the type of environment that provokes the emotion.
+ 
+ By turning the anxiety cells off and on using a technique called optogenetics that allows scientists to control the activity of neurons using beams of light, the researchers found that the anxiety cells control anxiety behaviours.
+ 
+ When the cells were silenced, the mice stopped producing fear-related behaviours, wandering onto elevated platforms and away from protective walls.
+ 
+ When the anxiety cells were stimulated, the mice exhibited more fear behaviours even when they were in "safe" surroundings.
+ 
+ "This is exciting because it represents a direct, rapid pathway in the brain that lets animals respond to anxiety- provoking places without needing to go through higher-order brain regions," said  , from the University of California, San Francisco in the US.
+ 
+ "Now that we have found these cells in the hippocampus, it opens up new areas for exploring treatment ideas that we didn't know existed before," said Jessica Jimenez from CUMC.
+ 
