@@ -1,0 +1,32 @@
+WASHINGTON: Scientists have successfully developed nanorobots using DNA origami that can shrink tumours by cutting off their blood supply, paving the way for novel  .
+
+ Each nanorobot is made from a flat, rectangular DNA origami sheet, 90 nanometres by 60 nanometres in size.
+ 
+ A key blood-clotting enzyme, called thrombin, is attached to the surface.
+ 
+ Thrombin can block tumour blood flow by clotting the blood within the vessels that feed tumour growth, causing a sort of tumour  , and leading to tumour tissue death, researchers said.
+ 
+ "We have developed the first fully autonomous, DNA robotic system for a very precise drug design and targeted   therapy," said  , from Arizona State University (ASU) in the US.
+ 
+ "Moreover, this technology is a strategy that can be used for many types of cancer, since all solid tumour-feeding blood vessels are essentially the same," said Yan.
+ 
+ DNA origami, in the past two decades, has developed atomic-scale manufacturing to build more and more complex structures.
+ 
+ The bricks to build their structures come from DNA, which can self-fold into all sorts of shapes and sizes - all at a scale one thousand times smaller than the width of a human hair - in the hopes of one day revolutionising computing, electronics and medicine.
+ 
+ Until now, the challenge to advancing nanomedicine has been difficult because scientists wanted to design, build and carefully control nanorobots to actively seek and destroy cancerous tumours - while not harming any healthy cells.
+ 
+ Researchers including those from Chinese Academy of Sciences overcame this problem by using a simple strategy to very selectively seek and starve out a tumour.
+ 
+ "These nanorobots can be programmed to transport molecular payloads and cause on-site tumour blood supply blockages, which can lead to tissue death and shrink the tumour," said Baoquan Ding, a professor at   and Technology (NCNST) in China.
+ 
+ To perform the study, scientists used a mouse tumour model, where human cancer cells are injected into a mouse to induce aggressive tumour growth.
+ 
+ Once the tumour was growing, the nanorobots were deployed to come to the rescue.
+ 
+ The nanorobot is programmed to only attack cancer cells, researchers said.
+ 
+ Once bound to the tumour blood vessel surface, the nanorobot delivers its unsuspecting drug cargo in the very heart of the tumour, exposing an enzyme called thrombin that is key to blood clotting.
+ 
+ The nanorobots worked fast, congregating in large numbers to quickly surround the tumour just hours after injection. 
+ 
