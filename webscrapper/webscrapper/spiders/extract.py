@@ -9,7 +9,7 @@ for link in xrange(len(article_links)):
     print p,r
     if r != [] and p != []:
         text = ' '.join(r).encode('utf-8')
-        string = 'article_data/'+p[0]+'-<'+str(link)+'>-'+article_links[link]+'.txt'
+        string = 'article_data/'+p[0]+'->'+str(link+1)+'.txt'
         f = open(string, 'w')
         f.write(text)
         f.close()

@@ -1,0 +1,11 @@
+Bengaluru/Mumbai: Mobile and web-testing service platform  , which is among the most high-profile bootstrapped startups in India, has finally decided to get on board institutional investors. The six-year-old, Mumbai-based company has closed its maiden investment round of about $50 million led by venture fund   (Accel US and India), valuing it at more than $400 million, people familiar with the talks said. This will be the largest-sized series-A round for an Indian tech  .
+
+ While there was no official statement, we have learnt from people that the round is a mix of primary infusion of capital into the company and a secondary sale of shares by the founder. There is no primary money that has come into BrowserStack.
+ 
+ Bootstrapped since its inception, BrowserStack is profitable. The platform is used by over two million developers in 135 countries. It has more than 25,000 paying customers, including  ,   and  . The majority of its customers are based in North America.
+ 
+ Founded in 2011 by IIT-Bombay alumni Ritesh Arora and Nakul Aggarwal, BrowserStack helps developers test their applications across thousands of operating systems. Accel’s Ryan Sweeney will join BrowserStack’s board of directors. The company is also opening its North American headquarters in San Francisco. Google veteran Shailesh Rao has also been appointed as the chief operating officer who will lead the San Francisco office. The company’s CEO Arora said, “Today’s funding allows BrowserStack to invest in enhancing our testing infrastructure suite and expanding our enterprise go-to-market capabilities while maintaining our extraordinary growth trajectory, especially in the North American market where we expect to increase our presence significantly over 2018.”
+ 
+ it entered into a partnership with Microsoft last year to allow developers to test their software on the Edge browser. It has also partnered with Chrome and Firefox. In a statement, Accel’s Sweeney said, “The rapid growth of software development combined with shorter software release cycles has put an emphasis on efficient testing processes. BrowserStack is the company that makes testing fast and easy.” Globally, BrowserStack competes with San Francisco-based Sauce Labs, which has raised more than $100 million so far.
+ 
+ 

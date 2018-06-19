@@ -1,0 +1,16 @@
+HYDERABAD: In a major step towards development of vaccine for Falciparum  , researchers from the city-based   and Molecular Biology ( ) have identified a protein that could provide immunity against the deadly malarial parasite.
+
+ The protein, technically known as Plasmoretropsin, provides defence against   malaria, the deadliest of the four malarial types circulating in India at present. The other malarial types – vivax, ovale and malariae – are relatively mild, though they are often deadly. Interestingly, Plasmoretropsin is used in the treatment of human immunodeficiency virus ( ). The researchers have found that Plasmoretropsin provides immunity in subsequent infection of malaria and thus it could emerge as a candidate for vaccine against malaria.
+ 
+ The research finding was presented at the ongoing   (ICCB – 2018) here on Tuesday. Biologists from the around the world are attending the fiveday mega scientific event. The CCMB is the local host. The research is led by  , principal scientist at the CCMB. His lab is involved in researching the mechanisms of pathogenesis in malarial parasite and investigating new targets for drug development.
+ 
+ Plasmoretropsin is an essential Plasmodium protein. It is a target of HIV protease inhibitors. According to the researchers, HIV protease inhibitors block the development of malaria parasites. Inclusion of HIV protease inhibitors in the treatment of malaria confers some level of protection against subsequent Plasmodium infections. To identify the target of HIV protease inhibitors, the CCMB team investigated Plasmoretropsin.
+ 
+ This protein is expressed in all major stages of the malarial parasite, and undergoes limited processing, which was inhibited by HIV protease inhibitors. Over-expression of this protein rendered malarial parasites less susceptible to HIV protease inhibitors compared to the wild type parasites.
+ 
+ They said the gene controlling Plasmoretropsin could not be knocked out. A knock-down of Plasmoretropsin at the protein level drastically compromised the growth of malarial parasite and its virulence.
+ 
+ The CCMB team conducted the study in mouse model. Prior infection of mice with Plasmoretropsin knock-down parasites conferred immunity to subsequent infections. This is because of the immune responses against the parasite.
+ 
+ “Our data demonstrates that Plasmoretropsin is essential for malarial parasite development. It could be a target of HIV protease inhibitors, and a candidate for generating a whole organism malaria vaccine,” the researchers said.
+ 
