@@ -1,9 +1,0 @@
-NOIDA: A Noida-based   business’ website for sale and purchase of old cars was hacked by Pakistani hackers on Tuesday morning. The hackers also flashed ‘Pakistan Zindabad’ messages after hacking www.easybuycar.com. The owner, Jaswant Kumar, filed a complaint in Phase 3 police station.
-
- Kumar said that the website deals in sale, purchase and finance of used cars in Noida and 20 other neighboring cities. He said that in the morning he logged into the website and found it hacked. “Server B0xed bY Rajput Haxor From the team Pak cyber Skullz,” the introductory message read on the website.
- 
- Police investigation revealed that the website’s server was not secured, hence it was easily hacked. The owner hired some software engineers but they could not fix the issue till late evening. The hackers have also manipulated the data available at the website. The complainant said that the hackers have not demanded any ransom.
- 
- Jitendra Kumar, SHO Phase 3 police station, said that police have registered a case in this regard and are investigating. Noida’s Centre for Cyber Crime Investigation has been engaged in the investigation.
- 
- 
