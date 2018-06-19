@@ -1,0 +1,21 @@
+Mumbai/Chennai: The   has plugged a few loopholes that enabled unscrupulous corporate tax payers to avoid tax, be it avoidance of dividend distribution tax ( ) via amalgamation, or distribution of loans to shareholders or other entities in which the shareholders were interested. This, in some circumstances, resulted in a tax arbitrage.
+
+ Treatment of loans to shareholders or other entities: At present, if a loan or advance is given by a company to a shareholder or to an entity in which such a shareholder has significant interest, it is taxed in the hands of the recipient as ‘deemed dividend’. On the other hand, in the normal course, when dividend is distributed, the dividend-paying company pays a DDT (the rate according to Budget proposals is 20.56%).
+ 
+ “If the recipient had a loss, the deemed dividend would be offset against such loss, mitigating the tax liability,” explains Abhishek Goenka, partner and direct tax head at  . In those cases, where the loan was given to an entity in which the shareholder had a significant stake, an issue arose on whether it should be the shareholder who should be taxed or the entity receiving the loan.
+ 
+ “The taxability of deemed dividend in the hands of the recipient posed serious problems for collecting the tax liability and also led to litigation,” says the explanatory memorandum to the Finance Bill, 2018.
+ 
+ The government has sought to prevent camouflaging of dividend in various ways such as via loans and advances and also end litigation. The Budget proposes that loans and advances to a shareholder or to an entity in which the shareholder is interested, will be subject to DDT. This tax will be payable by the company and not by the shareholder or receiving entity, adds the explanatory memorandum. However there is a catch. Pranav Sayta, tax partner at EY India, says, “While removing ambiguity and providing clarity is welcome, it must be noted that the levy of dividend distribution tax is at a higher rate of 30%.”
+ 
+ Curbing abuse in case of amalgamations: There were instances where a large company, having huge accumulated profits, amalgamated into a smaller company that had little or no profits. This was done to avoid payment of tax on distribution of profits by the large company. The Budget proposals provide that the accumulated profits of the amalgamated company shall include the profits of the amalgamating company (i.e. the large company).
+ 
+ “Some companies adopted skewed plans to escape DDT. With these moves, the tax authorities are attempting to close the debate on any transaction that lacks substance or warrants debate,” said Girish Vanvari, partner and tax leader at KPMG India.
+ 
+ Vipul Jhaveri, managing partner (tax and regulatory) at Deloitte, said, “Some corporates took to innovative restructuring. By making these amendments, the government has nipped it in the bud before more companies take to such mechanisms. The government could have let it remain and invoked GAAR. However, this would have taken time to be resolved, leading to litigation. They have brought about certainty in law.”
+ 
+ EY India’s Sayta says, “While it is perfectly legitimate to take steps to check tax avoidance, the proposed amendment is applicable across the board including those cases wherein there may have been no motive of tax avoidance. Further, this amendment is proposed to be made effective from financial year 2017-18 (which goes against the avowed policy of not making retrospective amendments). This it seems may have been unwarranted especially considering that we already have elaborate GAAR provisions to address transactions motivated with the purpose of tax avoidance.”
+ 
+ No deduction if I-T return is not filed: For claiming various deductions, it is already essential that the I-T return is filed on time. For instance, a developer of an SEZ unit has to file an I-T return on time to be eligible for a tax holiday under section 80-1AB. Now this requirement is extended to various other sections. Business entities operating in backward areas or engaged in low-cost housing projects, will have to file their I-T   on time to claim the appropriate tax benefits.
+ 
+ 

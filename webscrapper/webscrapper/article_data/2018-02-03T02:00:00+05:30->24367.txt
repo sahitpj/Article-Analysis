@@ -1,0 +1,13 @@
+PATNA: Three IIT-Patna students have made it to the world finals of the Association for Computing Machinery (ACM) International Collegiate Programming Contest (ICPC), known as Olympics of Computer Programming. The finals will be held in Beijing from April 15 to 20.
+
+ The ICPC is an activity of the ACM that provides college students with an opportunity to demonstrate and sharpen their problem-solving and computing skills.
+ 
+ IIT-Patna’s team, ‘ButterRoti’, is among the country’s eight institutions which will represent India in the Beijing event. The other institutions are IIT-Delhi, IIT-Roorkee, IIT-Kharagpur, IIT- Madras, IIT-Kanpur, International Institute of Information Technology (IIIT)-Bangalore and IIIT-Hyderabad.
+ 
+ The ‘ButterRoti’, which comprised of Bhavit Sharma (third-year student of Computer Science and Engineering), Prateek Karnal(second-year student of CSE) and Shaurya Gupta (second-year student of Electrical Engineering), was the first runner-up in the Asia Region Kolkata-Kanpur contest held on December 24. Their guide was Prof Arijit Mondal. 
+ 
+ Bhavit told TOI on Friday the contest comprises of three rounds: online, on-site round (regional) and world finals. At the regional contest, the teams are given 5 hours to solve 11 programming- related algorithm and mathematical problems on C, C++, Java or phython. “We solved seven problems on C++,” Bhavit said.
+ 
+ Prateek and Shaurya said they were now preparing for the world finals and would give their best to fetch a decent rank in the Beijing Olympics.
+ 
+ 
