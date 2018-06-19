@@ -1,0 +1,18 @@
+CHENNAI / NEW DELHI: It’s not just at upscale coffee shops that you can surf the internet; your local chai seller or kirana store could also offer Wi-Fi for as little as Rs 10. A number of these stores across Delhi and Bengaluru have partnered with startups to provide pre-paid WiFi packs for between Re 1 and Rs 20. The idea is to provide cheap, wireless internet connectivity to urban slums and rural areas.
+
+ In south Delhi’s  , close to the Haryana border, stationery shop owner Braham Prakash has sold 250 coupons since he set up a Wi-Fi hotspot in his store two-and-a-half months ago. The biggest seller is a Re 1 coupon that gives a user a five-minute connection. “It is mostly younger people, between the ages of 15 and 25, who buy these. They come for five minutes, download a game or a song and leave,” says Prakash. TOI tried out the five-minute connection for speed and managed to download two 11-minute podcasts.
+ 
+  
+  
+ 
+ Startups such as Delhi-based i2e1 or Bengaluru’s   work either work independently or with  , which has an initiative to set up public data offices (PDO) to make Wi-Fi available to everyone. The government’s Centre for Development of Telematics is also working to set up PDOs by building devices that will cost Rs 50,000 and let users buy data for Rs 10.i2e1, which has partnered with TRAI, installs Wi-Fi routers in shops for a one-time charge of Rs 2,000. “Our analysis has shown a 23% increase in footfalls in the kirana stores in which we have installed the routers,” said Satyam Darmora, co-founder, i2e1.
+ 
+ Shubhendu Sharma, co-founder, WiFiDabba, says his company is a licensed internet service provider and offers data through small routers powered by fiber optics. “We have a presence in 600 shops around Bengaluru and provide a speed of 50mbps in a radius of 100-200 metres,” said Sharma.
+ 
+ While the startups now cater to urban slums, they are running pilot projects in gram panchayats. They’re banking on the fact that offering data at lower prices will prove economically feasible in the long run as they will save on costs by offering end-to-end solutions.
+ 
+ “We create a cloud-based architecture and work with devices that are cheap. Hence, charging Rs 2,000 makes economic sense and we can realise profits with scale,” said Darmora.
+ 
+ Shopkeepers in more upscale areas can’t see the benefits, though. “I haven’t sold a single coupon. I plan to return this router,” said Jaidev Upadhyay of Pandit tea stall in GK 1 N Block market in Delhi. “I have to pay the electricity bill. Everyone who comes here has Internet on their phone,” he said. Other shopkeepers are more optimistic. Alam S, owner of a kirana store in Delhi, said he noticed a 50% increase in footfalls post-installation of the Wi-Fi router. “The Rs 5 pack is the most popular. Women and students come to the store to use the internet,” he said.
+ 
+ 

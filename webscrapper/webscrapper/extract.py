@@ -28,7 +28,7 @@ for item in dirListing:
         editFiles.append(path+'/'+item)
 print len(editFiles)
 
-g = open('content_links.txt', 'r')
+g = open('gg.txt', 'r')
 g = g.read().split('--')
 
 

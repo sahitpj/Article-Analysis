@@ -1,6 +1,6 @@
 
 # the following to be run on scrapy shell
-
+'''
 t = 0
 for link in xrange(len(article_links)):
     fetch(article_links[link])
@@ -9,7 +9,7 @@ for link in xrange(len(article_links)):
     print p,r
     if r != [] and p != []:
         text = ' '.join(r).encode('utf-8')
-        string = 'article_data/'+p[0]+'--'+str(t)+'.txt'
+        string = 'article_data/'+p[0]+'-<'+str(link)+'>-'+article_links[link]+'.txt'
         f = open(string, 'w')
         f.write(text)
         f.close()
@@ -22,7 +22,7 @@ for link in xrange(len(article_links)):
         break
     print link    
 
-
+'''
 
 #batch size = 1000
 
@@ -93,7 +93,17 @@ for link in xrange(len(article_links)):
 
 # batch number - 16
 	#starting number - 19311
-	#ending number - 	
+	#ending number - 20455
+
+
+# batch number - 16
+	#starting number - 20455
+	#ending number - 21619
+
+# batch number - 16
+	#starting number - 21619
+	#ending number - 
+
 
 
 
