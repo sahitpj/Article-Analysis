@@ -1,0 +1,19 @@
+BENGALURU: The majority of Indian   are learning to code through websites like  , coding sites like Git-Hub and  , and online courses, rather than relying on educational institutes. As high as 70 per cent of around 3,700 Indian developers surveyed recently said they had taught themselves how to code, either exclusively, or in addition to school. And 33 per cent (around 1,217 developers) said they were exclusively self-taught, without any academic help.
+
+ The survey, done globally among 40,000 developers across 42 countries, was conducted by talent evaluation company HackerRank.   is a technical hiring platform that helps businesses evaluate software developers based on skill. It has a leader board that hosts talented coders with a live score board that gets updated on a real time basis. Most industry biggies, including Amazon, LinkedIn,   and Facebook, keep an eye on this leaderboard to hire the best of coders across the globe.
+ 
+  
+  
+ 
+ Stack Overflow, an online community of developers to code and learn, was the most popular platform to learn coding, with over 70 per cent of Indian developers and students choosing it (over 8,000 deveopers and students were surveyed for this). This was followed by YouTube.
+ 
+ MOOCs (massive open online courses) like Udemy, Udacity, Coursera, and online tutorial websites like Pluralsights and Lynda were also more popular than books among students trying to learn coding.
+ 
+ About 11 per cent of Indians start coding before they are 15 years old (that’s lower than the global figure of 31 per cent), and 71 per cent do before they are 20.
+ 
+ India is somewhat old school in terms of the programming languages that developers know. C, one of the oldest known programming language, was the most known language among Indian developers – 80 per cent of the 3,700 surveyed knew the language. C++, Java, and JavaScript were languages that more than half the Indian developers knew.
+ 
+ Vivek Ravisankar, co-founder & CEO of HackerRank, said that it is good that Indian developers were still wellversed with the old languages. “Languages like Python is easier to learn since it’s the closest programming language to English. But C and C++ are tougher and it’s good that Indian developers know those basics,” he said.
+ 
+ However, 42 per cent of Indian programmers also know Python, though that is less than the average of 54 per cent for all other countries surveyed.
+ 
