@@ -1,0 +1,19 @@
+CHENNAI: A computer may be unsafe unless there is a good anti-virus software that burrows into the system and destroys files containing virus. But soon a tiny piece of hardware would be able to do the job of an anti-malware program.
+
+ A team of researchers at the   (IIT-M) has developed a   chip that will be able to protect  , tablets and mobile phones from being hacked. And, eventually, it could replace anti-virus software. 
+ 
+ The microprocessor called Shakthi T has a security feature that detects malicious software like WannaCry, which gets unauthorised access to a system’s memory, and stop it from gaining access to its stored data. The team is in the process of developing software tools for the microchip. The team from the department of computer science and engineering has developed a prototype of Shakthi T, as one of the variants of Shakthi, a series of different microprocessors. 
+ 
+ 
+  
+  
+ 
+ Professor V Kamakoti said the new processor works on a concept called tagged instruction architecture. It will have a software, in the form of instructions, that will control the way a computer system behaves to any command or instructions given to it. Usually when a user clicks on a malware program that comes in the form of a link or an attachment in an email, it causes the program to run, get unauthorised access to memory locations in the system and encrypt the stored data. When replaced with the new microprocessor, it will immediately detect the malware program and guard it from being executed while also protecting the memory from being hacked. 
+ 
+ “Hackers usually take cognizance of the ignorance among the developers of applications, operating systems and the hardware about each other and exploit it. That is why apps become vulnerable to attacks. What we have done is tightening up the basic hardware itself, so it can support both the OS and the applications,” Kamakoti explained. “Our hardware will be an aid to a software designer, so that he can exploit this feature and make the system more secure.”
+ 
+ Assistant professor Chester Rebeiro said, with their new enhanced processor, a computer system or a mobile phone will after a while not require any additional software to protect from being hacked. “We are making a fundamental change to the hardware. We need to redesign the operating system and the applications that go with it,” he said.
+ 
+ The specialised processors would help in safeguarding critical applications including the military. “The hardware we have developed will retrofit the security in the system because in five yearsdown the line, security will be a primary feature and information security is going to be a prime problem,” Kamakoti said.
+ 
+ 

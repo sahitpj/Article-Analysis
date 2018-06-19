@@ -1,0 +1,23 @@
+CHENNAI: With the setting up of an indigenous testing laboratory, India will soon join a select league of countries involved in research on the fifth-generation or   technology that will allow inexpensive, faster and reliable communication; not only between humans but also across machines.
+
+ On Thursday, the finance minister announced that a 5G technology testing centre will bet set up by department of   in partnership with  . The new wireless technology will enhance broadband cellular network by providing high speed connectivity than its predecessors 3G and 4G.
+ 
+ IIT-M director Bhaskar Ramamurthi said the proposal is to build an end-to-end   for 5G technology across multiple locations interconnected with a high-speed fibre-optic network. The test bed will have start-of-the-art indigenous equipment where products that will work on 5G technology can be tested for performance and compliance. "It will incorporate several new technologies developed from scratch, and are compliant with the emerging global 5G standard to which India is making significant contributions; in particular it will include internet of things, millimeter wave communications, network function virtualisation, LiFi, and network security," he said.
+ 
+ 
+ 
+  
+  
+ 
+ 
+ The test bed will be developed by a team of researchers from IITs in Bombay, Kanpur, Delhi, Hyderabad, IISc Bangalore, CEWiT (Centre for Excellence in Wireless Technology, IIT Madras) and SAMEER under the ministry of electronics and IT. The team will be led by IIT-Madras. Several startups may emerge from this effort, Ramamurthi said.
+ 
+ Experts said the faster 5G technology will provide a platform for emerging areas of machine-to-machine communication that can be applied in manufacturing units (communication between robots), smart homes (devices reading EB meters and consumption data), smart cities and smart grid. While 4G will continue to exist, the faster 5G is expected to increase subscriber base.
+ 
+ "With machine-to-machine communication, we might be sending data frequently to enhance services, and a network of devices may be transferring data at the same time. For this to work, we need a customised system to reduce the time taken to communicate with each other and set of devices that will use them," explained professor David Koilpillai, electrical engineering, IIT-M.
+ 
+ 
+ 
+ 
+ Funds of Rs 120 crore has been set aside for eight projects including setting up of centres of excellence and projects under the technological acquisition programme. IIT Madras and PSG College of Technology Coimbatore are among the projects mentioned for technology development. This may be another phase of an older scheme, said an IIT-M official. A PSG professor said proposals for setting up two centres of excellence were sent but is unsure which one has been allocated funds. 
+ 

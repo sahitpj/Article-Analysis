@@ -1,0 +1,27 @@
+NEW DELHI: More than 13 years after it was abolished, longterm capital gains ( ) tax made a comeback on   but market players feel that its impact on stocks would be limited. 
+
+ On Thursday, the government proposed to tax LTCG of above Rs 1 lakh per annum at 10%, compared to the earlier rate of 20% after indexation when it was abolished in October 2004. Indexation is a process that neutralises the impact of inflation on profits.
+ 
+ In the run-up to the  , there were fears that the market could slide sharply if the LTCG tax was introduced. That proved to be unfounded. After falling initially, it recovered to close marginally down. But a new dilemma has arisen for those investing in the stock markets.
+ 
+ How do you compute it? LTCG exceeding Rs 1 lakh will be taxed at 10% on sale of shares on and after April 1, 2018. Further, no indexation benefit (which is the increase in the purchase price to factor in the inflation) is available. Indexation had resulted in reducing the quantum of the capital gains.
+ 
+ However, appreciation in the value of shares from the date of purchase — up to January 31, 2018 — will be grandfathered if such shares were acquired before February 1, 2018.
+ 
+ 
+  
+ 
+ Let us see how this works. 
+ 
+ Mr A had purchased 1,000 shares of   at Rs 250 per share in January 2015. Let us assume that he now sells these shares in November 2018 at Rs 600 per share. Had he sold the shares before March 31, 2018, the entire long-term capital gains arising on such a sale would have been exempt. If shares are sold after March 31, there will be a tax on the resultant long-term capital gains.
+ 
+ Typically, capital gains refers to the difference between the sale price (Rs 600) minus the purchase price, also referred to as the cost of acquisition. In Mr A’s case, without indexation benefit, this is Rs 250, resulting in a capital gain of Rs 350 (Rs 600 minus Rs 250) per share.
+ 
+ However, Mr A will get the benefit of the grandfathering clause (i.e. the benefit of appreciation in the value of the shares from the date of purchase up to January 31, 2018).
+ 
+ In other words, the ‘deemed’ cost of acquisition of his shares could work out to be much more than the actual purchase price, resulting in a reduced long-term capital gains and thus a lower tax outgo.
+ 
+ According to the  , the deemed cost of acquisition will be the sale price (Rs 600) or the fair market value as on January 31, 2018 (say Rs 300) whichever is lower. Here, the cost will be Rs 300.
+ 
+ In Mr A’s case, the actual cost of acquisition is Rs 250. So he can adopt the higher deemed cost of Rs 300. By adopting this higher value of Rs 300, his long-term capital gains will be lower and will result in a reduced outgo of tax.
+ 
