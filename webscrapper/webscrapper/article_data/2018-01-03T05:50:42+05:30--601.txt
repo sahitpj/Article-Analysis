@@ -1,8 +1,0 @@
-CHENNAI: Tamil Nadu is yet to implement the ‘Samay Vahan’ portal in toto and let the police have seamless access to details of vehicles registered with the state transport department. As per an initiative of the ministry of road transport and highways ( ), a state   has to upload data on vehicles registered with it on a central server, this is then synchonised with the traffic police in the state so that those in the field can have ready access to vehicle records and past violations.
-
- Delhi and few other states have successfully implemented the facility which helped law enforcement agencies to narrow down on criminals. Without the details readily available, traffic personnel will not be able to check the validity of a licence for an offender who has been booked. “We cannot ensure that the people whose licences have been suspended would not drive or ride their vehicles in the city,” said a senior police officer.
- 
- But uploading information on violations is done manually. The challans and documents are sent to RTOs by post which takes time. “We get hard copies of the data from the police once in a month and feed in the data in the system,” said an official from the enforcement wing of the transport department.
- 
- ‘Samay Vahan’ is not the only arrangement that would aid enforcement. In 2010, the Chennai police had planned to implement   (ITMS) at a cost of Rs 150 crore. But the work stalled midway as senior police officers from the city were replaced with a new team of officers. Had  , the city police could have been monitored live traffic movement online today. The project has been successfully implemented by the Hyderabad police.
- 
