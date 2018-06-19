@@ -1,0 +1,25 @@
+CHANDIGARH: The sensitive data of Indian citizens should be restricted within the Indian boundaries is what the   (deemed to be university) recommended to incorporate in the White Paper of the   to include in law of data protection. 
+
+ The deliberations of Cyber Security Research Centre of   in collaboration with   raised many crucial issues regarding the linkages between unfettered processing of individual data and matters of national security in the two-day workshop.
+ 
+ The panelists discussed that it is difficult to protect data residing in other countries, particularly when the data controller does not has any presence in India. 
+ 
+ A suggestion to have bilateral treaties with other countries was also suggested but it was countered as it is a protracted process.
+ 
+ "The US courts are asking technology companies registered in the country to provide data, which is located outside the US borders. The only solution lies in localizing the sensitive data of Indian citizens. Currently, the infrastructure may not exist but it would come soon be established if the data controllers wish to continue to take undue advantage of the Indian market," said  , head of the CSRC, PEC.
+ 
+ The panelists said that cross-border data cannot be completely halted. However, sensitive personal data should not be permitted to go outside country and recommended legal restrictions on transfer of data to controllers who have do not have any presence in India.
+ 
+ Interestingly, the definition of sensitive data in the white paper is based on the sensitivity of the information from an individual perspective and not taking the national security into cognizance.
+ 
+ "National security is of utmost importance and should be looked into," recommended the PEC.
+ 
+ The panelists highlighted the risk of data processing individuals generating vast amount of data each time any electronic activity is materialized. 
+ 
+ This information is automatically stored by data controllers and it is difficult to keep a check on this activity which may end up being misused. The data experts pointed out that with aggregation of data and advanced algorithms for processing, it is possible to build up an accurate profile of an individual which reveals traits of his character.
+ 
+ "This knowledge can be used to influence opinions or even stir up strife between communities. Such analytical profiling can be checked if the processing of data is strictly controlled. The exchange and selling of personal data to data brokers must also have stringent legal consequences," added Bansal.
+ 
+ Moreover, PEC recommended that processing of data must be for a specific and limited purpose to keep a check on the activities of data controllers and data processors.
+ 
+ 

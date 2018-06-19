@@ -1,0 +1,7 @@
+ROORKEE: In an attempt to make smart city roads safer for motorists, three undergraduate students of   at   have developed a new application that can be linked to CCTV cameras to alert police and other officials immediately about any accident.
+ 
+  Many accidents turn fatal for passengers due to lack of timely assistance. When linked with CCTVs in smart cities, the new app named ‘Smart Eye’ would make either an automated call or send an e-mail to police, ambulance services and hospital authorities in the event of an accident. It would also transmit images of the crash to the authorities concerned.
+  
+  The students, Aman Jain, Vipul Kala and  , were declared first runners-up at GE Digital IIoT Hackathon held in Bengaluru recently for developing the app. They also received a cash prize of Rs 50,000.
+  
+  Talking to TOI, Aman Jain said, “In any smart city, the roads will be monitored through CCTV cameras. We will link our ‘Smart Eye’ app to the monitoring system so that timely help can be provided in the event of an accident. The app is configured such that it can identify footage of a road accident and report it to the nearest hospital, ambulance provider, police and civic body officials. It will make an automated call or send an email along with the images from CCTV cameras.”

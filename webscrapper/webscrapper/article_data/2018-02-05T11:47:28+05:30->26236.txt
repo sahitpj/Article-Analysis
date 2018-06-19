@@ -1,0 +1,37 @@
+LONDON: Scientists in   claim to have created the world's most secure marking system for combating  , such as pirated pharmaceuticals, foods, designer merchandise and artwork.
+
+ The system cannot be hacked since the markings are random, researchers said.
+ 
+ Companies around the world consistently suffer significant economic losses due to counterfeited goods made by  .
+ 
+ Counterfeit medications sold online may even put people's lives at risk.
+ 
+ Researchers from the   in Denmark developed a system that according to them is "the safest in the world" when it comes to clamping down on all types of pirate manufacturing.
+ 
+ "The system, which deploys three rare earths (metals) among other things, is based on randomness, which makes it unable to be hacked or tampered with," said Thomas Just Sorensen, associate professor at the University of Copenhagen.
+ 
+ "As soon as a customer asks that an authorised dealer checks up on a piece of merchandise that was meant to be marked using the system, an expensive wrist watch for example, the dealer can access a manufacturer database to check its authenticity," Sorensen said.
+ 
+ The probability of two products having the same 'fingerprints' - the same digital key - is so minuscule, that in practice, it can only be described as non-existent, according to the study published in the journal Science Advances.
+ 
+ "It corresponds to a one out of an enormous number composed of a 6 followed by 104 zeros," Sorensen said.
+ 
+ Researchers have taken out a patent on the marking system and it is expected to be on the market in roughly a year. They are currently fine-tuning scanning solutions to ready the system for manufacturers.
+ 
+ To create the marking code based on randomness researchers took a large bucket of sand and divided it into three smaller tubs.
+ 
+ They added three rare earth metals - europium, terbium and dysprosium - to each of the three tubs. Each of these light up when exposed to a specific wavelength of light.
+ 
+ Thereafter, the coloured grains of sand from each of the three tubs were poured back into the single large bucket and thoroughly mixed.
+ 
+ A piece of 'tape' was used to pull thousands of coloured grains of sand out of the bucket and then attached to the product.
+ 
+ The unique pattern created by the coloured grains of sand, measuring only a few millimetres, can be impregnated into leather, embedded into glass or milled into metal.
+ 
+ Since the grains of sand are so small, they cannot be removed individually and rearranged into another puzzle.
+ 
+ As soon as the manufacturer equips an item with the randomly generated fingerprint, the imprint is photographed at individual wavelengths, each of which gets the europium, terbium and dysprosium to light up.
+ 
+ The three pictures are then combined into a single image, which is stored in a manufacturer database.
+ 
+ 

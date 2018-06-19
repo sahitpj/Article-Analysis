@@ -1,0 +1,15 @@
+NEW DELHI: You can transfer money on   in India. Users can now link their bank account to their WhatsApp account via Unified Payments Interface (UPI) and begin making payments straight to another user’s bank account through a WhatsApp chat. The feature is not yet available for all users, and is being rolled out gradually.
+
+ On Saturday, this TOI reporter accessed the new feature under the “settings” tab and set up a bank account link with UPI using the phone number linked to the bank account. When in a chat window, tapping the “attachments” button pulls up a small grid that gives one options to send files from the gallery, send a contact, or share location among others. This grid now also has a “Payment” button making it possible to transfer funds to other accounts that also have this latest update.
+ 
+ UPI is a digital inter-bank peer-to-peer fund transfer system developed by the National Payments Corporation of India (NPCI). The NPCI has its own UPI-enabled payments app called BHIM.
+ 
+ A source at the Facebook-owned messaging app told TOI that this beta rollout is currently only for individual users and not for businesses. That is to say, you could transfer money to your friends or family, but you cannot book tickets off preferred travel website via WhatsApp. The source also said that the company is working with banks to partner with them to enable payments on the app, which has over 200 million monthly active users in India. WhatsApp declined a request for an official comment for more questions on the payments function.
+ 
+ “Good to have @WhatsApp on the @UPI_NPCI bandwagon. To paraphrase Ernest Hemingway, change happens ‘gradually, then suddenly’!” Infosys co-founder   said on Twitter on Saturday. NITI Ayog CEO Amitabh Kant too chimed in. “WhatsApp moment of Banking will radically transform the digital payment landscape!” he tweeted.
+ 
+ 
+  
+ In India, WhatsApp will compete with homegrown payments app  , which interestingly introduced a chat feature in its app last November. Also vying for the Indian digital payments pie is Google’s Tez. Launched last December, Tez is also a UPI-enabled payments app. WhatsApp co-founder Brian Acton had told TOI last February that the company was then in the “early stages” of introducing payments in India. In the US and the UK, WhatsApp’s parent company Facebook has a feature for peer-to-peer payments within its messenger app.
+ 
+ 
