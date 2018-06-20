@@ -1,0 +1,19 @@
+Forget losing your job to a bot, it might be hiring and firing you next. A Russian startup has created a realistic looking robot that’s being used to interview prospective employees at several top international companies. 
+
+ Called Vera, the robot uses   technology to narrow down applicants to the top candidates based on job requirements.   was developed by St Petersburg-based startup   and now counts more than 300 clients, including Pepsi, Ikea and L’Oreal, according to Bloomberg.
+ 
+ Companies are mostly using Vera to recruit employees for ‘high-turnover service and blue collar positions’ like clerks, waiters and construction workers, Bloomberg said. Vera can shave off the cost of recruiting by a third, as she’s able to interview hundreds of applicants at the same time. The firm’s founders said they often wasted valuable time calling candidates who were no longer interested in the job or that they couldn’t get in touch with. "We felt like robots ourselves, so we figured it was better to automate the task," Strafory co-founder Alexander   told Bloomberg.
+ 
+ 
+  
+ 
+ Strafory equipped Vera with advanced speech recognition capabilities that allow her to complete complex tasks and hold conversations. Programmers trained Vera using 13 billion examples of language and speech from TV, Wikipedia and job listings. As a result, Vera is able to speak in a more conversational way and understand a variety of phrases. The firm is now teaching Vera how to recognise anger, pleasure and disappointment.
+ 
+ The move comes as a growing number of employers have turned to AI to make hiring and firing decisions, as well as to determine how people feel about their bosses.
+ 
+ One of the most popular kinds of workplace-focused AI software is called Xander and it can determine whether an employee feels optimistic, confused or angry, among other things. Xander analyses responses to open-ended questions, assigning attitudes or opinions to employees based on language and other data.
+ 
+ After lapping up the data, Xander can determine whether an employee feels optimistic, confused or angry.
+ 
+ The use of AI has increased productivity but experts warn that AI may contain biases that could lead to workplace discrimination. 
+ 

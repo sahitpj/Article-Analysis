@@ -1,0 +1,9 @@
+Ahmedabad: With 64 teams vying for the top spot in Smart India Hackathon, the second day saw a frantic rush to complete projects before the 36-hour deadline. The six winners for the nodal centre were announced on Saturday evening.
+
+ Gujarat Technological University (GTU) hosted the Ahmedabad nodal centre events of the hackathon in collaboration with ISRO at Shivanand Ashram in Satellite. The centre has seen participation from 17 states and a Union territory.
+ 
+ One of the projects is a mobile application, Geo-GP, which will take voice commands and reply in regional languages. The app is capable of answering questions, such as ‘where is the gram panchayat?’ ‘what is the population of the village?’and provide details like sex ratio, nearest school, number of children below 6 years, etc. Another application developed during the hackathon will encourage users to adopt a village for development activities and will provide different parameters to make a decision.
+ 
+ “The initiative is unique, as the participants are working closely with ISRO and in many instances are using the huge stash of data accumulated by the organization over the decades,” said an organizer. “Some of the applications based on satellite imaging and algorithms include identification of major garbage dumps, identification of the smallest route possible for construction of roads in underdeveloped areas, providing location service in offline mode and a messaging app that can be used in the time of disasters,” he added.
+ 
+ 
