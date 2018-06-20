@@ -1,0 +1,34 @@
+BENGALURU: Searching for an address in Bengaluru will get easier. The   will soon launch its digital door-numbering system called  , providing a unique seven-digit identification number to all 19 lakh properties across the city. 
+
+ The framework, which the civic body has developed in-house at a cost of Rs 83,000, will be based on the GIS Enabled Property Tax Information System (GEPTIS), a database created by mapping all properties within BBMP limits, detailing properties and their location including the road and ward.
+ 
+ Property owners must register on a BBMP portal using their Property Identification Number (PID) and generate their own unique digital door ID which can be used across various platforms. The alphanumeric number can also be synced to mobile application, enabling residents to view details like history of tax payments, area of site, built-up area and number of floors, among other things. It has already been tested internally.
+ 
+ According to BBMP commissioner N Manjunath Prasad, DiGi7 can be used across platforms like Google Maps, cab aggregator apps and food delivery service providers to enable easy identification of the address.
+ 
+ “We had a robust database and we just had to develop software based on it. Our IT team worked on it for around 8 months. Though it’s based on PID developed last year, it’ll also help identify properties that don’t have this ID,” he said.
+ 
+ “Citizens must enter their user name, password and PID to get their DiGi7. If they can’t generate the unique code, it means their PID is not registered online. This will help us identify properties excluded by mistake,” he added.
+ 
+ The unique ID will be permanent, regardless of change of property size, change in owner, ward boundary or any other numbering changes. 
+ 
+ A series of concentric grids starting from the centre of BBMP territory radiating outwards has been mapped with the largest grid being of 1000m by 1000m, the sub grid 200m by 200m and the smallest, micro grid 10m by 10m. The number will comprise a combination of alphabets and numbers denoting the grids.
+ 
+ Any correction or questions can be raised with the assistant revenue officer concerned
+ 
+ 
+ 
+ A Hyderabad-based startup has sent BBMP a legal notice accusing it of plagiarism in developing DiGi7. 
+ 
+ Zippr Private Limited claimed that BBMP has allegedly used its tech-design without proper authorisation. In a letter, a copy of which is with TOI, the company said there has been correspondence between BBMP officials and Zippr since 2015, which includes detailed documents about the software and its use. Zippr has implemented the software in parts of Hyderabad and Vijayawada.
+ 
+ Prasad said, “Many agencies gave presentations but that doesn’t mean we’re using their services. I never floated any tender for this as our IT team is capable. Their technology is not rocket science and there’s lot of literature available online. It’s also facing a legal case for IPR theft.”
+ 
+ In fact, a Pune-based individual had earlier claimed that Zippr had appropriated his technology for which he had filed a patent in 2010. The Pune man also wrote to BBMP, asking the civic body not to do business with the startup.
+ 
+ A Zippr spokesperson cited an injunction issued by the city civil court in Hyderabad against the person accusing it of fraud, which disallows the person from making allegations against Zippr.
+ 
+  
+  
+ 
+ 
