@@ -1,0 +1,12 @@
+KOLKATA: In the days to come all   and electrical multiple unit (EMU) rakes in Kolkata will have   cameras with recording facilities and talk-back systems in coaches. This has been decided by the ministry of railways following which the Research Designs and Standards Organisation (RDSO) prepared a detailed and elaborate draft a few days ago.
+
+  
+  
+ It has been planned that each coach will have at least five surveillance IP dome cameras at various locations to cover the entire area. There will also be provisions to add more cameras by simply plugging them into the system. Every driver’s cab will have a surveillance camera with built-in mike. There will be one network video recorder unit for 3-4 coaches to store the videos. This will enable officials to playback videos in case of a crime being reported later.
+ 
+ “The video data will be downloaded at the carsheds or depots by designated staff with the use of laptops or USB devices. Every coach shall also have at least four talk-back units through which a passenger can communicate with motormen. Whenever a talk back unit is activated, the surveillance camera closest to it will capture the video of the surroundings and send it to the motorman’s cab so he may see the live images on a human machine interface ( ) screen. Even otherwise, the motorman can switch to live images from any camera on the train. This will not only act as a deterrent to crime against women, but other illegal activities inside train coaches,” a senior railway official said.
+ 
+ There will also be a special camera fitted near the door of the driver’s cab. As the train enters a platform and stops, the camera will swivel to capture a rear view of the platform. When the train starts again, the camera inside the dome will turn for a view of the interior of the cabin. There will also be front view cameras in front of cabs to capture the signals. This will help in clearing confusions when allegations of signal overshooting arise against motormen. Overshooting of signals can result in major accidents.
+ 
+ “The motorman’s cabin will have an HMI screen located at an appropriate place for easy view. However, it will not cause any distraction. There will also be provision for the motorman or guard to relay CCTV surveillance recordings to a dedicated remote server wirelessly,” the official added.
+ 

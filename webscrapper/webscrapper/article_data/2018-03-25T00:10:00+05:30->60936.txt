@@ -1,0 +1,43 @@
+
+ 
+ 
+  Excerpts:
+
+ 
+ 
+ 
+ From an informed consent perspective, it is obvious that users really have no right over their data when it is going to private parties because the law allows private parties to share that data forward. There needs to be a significant purpose limitation in case of any kind of consent architecture for such services. But I want to go back to something more important, which is the mass collection of data which is granular, and in this case not just demographic and psychographic, but also behavioural. 
+ 
+ The power that a platform has to change the course of democracy is something we have to be cognizant of, because there is no control that individual nation-states have over such a large entity. I’m not saying   here is a bad actor or is going to be a bad actor, but even if it were one, how would we know? We can’t rely on the benevolence of Facebook for them not to mess with any democracy.
+ 
+  
+ 
+ Data being collected at the central level with Aadhaar and at the state level with State Resident Data Hub can be shareable in the absence of a state-level law even without consent. At an individual level, it can be shareable with third parties, and once it goes to a third party, you have no control over what happens to it.
+ 
+ What Cambridge Analytica did was target people from a behavioural perspective. One has to take a step back and assess the impact of mining data for psychological profiling. This is not just about Facebook, but about all large data-collecting platforms whether it is Twitter, Google or Aadhaar.
+ 
+ There is a global market failure in data protection and privacy. By saying that as a country we need to collect more data to compete with all of these companies, we get into a race to the bottom. What we need is a global regime of data disarmament.
+ 
+  
+ 
+ If you look at the Centre for Internet and Society report (on reported leakage of 135 million Aadhaar details last year), government departments had uploaded Excel sheets with people’s name, address, data of birth, bank account number, caste, father’s name, etc. Even though that data was taken down, it has already been circulated, and could be on the dark web for all you know. People have already been compromised, but we have to at least prevent further compromise. 
+ 
+  
+ 
+ At the bare minimum, you can change all your privacy settings to minimum sharing of data. Go and uninstall most of the apps that you already have that collect this data. Be conscious of all the data that apps are collecting.
+ 
+ This is what we are calling the Truecaller question in the data protection regime. Can I share your data when I have it? What happened in the Cambridge Analytica case was that they collected the data of not just the people who gave consent, but also that of people who were connected to those who gave consent. How will a law prevent that from happening?
+  
+ 
+ 
+ Ownership of the data is the other question that has not been answered. Who owns Aadhaar data? And who owns it with respect to Facebook — does Facebook own it or do you own it? That is what the GDPR (General Data Protection Regulation in the  ) tries to address — with the right to erasure — because it gives ownership directly to the people. In the case of metadata which is co-created, this is a tricky question.
+ 
+ We have to move down a path that reduces data generation and collection, because once the IoT (internet of things) ecosystem comes alive, the amount of data that is going to get generated about us is going to be nuts.
+ 
+ The data protection issue that we have today is a relationship between the collectors of data, which is large companies and states, and the creators of data. And the relationship is a power equation between them.
+ 
+  
+ 
+ I think it is a clear and present danger right now. I would now even question if the voter registry needs to be public information. This is why I keep pushing for the idea of data disarmament because our data is being weaponised against us. Therefore, our rights need to be supreme over the state and large platforms. Today it is Facebook, tomorrow it could be another company. Privacy is a fundamental right, and we need our rights to protect us.
+ 
+ 

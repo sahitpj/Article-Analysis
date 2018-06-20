@@ -1,0 +1,11 @@
+HYDERABAD: In 2016, the   had ordered states and Union territories to upload, First Information Reports (FIRs) within 24 hours of their registration on government websites. However,   stations in Rachakonda and Cyberabad commissionerates have not uploaded most FIRs registered in 2018. 
+
+ According to the SC, only a few FIRs in cases related to child abuse, sexual offences and terrorism, stating privacy and national interest as reasons, will be exempted from the mandatory upload. "FIRs are usually uploaded on official Telangana police website, www.tspolice.gov.in, within 24 hours. The Rachakonda website has some issue and is under process. We recently appointed a suitable IT officer, who will take care of the website. It will take some time to kick start the website, specially the 'Know your case status' portion," said Rachakonda commissioner, Mahesh Bhagwat. 
+ 
+ According to Bhagwat, each police station has to individually upload   copies. He also claimed the FIRs have been uploaded immediately on state police portal. However, Kushaiguda, Hayathnagar, Vanasthalipuram police stations have failed to upload several FIRs. "I will have to enquire about it," added Bhagwat.
+ 
+ The Cyberabad police also failed to upload the   copy. Police said they will make the FIR database public gradually. "Currently, we are writing FIRs online in Crime and Criminal Tracking Network & Systems. It is for our internal use. Police is presently not writing manual FIRs, even if they write manually, it is uploaded in CCTNS within 24 hours. However, there are many legal issues in opening our database to public. The 'Know your Case Status' page of Cyberabad police website needs an upgrade. It will take time and slowly we are uploading FIR for public access," said a senior officer of Cyberabad commissionerate.
+ 
+ State police website has login system to access FIRs and other data. However, CAPTCHA or Completely Automated Public Turing Test to Tell Computers and Humans Apart can be copy-pasted while logging in. "It's a security breach. Through uploaded FIRs, cops are giving out sensitive info. For example, in bank fraud cases, FIRs will have bank account details, which makes the victim vulnerable. Cops should blur info which are sensitive," said Srinivas Kodali, cyber security expert. 
+ 
+ 

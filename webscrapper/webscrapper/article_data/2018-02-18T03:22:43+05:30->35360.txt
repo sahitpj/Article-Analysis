@@ -1,0 +1,20 @@
+
+An LoU is a guarantee issued by one bank to another. In trade finance, an LoU is sent in the form of a message using   (earlier known as society for worldwide inter-bank financial telecommunication), a secure messaging platform. Think of it as modern-day telex.
+ 
+ An instruction on money transfer sent through SWIFT is equivalent to a demand draft issued to the bank at the other end.
+ 
+ 
+ 
+  employees fraudulently, in connivance with the accused, sent LoU messages over SWIFT favouring the Nirav Modi/Mehul Choksi group companies. For an overseas bank branch, an LoU message over SWIFT is a sufficient guarantee, on the basis of which it will provide funds to the beneficiary mentioned, as happened in this case.
+ 
+ 
+ 
+ The lender who has invoked the guarantee will have to classify PNB as a defaulter. The loan will have to be classified as a non-performing asset and provisions made out of the bank's profits. The lending bank will legally pursue recovery with PNB. There is also a possibility that overseas lenders might not accept LoUs from PNB.
+ 
+ 
+ 
+ PNB has said the fraudulent guarantees total around Rs 11,300 crore. Lenders have already started making claims on PNB, assuming that Nirav and Choksi are unlikely to repay. Some of the lenders have sold the loans to other banks. These secondary buyers can try their luck by pursuing a claim with either the selling bank or PNB, the original guarantor. If they feel they will get a quicker decision in the global markets, they may choose to pursue the seller overseas where the loan was sold to them.
+ 
+ What are the regulatory implications of a PNB default? Since the buyer's credit has been extended in overseas markets, the lenders might choose to pursue claims with PNB offshore. The local regulators are likely to get involved and pull up the branches of Indian banks.
+ 
+ 
