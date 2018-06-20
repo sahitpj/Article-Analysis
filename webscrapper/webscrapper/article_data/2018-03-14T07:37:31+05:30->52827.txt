@@ -1,0 +1,13 @@
+PUNE: A lot of cases go cold in the   of law because of lack of technical expertise of police to retrieve and   electronic evidence and also because of inadmissibility of certain electronic evidences.
+
+ In order to assist admission of electronic evidences in court, Centre for Development of Advanced Computing ( ) has developed a number of software   that have been prototyped for encryption, extraction, secure acquisition, preservation and retrieval of electronic evidence in the form of mobile data, message chats, emails, social media activity and computer hard disks.
+ 
+ “The problem with the old Evidence Act is that it doesn’t recognize electronic evidence. The world is increasingly moving towards digital dealings and hence admission of electronic evidence in court has become inevitable. The research and development teams at C-DAC has identified the need for harmonising the Evidence Act with the Information Technology Act 2000/2008 in order to accommodate electronic evidences in court of law,” and said  , senior director, C-DAC.
+ 
+ Katre also coordinated a meeting on Saturday with a   Judges that had come to examine technical aspects of draft rules for reception, retrieval, authentication and preservation of electronic records under the Indian Evidence Act. The committee has drafted electronic evidence rules in order to supplement the Code of Civil Procedure, Code of Criminal Procedure and the Evidence Act and to ensure legal admissibility of electronic evidence in criminal proceedings.
+ 
+ Asheet K. Nath executive director, C-DAC (corporate) said, “The teams at C-DAC are already involved in training of judicial staff to equip them with the required technical skill sets for digital evidence gathering.”
+ 
+ “We have also proposed a national or regional digital repository where e-evidence can be stored, meta data can be described, data can be encrypted and authenticated and preserved for as long as necessary,” added Katre.
+ 
+ 

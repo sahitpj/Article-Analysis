@@ -1,0 +1,11 @@
+NEW DELHI: The home ministry will procure ‘photoDNA hash tool’ technology and has sought US help to set up a Virtual Private Network for secure connection between the MHA and the National Centre for Missing and Exploited Children (NCMEC) of the US to curb   and rape videos on the internet.
+
+ Additional solicitor general   submitted a plan of action framed by the MHA to curb child pornography and circulation of rape videos on the internet, which included development of a portal, that would link all police stations in India and enable lodging of anonymous complaints. 
+ 
+ Singh told a bench of Justices Madan B Lokur and  , during the hearing on a suo motu action taken by the SC on a letter written three years ago by NGO ‘Prajwala’ on the need to curb circulation of rape videos and child porn, that the portal was tested successfully in two states. 
+ 
+  technology computes hash value of images, videos and audio clips to identify similar images and is primarily used in prevention of child pornography by computing unique hash that represents the image.
+ 
+ The status report said, “A portal has been developed which has facility to accept anonymous complaints of child pornography and videos with rape and gang rape content. At present, this portal is being integrated with Crime and   (CCTNS) of states and UTs and a revised Cyber Crime Protection against Women and Children (CCPWC) scheme is likely to be ready by March 15 after which it will go through various approval processes.” The portal is likely to be functional by June, it said.
+ 
+ 

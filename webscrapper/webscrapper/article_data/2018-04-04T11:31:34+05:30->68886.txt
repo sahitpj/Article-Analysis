@@ -1,0 +1,22 @@
+
+
+ Two things happened in the recent past that involved ethics and morality. An incident of ball tampering in   and the leak of question papers in India.
+ 
+ Both incidents are not new — they have had precedents. However, the ball tampering incident was caught due to technology — more specifically high-power camera lenses. In the second case, technology could have been a tool to stop the leak.
+ 
+ The current system of distributing question papers to the examination centres involves a large number of people — right from those in the printing press, to those responsible for their delivery, to staff at places where the papers are stored. The risk of leaks increases with every person added to the system.
+ 
+ There are many solutions used globally, to make the examination process fool-proof. The most popular being internet-based online examination. An online or computerbased test avoids all manual processes. The tests are always stored on secure cloud servers, which can be made available only at the scheduled time of the examination. In addition, a question bank can be built and final question paper designed at the last minute with random generation. This model can work if question papers follow a pattern. Moreover, online tests provide faster results. With limited human intervention, they also offer near-zero error results. Common Aptitude Tests, the most prestigious examination for MBA, have been successfully conducting online exams since 2009. Most of the banking exams are also taking place online. Even JEE Main for   entrance has an online option for candidates.
+ 
+ For exams that are not the objective type, only the question paper can be made available on the computer screen. The answers can be on paper.
+ 
+ Many universities even have email-based distribution in which question papers are protected with a password and is shared only an hour before the test with the chief examination officer, who then prints the paper and uses photocopy machines to make required copies. This system is near perfect unless a password is hacked.
+ 
+ But in many parts of the world, internet-connectivity is very poor and the online model fails. So we need a different way of thinking. Some experts have proposed the special secured “electronic boxes” — a tamper-proof storage box that can be opened only by a smart key. The box can also have a sensor-enabled GPS tracker. An electronic seal is used to lock the box and it needs a smart key to unlock. The box can only be unlocked at the right time when students are about to sit for their exams. This can work in areas where network link is very poor.
+ 
+ But the ultimate question is: do we really need examinations? Can we assess students on continuous performance? In many cases, students with very good scores have miserably failed in the professional world and students with poor scores have excelled.
+ 
+ So basically, we could even change this memory-based examination model for a generation that has started to rely on technologies such as   for everything.
+ 
+ The writer is a an IT entrepreneur, author and digital literacy activist
+ 

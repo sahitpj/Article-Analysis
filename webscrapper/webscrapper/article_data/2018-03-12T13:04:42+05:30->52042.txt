@@ -1,0 +1,17 @@
+COIMBATORE: Gone are the days when one had to wait for long hours to get grievances redressed by civic authorities. The city municipal corporation has planned to set up four kiosks in the main office building at   to redress the grievances at a fast pace. 
+
+ Similar kiosks will be set up in other offices of the civic body as well, said a senior official of the corporation.
+ 
+ “These kiosks will be integrated with the corporation’s grievance redress mobile application. The grievances and complaints registered by the public will be monitored by senior officials at every step,” said an official. The city corporation already has a ‘CCMC digital grievance redress mobile application’. Kiosks will be set up on the same lines. 
+ 
+ “Once we register on the mobile application, the same registration ID can be used at the kiosks. People visiting the corporation offices can log onto the network and register their complaints. These complaints will be forwarded to the officials concerned who will pass it to senior officials if they are not redressed within a stipulated timeline,” said an official.
+ 
+ The kiosks are ready and the corporation officials will launch it soon. It will be like a tablet or an I-Pad placed on a stand. It will be in two languages to begin with and will have various categories. Once the registration is complete and the complaints are raised, the status will be available on the application.
+ 
+ “Whenever people submit petitions, the papers could be thrown into dust bins. Nobody can track them. But on this kiosk and app, a central admin portal will be there. The system will map every official involved in the issue. The grievance will be allocated to a particular officer along with timeline. If no action has been taken within the stipulated time, the grievance will go to a senior official. Every official will be accountable,” said an official.
+ 
+ Currently, the mobile application works on local server which has been shut due to some issues. “We will migrate to Cloud soon and all these issues will be resolved. Permissions have been sought for this and we are hopeful that once we migrate from local server, all the applications and systems will work better,” said a technical in-charge of the application. Whenever heavy applications run on local server, the bandwidth becomes limited. 
+ 
+ He added that if these kiosks are launched, the   will be one of the first government divisions to move to Cloud and launch such an application. 
+ 
+ 

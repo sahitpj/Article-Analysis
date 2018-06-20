@@ -1,0 +1,11 @@
+NEW DELHI: Delhi Police’s investigation into a threat call made to   leader   has hit a roadblock after probe revealed that the call was made through voice over   (VOIP). Cops also found that the caller had used spoofing technology to mask his identity.
+
+ The former union minister had received a call in January, where he was warned to not speak for the Dalits, Kharge claimed in his complaint. The caller had threatened to harm the minister if he did not mend his ways, said a senior police officer.
+ 
+ An FIR was subsequently registered at Tughlaq Road police station and a probe initiated. The case was transferred to   on February 23 after no breakthrough was achieved.
+ 
+ Cops tried to track down the IP address and other details of the device from which the call was made but failed in their attempt. They suspect that proxy servers could have been used to make the call. Police officers also tracked down the number which was showing up in call records, but the person was found to be clean.
+ 
+ It was only then that cops realised that the accused was using called ID spoofing to mislead the investigators about the origin of the call. “We are still probing the case and trying to ascertain the identity of the caller,” a senior officer confirmed.
+ 
+ 

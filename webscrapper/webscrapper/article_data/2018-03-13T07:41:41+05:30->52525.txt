@@ -1,0 +1,32 @@
+HYDERABAD: A controversy is brewing over allegations by   Commission (FCC) that four nano satellites launched from Satish Dhawan Space Centre in Sriharikota by Antrix using ISRO’s PSLV on behalf of Silicon Valley-based   is ‘unauthorised’.
+
+ 
+ Sources in Antrix Corporation Limited, the marketing arm of ISRO, told TOI that the corporation launched four SpaceBEE (Basic Electronic Elements) nano satellites based on a commercial launch service agreement with the US firm and the responsibility of getting clearances with respective countries lies with the company. Antrix sources revealed SpaceBEE satellites may have been shipped to India with export clearances.
+  
+ 
+ US-based FCC alleged that the four satellites were launched by Swarm Technologies without approval of its   and may pose a danger to other spacecraft as these nano satellites are difficult to detect being less than 10cm in size. PSLV-C40 has launched 31 satellites, including four SpaceBEE nano satellites, on January 12, 2018. The four nano satellites were launched to test the world’s smallest two-way communications satellites for developing a cost-effective low-data-rate Internet of Things (IoT) network connectivity.
+ 
+ 
+ According to documents put up in public domain by  , the world’s largest technical professional organisation for advancement of technology, FCC dismissed the application on launch of the four satellites.
+ 
+ 
+ As per the FCC document on December 12, 2017, Anthony Serafini, chief of Experimental Licensing Branch, in his communication to Sara Spangelo of Swarm Technologies of Los Altos in California, said, “Satellites are below threshold size when detected by Space Surveillance Network (SSN) and can be considered routine. The proposed addition of Ku-band radar reflectors to satellite would overcome this issue as a small portion of SSN utilises Ku-Band frequencies. Use of GPS data from satellites will be available only if and while the satellites are functional.”
+ 
+ 
+ FCC said, “In the absence of tracking for objects of 10cm and in the event of conjunction with an operational spacecraft, the ability of operational spacecraft’s collision avoidance manoeuvre will be reduced or eliminated.”
+ 
+ 
+ On March 7, FCC sent another communication to Swarm Technologies keeping a fresh application for launch as pending. FCC in the latest communication said, “The International Bureau of FCC has refused that the grant be set aside to permit assessment of impact of applicants’ apparent unauthorised launch and operation of four satellites and related statement and representation on qualification to be a commission licensee.”
+ 
+ 
+ A source in Antrix said, “The agreement was with Spacelite USA which is a mediating company between Swarm Technologies and Antrix. As per the agreement, it’s the responsibility of the customer to get all clearances in its country of origin. The customer is supposed to notify the concerned international body.”
+ 
+ 
+ “We took care of the launch as per agreement. It is understood they obtain permissions as required in their country. If they go against law of their country, we will not know about it. It is not possible for satellites to come to India without export clearances.”
+ 
+ 
+ An Antrix source said, “The customer defines space orbit into which the satellite has to be put into orbit. The global community will decide space orbit allocation.”
+ 
+ 
+ Director Of Planetary Society Of India NS Raghunandan Kumar told TOI, “Usually, nano satellites have short term life and disintegrate into the earth’s atmosphere when life span ends. It’s unlikely they will pose a threat to other spacecraft. Indian start-ups should take the opportunity to use ISRO abilities and compete with the  .”
+ 

@@ -1,0 +1,23 @@
+NEW DELHI: The Comptroller and Auditor General ( ) has flagged delays in  's ambitious India's indigenous GPS programme called   saying an expenditure of over Rs 1,283 crore had already been incurred on it but the system has yet to be operationalised.
+
+ 
+ In its report on department of space (DOS), tabled in Parliament on Tuesday, the CAG noted that delay in realisation of the 'desi' GPS programme would limit the duration of their utility once it becomes operation as "life of a navigational satellite is 10 to12 years and the satellites already launched under the programme remained idle for over 14 months to four years".
+ 
+ "Though the space segment has been completed, NAVIC remained non-operational due to non-completion of ground segment and user segment. There were delays in realisation of key components under the programme which led to idling of the satellites", said the report.
+ 
+ The delays were attributed to non-execution of contracts, deficient monitoring of programme, revision in technical specifications and inadequate follow up.
+ 
+ "While some of the causes for the delay were unforeseeable and beyond the control of ISRO or DOS, a substantial part of the delays were attributable to inadequate follow-up, lack of coordination with government and other agencies as well as sheer administrative laxity", said the federal auditor in its report.
+ 
+ Asked about CAG's observation, ISRO chairman K Sivan said, "With the launch of seven satellites, the NAVIC is very much operational. Data from the Indian Regional Navigation Satellite System (IRNSS) is very much in public domain. ISRO has not only developed a micro chipset to be used for navigation purpose, but also designed a miniaturised version of the micro chipset to be used in navigation devices. We are working on further miniaturisation of the chipset to be used in very small navigation devices."
+ 
+ He said, "Isro has also designed and developed the receiver for accessing the navigation system data. We have developed the space infrastructure for the navigation system, now it's for the industry to mass-produce this chipset to be used in navigation devices."
+ 
+ NAVIC was approved by the government nearly 12 years ago at a cost of Rs 1,420 crore to establish an independent and indigenous satellite based navigation system to provide Position, Navigation and Timing (PNT) services over the Indian landmass and surrounding region extending up to 1,500 km. At present, users depend on US-based GPS system to avail these services in India.
+ 
+ On the software applications, the chairman said, "Isro has developed a mobile app for Indian fishermen. We have already demonstrated the use of the receiver and mobile app to fishermen of Tamil Nadu and Kerala. The receiver and the mobile app help fishermen get text and video messages on ocean weather forecasts and also aid them in sea navigation."
+ 
+ He said, "Like devices and mobile app for fishermen, the micro miniaturised chipset can be used in many devices of the navigation system. Therefore, entrepreneurs and industry have to come forward for making various navigation apps."
+ 
+ Since July 1, 2013, Isro has launched seven navigation satellites IRNSS1A, IRNSS-1B, IRNSS-1C, IRNSS-1D, IRNSS-1E, IRNSS-1F and IRNSS-1G. Though four satellites are enough to operationalise the navigation system, seven satellites have already been placed in orbit by the Indian space agency.
+ 

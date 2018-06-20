@@ -1,0 +1,18 @@
+CHENNAI: On Sunday, at 11.20am, the phones of at least 200 forest officials in   beeped – it was an alert from the   whose remote sensing sensors had detected a “thermal anomaly” near Bodi in  . In a span of the next three hours, two more alerts were sent by the central organization based in Dehradun. The warning was ignored.
+
+ It wasn’t until 4.30pm -- five hours after the first alert – the state forest department finally reacted. M Mahendran, assistant conservator of forests in Bodinayakanur forest division of Theni, had received a call from the police saying trekkers had been caught in a blaze, 8km from his office. It took his team at least two hours to reach the spot after a steep climb.
+ 
+ The forest department was clearly caught napping when initial alerts of the fire were sent out by FSI. “Every time there is a thermal anomaly, an automated email is sent to nodal forest officers in the state. The details are also immediately uploaded in FSI’s website,” said the organisation’s deputy director E  , who heads the forest fire division. FSI beams these alerts based on information obtained from two remote sensing sensors – SNPP-VIIRS and MODIS – in three NASA satellites which provides thermal images. “We received the first set of information at 11.12am, and an email was sent to the nodal forest officer at 11.20am,” said another official attached to the forest fire cell. A second email was sent at 2.29pm and a third at 3.38pm. “Simultaneously, SMS alerts were sent to 18,400 registered users across the country, including 236 people in Tamil Nadu, mostly forest officers at the district and state levels,” said Vikram.
+ 
+ The real-time alert was introduced in January last year to reduce the time take for response to the disaster also to equip the front-line forest managers with the latest available data. Though they have their own way of collecting the data from the people or the local committees, the satellite assistance came in handy to strengthen their source of information. Usually, it would take three to four hours to reach the forest fire spot.
+ 
+ The sensors capture data on light emissions in 36 spectral bands ranging in different wavelengths at varying spatial resolutions. The satellite data are received and decoded by the National Remote Sensing Centre, a unit under Indian Space Research Organisation, at its campus in Shadnagar, Telangana.
+ 
+ The continuing fire in Kurangani north beat for the second day was also notified at 2.30pm on Monday. Although FSI relies on both MODIS and VIIRS, the latter is eight to nine times more accurate than MODIS, aiding FSI to spot the fire with precision.
+ 
+ The Tamil Nadu forest department's GIS cell, refuted claims that there was delay in response to FSI’s alerts. “We had sent information to the concerned district forest officer for immediate action when we got the initial alert,” he said. When TOI pointed that the first reaction from the forest official on the field came only at 4.30 the official could offer no explanation. Incidentally, Theni district collector Pallavi Baldev called up the senior officials of revenue administration for defence assistance to rescue the trapped trekkers only at around 4.30pm.
+ 
+ Across the country, there has been an increase in the number of forest fire alerts in 2017, compared to 2016 – it went up from 15,937 to 35,888. Tamil Nadu, too, saw an increase from 95 to 301 during the same time period. Most of these incidents happened from January to May.
+ 
+ While the organisers of the trekking expedition has been faulted for not taking permission from the department, the lapse on the part of department in the grass-roots also played a role in the tragedy.
+ 

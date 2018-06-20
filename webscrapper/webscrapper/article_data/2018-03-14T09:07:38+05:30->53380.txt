@@ -1,0 +1,21 @@
+HYDERABAD: Cyber security experts and companies voluntarily test and expose cyber vulnerabilities of government bodies, but on Monday night it was corporate hospitals chain Apollo Hospitals’ turn to receive an alert.
+
+ The healthcare major was alerted via a tweet by a French security researcher about personal data of millions of patients being at risk.
+ 
+ The tweet by   read: “Hi @HospitalsApollo, a serious security issue has been discovered in your system, can you contact me by DM? The personal data of millions of people are at stake, this is important.” This was retweeted and flagged hundreds of times, with many expressing concern.
+ 
+ 
+ 
+  
+ 
+ 
+ Alderson told TOI that though the   team initially tweeted him, asking for his email id and location, it was later pulled down. When contacted, Apollo Hospitals president   said he wasn’t aware of the issue as he was travelling and would need to check it out.
+ 
+ The same researcher recently flagged a vulnerability in the   app, following which Paytm stopped root access on Android phones.
+ 
+ The latest alert highlights the vulnerability of the huge amount of patient data private hospitals are sitting on. “Tomorrow if I have an ailment that I don’t want made public and the information gets leaked, it would leave me open to blackmail. Many hospitals even take photographs along with other basic details, which can be misused,” said  , a patient.
+ 
+ Experts believe though such a vulnerability may not mean a threat to the patient’s bank balance, it definitely raises a grave privacy concern.
+ 
+ “It is a privacy and confidentiality concern and can also lead to identity theft in future when more data with Aadhaar is available online. Usually, if the data doesn’t need to be accessed on the internet, it should largely be safe. But if it has been hacked into through the internet, it means that somewhere enough safety measures aren’t being taken,” explained  , professor co-innovation IIIT.
+ 
