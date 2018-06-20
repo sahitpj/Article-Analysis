@@ -1,0 +1,25 @@
+CANBERRA: Australian researchers say wildlife is better monitored by drones which can detect small changes important to notice decline in numbers leading to superior conservation of threatened species.
+
+ The scientists from   employed thousands of rubber ducks to prove that drones are more accurate than humans,   news agency reported.
+ 
+ Experienced wildlife spotters were pitted against spotters who counted birds from drone imagery to see which group would get closest to the actual number of fake birds.
+ 
+ Ground spotters counted the birds using binoculars or telescopes while a drone was flown over the beach, taking pictures from different heights and angles.
+ 
+ "We found it is more accurate and more precise to have people count birds from the drone imagery than to do it on location," lead author   said.
+ 
+ The results showed that monitoring animals with drones produced better data that could be used to proactively manage wildlife.
+ 
+ Hodgson and his team developed a computer algorithm capable of counting birds from the drone images, yielding results on par with humans counting from the images.
+ 
+ "With so many animals across the world facing extinction, our need for accurate wildlife data has never been greater,"   said.
+ 
+ "Accurate monitoring can detect small changes in animal numbers. That is important because if we had to wait for a big shift in those numbers to notice the decline, it might be too late to conserve a threatened species.
+ 
+ "For a few years now, drones have been used to monitor different animals that can be seen from above, including elephants, seals and nesting birds.
+ 
+ "But, until now, the accuracy of using drones to count wildlife was unclear," Hodgson said.
+ 
+ "We needed to test the technology where we knew the correct answer. We couldn't use wild animals because we could never be sure of the real number of individuals present."
+ 
+ 

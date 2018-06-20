@@ -1,0 +1,17 @@
+Pune: The department of telecommunications has started working on a   to set up the Central Equipment Identity Register for tracking and identifying stolen or lost cellphones and handsets with duplicate IMEI numbers.
+
+ Rs15 crore has been earmarked in the Union budget for the project, entrusted to the Bharat Sanchar Nigam Limited’s Pune unit. It aims to curtail the number of counterfeit cellphones and discourage handset thefts, protect consumers’ interest and facilitate law enforcement authorities to make lawful interception.
+ 
+ An official of the department of telecommunication (DOT)’s Pune unit told TOI that there was a plan to collect data from cellphone operators in the Maharashtra circle for the project. The DoT has joined hands with Delhi’s Centre for Development Telematics to design a software and computer-based system to analyse this data to identify phones with same IMEI (International Mobile Equipment Identity) numbers.
+ 
+ The official also said the work of drafting a detailed project report was under way for the pilot project. It would intimate the requirement of funds for the project.
+ 
+ Maharashtra would be the first circle to implement the Central Equipment Identity Register (CEIR) pilot project, which is expected to be completed by March. Officials stressed they were working on priority to ensure maximum work was completed within the deadline.
+ 
+ CEIR would act as a central system for network operators to share blacklisted cellphone terminals so that devices blacklisted in one network did not work in other networks even if the SIM card was changed. After the data collection, DoT will set up a system under which SMSs or notifications would be issued to handsets with the same IMEI number to identify the fake IMEI number. The centre to maintain the data will come up in Pune.
+ 
+ Another DoT official said they would be seeking help of the cellphone manufacturers to identify the fake IMEI numbers.
+ 
+ A source said the project would be extended in other circles after its successful implementation in Pune.
+ 
+ 

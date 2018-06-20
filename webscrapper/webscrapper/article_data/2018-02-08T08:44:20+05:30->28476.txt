@@ -1,0 +1,12 @@
+HYDERABAD: While unauthorised constructions in   area, particularly in urban parts like Manikonda, Puppalaguda, Narsingi and several other   pockets, is a big issue, the Hyderabad Metropolitan Development Authority instead of asking information from whistleblowers has tightend the procedure of complaining.
+
+ HMDA had made   number and OTP must for the Citizen Online complaint form on unauthorised construction. The complainant has to fill in name, mobile number, Address, email ID apart from the Aadhaar and One Time Password.
+ 
+ Security researcher   told TOI, “For seeking Aadhaar, a notification has to be issued by the agency. However, HMDA did not issue any notification for using Aadhaar for the complaints. Earlier, the Telangana police department was asking for Aadhaar number and OTP for online viewing of information regarding cases and it removed the same. Apart from not issuing notification, this kind of data asked for lodging complaint on illegal activities will discourage whistleblowers and general public. The Supreme Court ruling in the use of Aadhaar may clear air on all these aspects.”
+ 
+ Unauthorised Construction Layouts Information Management System was started by HMDA for citizens to complain against unauthorised construction on the Internet. After receiving the complaints, the authorities verify the same after conducting a ground level inspection. The official then should upload the images after conducting site panchanama. Then, HMDA informs the local civic bodies, like panchayats and municipalities to take action.
+ 
+ If the local body fails to take action in 10 days, HMDA itself should demolish the illegal construction and remove all illegal layouts. The information can also be used in the courts when required.
+ 
+ When asked about the issue, HMDA Commissioner   told TOI: “As a routine procedure, our technical team may have designed the form for taking the Aadhaar number. We will remove this and simplify the form to encourage information flow.”
+ 
