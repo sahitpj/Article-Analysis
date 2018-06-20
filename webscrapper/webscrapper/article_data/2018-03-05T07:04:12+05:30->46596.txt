@@ -1,0 +1,19 @@
+HYDERABAD: French security researcher Baptiste  , who recently exposed vulnerabilities in TSPost disbursement portal, has unearthed loopholes in   website and databases with passwords of 47,000 employees.
+
+ 
+  
+ He discovered multiple issues with different levels of severity and reported them to   through his Twitter handle ‘Elliot Alderson’. The government-run telecom major acknowledged the issues and fixed them.
+ 
+ Using SQL Injection, the researcher attacked the database of BNSL intranet, which contained information of 47,000 BSNL employees, including their names, position, password and mobile numbers. The names of administrators and their passwords, senior officers’ information and retired employee details were taken.
+ 
+ “I found this a few days ago, but I'm not the first one to discover it. This issue was discovered by an Indian, kmskrishna, two years ago. He sent mails to BSNL, even called senior officers, but nobody answered him. Once again, it shows the importance for big companies like BSNL to take into account this kind of alert,” he tweeted on Sunday. The issue has now been fixed.
+ 
+ “I want to thank BSNL for the cooperation and reactivity. All the issues have been disclosed to them privately and fixed during the weekend. I hope they will take appropriate actions internally,” Robert added. He said http://www.intranetuk.bsnl.co.in, http://www.intranethr.bsnl.co.inwas attacked by ransomware, which went unnoticed.
+ 
+ “A monitoring bandwidth system was accessible publicly. BSNL websites had a lot of open directories which allowed everybody to consult their documents. Some sites are down, and some are fixed. calcutta.bsnl.co.in has been fixed,” he said.
+ 
+ Robert also tweeted his conversation with BSNL India team. Efforts to get comments of BNSL staff turned futile.
+ 
+ Earlier, when the Telangana government post database was hacked into by the French researcher, however, the state claimed the site was not operational post bifurcation in 2014. The questions raised by the researcher are valid as TSPost did not exist before bifurcation, it was dependant on APOnline and the web archives show recent data of MNREGA and Social Security Pension details about 2016 and 2017.
+ 
+ 

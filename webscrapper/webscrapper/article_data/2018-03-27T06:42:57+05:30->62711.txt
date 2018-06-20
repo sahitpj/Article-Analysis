@@ -1,0 +1,19 @@
+Researchers have developed a technology that could enable our computers — and all optic communication devices — to run 100 times faster through  .
+
+ 
+ “This discovery could help fill the ‘THz gap’ and create new and more powerful wireless devices that could transmit data at significantly higher speeds than currently possible,” said one of the researchers   from   (HU) in Israel.
+ 
+ “In the world of hi-tech advances, this is game-changing technology,” Levy added.
+ 
+ Until now, two major challenges stood in the way of creating the terahertz microchip — overheating and scalability.
+ 
+ However, in a paper published in the journal Laser and  , the researchers showed proof of concept for an optic technology that integrates the speed of optic (light) communications with the reliability — and manufacturing scalability — of electronics.
+ 
+ Optic communications encompass all technologies that use light and transmit through fibre optic cables, such as the internet, email, text messages, phone calls, the cloud and data centres, among others.
+ 
+ Optic communications are super fast but in microchips they become unreliable and difficult to replicate in large quantities.
+ 
+ Now, by using a Metal-Oxide-Nitride-Oxide-Silicon (MONOS) structure, Levy and his team have come up with a new integrated circuit that uses flash memory technology — the kind used in flash drives and discs-on-key — in microchips.
+ 
+ If successful, this technology will enable standard 8-16 gigahertz computers to run 100 times faster and will bring all optic devices closer to the holy grail of communications — the terahertz chip, the study said.
+ 

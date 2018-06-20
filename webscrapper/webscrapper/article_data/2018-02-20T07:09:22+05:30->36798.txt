@@ -1,0 +1,27 @@
+BENGALURU: At a time when airlines are planning to introduce in-flight voice and data connectivity, following a Telecom Regulatory Authority of India ( ) order, flyers using international SIM cards still can’t access free Wi-Fi at  .
+
+ Currently, only those with local mobile numbers or those international passengers with roaming packs can connect to Wi-Fi at airports. In contrast, most international airports provide free Wi-Fi to all passengers from any part of the world.
+ 
+ According to TRAI sources, public wireless network users need to be verified for security reasons through OTPs. “That is why the facility is limited to local mobile numbers and those using international roaming at Indian airports,” they say. 
+ 
+ But this has been causing grave inconvenience for international passengers, who’re forced to sit through flight delays and long layovers without internet access. While passengers who have international roaming packs may not require free Wi-Fi at airports, the service in itself is expensive.
+ 
+ Coupons, apps don’t work for all 
+ 
+ To address the issue, a few airport lounges in the country provide Wi-Fi coupons or mobile apps for internet access, but the problem remains largely unresolved. For instance, Bangalore International Airport Ltd’s (BIAL) mobile application — BLR Airport — allows passengers to access free Wi-Fi for two hours without an OTP. But the app is not iOS compatible, as Apple doesn’t open its platform for this integration, but most international travellers use iOS devices. 
+ 
+ D Sudhakara Reddy, founder and national president of Air Passengers Association of India, said they have received several complaints from international passengers about lack of free Wi-Fi. “It’s unfair to insist on having local mobile numbers to access free Wi-Fi at airports. Most international airports don’t have such restrictions.”
+ 
+ While Wi-Fi connectivity is available at all passenger-waiting areas, one has to select the network and enter the mobile number. Once it’s entered, an OTP is generated, which then needs to be entered into the web page. Many passengers complain that Wi-Fi coupons aren’t available at most Indian airports.
+ 
+ 
+ 
+ 
+ While TRAI chairman R S Sharma was unavailable for comments, Rajan S Mathews, director general, Cellular Operators’ Association of India (COAI) , an apex body representing private telecom companies, said: “The restriction on free Wi-Fi access for passengers with international SIM cards could be because of security reasons as there is no mandatory KYC (know your customer) check for international mobile phone connections.”
+ 
+ A recent tweet by Tanishq Mohta to Jayant Sinha, minister of state for civil aviation, reads: “My sister who came from the US didn’t have an Indian number thus couldn’t receive the OTP and couldn’t access Wi-Fi even to inform us that she has reached (sic).”
+ 
+ Ashish Anand, another netizen tweeted: “Dubai, Washington DC all give us free wifi without requiring OTP. Why airport in India can't have same thing? (sic).” 
+ 
+ When contacted, a BIAL spokesperson, said: “ At KIA, the internet service provider is Tata Docomo. It’s a wrong perception that international SIM card-holders cannot use the service. The landing page of the TATA Docomo clearly specifies the list of countries allowed access. There is a helpdesk/call center number mentioned on the site. If any passenger finds it difficult to connect to the Wi-Fi, he/she can seek support.”
+ 

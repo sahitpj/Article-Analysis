@@ -1,0 +1,61 @@
+
+ 
+  Name: Mebiena Michael
+  Age: 19
+  Place: Madikeri
+  Hobbies: Dancing, modeling, yoga and swimming
+  
+  Name: Shahan Ponnamma
+  Age: 22
+  Place: Madikeri
+  Hobbies: riding bikes, dancing and modeling
+  
+  Name: Abhijna Bhat
+  Age: 19
+  Place: Udupi
+  Hobbies: Acting, classical dance and shopping 
+  
+  Name: Spoorthi Gowda
+  Age: 21
+  Place: Shivamogga
+  Hobbies: Likes to party, shopping and modeling
+  
+  Name: Shamitha Manjegowda
+  Age: 25
+  Place: Bengaluru
+  Hobbies: Reading and interested in modeling
+  
+  Name: Bavin Machamada
+  Age: 20
+  Place: Madikeri
+  Hobbies: She plays basketball and badminton
+  
+  Name: Arpitha
+  Age: 24
+  Place: Bengaluru
+  Hobbies: An adventure enthusiast, rides bike and does swimming
+  
+  Name: Sharanya
+  Age: 20
+  Place: Bengaluru
+  Hobbies: She does acting and modeling
+  
+  Name: Asiya Begam
+  Age: 19
+  Place: Bengaluru
+  Hobbies: She listens to music, interested in acting and modeling
+  
+  Name: Priyanka
+  Age: 25
+  Place: Maddur
+  Hobbies: Acting. She has already acted in few films like Adhyaksha and Aatagara
+  
+  Name: Prateesha Narayan
+  Age: 25
+  Place: Bengaluru
+  Hobbies: She plays tennis during her free time
+  
+  Name: Bhavana
+  Age: 19
+  Place: Bengaluru
+  Hobbies: Dancing, doing dubsmash and acting

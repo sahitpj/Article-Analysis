@@ -1,0 +1,26 @@
+NEW DELHI: On Monday morning, Congress deleted its official app ‘With INC’ from the Google Play Store, making it unavailable for Android users. The deletion came amid 
+  between the Grand Old Party and BJP over potential misuse of subscriber data on their apps. On Sunday, the BJP-owned   app had tweaked its privacy and data use disclosure.
+
+ 
+ The Congress app’s deletion came soon after a French cybersecurity researcher who goes by the pseudonym Elliot Alderson found security issues with a web page associated with the Congress. He pointed out that the web address membership.inc.in used the soon-going-out-of-favour HTTP protocol instead of HTTPS, which is more secure. He also said that the IP address for this website indicated its server was hosted in Singapore.
+ 
+ The app’s deletion came after Congress had spent the weekend tweeting issues with the NaMo app. It was again Alderson who had flagged privacy concerns with third-party data sharing with the PM’s eponymous app on Saturday. It was discovered to be sharing data with US-based behavioural analytics company Clever Tap, though it stated that “personal information and contact details shall remain confidential”.
+ 
+ It has since tweaked it to acknowledge “certain information may be shared with third party services…to offer contextual content…personalized experience”.
+ 
+ A cybersecurity expert with a private bank said while there is no law mandating political parties to host their servers within India, there are security risks in hosting them overseas. “The Reserve Bank of India, for instance, hosts all its information on a cloud service in Hyderabad. That cloud is unconnected to any global cloud service provider — protecting the integrity and security of its network,” said the security expert, requesting anonymity.
+ 
+ Congress’ head of social media and digital communication   confirmed the app’s deletion from the Play Store to TOI and said the membership URL tweeted by Alderson was outdated. “It was primarily a membership app. Those who had it were using it for social media updates. Five months ago, we transitioned from app to website for membership. People on the app were still being led to the old membership URL which was http://membership.inc.in which caused this confusion. So we took it down,” said Spandana. When TOI checked this URL on Monday, it resulted in a page that said, “If you are interested in membership please visit www.inc.in.”
+ 
+ The hashtag #DataChorCongress trended nationally on Monday with BJP politicians using it in their tweets. Congress politicians had earlier been tweeting with the hashtag #DeleteNaMoApp.
+ 
+ BJP and Congress have targeted each other with allegations of data harvesting. The now-deleted Congress Android app asked for photos, media, files, storage, camera, WiFi connection information, and network information. The Narendra Modi app wants its users’ permission to access their photos, media, files, storage, device ID, call information, accounts and contacts on device, location, camera, microphone, and network information, 
+  earlier.
+ 
+ On Sunday, BJP tweaked the privacy disclosure on the app. It earlier read, “Your personal information and contact details shall remain confidential and shall not be used for any purpose other than our communication with you. The information shall not be provided to third parties in any manner... without your consent.”
+ 
+ The updated one now concedes that it may be shared with third parties, albeit defining use cases. Under the new policy, “Certain information may be processed by third party services to: offer you the most contextual content, show content in your own language, update you when the PM is in your state, give you a unique, personalized experience according to your interests and give you important updates on email and SMS.”
+ 
+ The BJP on Sunday claimed Congress’s #DeleteNaMoApp campaign had resulted in an uptick in app downloads for them.
+ 
+ 

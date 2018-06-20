@@ -1,0 +1,14 @@
+MUMBAI:   could be vulnerable to   even after they link their   messaging systems with core-banking software as fraudsters and even malware can delete transaction logs from their systems. 
+
+ 
+ This is because most lenders have not subscribed to real-time flow monitoring applications, which allows them to reconcile transactions by pulling data from the Society for Worldwide Interbank Financial Telecommunication,or SWIFT servers.
+ 
+ The RBI has set April 30 as the deadline for lenders to link their core-banking software with their SWIFT messaging system. 
+ 
+ “We have seen instances of cyber-attacks, where the bank environment gets compromised. In such cases, fraudsters delete data logs in the bank system, after initiating a fraudulent transaction. There are   tools with SWIFT that lenders can use to guard against such eventualities, like   (real-time flow monitoring) tool,” said SWIFT India CEO Kiran Shetty.According to SWIFT India CEO  , “There are reconciliation applications that banks can use. The real-time flow monitoring application can reconcile transactions and identify unauthorised transactions by pulling down transaction details from SWIFT servers and reconcile them with transaction from banks.”
+ 
+ Last week, SWIFT announced a new service enabling lenders to track their payment instructions at all times through the network, and giving them full visibility and control over their payments activity. The GPI   system also enables banks to check if the intermediary lender is lifting any fee from the transaction. “The tracker is useful from a security standpoint as well. If there is fraud, the bank can immediately see where the money is and by hitting the stop button they can conveniently initiate the reversal process. Banks can also provide a unique   to their corporates. By extending tracker access to them, corporates can track status of their funds, enabling superior cash management experience at their desk,” said Shetty.
+ 
+ In February, City Union Bank was a victim to a cyber-attack that resulted in $2 million being transferred from the lender using SWIFT messaging. In 2016, Union Bank of India managed to thwart an attempt to defraud the lender of $171 million through a cyber-fraud using the SWIFT system. The lender moved quickly to recover the money that had been moved out. The GPS tracker would help prevent similar frauds in future.
+ 
+ 

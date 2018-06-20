@@ -1,0 +1,15 @@
+NAGPUR: With a couple of instances of errors in distance mapping for   admission forms coming to fore, parents have called for a fresh round of lottery. A parent shared an RTE document with TOI in which his residence is showed as being 0.6 km away from a CBSE school in Civil Lines. “The actual distance is around 4 kms as I stay near TV Tower at   and the aerial distance is just over 2 kms according to   Map,” the parent said. 
+
+ Though the parent is ineligible for admission to that particular school (as preference is being given to those living in 1km-3km radius), it has raised questions about other possible mistakes in the RTE lottery software.
+ 
+ Shahid Sharif, an RTE activist, said, “The software developed by   is flawed, specially when it comes to mapping the residence of applicant during online form submission. Google Map opens up and parent has to place the balloon on his residence.” This enables the software to mark the longitude and latitude of residence.
+ 
+ Sharif said, “We are convinced the Google Map is not working properly because even though the parent placed balloon near Seminary Hills on the map it ultimately marked it near Civil Lines. This has to be rectifed.”
+ 
+ The education department, however, feels it would not be prudent to jump to conclusions yet.  , senior official at the Mantralaya, said, “I have been informed over the phone by Nagpur-based activists about it, but am yet to see actual documents. We will definitely look into the matter once all details come to us.” 
+ 
+ He explained the technical side of RTE lottery was sound and intact. “The Google Map software has a simple concept of placing the balloon at your residence. During submission when the map opens, the user is asked to type a landmark near his residence as that makes it easy to locate on map. From the landmark, the balloon is to be shifted to residence for final marking. I strongly feel we must try to identify if error in mapping is a system-mistake or a user-mistake,” said Gaikwad. 
+ 
+ According to sources, local education department officials may meet on Wednesday to discuss this issue. 
+ 
+ 
