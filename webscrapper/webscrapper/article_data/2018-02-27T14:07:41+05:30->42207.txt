@@ -1,0 +1,13 @@
+NAGPUR: Scientists in Pune based Inter-University Center for Astronomy and Astrophysics (IUCAA) are using   (AI) to image and understand the millions of galaxies in the universe. The study is particularly identifying ‘bar’ like patterns in the galaxies. It is also trying to study collisions of galaxies.
+
+ Former IUCAA director and renowned astrophysicist, Prof Ajit Kembhavi told TOI that a technique, ‘Deep learning’, is emerging as a good tool of AI which is helping scientist understand the universe. He was in city for four-day international conference “The Physical Universe’ hosted by the   (CIRI) and Nagpur University.
+ 
+ Kembhavi said deep learning was advanced stage of ‘machine learning’ and worked on AI that allows phones or computers to do face reading or finger print recognition. “How does an unmanned vehicle work? It works by reading the objects in the path using AI. Similarly, digital reading of an image helps in recognizing the smaller patterns in it. It works exactly like human brain which puts various images together, especially subtle characteristics, to make a complete image,” he said.
+ 
+ Similarly, deep learning is used to by astronomers in distinguishing patterns in galaxies, explained Kembhavi. There are lakhs of galaxies and it is impossible to study them individually from their images. Hence AI is being used to identify characteristics of the galaxies. Results obtained so far are put in the Big Data project funded by the National Knowledge Network.
+ 
+ Earlier, in the inaugural session of the conference the Nagpur University vice-chancellor S P Kane said that cosmology or study of universe was one of the most difficult sciences. Pune University VC Nitin Karmalkar, MLC from graduate constituency Anil Sole, CIRI director Sanjay Wagh and renowned astrophysicist Jayant Narlikar were also present.
+ 
+ Gayoung Chon and Hans Bohringer from the Max Planck Institute of Extra terrestrial Physics garching Germany, Kembhavi and JinLin Han from National Astronomical Observatories, Chinese Academy of Sciences, delivered different talks on the first day. The talks were chaired by Sailo Mukherjee, Martin Bucher and Patrick Dasgupta.
+ 
+ 

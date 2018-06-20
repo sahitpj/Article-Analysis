@@ -1,0 +1,11 @@
+Mumbai: Users of Google’s   will soon be able to load their cards and enable ‘tap and pay’ in the payments app. The internet giant also plans to make Tez payments available for other   products as well, which means that users in future will be able to make payments through email and see shops accepting Tez on Google Maps.
+
+ Speaking to TOI, Google VP   said that the company is working on getting merchants on board the platform. “Right now, merchant transactions are on a smaller scale with them leveraging the peer-to-peer platform. What we are doing is making sure we have the right product and services for merchants,” she said. 
+ 
+ Tez has already added 90 billers, including most of the major utility and financial service firms. On the cards is expansion of the call centre to provide support for merchants and new features such as better discoverability on maps for merchants accepting Google Tez.
+ 
+ Globally, the internet giant channels consumer payments through Google Pay, which facilitates a process called tokenisation, in which a token stands in for a customer’s actual credit and debit card numbers. The application dematerialises the card and enables customers using ‘tap and pay’. 
+ 
+ In India, the Tez app facilitates account-to-account payments using the   (UPI) platform. In addition, it will get all the features of Google Pay. However, Google has no plans to apply for a prepaid instrument licence in India, Layfield said. The application has already got 13.5 million active users and sees 250 million transactions every month. On Tuesday, Google announced an integration of Tez with SBI, which will allow Tez users to create an   UPI Id — @oksbi — and get access to exclusive offers for SBI customers. While customers with any bank account can get on board Tez, Google — being a non-bank — needs to partner a lender to access the UPI platform, which enables account-to-account payments. Hitherto, Google had partnered Axis Bank, HDFC Bank and ICICI Bank. SBI is the fourth lender to partner Google.
+ 
+ 

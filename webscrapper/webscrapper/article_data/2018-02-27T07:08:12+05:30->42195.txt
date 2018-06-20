@@ -1,0 +1,9 @@
+HYDERABAD:   chief executive officer Ajay Bhushan Pandey on Monday had a word of caution for data platforms in the country, saying data privacy and protection should be top priority.   which has millions of public records should also be fortified. 
+
+  was announced in the recent budget by the Union government. While building   database, UIDAI took data privacy and protection as a fundamental principle due to which Aadhaar survived despite litigations, he said. Pandey was addressing the national conference on e-governance at Hyderabad International Convention Centre.
+ 
+ Ajay Bhushan Pandey said, "While we are doing the exercise of building data platforms, we try to ignore privacy and data protection. Sometimes, we may take a dismissive view on privacy and protection. I must give a word of caution here. In 2009-10 when we were designing Aadhaar program, we were particular about data privacy. In last seven and half years even dozens of petitions are filed in Supreme court, and till the final word is spoken yet we survived because we presumed data protection as fundamental despite there is no data protection law,"
+ 
+ "We accordingly designed our system so that we take consent for taking data and notify what purpose the data is being used and will not disclose data to anyone. Otherwise, we would have met a different fate."For instance work is on for health-stack building for NHPS. It contains a lot of personal and health data. Unless security of health information is taken care, you will not go very far. Any personal or health or financial data has to be protected," said Pandey.
+ 
+ 

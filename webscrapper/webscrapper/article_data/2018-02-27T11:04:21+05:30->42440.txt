@@ -1,0 +1,15 @@
+THIRUVANANTHAPURAM: With the mobile-phone based   of   introduced in   becoming a success, the state police have launched electronic police verification in five other police districts - Thrissur rural, Kannur, Palakkad, Kozhikode rural and Ernakulam rural.
+
+ 
+ Police have sanctioned Rs 7 lakh for each police district to purchase smart mobile phones for the purpose. As per the directive of state  , accessed by TOI, the project will be implemented within one month in these districts by bringing the   (FVO) designated for the purpose in police stations under the special branch.
+ 
+ The indigenously developed passport verification application ‘e-VIP’ will be utilized for the purpose with necessary customization for each district. The deputy superintendent of police attached to the district special branch along with two techsavvy policemen are undergoing training under Malappuram district police where the project was implemented on a pilot basis.
+ 
+ The e-VIP application is expected to help cut down the time for verification from existing 21 days to four days. The mobile application was launched in Malappuram district on a trial basis and was found to be a huge success.
+ 
+ As per the new system, instead of despatching the application forms in physical format, they will be forwarded to district crime records bureau (DCRBs) by using e-VIP web application within a day.
+ 
+ Once the applications are cleared by DCRBs, the district special branch will digitally dispatch the files to concerned field verification officers (FVOs) attached to the police station under which the applicant resides, through the mobile application. The FVO will visit the applicant’s home and verify his original documents submitted during passport verification at Passport Seva Kendra, using a smartphone. An image of the applicant’s signature is also captured by the FVO, which will be integrated in the passport application form during the verification process. After verification the FVO will return the police verification report (PVR) to district special branch directly with his digital signature by using the mobile application. A comparison of the data for Malappuram for September and November (it was launched on November 1) revealed that while the number of applications for which the verification was completed within 21 days (which is the maximum time allowed) increased to 99.94% from 55%.
+ 
+ The mobile application not only saves time, but also ensures that the applicant is not summoned to the police station for verification, and instead the police official has to go to the residence of the applicant as the signature verification is GPS tagged. In addition, the public can view the status of their application by typing a 15-digit file number at the prescribed space in the mobile application, convey remarks to the concerned district police chief and receive the date and time of house visit by police officer for the purpose of verification.
+ 

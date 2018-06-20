@@ -1,0 +1,40 @@
+MUMBAI: The fraud at   ( ) is reported by the lender to have been committed by a deputy manager who sent unauthorised messages through the   messaging system. In an interview with TOI, SWIFT India CEO   explains how weakness in an institution’s local environment can be used by fraudsters. Recent incidents have taken place because lenders have ignored SWIFT requirements of a controlled framework securing the bank’s end-to-end transaction ecosystem, including payments, securities, trade and treasury. From next year therefore, SWIFT has said that it reserves the right to report to the supervisor banks that do not confirm full compliance.
+
+ 
+ 
+ 
+ SWIFT is a global member-owned cooperative that is headquartered in Brussels, Belgium. It was founded in 1973 by a group of 239 banks from 15 countries who formed a cooperative utility to develop a secure electronic messaging service and common standards to facilitate cross-border payments. SWIFT carries an average of approximately 26 million financial messages each day. The majority of SWIFT system customers are banks, but it is also used by asset managers, broker dealers, market infrastructures and corporates.
+ 
+ 
+ 
+ 
+ There is no indication that SWIFT’s own network or core messaging services have ever been compromised. In all of the customer incidents we have seen, customers first suffered security breaches within their local environments. Breaches in local infrastructure have been a common starting point for such frauds. Any customer that fails to ensure the physical and logical security of its environment, including from malicious insiders, is potentially at risk. While all customers are responsible for protecting their own environments, we have developed the   ( ), which aims to improve information sharing throughout the community, enhance SWIFT-related tools for customers and provide a security control framework. Also, SWIFT has introduced a set of core security controls that all users must meet to secure their local SWIFT-related infrastructure. As of April 2017, 89% of SWIFT customers have attested their compliance.
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ Attackers can rapidly scale and replicate the fraud worldwide, so constant vigilance is of the highest importance. The threat landscape adapts and evolves daily, so both SWIFT and its customers have to remain vigilant and proactive over the long term. Attacks against individual customers will not necessarily be perpetrated by remote outsiders — malicious insiders present just as much risk. Therefore, internal controls such as  ,  ,   and   are important security measures that should be in place throughout organisations.
+ 
+ 
+ 
+ 
+ Even with strong security measures in place, attackers are very sophisticated and it is vital to manage security risks in counterparty relationships so that the risks associated with payment flows can be minimised. Strong prevention and detection measures are necessary alongside the foundations of good security practices with an organisation, and SWIFT has therefore developed a number of tools to facilitate customers in these areas. In what will mark a significant step-change, all SWIFT customers will need to re-attest and to confirm full compliance with the mandatory security controls by the end of 2018. All SWIFT attestations will also have to be renewed annually thereafter.
+ 
+ 
+ 
+ 
+ SWIFT does not comment on particular customers. In each of the incidents we have seen, customers first suffered security breaches within their local environments – whether perpetrated by remote attackers, or malicious insiders.
+ 
+ 
+ 
+ 
+ In any payment system, a mechanism is required to initiate payments and to ensure that the actor initiating a payment is authorised to do so. Whatever the underlying technology of the payment system, if the identity credentials of an authorised actor are compromised, a malicious third-party with access to those credentials will be able to initiate fraudulent payments. A payment system based on blockchain/DLT technology is no more immune to this type of fraud than one based on electronic messaging. 
+ 
+ To take the example of bitcoin — the most widespread blockchain implementation — if the private key of the owner of a sum of bitcoin is compromised, the possessor of that key can transfer the bitcoin elsewhere.
+ 
+ 

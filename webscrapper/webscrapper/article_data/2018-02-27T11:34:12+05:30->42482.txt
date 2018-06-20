@@ -1,0 +1,34 @@
+WASHINGTON: Researchers have discovered a receptor that protects humans against   and  .
+
+ According to a study conducted at Johns Hopkins Bloomberg School of Public Health, a special receptor on cells that line the sinuses, throat and lungs has evolved to protect mammals from developing a range of allergies and asthma.
+ 
+ The scientists found that the receptor, dectin-1, recognises a protein found in house dust mites, cockroaches, shellfish and other invertebrates, and responds by suppressing immune reactions to these common triggers of allergy and asthma.
+ 
+ The scientists also found evidence that this protective mechanism is dramatically impaired in people who have asthma or chronic sinusitis due to dust-mite sensitivity.
+ 
+ "Everyone is exposed to these substances, yet most don't have allergic responses to them, and this mechanism we've discovered appears to explain why," said study senior author Marsha Wills-Karp.
+ 
+ The finding also suggested new ways to treat or prevent allergies and asthma, which afflict tens of millions of people in the U.S. alone.
+ 
+ The discovery also hinted that while dectin-1 protects against dust-mite and other invertebrate-related allergic responses, there may be additional, undiscovered receptors that suppress allergic responses to pollens and other airborne and dietary allergens.
+ 
+ Dectin-1 previously has been studied as a receptor that recognizes structures on fungi and other microbes and triggers immune responses to them. There have even been suggestions that dectin-1 helps trigger allergic responses to dust mites.
+ 
+ To investigate, Wills-Karp and colleagues, including postdoctoral researcher  , who were first authors of the study, studied mice that were genetically engineered to lack dectin-1.
+ 
+ The researchers found to their surprise that the airways of these dectin-1-deficient mice were more prone to inflammation after exposure to dust mites compared to otherwise identical mice whose airway cells expressed dectin-1 normally.
+ 
+ Blocking dectin-1 with antibodies had the same allergy-promoting effect. Thus, dectin-1 protects against dust-mite allergies rather than promoting them.
+ 
+ The scientists determined that dectin-1, in addition to its fungus- and other pathogen-detecting duties, directly recognizes a protein called   that is found in house dust mites and other invertebrates. Tropomyosin has previously been implicated as a possible trigger for asthma and shrimp allergies.
+ 
+ The experiments indicated that when dectin-1 recognizes tropomyosin in house dust mites, shrimp or other common allergy-triggering species it suppresses airway cells' production of an immune molecule, IL-33, which otherwise would promote an allergic response by immune cells.
+ 
+ Underscoring the relevance to humans, the researchers studied nasal and bronchial cells from people who suffer from asthma or chronic rhinosinusitis (nasal congestion/sniffles) due to dust-mite sensitivity and found that on average these cells had a markedly lower expression of the dectin-1 gene.
+ 
+ "Our findings suggest that people who have sufficient dectin-1 in the cells that line their airways won't experience an allergic response when exposed to airborne dust mites or related allergens--but people with a defect in dectin-1 expression will lack this protection," Wills-Karp said.
+ 
+ The findings point to the possibility of boosting dectin-1 levels, or otherwise restoring its protective effect, as a new therapeutic strategy against asthma and allergies that are related to dust mites, shrimp or other invertebrate triggers.
+ 
+ The study is published in the Journal Science Immunology.
+ 

@@ -1,0 +1,25 @@
+NEW DELHI:   has grounded three of its   A-320 new engine option (Neo) aircraft, following a safety alert issued by European aviation agency over some variants of the Pratt & Whitney engines used on them globally. This grounding from Friday has led to some flight cancellations of IndiGo.
+
+ 
+ Directorate General of Civil Aviation chief B S Bhullar said: "Indigo has three such aircraft, which have been grounded. Go Air A320neo fleet has no such issue."
+ Confirming this, an IndiGo spokesman said: "IndiGo confirms the receiving the recommendations by Pratt & Whitney as well as European Aviation Safety Agency (EASA) with respect to the A320neo aircraft powered by PW1100G – JM engines. The recommendations are with respect to a certain sub-population of engines, with a particular engine configuration. IndiGo has only three such affected aircraft.
+ 
+ As soon as IndiGo learnt of these developments, IndiGo had proactively withdrawn the three A320neo aircraft from service (from) February 9," an IndiGo spokesman said.
+ EASA has issued an emergency airworthiness directive warning of a potential “dual engine” inflight shutdown on A320neo-family aircraft powered by PW PW1100G geared turbofan (GTF) engines.
+ 
+ An Airbus spokesman said: “Following an issue identified on a limited number of recently delivered Pratt & Whitney GTF engines affecting the High Pressure Compressor aft hub, Airbus and Pratt & Whitney are assessing the situation.
+ 
+ Pratt & Whitney, the engine manufacturer, is investigating the root cause of this new finding with the full support of Airbus. The efforts of both companies are directed to support customers and operators to minimize any disruption."
+ 
+ "In line with standard airworthiness procedures, EASA, the European Aviation Safety Agency has published an Emergency Airworthiness Directive. Airbus has informed its affected A320neo customers and operators. To date, 113 Pratt & Whitney powered A320neo family aircraft are flying with 18 customers," Airbus spokesman added.
+ "Pratt & Whitney, with the support of Airbus, is in close contact with us to address the results of a recent finding related to the issue... Our precautionary measure of grounding the three aircraft resulted in cancellations of some of our flights. But we feel it was the best decision in the interest of our safe and reliable operations. The affected passengers have been accommodated in our other connections and flights of other airlines. The passengers have also been given choice of full refund as well," IndiGo spokesman said.
+ A senior   official said EASA issued emergency Airworthiness Directive for A320neo aircraft fitted with PW1100 engines having Engine Serial Number (ESN) P770450. This was due to several occurrences of engine in-flight shut-down (IFSD) and rejected take-off (RTO) involving A320neo family aeroplanes. "While investigation is ongoing to determine the root cause, preliminary findings indicate that the affected engines, which have high pressure compressor aft hub modification embodied from ESN P770450, are more susceptible to IFSD. This condition, if not corrected, could lead to dual engine IFSD," the DGCA official said.
+ 
+ Airbus has also issued Alert Operators Transmission (AOT) providing instructions to de-pair the affected engines and discontinue Extended range Twin-engine Operations (ETOPS) for aircraft fitted with affected engines.
+ 
+ Accordingly, EASA has imposed following restrictions with immediate effect:
+ a) Within 3 flight cycles (FC) from the effective date of this AD, do not operate aeroplane
+ having two affected engines installed.
+ b) Within 1 FC from the effective date of this AD, for an aeroplane having at least one affected engine(s) installed, Extended range Twin-engine Operations (ETOPS) operations are not allowed.
+ 
+ 

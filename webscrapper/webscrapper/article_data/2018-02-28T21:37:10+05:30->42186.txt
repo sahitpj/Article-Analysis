@@ -1,0 +1,19 @@
+HYDERABAD: A French security researcher on Monday breached the   government benefit disbursement portal ‘TSPost’ and lay bare its vulnerabilities. The portal has account details including Aadhaar numbers of 56 lakh beneficiaries of   (National Rural Employment Guarantee scheme) and 40 lakh beneficiaries of social security pensions (SSP).
+
+  
+  
+ The researcher,   with Twitter handle ‘Elliot Alderson’, who has been highlighting data insecurity of the Aadhaar database posted on his Twitter as to how the site is vulnerable to basic SQL (structured query language) injection, a common web hacking technique. In this technique, researchers used SQL code for attacking back-end database of Telangana disbursement portal to access confidential information.
+ 
+ The important application programming interface key (API key) of the portal and data tables of various beneficiary schemes like NREGA and SSP were breached thereby opening access to all the data of beneficiaries, including Aadhaar numbers.
+ 
+ 
+ 
+ 
+ Robert said, “In theory, a government website is very secure, but in India, it’s another story. http://tspost.aponline.gov.in is vulnerable to a basic SQL injection that allows an attacker to access the database of the website. To be clear, all the data on this website can be a dump. Telangana government officials say they are working on to fix it. For this website, they have to hire decent web developers to protect it from attacks.”
+ 
+ The researcher tweeted in the evening,” I don't know if I have to laugh or cry. http://tspost.aponline.gov.in owners fixed the issue by putting offline the website.”
+ 
+ About the breach, a   official said, “We are working on fixing the vulnerability after it was reported to us. It was online due to certain dependencies. We have taken off the site from the web, and we hope by Tuesday evening we will be able to set it right,”
+ 
+ Satish, COO of TSPost, said, “Our technical team is working on it. We can give an update on Tuesday.”
+ 
