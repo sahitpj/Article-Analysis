@@ -1,0 +1,19 @@
+JAIPUR: In what is suspected to be the first case of ransomware infecting a system in the state, a city-based charted accountant was hit by hackers who encrypted files on his computers and demanded money in Bitcoins to decrypt the files. They also threatened to corrupt the   if he failed to pay the ransom.
+
+ On Monday evening, Pulkit Khandelwal, who was at his office in Sindhi Camp, was locked out from accessing the files on his computer.
+ 
+ “It was 5.30 pm and I was in my office when I found that my computer which stored important files stopped working all of a sudden,” Khandelwal said, adding that he tried to access them on his computer but failed.
+ 
+ “A message flashed on my computer’s screen in which hackers said that I must pay a certain amount in Bitcoins if I wanted all my files and documents back,” Khandelwal told TOI.
+ 
+ While the hackers did not mention the exact ransom amount, they asked him not to report the matter and threatened to corrupt all his files, including documents related to his clients.
+ 
+ “There are passwords, digital signatures and KYCs of my clients stored in my computer. It could cost me up to Rs 6 lakh,” he said. Khandelwal filed a complaint with Bani Park police station after which an FIR was registered under different sections of the IT Act, and Section 384 (extortion) of the IPC.
+ 
+ In his complaint, Khandelwal said that hackers had asked him to contact them on email. “The hackers offered to return five files as a sample to show me that the system has been hacked and I had to pay the ransom,” he said, adding that he did not reply to the message and decided to report to the police.
+ 
+ An official with the cyber police said that it could be one of the first reported case of ransomware infecting a system in Rajasthan. “We can’t confirm at this stage but the attack has all the trappings of ransomware,” the official said.
+ 
+ Meanwhile, Khandewal said that the malware also infected another hard drive. “I am also taking the help of cyber experts to get back my data,” he said.
+ 
+ 

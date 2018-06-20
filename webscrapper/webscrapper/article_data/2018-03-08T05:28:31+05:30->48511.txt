@@ -1,0 +1,19 @@
+INDORE: The Indore cell of state cyber police on Wednesday raided an advisory company in   area in a   action for allegedly buying stolen call data record of mobile phones and using it. 
+
+ Cyber cell had received complaints against some persons illegally providing   in exchange for money a few months ago. “We received information that the CDRs were sold on some particular email IDs and based on it a follow-up action is being initiated against those who bought it,” said cyber SP Jitendra Singh.
+ 
+ On Wednesday, a team of cyber police raided Rudra advisory investment company in Vijay Nagar area in this connection. A case was registered against the company owner. 
+ 
+ While the CDRs of a person or a company provide a huge call base, they have also been used to hack into the customer base of the rival companies and steal their customers. 
+ 
+ Mostly, CDR obtained by the accused, have been sold to the investment advisory firms in city. “Many companies have taken out the CDRs of their rival firms to penetrate their customer base and hack into it,” said SP Singh.
+ 
+ One of the accused took out the CDRs of more than 18 companies and sold it to the customers. Starting from online shopping agencies to outsourced BPOs of power companies, many CDRs have been sold by the accused. 
+ 
+ The accused used to procure the CDR on the end of the month in relation with the billing period of the person/company. 
+ 
+ As soon as the bills were generated, they could easily access it and make the PDF copies of the bills. The PDFs were then sold to the customers based on the amount of numbers present on the bill. Higher the numbers, higher would be the price. 
+ 
+ There is possibility of involvement of people from the telecom companies and data suppliers. Further investigations will reveal more names, said the cyber SP.
+ 
+ 

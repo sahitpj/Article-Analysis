@@ -1,0 +1,11 @@
+Mumbai:   has launched the country’s first artificial intelligence-powered   in the banking sector. The voicebot has been developed using a library of millions of phone-banking conversations over the past three years.
+
+ The lender has integrated the voicebot Keya, which can understand both Hindi and English, with its phone-banking helpline.   uses automatic  ,   and  . It is powered by  , the technology behind Apple’s Siri. However, the bank is not using voice for  .
+ 
+ “Of all the mediums through which customers can interact with us, voice is the most preferred,” said Puneet Kapoor, senior executive VP, Kotak Mahindra Bank. According to him, the reason behind it was that customers can get their issues resolved in a single interaction.
+ 
+ The voicebot uses natural language understanding to navigate the customer directly to the destination where he can get his issue resolved. It saves time by bypassing the various options in an interactive voice response system (IVRS). Keya has been trained to recognise voice of customers across the country and can covert speech to text irrespective of the accent of the customer.
+ 
+ The lender plans to keep adding to the library based on customer queries so that more responses can be automated. “Even when you look at how the global ecosystem is evolving, voice is emerging to be the preferred medium. According to one study, 50% of all searches will be voice-based by 2020. If you look at all the bots — Siri or Alexa — they started as text and evolved into voice-based commands,” said Kapoor. For the bank, which is planning to double its customer base, Keya helps in efficient agent utilisation and better deployment at the Kotak contact centre as simpler calls get automated and complex calls get routed for human assistance. If Keya is not able to address the request, the call gets seamlessly transferred to an agent who can pick up the query from where the machine left off.
+ 
+ 

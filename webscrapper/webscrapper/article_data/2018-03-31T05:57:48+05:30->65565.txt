@@ -1,0 +1,11 @@
+KOCHI: The incident in which a high court judge in Kochi lost about Rs 4,320 to   fraud could be an instance of a   as the money was deducted after the fraudster got the   by remotely accessing the user's phone, say experts. 
+
+ It was the second incident in the past one week in which a city resident had lost money due to online fraud. 
+ 
+ In the first case, a woman was duped into revealing her OTP to the scamster and was swindled of Rs 1.6 lakh. However, experts say, in the case of the judge, though he lost only Rs 4,320, it points to a more alarming trend as the money was lost without a direct involvement of the victim during the entire transaction.
+ 
+ According to   experts, the fraud seems to have happened through remote accessing of the phone after gaining access through apps like games or other software installed in the phone.
+ 
+ "A possibility of accessing an OTP without even the knowledge of the customer is possible if the mobile phone is accessed remotely. In most cases, the access is gained through an application. For instance, a   or an app for a torch would have been given permission to access the SMS application in the phone. In case such an application is installed, then the fraudsters can easily hack into the phone, read the message and even delete it," said Vinod Bhattathiripad, cyber forensics expert.
+ 
+ 

@@ -1,0 +1,27 @@
+Google's   technology is being used by the   to analyse drone footage, a rare and controversial move by a company that's actively limited its work with the military in the past. 
+
+ 
+ The collaboration was accidentally revealed in an internal mailing list shared last week, setting off a firestorm among the company's employees, some of whom expressed outraged at use of the company's resources for surveillance technology involved in drone operations, according to a report on tech website Gizmodo.
+ 
+ The tie-up is part of a pilot project known as Project Maven, and most likely involves   staffers helping the military figure out how to use TensorFlow application programming interfaces, or APIs, and other AI technologies. APIs are software-based rules that let computer programmes communicate. TensorFlow is a popular set of APIs and other tools that help build artificial intelligence capabilities like machine learning and computer vision.
+ 
+ Google did not disclose financial terms of the contract. The feature is part of a recent   contract won by Google's cloud unit, which is trying to wrest more government spending from cloud-computing leaders Amazon and Microsoft. Alphabet's Google bids on federal contracts and supplies some equipment to the military, but it has so far been sensitive about how its technology is used.
+ 
+ 
+  
+ 
+ A Google spokeswoman said, "The technology flags images for human review, and is for non-offensive uses only. Military use of machine learning naturally raises valid concerns. We're actively discussing this important topic internally and with others as we continue to develop policies and safeguards around the development and use of our machine learning technologies."
+ 
+ Google is trying to downplay the revelation as business as usual. The company's official statement stresses that Google has always worked with "government agencies". Google also insists that the contract is for "non-offensive" uses.
+ 
+ But it's not clear what exactly "non-offensive" means. Google technology may not be part of a Skynet-like system that allows   to automatically fire missiles when Google's AI technology detects an enemy target.
+ 
+ But Google's AI technology will allow drones to distinguish between a school with students carrying books and a bunker with gun toting fighters. However, it will still be up to military analysts to then decide whether or not to strike a target.
+ 
+ The collaboration appears alarming as Google has accumulated vast amounts of personal data about users' lives — from their search history, to the places they go using Google Maps.
+ 
+ The tie-up comes as a bit of a surprise, considering in 2014, after Google bought AI specialist DeepMind, the firm set up an ethics committee to ensure the technology wasn't abused.
+ 
+ 
+ 
+ 

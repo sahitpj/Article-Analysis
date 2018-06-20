@@ -1,0 +1,13 @@
+LUCKNOW: Probing the   (UPPCL) junior engineer (trainee) recruitment paper leak, UP police's special task force ( ) claimed on Friday that the system adopted by  , the firm hired to conduct the online exam, was not foolproof. 
+
+ Investigation officer of the case, ASP (STF)   said that Aptech had conducted the exam by forming a three-tier system, the first being the authoring team which prepared questions along with the answer key and send them to the infra team. The first team did not have a plan-B and there was no spare set of questions in case of a leak. 
+ 
+ The infra team had to upload the questions in a software and then transfer it from servers to the centres.
+ 
+ The company had assured that the questions are locked with a by password and will get decrypted only at the time of exam, and no software can breach it. However, remote access control compromised the data. 
+ 
+ In the third tier was the local centre team which had to oversee the centres where exam was to be conducted. This team never paid a visit to the centres. The logging PIN of the computers where the candidates had to take exam was also distributed in advance, said Singh.
+ 
+ SSP (STF)   said, "We are hunting for more intermediaries and solvers in connection with the paper leak. A team has been formed and hunt is under way. The STF said that a detailed report about the lapses in the examination is being prepared and will be sent to the home department for further action.
+ 
+ 

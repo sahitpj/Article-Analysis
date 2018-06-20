@@ -1,0 +1,24 @@
+BENGALURU: With European companies outsourcing more even as Trump raises barriers in the US, large Indian and MNC IT services firms are strengthening their capabilities in Europe. A number of development centres have come up over the past year especially in Central and  . This is both to cater to clients in Europe, as also to tap into the pockets of engineering and tech talent in countries like Poland, Romania, Bulgaria, Hungary and Ireland. The talent is technically very good – though the numbers aren’t as large as in India and the US – and they bring necessary language skills.
+
+ 
+ Eastern Europe has traditionally been strong in engineering, science and math skills. A Medium post by Ewa Treitz, partner at Black Pearls VC, said 200,000 students graduate in engineering and sciences every year from the universities in the Central and Eastern European countries that are part of the European Union. This talent is hard to ignore when tech firms look for talent in emerging technologies like AI, big data, analytics, app development, augmented reality and virtual reality.
+ 
+ In the last one year alone, at least 20 development centres have sprung up in countries like Poland, Romania, Bulgaria, Hungary, Austria and Ireland. Last April,   added its newest facility in Karlovac in Croatia. The centre will service clients in the Nordics, but the focus would be on consolidating consulting, IT and engineering skills in power generation, and design and development of large gas and steam turbines.
+ 
+ Accenture set up a centre in Riga in   with more than 170 professionals with expertise in Oracle technologies to serve new and existing clients in the Nordic and Baltic region. Wipro set up a specialized automotive centre of excellence (CoE) in Timisoara, Romania, hiring engineering graduates from top universities to work across technology domains such as in-vehicle infotainment, cluster display, telematics, connected cars and advanced driver assistance systems. Wipro already has 1,200 employees in Romania servicing 30 clients in retail and healthcare.
+ 
+  
+  
+ 
+ 
+ 
+ Peter Bendor-Samuel, CEO of IT consulting firm Everest Group, said there has been a long-standing trend to build out IT capacity in eastern Europe. “In fact, there are many very successful European IT firms such as Epam and Luxoft who differentiate themselves through their eastern Europe operations. There are several factors driving this investment. The traditional motivations are proximity and language skills. Both are increasingly important as the industry moves away from a factory orientation into a more intimate DevOps structure,” he said.
+ 
+ DevOps is a new agile way of software development that allows for delivery of applications and the improvement of these products at high velocity. Europe’s traditional reluctance to outsourcing also appears to be changing.
+ 
+ Rahul Singh, president of financial services in  , which set up a centre in Ireland last year, said that in the past, European companies would not move some of the work out of the continent, and would not give these to outsourced service providers. “But now, customers trust us as transformative partners,” he said. Today, HCL has 4,500 employees in Europe. For the past several quarters, IT firms’ European business has been growing substantially faster than the US business. In the third quarter of this fiscal, Europe grew year-on-year by 5.9% and US by a mere 0.7% in constant currency for Infosys. The corresponding figures for Wipro were 7.9% and 0.6%.
+ 
+ TCS’s growth in recent quarters has been led by Continental Europe. It grew 22.3% in the December quarter. In a recent management commentary, CEO Rajesh Gopinathan said the firm’s Europe performance is encouraging and is happening across a wide spectrum, both from a vertical industry perspective as well as from a region perspective. “If you look at the deals that we won, you will see a very good spectrum of deals in Europe. From a region perspective also, we have been strong in the Nordics and the Benelux region, and that continues to do well, Germany is performing very well for us, and even markets like France are coming back to double-digit growth now. Europe is a broad-based story,” he said.
+ 
+ Europe accounts for about a quarter of Indian IT firms' revenues, while the US is about 50% to 60%. This difference will narrow if the current trends persist. 
+ 

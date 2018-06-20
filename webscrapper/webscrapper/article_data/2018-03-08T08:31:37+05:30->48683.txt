@@ -1,0 +1,13 @@
+SURAT: In a step forward to becoming a smart and water efficient city, the   (SMC) has installed digitally-enabled flow meters for tracking, measuring and optimizing the water consumption on real-time basis. 
+
+ The municipal corporation has partnered with ABB India for installation of 240 digitally-enabled flow meters, mainly in Pandesara area, which houses numerous textile mills and other locations such as engineering college, hospitals and hotels. 
+ 
+ ABB India is enabling the digitalization of entire water management system of the   with its GSM (global system for mobile communications) enabled AquaMaster flow meters solution to measure water consumption in real-time. The next level technology will help SMC to study consumption patterns and explore areas of improvement for better water management, moving Surat ahead in its journey to becoming a Smart City.
+ 
+ “Digitally monitoring the consumption of a critical resource like water will help in more equitable distribution and optimize water management for the benefit of population of the city,” managing director of ABB India Sanjeev Sharma said.
+ 
+ The digital flow meters are installed in the inlet pipes of municipal water lines, enabling automatic meter reading (AMR) that measures water flow and send precise readings to the corporation’s central control centre through GSM connection in real-time, eliminating the burden of manual data collection and reducing error in readings. The data collected will provide computer-generated monthly and quarterly reports on the consumption patterns.
+ 
+ At present, the textile mills in the city consume over 50% of water supplied by SMC, while the remaining amount is consumed by households and other commercial establishments in the city. However, going forward, the corporation will be able to use the detailed information on the timings of the usage and peak hours of usage to optimize water management,” a senior officer in SMC said.
+ 
+ 

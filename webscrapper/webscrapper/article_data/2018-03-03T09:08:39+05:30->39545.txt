@@ -1,0 +1,22 @@
+Aircel, the telecom service provider who recently filed for bankruptcy, had made an announcement that its users will have to face connectivity issues starting on March 1, 2018. 
+
+ If you are an   customer and want to   your number from exiting service provider to a new service provider such as  , the process is very simple and easy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1) As a first step, you need to send an SMS from your existing Aircel mobile number that you want to port. Open the messaging box, type PORT, space your 10-digit mobile number and send it to 1900. For example, if your mobile number is 99XXXXXX00, the message will be — ‘PORT 99XXXXXX00’
+ 
+ 2) Once you send this message, you will get a revert from 1901 to verify the port request. After that you will also receive a Unique Port Code (UPC) SMS, which is required for porting from one service provider to another. This UPC code will be valid for 15 days only, so once you receive this SMS, make sure you provide this code to Reliance Jio executive for port within the mentioned timeframe, otherwise, you will have to generate the UPC code once again. 
+ 
+ 3) To be able to use Jio services, you need to have a VolTe 4G smartphone. 
+ 
+ 4) Visit any of the Reliance Digital or Reliance Digital Xpress Mini stores with the ‘UPC’ code and submit your documents such as Aadhaar number, passport size photograph, address proof and you will get your Jio SIM card.
+ 
+ 5) Once the porting process is complete, your existing Aircel SIM card will get deactivated and you will have to insert your new Jio SIM card in your smartphone.
+ 
+ 6) After this dial 1977 from your new Jio SIM for telephonic verification. Once you dial the number, you will be asked to enter last four digits of your identity proof that you submitted (Aadhaar card or voter ID card). After complete verification, your new Jio Connection will get active. 
+ 
