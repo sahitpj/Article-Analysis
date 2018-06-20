@@ -1,0 +1,22 @@
+HYDERABAD: A compound letter in the   alphabet is causing iPhones to crash worldwide.   is on the job of fixing it with an update. A bug with the letter ‘Gna’ in Telugu is making phones crash when a message with it is opened.
+
+ Complaints have poured in from different countries about the problem and alerts have been sent about the bug that is causing problems in iPhones.
+ 
+  
+  
+ 
+ 
+ ‘Gna’ is one of the 56 alphabets in the Telugu language and is described as a 'compound letter'. It is also not easy to type on the computer, though there are some apps which can help.
+ 
+ “The Telugu letter would have been computed with coding,” Professor   of   said, who is a language expert and has knowledge of computers.
+ 
+ As much one cannot type out the letter ' ' in Telugu as it is a compound letter. One has to type out several keys to get there using Telugu fonts. On one app,one has to write j, z, aa on the keyboard to form the letter. The letter 'Gna' or ' ' is used to form words like ‘Gnanam’ which means wisdom/ knowledge. ‘Agnathavasi’ is another word, which means someone who is away from everyone, and cut off from the rest of the world.
+ 
+ Being variously described as a 'text bomb' or a 'nasty letter', the Telugu alphabet is now known worldover, though not for all the good reasons. The letter used in a bug and sent to iphones through messages has been known to affect usage of Facebook, Whatsapp, messages and several other applications.
+ 
+ According to a reporton the website iMore, while Apple is tying to fix the problem, glitch has already been got rid of in the upcoming iOS 11.3 beta version.
+ 
+ "If you do receive a message with the symbol, delete the message. Do not open it," iMore said in a report. An iOS update which will be sent soon will help overcome the problem.
+ 
+ Acoording to a report on the Macrumors website if the Telugu character is sent via iMessage, the recipient's messages app will crash when the conversation is opened. "Likewise, if the character is pasted into the Safari or Chrome address bar on Mac, the browsers crash. This behavior extends to virtually any system text field on iOS and macOS, resulting in many third-party apps like WhatsApp and   being affected as well," the report stated.
+ 

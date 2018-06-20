@@ -1,0 +1,40 @@
+WASHINGTON: The mammalian brain can form a map of its surroundings based solely on smells, a study has found.
+
+ Researchers at   in the US have developed a new "smell virtual landscape" that enables the study of how smells engage the brain's navigation system.
+ 
+ The olfactory-based virtual reality system could lead to a fuller understanding of odour-guided navigation and explain why mammals have an aversion to unpleasant odours, an attraction to pheromones and an innate preference to one odour over another, researchers said.
+ 
+ The system could also help tech developers incorporate smell into current virtual reality systems to give users a more multi-sensory experience, they said.
+ 
+ "We have invented what we jokingly call a 'smellovision,'" said Daniel A   from Northwestern University.
+ 
+ "It is the world's first method to control odourant concentrations rapidly in space for mammals as they move around," said Dombeck, who led the study published in the journal Nature Communications.
+ 
+ Researchers have long known that odours can guide animals' behaviours.
+ 
+ However, studying this phenomenon has been difficult because odours are nearly impossible to control as they naturally travel and diffuse in the air.
+ 
+ By using a virtual reality system made of smells instead of audio and visuals, Dombeck and graduate student Brad   created a landscape in which smells can be controlled and maintained.
+ 
+ "Imagine a room in which each position is defined by a unique smell profile," Radvansky said.
+ 
+ "And imagine that this profile is maintained no matter how much time elapses or how fast you move through the room," he said.
+ 
+ That is exactly what Dombeck's team developed, using mice in their study.
+ 
+ Aided by a predictive algorithm that determined precise timing and distributions, the airflow system pumped scents - such as bubblegum, pine and a sour smell - past the mouse's nose to create a virtual room.
+ 
+ Mice first explored the virtual environment through both visual and olfactory cues.
+ 
+ Researchers then shut off the visual virtual reality system, forcing the mice to navigate the room in total darkness based on olfactory cues alone.
+ 
+ The mice did not show a decrease in performance.
+ 
+ Instead, the study indicated that moving through a smell landscape engages the brain's spatial mapping mechanisms.
+ 
+ Not only can the platform help researchers learn more about how the brain processes and uses smells, it could also lay the groundwork for human applications.
+ 
+ "Development of virtual reality technology has mainly focused on vision and sound," Dombeck said.
+ 
+ "It is likely that our technology will eventually be incorporated into commercial virtual reality systems to create a more immersive multisensory experience for humans," he said.
+ 

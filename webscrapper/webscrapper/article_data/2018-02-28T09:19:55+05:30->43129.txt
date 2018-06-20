@@ -1,0 +1,20 @@
+WASHINGTON: Scientists are developing   that can monitor symptoms of depression in astronauts, and provide real time feedback to improve the atmosphere of the spacecraft as well as boost the occupants' mood.
+
+ Depression is a major problem in space, as astronauts can be adversely affected by factors like  ,   and  , according to researchers from   in the US.
+ 
+ The technology, called Smart Sensory Skin (S3), will detect emotional and physical deficiencies in astronauts through wireless sensors that will then send an immediate response to improve the "atmosphere", and adjust the astronauts' environment to fit their individual needs.
+ 
+ The adjustments include changes in temperature, light exposure, light colour, and oxygen levels.
+ 
+ "It's vital for astronauts to be mentally healthy during missions and right now there's no active, real-time solution to help them when they feel stressed or anxious," said Arman  , professor of at FPU.
+ 
+ "This technology would provide them with immediate relief to their state of mind," Sargolzaei added.
+ 
+ The eventual product will incorporate the wireless sensors into astronaut clothing, so that physicians on Earth can also monitor the person's pulse rate, blood pressure and joint angles.
+ 
+ Similar technology already exists, but it is cumbersome, often uncomfortable, and data collection is passive.
+ 
+ This means the data must be reviewed by a physician and the user can only make appropriate actions after his or her recommendation.
+ 
+ The S3 will be a step forward by making it an active technology, also lighter and more ergonomic, increasing mission effectiveness by reducing distractions. 
+ 

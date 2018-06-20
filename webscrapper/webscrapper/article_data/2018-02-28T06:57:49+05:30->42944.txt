@@ -1,0 +1,9 @@
+BENGALURU: Amazon has seen its mobile wallet user base shrink by about 30% in the light of the latest know your customer (KYC) regulations, while other industry players try and meet the latest rules put forth by the country's central bank, which gets implemented from midnight of Wednesday. There is a fear among   firms that they may have to scale down or consider shutting operations due to the final stance by the RBI on KYC rules. The regulator said on Monday it will not make additional changes to the KYC guidelines for prepaid payment instruments (PPIs). 
+
+ Companies say the costs attached to executing the KYC guidelines could be well over $100 million. Executives at m-wallet firms said consumers have shown very little willingness to comply with the KYC norms for small-ticket transactions, showing a trend of going back to cash payments. All of this comes at a time when m-wallets reported 14% growth in January transactions at close to 114 million, from 99 million in December 2017, according to data from the RBI.
+ 
+ "PPIs help customers make small-value transactions in digitally. They operate on a wafer-thin margin and hence there is a need for each player to reach some scale to enjoy network effects and cover fixed costs. The imposition of KYC will further deteriorate the cost structures, while sending customers back to cash," Sriram Jagannathan and Sunil Kulkarni, co-chairs of PPI committee at PCI, said. Jagannathan is VP (payments) at Amazon India. 
+ 
+ Arnav Gupta, an analyst at  , estimates that the full KYC-compliant base of leading m-wallet players would not be more than 20%.
+ 
+ 

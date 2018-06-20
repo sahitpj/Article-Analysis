@@ -1,0 +1,53 @@
+Hyderabad: Failure, they say, is the hallmark of a successful entrepreneur. And the founders of this startup have been there and done that. 
+
+ Giving up was not something NeoSilica Technologies Pvt Ltd co-founder Satyam Bheemarasetti, an alumnus of the Korukonda Sainik school, had ever learnt to do.
+ 
+ So, when he founded his first venture, a network and application security company — NetSilica Inc — in the year 2000 in the US, following stints with biggies like AT&T Bell Labs, Unix Systems Labs and Deloitte & Touche, and it failed to take off as expected, he sold it off to a US-based investment firm for about $10 million before moving on to set up his second venture NeoSilica.
+ 
+ “With NetSilica we were 5-6 years ahead of the curve. First, in 2000, we launched an online storage offering similar to Google Drive but as this business was not happening we shifted to application security products for B2B market and in 2002 offered application security firewalls. But the market for not ready for this too. That’s when the realization hit me that one should never build a company unless the market is ready,” explains Satyam Bheemarasetti, who had teamed up with another friend for his first startup.
+ 
+ Realising that the action was shifting to India, he packed up his bags for his homeland for good and take the plunge into the uncertain world of entrepreneurship again, this time by joining hands with his batchmate from JNTU-Kakinada – Ravi Patruni., with the thought of building a solid product company in India to compete with the best in the world as product companies have primarily been MNCs.
+ 
+ “This time we felt we should get into a sector which will see at least 50-60 years of development and narrowed down on the energy sector,” he adds. But with NeoSilica he decided to take his time, which is why, though the second startup — NeoSilica — was registered in 2007-08, it was only in 2012 that the company went operational after the new energy markets like solar and smartgrids in India started getting all charged up.
+ 
+ “After registering the company we focused on developing smartgrid products, including the NeoSilica IIoT platform. We decided to bide our time by educating customers on cleantech and smartgrid by organising conferences, primarily in India. It was only in 2012, when we found that customers were ready to embrace new age products, that we launched our business operations. Earlier, when we used to go to Indian customers, many of them were not even ready to listen to us,” says Satyam.
+ 
+ With Satyam looking after the information technology (IT) bit and his partner Ravi focusing on operational technology, the company got its first opening with the Pondicherry smartgrid project where it teamed up with Power Grid Corporation of India in 2012 and also deployed a meter data management system for Tata Power in Mumbai in 2013 by integrating billing for 20,000 consumers with new smart metres.
+ 
+ But the big opportunity presented itself in 2014, when then Gujarat CM Narendra Modi decided to develop the world’s largest canal top solar grid spread over 4 km on the Narmada Canal in Vadodara. 
+ 
+ With remote data collection and automation using traditional OT systems a challenging task for a project of this scale, SSNNL was looking for a reliable and experienced player. NeoSilica, armed with its IIoT platform for power plants (advanced IT+OT integration), took up the challenge of deploying IIoT-based power plant SCADA (supervisory control and data acquisition) with monitoring and analytics and had the project up and running within a month. The project went on to be selected by KPMG as one of the top 100 infrastructure projects of 2014.
+ 
+ After that there was no looking back for the NeoSilica and its IIoT platform, which integrates field monitoring and automation across any and every type of field device, system and enterprise IT in the cloud with advanced analytics and AI.
+ 
+ In 2016-17, the company bagged one of its largest projects when it partnered with Greenko to deliver plant SCADA for over 1GW of their solar portfolio, including 500 MW in the world’s largest solar power park at Gani in Kurnool of Andhra Pradesh.
+ 
+ But the challenges were many on the road to success. The biggest one perhaps was the utter refusal of many in India to believe that an Indian company could develop and implement such cutting edge solutions. 
+ 
+ “There is a strong bias and lobby in India towards MNCs even if they peddle old technology which is not suited for Indian conditions. In the initial years, whenever we approached customers they would ask whose hardware we would use and when we would tell them we had our own hardware it was greeted with disbelief,” he says, pointing out that the company has expertise not only in software but also hardware and combines rooftop or local storage with the energy management of buildings, which substantially reduces the energy bill by 30% on an average.
+ 
+ Today, the company offers end-to-end solutions focused on business outcome and operational efficiency for energy, industrial, smart city, microgrid and water markets, which are undergoing rapid digital transformation, with its IIoT platform that comprises IIoT hardware, enterprise software, analytics, AI (artificial intelligence) and ML (machine learning) and is gunning for the big league with a turnover of Rs 100 crore over the next couple of years or so, winds up Satyam.
+ 
+ GRAPHIC:
+ 
+ NeoSilica Technologies Pvt Ltd was founded by serial entrepreneur Satyam Bheemarasetti and technologist Ravi Prasad Patruni
+ 
+ Though the duo incorporated the industrial IoT startup in 2007-08 after returning from the US, it commenced operations only in 2012
+ 
+ Developed the NeoSilica IIoT platform that has been instrumental in monitoring and controlling 1400MW of solar projects so far, including landmark ones like the world's largest solar power generation project set up by Greenko in Gani, Kurnool, AP, and the world's largest canal top solar grid on the Narmada Canal in Vadodara for SSNNL 
+ 
+ The platform is used to provide solutions for different verticals like Plant SCADA (supervisory control and data acquisition) and central monitoring for renewables, building management systems (BMS) and building energy management systems (BEMS) for smart buildings and energy management for microgrid and smart cities
+ 
+ Starting out with a two-member team comprising the founders, today NeoSilica has hit a headcount of 40 between Hyderabad and Kakinada, AP
+ 
+ A totally self-funded startup, the founders pooled in a seed fund of $200,000 from their savings in 2007-08 and have so far pumped in $3 million so far
+ 
+ Plan to raise $10 million over the next two years by way of equity and debt
+ 
+ Notched up revenues of Rs 4 crore in FY17 and hopes to double it to Rs 8 crore in FY18.
+ 
+ Now exploring opportunities for energy projects in MENA (Middle East & North Africa) and US
+ 
+ “The India market is happening and we see a lot of opportunities as the energy mix is changing across all the verticals. We are eyeing Rs 100 crore turnover in the next 18 to 24 months, buoyed by the sudden surge in market interest for digital and smart solutions across all verticals. India is catching up fast with developments across the world and the work that we do in India is going to be very useful as we expand into international markets,” Satyam Bheemarasetti, founder & CEO, NeoSilica Technologies
+ 
+ 
