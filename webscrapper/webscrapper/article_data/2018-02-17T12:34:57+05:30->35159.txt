@@ -1,0 +1,20 @@
+BENGALURU: The  , a lobby group for mobile  , has asked the Reserve Bank of India to withdraw full know-yourcustomer requirements for them, claiming they would otherwise lose customers.
+
+  “The revised guidelines of full KYC for   (prepaid payments industry) are throwing us in a very challenging situation since 90% of the volumes that we were generating was mainly from the minimum KYC PPIs. If implemented, those customers will stop using our services,” said Sunil Kulkarni, joint managing director at Oxigen Services and co-chairman of the PPI committee under PCI.
+  
+  The industry put the number of customers with full KYC done in the ‘low single digits’ with the deadline less than two weeks away. Top executives said if the central bank did not revise its guidelines, the domestic remittance business could revert to banks or unofficial channels and the ecommerce business would go back to cash transactions.
+  
+  
+ 
+  “Cash on delivery in case of ecommerce was always in the high 70% of the total shopping, which has now come down to around 50% mainly due to the ease of making payments through wallets. Now, if that ease goes, it will all relapse to cash,” said Sriram Jagannathan, vice president for payments at Amazon India and head of the PPI committee under PCI.
+  
+  In a revision of the master guidelines for PPIs, the   said wallet companies must convert all payment instruments issued by them to full KYC ones by February 28 to keep them functioning in the normal manner otherwise severe restrictions would be imposed on their usage.
+  
+  Highlighting the fact that minimum KYC norms allow small-value domestic remittance transactions to go digital through mobile wallets and at retail outlets, industry experts said if asked for full KYC compliance, these consumers will move on to bank branches or business correspondents (BC) of banks, where no such requirements are mandated.
+  
+  “At a BC outlet, consumers can do transactions up to Rs 25,000 without full KYC and at a bank branch up to Rs 50,000 without any KYC (no need to disclose permanent account number). These consumers will all go away from our retail centres to the BC outlets,” said Kulkarni. “The ultimate aim of getting their documents verified will not be met but we will lose business.”
+  
+  The lobby group said there is a significant amount of resistance from consumers as well as retailers and the RBI should allow minimum KYC wallets to be used for remittance transactions and merchant payments. Kulkarni said the payments business is alow-margin one and is mainly driven by volumes.
+  
+  If full KYC is to be done for customers, it could entail huge costs for the industry. Pegging the cost of getting KYC done for each customer at $1at least, he said the industry could be staring at about $100 million of unplanned expenses, which it might not be able to bear. “With Aadhaar seeding for all mobile numbers being made mandatory, a simple one-time password-enabled KYC would be enough to verify customers’ mobile numbers and thereby prevent fraud,” said Kulkarni.
+  

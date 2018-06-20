@@ -1,0 +1,7 @@
+ at   is all set to introduce the concept of robot tour guide, specifically designed to help tourists visiting the museum. The   is in its pilot stage and will be unveiled soon at the museum.  , founder-director, Jaipur Wax Museum, stated that this will be the first robot tour guide at any wax museum in India. “I always believe in introducing something innovative to the tourists. Thus, the idea of intelligent humanoid robot tour guide came to my mind. The whole process of designing and building this handsome white robot took about a year to take shape,” he said.
+
+ He added, “At the moment, the robot only understands the English language, but soon Hindi also will be added as a language in the software. The height of this robot is 5 ft 10 inches and it weighs 80kg. The head of the robot moves around 28 degrees. The head can move left and right. The fingers, elbows, and shoulders can also move. We are also working on image recognition, face recognition, infrared tracking, and posture simulation.”
+ 
+ This robot welcomes guests, can sing songs, have loud voice dialogue with guests and have some pre-recorded voice programming dialogues, too. The chest screen installed on the robot is a 7-inch touch capacitive screen.
+ 
+ 
