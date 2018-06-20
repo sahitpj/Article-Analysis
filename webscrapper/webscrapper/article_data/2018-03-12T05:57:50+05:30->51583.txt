@@ -1,0 +1,21 @@
+HYDERABAD: French security researcher Baptiste Robert, who recently exposed vulnerabilities in TSPost disbursement portal and BSNL database, has now claimed he found over 20,000   cards in pdf and jpeg formats available on websites of both government and non-government agencies across India.
+
+  
+ The   ( ) has, however, dismissed his claims, stating that allegations of a fragile security system were irresponsible, just because unscrupulous elements put up some Aadhaar cards on the Net.
+ 
+ The French researcher, who blacked out details while posting samples, said, “I found more than 20,000 Aadhaar cards after a manual search in less than three hours. All cards are in public domain. No hacking is needed. It’s open to everybody.”
+ 
+ Another anonymous hacker, claiming to be New York-based on twitter handle ‘trollyacharya’, tweeted pics on Sunday. “After a simple search query, I found an Aadhaar card dump of Andhra Pradesh government. Maharashtra government has also put up these key details. Uttar Pradesh too has joined the race. They have uploaded Aadhaar, PAN cards and passports.”
+ 
+ UIDAI has replied to a TOI e-mail query, stating — Publication of Aadhaar cards by some people have no bearing on UIDAI and not the least on Aadhaar security. Aadhaar as an identity document by its very nature needs to be shared openly with others as and when required and asked for. Aadhaar just like any other identity document, therefore, is never to be treated as a confidential document.
+ 
+ 
+ 
+ 
+ Although one’s Aadhaar has to be shared with others, personal information like mobile number, bank account number, PAN card, passport and family details should ordinarily be protected to ensure privacy of the person.
+ 
+ If anybody publishes someone’s personal information such as Aadhaar card number, passport details, mobile number, bank account number, he can be sued for civil damages by the person whose privacy right is infringed upon. But in no way, does this threaten or impact the security of the system which has issued IDs or numbers. For instance, publication of someone's bank account, PAN card or passport details on the Net does not impact or threaten the security of the banking, income tax or passport system.”
+ 
+ UIDAI said, “People do often share personal information on the Internet to some or other service provider or vendor to get services. This doesn't impact the security of any ID system. Aadhaar is most trusted and widely held ID that one shows or presents when needed. People should freely use it to prove their identity. By simply knowing someone’s Aadhaar card, one cannot impersonate and harm him/her because Aadhaar alone is not sufficient to prove one’s identity, but requires biometrics to authenticate one’s identity.” It said there has not been a single breach from biometric database in eight years.
+ 
+ 

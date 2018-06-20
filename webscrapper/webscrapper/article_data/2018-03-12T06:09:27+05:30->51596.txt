@@ -1,0 +1,13 @@
+CHENNAI: The Metropolitan Transport Corporation ( ) will introduce Global Positioning System (GPS) facility with a few additional features like smart cards and electronic ticketing machines (ETM) as part of   (ITS), when the government provides new buses. These new buses will have built-in facility for installing the  . 
+
+ An earlier system of GPRS fitted in the buses was damaged by the commuters as they kept tampering the device out of curiosity. Thus, it lost its sensor and had to be removed from the buses.
+ 
+ An MTC official said, “The implementation of the ITS will need new buses, as the buses will have built-in facilities to support GPS equipment. The buses which ply currently in the city don’t have proper facilities.” He also said that “GPS equipment is ready for installation but they are awaiting the new buses to arrive”.
+ 
+ The ITS will have a GPS linked to an app, smart cards, electronic ticketing machines on the buses which can make travel easier for the commuters. The GPS will help the commuters to track the buses and get information about   routes, fare, and arrival and departure timings as the information will be provided through an advanced mobile application. The ETM will get registered in the MTC’s system and it will help the MTC officials to keep a track of the number of commuters boarding the buses as the conductor issues the ticket. It will also indicate the application users and inform them about the number of commuters travelling on a particular bus route. Common smart cards will be provided which can be used for commuting in both metro train and metro bus.
+ 
+ A GPRS system was introduced at bus stops in 2009 on a trial basis during the launch of low-floor buses. It was fitted with a display board which provided information about the buses, but the system did not work after 2011 and the display boards were also removed from bus stops. Another attempt was done in 2015 on 20 buses. The testing was also completed and they were planning to extend it to more buses but could not as it faced a few problems with the software which affected the announcements made inside the buses. 
+ 
+ An official with the planning and development wing of MTC said, “Through a few mobile applications have been introduced by some private people, the ITS project from the government will benefit more commuters. We will have better and accurate features in the application.” 
+ 
+ 

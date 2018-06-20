@@ -1,0 +1,38 @@
+WASHINGTON:  's James Webb Space Telescope is set to peer into reservoirs of interstellar water to understand the origin and evolution of key building blocks for habitable planets.
+
+ A molecular cloud is an interstellar cloud of dust, gas, and a variety of molecules ranging from molecular hydrogen (H2) to complex, carbon-containing organics.
+ 
+ Molecular clouds hold most of the water in the universe, and serve as nurseries for newborn stars and their planets.
+ 
+ Within these clouds, on the surfaces of tiny dust grains, hydrogen atoms link with oxygen to form water. Carbon joins with hydrogen to make methane.
+ 
+ Nitrogen bonds with hydrogen to create ammonia. All of these molecules stick to the surface of dust specks, accumulating icy layers over millions of years.
+ 
+ The result is a vast collection of "snowflakes" that are swept up by infant planets, delivering materials needed for life as we know it.
+ 
+ "If we can understand the chemical complexity of these ices in the molecular cloud, and how they evolve during the formation of a star and its planets, then we can assess whether the building blocks of life should exist in every star system," said Melissa McClure of the Universiteit van Amsterdam in  .
+ 
+ To understand these processes, researchers will examine a nearby star-forming region to determine which ices are present where.
+ 
+ "We plan to use a variety of Webb's instrument modes and capabilities, not only to investigate this one region, but also to learn how best to study cosmic ices with Webb," said Klaus Pontoppidan of the Space Telescope Science Institute (STScI), an investigator on McClure's project.
+ 
+ The project will take advantage of Webb's high-resolution spectrographs to get the most sensitive and precise observations at wavelengths that specifically measure ices.
+ 
+ Webb's spectrographs, NIRSpec and MIRI, will provide up to five times better precision that any previous space telescope at near- and mid-infrared wavelengths.
+ 
+ The team plans to target the Chamaeleon Complex, a star-forming region visible in the southern sky.
+ 
+ It is located about 500 light-years from Earth and contains several hundred protostars, the oldest of which are about 1 million years old.
+ 
+ The team will use Webb's sensitive infrared detectors to observe stars behind the molecular cloud. As light from those faint, background stars passes through the cloud, ices in the cloud will absorb some of the light.
+ 
+ By observing many background stars spread across the sky, astronomers can map ices within the cloud's entire expanse and locate where different ices form.
+ 
+ They will also target individual protostars within the cloud itself to learn how ultraviolet light from these nascent stars promotes the creation of more complex molecules.
+ 
+ Astronomers also will examine the birthplaces of planets, rotating disks of gas and dust known as protoplanetary disks that surround newly formed stars.
+ 
+ They will be able to measure the amounts and relative abundances of ices as close as five billion miles from the infant star, which is about the orbital distance of   in our solar system.
+ 
+ "Comets have been described as dusty snowballs. At least some of the water in Earth's oceans likely was delivered by the impacts of comets early in our solar system's history. We'll be looking at the places where comets form around other stars," said Pontoppidan. 
+ 

@@ -1,0 +1,16 @@
+Statistical techniques that have stood the test of time, can be used to impute the micro set of students which needs to go in for moderation. This could be carried out using the following process. 
+
+ All the papers need to be checked and the marks need to be plotted using a normal distribution. The curve will follow different trends and bring out centres where leaked papers were known to some students in these Sub Groups. The standard deviation of these subgroups could be different from those of other sub groups. 
+ 
+ These subgroups will be applied a correction factor to normalize marks. Since less than 0.5 % students knew leaked papers , statistically insignificant variation in marks will be reported. Further a normalizing factor can be applied for each centre. 
+ 
+ Centres where investigation proves that leakage has happened can be correlated with this analysis. In fact it will validate the results.Centres where leakage has probably happened would need further analysis. This would lead to cut off marks for each of these centres .All students from these who have secured higher than this cut off limit would fall in the Re- Moderation category. 
+ 
+ Their answer papers will be very closely re-moderated and will be checked for certain similarities in answering. This way you can close in on the students who had access to the leaked papers. Practically one can withhold all these results and see the response. All other marks would be announced as original results.
+  
+ As the No of students is very high -- around 20 Lakh ,the above analysis will even out variations and is fair. Centres or the students whose marks were remoderated , their results could be announced after some time.As such as question paper was very easy as reported in media by many students,very few complaints are expected with such moderation.
+ 
+ Moreover Class X marks are less critical compared to Class XIIth, most of the students would be very happy with the announcement of no re-exam. The above process will need on line corrections and modifications by experts when the analysis is done.The decision can be taken only after a speedy correction of the answer papers and analysis in about a weeks time.
+ 
+ Now the matter is being taken to the   and the methodology if explained properly will aid in a meaningful decision by the court.
+ 

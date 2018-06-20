@@ -1,0 +1,18 @@
+NEW DELHI: Data scientists and front-end developers were the roles that received the maximum compensation increases in   in 2017. Both received an average   increase of about 25% last year, compared to the year before, according to data shared by recruitment firm Belong.
+
+ Data scientists are responsible for using computing systems to collect, analyse and interpret large amounts of information to identify ways to help a business improve operations and gain a competitive edge over rivals. They require a knowledge of mathematics, computer science and the ability to spot trends. The Belong study, which looked at the top 40 startups and at those with three to five years of experience, said the annual salary of data scientists rose to Rs 25-29 lakh last year.
+ 
+ "With the boom in AI (artificial intelligence), a lot of companies are building out huge data analysis teams," said  , co-founder at Belong.
+ 
+ Front-end developers are the bridge between the user experience (UX)/user interface (UI) designer and the backend programmer, bringing to life the designer's final design and ensuring it works with back-end systems through appropriate coding. They are responsible for everything a visitor to a site sees, clicks, or uses to input or retrieve information, and need to be both creative and tech-savvy.
+ 
+ Front-end developers now earn Rs 18 lakh to Rs 22 lakh per annum. In 2014, they were earning Rs 10-13 lakh. Kaul said a major reason for this is the rise of cloud infrastructure by companies like   and   Azure. This is prompting every company to strengthen the front-ends of their web and mobile apps. In 2013 and 2014, cloud infrastructure was still developing. "Now the job description of a front-end developer has also changed dramatically. They take care of everything from managing the website to ensuring the company is protected against hacks," Kaul said.
+ 
+ Mobile developers and UX designers are also among those who received 15-20% increases in compensation last year. A UX designer is the highest paid role in technology startups, with such employees taking home Rs 28 lakh to Rs 32 lakh per annum. Startups are trying to contain these UX designer costs by employing freelancers, who work for multiple companies.
+ 
+ Product managers - who are responsible for the strategy, road map, and feature definition of a product - saw a 20% increase in compensation to about Rs 24 lakh in 2017. Python developers have seen a 20% compounded annual growth rate in compensation since 2014, and last year earned around Rs 20 lakh per annum.
+ 
+ Roles in cyber security, including security architect and chief information security officers, also received handsome increases.
+ 
+ Kaul said many of these highly compensated employees are self-trained. The average tenure of a data scientist in a company is just two years. "Every time they move to a new job, they get a hike," Kaul said, explaining why compensations are rising so rapidly.
+ 
