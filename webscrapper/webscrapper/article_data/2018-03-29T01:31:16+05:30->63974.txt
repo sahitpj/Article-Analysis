@@ -1,0 +1,14 @@
+NEW DELHI: Very soon, commuters in Delhi would have the real-time information about the location of buses at their fingertips.   ( ) is getting a mobile application developed to enhance commuter satisfaction, and reliability and punctuality of bus operations.
+
+ While all DTC buses have   installed in them, almost none of these are functional anymore. The corporation wants a more robust GPS-based vehicle tracking system to keep a tab on the real-time location of all its buses and also extend the information to passengers.
+ 
+ “One of the primary reasons why Delhi Metro is considered a more reliable mode of transport by commuters is because its trains run on time and passengers know exactly when the next train would arrive at a station,” said a DTC official. “By providing real-time information about the movement of our buses, we would be able to instill similar confidence about DTC service among passengers,” he said. 
+  
+ 
+ DTC is going to rope in an experienced IT company to develop, operate and maintain the system. It would be available on Android, iOS and Windows platforms. However, if you don’t have a smartphone, the information would also be able to be received through SMSs.
+ 
+ Passengers would be able to know the location of any particular bus route and its expected time of arrival at a stop. They can also type in the name of a particular bus stop and get to know at least the next three buses expected to arrive there. If the passengers don’t know which bus to take to reach a destination, they would also get that information.
+ 
+ The information regarding buses would also be available at bus stops through   boards and passengers inside buses would be able to hear announcements about approaching stops.
+ 
+ 

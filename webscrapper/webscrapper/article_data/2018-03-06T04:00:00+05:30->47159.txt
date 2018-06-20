@@ -1,0 +1,27 @@
+By Sir Iain Lobban
+
+ The year 2017 will be recorded as the year in which the threat to   became fully weaponised, bursting the bounds of any perceived non-proliferation measures.
+ 
+ Cutting-edge cyber tools are no longer the preserve of advanced nations’ intelligence agencies or the most sophisticated criminal gangs. Cyber attacks no longer major on the pilfering of   for purposes of  , or the covert theft of national secrets or   in support of political or industrial espionage. Such surgical, precise targeting — if it ever was a dominant feature — is now merely one approach available to attackers.
+ 
+ There has been a tectonic shift. Its cause is the theft and deliberate dissemination — by a hacker group calling itself the   — of a wide range of nation state-calibre cyber tools that were cutting edge in their day and that remain potent and highly destructive. We saw their effects all too vividly in the mayhem caused by   and   in mid-2017. Public sector bodies like the UK’s National Health Service were severely hit. But so too were major international businesses — including  ,  ,  , and  .
+ 
+ What does all this mean? It means that business is firmly in the crosshairs of cyber attackers, and that the weapons at their disposal now bring both physical and virtual harm, including damage to and even destruction of data. It means attacks are increasingly indiscriminate: You don’t have to be specifically targeted to be at risk.
+ 
+ The actors in this space have multiplied, their capabilities have proliferated across attacker groups and across sectors, and further contagion across a great variety of unintended victims is a very real likelihood.
+ 
+ India can choose to see this as an opportunity or a threat: Get ahead or get hit harder. Currently, with some honourable exceptions, the target landscape is a rich one for cyber attackers, so it is particularly welcome that the   has made better governance of the cyber risk a priority across the banking and financial sector.
+ 
+ But better understanding of the risk is necessary across all business sectors: Diligence, curiosity and priority need to be watchwords around every board and executive committee table. How might a negative cyber event affect our business? What if cyber thieves steal information on our networks — whether covertly or overtly — with subsequent publication causing crippling reputational damage? What if someone maliciously distorts or changes the information and data we hold? What if we suddenly find access to our data, the lifeblood of our business, disrupted or denied, or the data itself destroyed?
+ 
+ Such fundamental questions quickly raise others. Where is our data held? How well is it protected (and by whom)? Who can access it (do we know and log who accesses what and when)? Which organisations other than ours have access to that data? What data belonging to third parties do we hold?
+ 
+ These enquiries should prompt a battle rhythm of attention from company leaders. Boards and excoms (executive committees) need to build clear organisational structures and reporting lines, and an enterprise-wide sense of responsibility for cyber risk, founded on expert, current and independent advice. The penny must drop that this threat cannot simply be pigeon-holed as a technical issue and delegated to the IT department: Cyber risk is now a primary business risk.
+ 
+ I write this as a great admirer of modern India, and with an intuitive belief that India is in a position to leapfrog others in this space. And the government attaches real priority to the digital agenda, IT excellence in the shape of world-class firms radiates from India, regulators are thoughtful, business leaders listen and act.
+ 
+ But the clock is ticking. The time to act is now.
+ 
+ The writer was head of the UK security and intelligence agency GCHQ, and helped design and execute the UK Cyber Security Strategy. He is now a senior partner at  
+ 
+ 

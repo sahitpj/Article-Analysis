@@ -1,0 +1,17 @@
+Mumbai:   who were allotted unlisted shares under an   ( ) may face a higher tax outgo when they sell these shares after a listing, owing to lack of clarity in the   proposals. The Budget 2018 introduced tax on a   ( ) of more than Rs 1 lakh, arising on sale of listed securities on or after April 1 this year. 
+
+ The Budget proposals also provide that the appreciation in the value of the shares from the date of purchase up to January 31, 2018 will be grandfathered if these shares were acquired before February 1, 2018. However, there is an ambiguity in the provisions for calculation of equity shares which were allotted pre-initial public offer (or IPO) before January 31, 2018, but which would be sold on or after April 1, 2018 subsequent to an  .
+ 
+ ESOPs are a useful tool for hiring talent, especially for  . The risks of a lower salary or a volatile job environment are made good by offering ESOPs — there is always a hope that after the startup lists, a loyal employee can rake in the moolah by selling shares granted under such schemes.
+ 
+ “Both the proposed section 112A of the   (I-T) Act and the FAQs (frequently asked questions) that were issued by the   ( ) on February 4 are silent on the manner of calculating the   (FMV) in case of shares that were unlisted as of January 31, 2018,” points out Puneet Gupta, director (people advisory services) at  , a business consultancy firm.
+ 
+ “Typically for a successful startup, the FMV would rise over the years. In case the benefit of grandfathering in the form of stepped-up cost of acquisition based on FMV as on January 31, 2018 is not available, it may result in a higher tax burden for employees who were allotted shares while the company was unlisted,” he adds (see graphic).
+ 
+ ESOPs are taxed at two instances. When the employee exercises the option (that is, when the shares are allotted to the employees under ESOP), the difference between FMV (as on the date of exercise) and the exercise price (price at which he buys) is taxed as a perquisite. It forms part of the salary income and the tax is deducted at source by the employer. The second tax incidence arises when the employee sells the shares. Under the current I-T provisions (prior to Budget amendments), the difference between the sale price and FMV as on the exercise date is taxed as capital gain.
+ 
+ However, as the Budget proposals have introduced the concept of adopting the FMV as on January 31, 2018 for computing capital gains on sale of shares, a clarification in the context of ESOPs is required — where the shares were unlisted on allotment and also on January 31, 2018, but were listed at the time of sale, say tax experts. When employees sell such shares, can they substitute the FMV as on the date of exercise with the FMV as on January 31, 2018? This is the moot question.
+ 
+ A chartered accountant who doubles up as a CFO for a few startups says he has received many queries on this issue, but has no answers. “Imposition of tax on LTCG on sale of listed securities itself is a setback for ESOPs. The ambiguity on computing the capital gains, where unlisted shares were allotted under ESOPs, makes it a less attractive HR tool.”
+ 
+ 

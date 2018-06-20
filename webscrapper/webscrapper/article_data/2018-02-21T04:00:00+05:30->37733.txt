@@ -1,0 +1,9 @@
+Mumbai:   payments banks will not be allowed to use their parent’s infrastructure to complete the ‘know your customer’ ( ) process. This is a major setback for such entities, which have been hitherto relying on their promoter’s network for acquiring customers.
+
+ In a notice issued to all payments banks, the   said that its circular on KYC norms permits third parties to do customer due diligence. However, this is subject to the third party being regulated, supervised and monitored for compliance with customer due diligence and record-keeping requirements in line with the requirements and obligations of the Prevention of Money Laundering Act ( ).
+ 
+ However, telecom companies are not recognised as reporting entities in terms of the PMLA. Therefore, KYC done by telecom companies is not permissible. The RBI has said that it has, therefore, modified its guidelines for payments banks.
+ 
+ In terms of the new operational guidelines, a payments bank shall comply with the extant master direction on KYC for all its customers, including existing customers of telecom companies on-boarded by the payments bank. The banks promoted by telcos include  ,  , and  . Aditya Birla Nuvo, which has a payments bank licence, also has Idea telecom in the same group. The largest payments bank is Paytm, which is understood to have completed the KYC process for 5.5 crore account holders. In terms of the new KYC guidelines, Paytm has to complete the KYC process for all its e-wallet customers by end-February 2018.
+ 
+ 

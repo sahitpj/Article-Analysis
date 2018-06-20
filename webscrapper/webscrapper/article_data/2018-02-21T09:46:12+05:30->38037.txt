@@ -1,0 +1,16 @@
+Hyderabad:  , president of  , like his boss  , believes in the importance of democratizing AI, making it accessible for all. He sees AI as a great tool to apply to data to get more value out of it. In an interaction with TOI, he shares his thoughts on the new data regulation in the EU, the evolution of AI in the modern workplace, and the use of voice in digital interactions. Excerpts:
+
+ The   (GDPR) comes into effect on May 25. How will it affect the way we process data?
+ 
+ It’s a great move to bring focus on privacy.   has worked with the EU on it over the last two years. The more data that is out there, we need that strong knowledge that our data is being used the right way. We need full visibility into how it is getting used. I think the EU is setting those standards. A lot of countries are thinking on similar issues. India is thinking about it and the Srikrishna Committee has spoken about it and put out a white paper on what the data regulations should be.
+ 
+ GDPR puts the customer at the centre and not the nationalist fervour that exists around the world today. As long as we remember this is the customer, the individual, who is at the centre of creating these regulations, it’s long term going in the right direction. 
+ 
+ Are we beginning to see real use cases of AI in the enterprise?
+ 
+ The core pillars of digital transformation that any enterprise looks at are engaging customers, empowering employees to do more, transforming the internal operations to drive productivity and efficiency, and transforming the entire set of services to customers. Those pillars will remain. If you look at even the concept of AI in the context of these four, it should not be a new offering. It should be embedded in the core platforms that already exist to enable the four pillars of digital transformation. While data and AI are called out separately as a data service, within the modern workforce, there is a lot of AI. Within business applications there is a lot of AI. Data and configuring data in an enterprise is the real problem of design. AI is the toolkit you apply to that data to get more value out of it and use it proactively in these end use applications and digital transformation. Satya said succinctly, our aim is to democratise AI. AI should not become this big brand that only few people have access to. It should be something that each of us should have access to. 
+ 
+ How do you see voice playing a role in shaping digital user experiences?
+ 
+ What touch did with smartphones, the other human factors, voice being a critical one, will do with digital interactions in the future. In the context of our country, where we have high levels of illiteracy, it’s easier for people to interact through voice rather than type something. Even from an accessibility standpoint, voice opens many doors for people to interact with capabilities. For me, it is a critical breakthrough area as we go forward. It’s the next frontier.
+ 

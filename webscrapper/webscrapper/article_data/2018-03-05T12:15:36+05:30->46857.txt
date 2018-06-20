@@ -1,0 +1,37 @@
+BERLIN: A 3D-printed   system - described by its creators as a "flying brain" - will soon join the crew aboard the   (ISS) to assist astronauts.
+
+ 
+ Airbus, an aeronautics company based in Netherlands, is developing CIMON (Crew Interactive MObile CompanioN), an AI-based space assistant for Germany's  .
+ 
+ The technology demonstrator, which weighs around five kilogrammes, will be tested on the ISS by German astronaut Alexander Gerst during the European Space Agency's Horizons mission between June and October this year.
+ 
+ "CIMON will be the first AI-based mission and flight assistance system," said Manfred Jaumann, Head of Microgravity Payloads from  .
+ 
+ "We are the first company in Europe to carry a free flyer, a kind of flying brain, to the ISS and to develop artificial intelligence for the crew on board the space station," said Jaumann.
+ 
+ The entire structure of CIMON is made up of plastic and metal, created using 3D printing.
+ 
+ CIMON has a brain-like AI network and is designed to support astronauts in performing routine work, for example by displaying procedures or offering solutions to problems.
+ 
+ With its face, voice and artificial intelligence, becomes a genuine 'colleague' on board.
+ 
+ With CIMON, crew members can do more than just work through a schematic view of prescribed checklists and procedures; they can also engage with their assistant.
+ 
+ CIMON makes work easier for the astronauts when carrying out every day routine tasks, helps to increase efficiency, facilitates mission success and improves security, as it can also serve as an early warning system for technical problems.
+ 
+ The Watson AI was trained using voice samples and photos of Gerst, and procedures and plans of the Columbus module of the ISS were loaded into the database.
+ 
+ Gerst also helped select CIMON's screen face and computer voice so that he could 'make friends' with his electronic colleague.
+ 
+ Once the functional testing of the system has been completed, Gerst and CIMON will experiment with crystals, work together to solve the Rubik's cube and perform a complex medical experiment using CIMON as an 'intelligent' flying camera in space.
+ 
+ In its first Space mission, CIMON will only be equipped with a selected range of capabilities.
+ 
+ In the medium term, aerospace researchers also plan to use the CIMON project to examine group effects that can develop over a long period of time in small teams and that may arise during long-term missions to the Moon or Mars.
+ 
+ Social interaction between people and machines, between astronauts and assistance systems equipped with emotional intelligence, could play an important role in the success of long-term missions.
+ 
+ Airbus' developers are convinced that, here on Earth, developments of the assistance system could also find future use in hospitals and social care.
+ 
+ CIMON will get its first 'taste of space' as early as March 2018: the 31st DLR parabolic flight campaign will focus in particular on testing and optimising GNC algorithms (Guidance, Navigation and Control) under zero gravity conditions.
+ 

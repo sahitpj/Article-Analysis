@@ -1,0 +1,25 @@
+NAGPUR: The speed of   rail on at grade (priority section) section of 5.05km between   station and Airport South station on North-South corridor has been restricted to 25 kilometre per hour (kmph) for lack of requisite signalling systems. Average speed of   Rails in the nation is 80 kmph. This makes Nagpur Metro slowest among all.
+
+ Maharashtra   Corporation Limited (MahaMetro) has planned commercial run on the at grade on North-South corridor in the first phase. 
+ 
+ Ministry of Railway’s Research Designs and Standards Organization (RDSO) and Commissioner of Metro Railway Safety (CMRS) had inspected the stretch and also six rolling stock/cars obtained by MahaMetro from L&T Metro Rail Hyderabad Limited ( ) on rental basis for trail and commercial run.
+ 
+ As per documents obtained under RTI Act by activist TH Naidu, RDSO issued provisional speed certificate on December 1 last year in which Metro Rail’s speed for at grade section was restricted at 25 kmph. Based on its inspection on January 16, CMRS issued a detailed note of 20 pages in which it also restricted Metro Rail’s speed at 25 kmph. “Trains will be operated in safety cut out switch ( ) mode. Communications based train control (CBTC) and automatic train protection (ATP) have been not planned for commissioning of priority section. Also, signalling automatic train control (ATC) system is unavailable. Therefore, no other mode of operation — ATP, automatic train operation (ATO) and auto turn back (ATB)— will be functional,” report said.
+ 
+ CMRS also directed MahaMetro to ensure opening of cars’ doors on correct side manually through train operator. “In SCS cut out mode, the train shall be operated by train operator in accordance with line side signals and on radio verbal instructions from the traffic controller.”
+ 
+ LTMRHL’s six cars — two sets with three in each — are designed for a speed of 90 kmph. RDSO and CMRS had issued certification of 80 kmph for these cars in Hyderabad Metro Rail. But here the cars would run at 25 kmph. 
+ 
+ MahaMetro official told TOI all types of signalling and control systems will be installed on at grade and remaining parts of two corridors before total commercial operation of Metro Rail. “We consider it as a trial run. Therefore, 25 kmph is sufficient. We are hopeful of getting full certification after completing the project,” he said.
+ 
+ Naidu said MahaMetro seems in hurry to give political mileage to some persons. “Almost all Metro Rails have started commercial operation for benefit of public. Who and how many will benefit on stretch between Khapri and Airport South station? Metro Rail on at grade stretch will end up only as a joyride, so why is MahaMetro in a hurry that too without requisite Metro Rail standard signalling and control systems?” he said.
+ 
+ SPEED MONITOR
+ 
+ Metro Rail Speeds | Speed of 40-80kmph was allowed when Metro Rail began commercial operation in Mumbai. Speed of Delhi Metro is 50-80 kmph. Speed of other Metro Rails like Kolkata, Chennai, Kochi, Hyderabad etc are 40-80kmph
+ 
+ Automatic Operation | Delhi Metro Rail is probably the one to operate Metro Rail without any operator. Metro Rail in other cities are operated automatically but in supervision and monitoring of train operators. Metro rails start, run and stop automatically despite operator sitting in the cars. MahaMetro permitted to operate cars manually due to lack of automatic signalling and control systems
+ 
+ CMRS’ Train Control System For City | Train can attain 19 kmph speed in motoring mode, beyond which traction cut-off takes place and train is allowed to move in coasting mode. After traction cut-off, when the train speed falls below 17 kmph, traction supply to train resumes. In case the speed continues to increase up to 23 kmph due to its momentum, full service brake starts being applied to prevent maximum speed of 25 kmph. When the train speed falls below 21 kmph, braking will be cut-off. In case of trains moves over 25 kmph, emergency brake is applied to bring the train at a standstill, thereby ensuring safety
+ 
+ 

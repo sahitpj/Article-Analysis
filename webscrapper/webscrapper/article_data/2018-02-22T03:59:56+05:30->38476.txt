@@ -1,0 +1,19 @@
+KOLKATA: First, the clarification. The 10-digit SIM card number of your cellular phone is not turning into 13 digits, as many social media messages have been claiming since Tuesday. 
+
+ The department of telecommunications (DoT), along with all leading telecom service providers, on Wednesday allayed such ‘viral’ rumours and assured that the upcoming 13-digit SIM card regime will be introduced for machine-to-machine (M2M) communication only.
+ 
+ The DoT has asked telecom service providers to start issuing 13-digit numbers for SIM-based M2M services, which will co-exist with 10-digit mobile handset numbers across the country. Currently, the Internet-enabled devices like point-of-sale (PoS) machines, futuristic air-conditioners (AC), latest refrigerators, microwaves, elevators communicate through a 10-digit SIM card. This decision will not have any impact on cellphone SIMs.
+ 
+ However, social media circles and massaging groups were abuzz with some “half-true” stories on a recent DoT circular, since Tuesday. The misinterpretation of the February 9 DoT letter to all the telecom authorities and service providers took no time to become the principal point of concern among Kolkatans. 
+ 
+ “There is no point in spreading such speculative news. The permutation and combination of 10 digits can generate enough set of numbers to serve one and a half billion or more people in this country even if each of us carry 20 SIM cards in future,” said a top   official in charge of cellular services. 
+ 
+ The DoT has only asked for migration of the existing 10-digit M2M numbers to 13 digits from October 1, 2018. “The migration shall be completed by December 31, 2018,” the DoT order stated. All new M2M mobile connections will be allocated l3-digit numbers from July 1, 2018, it added.
+ 
+ “These M2M number is meant for Internet-linked machine-to-machine data links and not for ‘mobile-to-mobile’ communications,” said a top DoT official from New Delhi.
+ 
+ According to sector regulator   ( ), M2M communication is a form of data link that involves one or more entities that do not necessarily require human intervention. The digit debate encircled on availability of preferred virgin numbers, which is baseless, feel experts. 
+ 
+ A   official told TOI: “It is true that the mobile phone’s penetration has reached such a stage in India that it is eating up one SIM number series after another at breakneck speed. Series like 98, 97, 91, 85, 84 are getting exhausted. But, that doesn’t mean that we need more digits. The 10-digit system is sufficient.”
+ 
+ 
