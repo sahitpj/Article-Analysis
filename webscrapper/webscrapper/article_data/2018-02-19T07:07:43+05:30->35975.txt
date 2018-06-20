@@ -1,0 +1,20 @@
+CHENNAI: The next time you race down a   in Tamil Nadu, beware! A high-end vehicle-tracking cum-speed-enforcement device installed on the road would automatically trace your vehicle registration number and an e-challan for the traffic violation would reach your doorstep.
+
+ Kerala State Electronics Development Corporation Limited (KELTRON) has taken up this project to be setup on three highway stretches — Poonamallee-Vellore, Madurai-Villupuram and   — at an estimated cost of `98 crore. It will be operational in two months.
+ 
+  
+ Road accident rates on these stretches due to speeding are higher compared to the state’s average, according to data from the Union road transport ministry. For instance, nearly nine people are killed per kilometre along the   highway connecting Chennai with Bengaluru.
+ 
+ The   recently gave its nod for KELTRON’s proposal. Throwing more light on the project, S P Gopakumar, communications division head of KELTRON, said the system has three main components -- a speed enforcement system, control centre and an interception management system.
+ 
+ Speed enforcement system has checking points installed every 5km. Every point is equipped with two devices -- sensors on roadsides and cameras fitted to poles 6.5-metre tall. While an Automatic Number Plate Recognition (ANPR) camera will note the vehicle number, a wide-angle camera will cover all four lanes.
+ 
+ Tracking Doppler radars - acting as sensors - would detect vehicles plying above the speed limit and send a command to the cameras to shoot images of a particular vehicle. These images will then be sent to a control room where traffic enforcement authorities would generate an e-challan in the name of the vehicle owner.
+ 
+ Besides recording speed on the spot, average speed of the vehicle is also recorded since some drivers tend to slow down at check points and accelerate again to evade detection, he added. The system will help in post-crime analysis as records, up to three years, will be stored in a database at a command and control centre to be setup in Chennai.
+ 
+ A live GIS-based map of these three highway stretches will be available at the command centre and police would be able to track any desired vehicle by entering the registration number in the search box provided in this map, says KELTRON’s proposal sent to TN. A separate table showing a list of repeat offenders or ‘hot-list’ vehicles on road will be displayed below this live map. 
+ 
+ Another component includes setting up of sensor-based traffic signals which will change only when they detect a vehicle coming from the side roads, multiple blinkers warning presence of the junction ahead and high mast lights for better visibility at night.
+ 
+ 

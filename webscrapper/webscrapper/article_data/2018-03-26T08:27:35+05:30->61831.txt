@@ -1,0 +1,25 @@
+CHENNAI: Two online security experts have claimed that the   database of two public-sector enterprises leaked select data and the vulnerability was fixed only a month after it was drawn attention to.
+
+ 
+ They claimed that the issue was fixed after   put out a statement on Saturday in response to ZDNet’s Friday report highlighting vulnerabilities in the state-owned utility’s application. 
+ 
+ ZDNet’s security editor Zack   published screenshots of leaked data retrieved from one of the two companies on Sunday, showing that they were also leaking customer data of another public sector enterprise.   is a business technology news website.
+ 
+  
+  ZDNet’s claim that select private data had leaked through a utility company that uses Aadhaar database to authenticate its users. Aadhaar’s biometric information was not, however, leaked. 
+ 
+ “There is no question of the utility company having obtained consent from its consumers and thereby having access to their data — because in many cases we found that they were not their customers,” said ethical security researcher Karan Saini, who first detected the leak.
+ 
+ Saini said both Whittaker and he had alerted UIDAI and the company and yet nothing was done to fix the problem on the company’s website. “It was left up there for more than a month — even though it had been reported to them directly,” said Saini.
+ 
+ Whittaker on Sunday agreed in theory with UIDAI’s response that “there has been no breach of the Aadhaar database”. He pointed out the difference between a researcher observing a data leak to stealing data — which would amount to a breach. “Leaked = the capability to be abused. Breached = the data was stolen. This data was “leaked” because of UIDAI’s bad security. It was not “breached” because an ethical security researcher tried to get it fixed,” Whittaker said in a tweet.
+ 
+ Saini told TOI, “The utility company has access to data on not just its users or people availing LPG subsidy — but to non-users’ data as well. My question is how and why does the company know who you bank with? Particularly when you are not their customer? Who is providing them with this information?”
+ 
+ TOI is withholding the names of the utilities because it is yet to receive a response to a questionnaire emailed to them on Sunday evening. 
+ 
+ Saini also expressed concern over the government’s attitude towards researchers and ethical hackers. “Most governments and large corporates have bug bounty programmes to reward hackers who point out vulnerabilities in the system. The fear of criminal prosecution hanging over the heads of ethical hackers — would not help us develop a robust and strong security architecture,” he said.
+ 
+ ZDNet’s security editor Zack Whittaker published screenshots of leaked data retrieved from one of the two companies on Sunday, showing that they were also leaking customer data of another public sector enterprise.
+ 
+ 

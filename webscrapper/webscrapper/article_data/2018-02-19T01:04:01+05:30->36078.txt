@@ -1,0 +1,15 @@
+Tirunelveli: The district administration has come up with a novel initiative to make the disaster alert system more effective by sending the messages to the people, in the 125 vulnerable areas in the district, to their mobile phones. Those who have installed the ‘Namma Nellai’ app launched by the district administration will get an alert on it, while others will get an SMS.
+
+ “The alert mechanisms have got shape. We are in the process of feeding mobile numbers of people living in vulnerable areas in the system. We are also in the process of developing an outbound voice call in Tamil to alert those who cannot read SMS,” said district collector Sandeep Nanduri. He told TOI that this alert mechanism will be fully ready to alert nearly 2.5 lakh people in these areas before the onset of the southwest Monsoon in July.
+ 
+ Traditionally, alerts on disaster such as flooding was passed on by the meteorology department or agencies concerned with the district collector and district disaster management agency. From here the message is then passed to the local revenue authorities and announced to people in the low lying areas through tom-tom criers or speakers tied to vehicles. As this was time consuming, it did not reach every nook and corner.
+ 
+ Last year the district administration initiated ‘First Responder’ in which 10 youths were identified in each of the 125 vulnerable areas. These 1,250 persons will get a call from the district disaster management control room and they in turn will alert people about the possibility of flooding or other natural disasters. 
+ 
+ This was more effective than the traditional alert mechanism, but still time consuming as the time taken for the alert to reach the last person took up to an hour. In this case there was the possibility of human prioritising in alerting their near and dear ones first, which was unavoidable.
+ 
+ “To quicken the alerts and inform everyone at the same time, we mapped vulnerable areas through geofencing. When the disaster control room gets an alert from the India Meteorology Department (IMD), the personnel there will scan a QR code to create an alert and select the localities. A pin number with the alert will then be sent to the collector, to avoid false alerts,” said C P Siva Raju of YTR Technologies that is working on the alert.
+ 
+ Once the collector enters the pin, the alert will be sent to all the mobile phones in that locality in one go. The alert system will cover as many as 10 natural and one man-made disaster in three stages of alert for each scenario watch, warn and alert. “We have mobile numbers of the people in the ration shops and other government schemes. So no additional effort is needed to collect it,” the collector added.
+ 
+ 

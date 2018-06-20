@@ -1,0 +1,18 @@
+BENGALURU: At a time when discussions on data privacy have put the Centre in a spot in the Supreme Court, the Committee of Experts (CoE) under Justice (retd)   has said the government is “collecting and using personal data in certain contexts, like intelligence gathering and counter-terrorism, without the backing of any law”.
+ 
+ 
+ “The public and private sector are collecting and using personal data on an unprecedented scale. While data can be put to beneficial use, unregulated and arbitrary use of data, especially personal data, raise concerns relating to centralisation of databases, profiling of individuals, increased surveillance and a consequent erosion of individual autonomy,” the paper notes.
+ 
+ The committee, which released the paper in November 2017 and is currently in the process of conducting consultations, has also considered the   judgment on privacy, whose lead petitioner, Justice (retd) KS Puttaswamy, told TOI that collection and use of data without laws can lead to erosion of privacy as it leaves the citizen with no forum to challenge.
+ 
+ While stating that processing of information in the interest of national security, or the security of the state, is permissible as long as the government is able to demonstrate that it is necessary to achieve the purpose, the committee says the challenge lies in ensuring the derogations to an individual’s right to privacy must be permissible only if it is necessary for these objectives.
+ 
+ Speaking about prior legislation for data protection, the paper points to the Information Technology (IT) Act of 2000 and notes that there are many discrepancies despite the introduction of Information Technology (Reasonable Security Practices and Sensitive Personal Data or Information) Rules, 2011, known as SPDI Rules.
+ 
+ “SPDI Rules apply only to corporate entities and leave government and government bodies outside its ambit; the rules are restricted to ‘sensitive personal data’, which includes attributes like sexual orientation, medical records and history, biometric information et al and not the larger category of personal data,” the paper notes.
+ 
+ The committee said that the absence of effective enforcement machinery raises concerns about the implementation of the SPDI Rules, making a comprehensive law to protect personal data.
+ 
+ Arguing that certain exemptions — as in the UK and European Union’s   (GDPR) — must be provided to the government when it comes to using data for national security, it bats for proper regulation. “The law may provide exemptions for Information collected for investigation and prosecution; Maintenance of national security and public order. But exemptions must be defined to ensure that data processing is done only for the stated purpose. It must be demonstrable that the data was necessary for the purpose. In order to ensure that the exemptions are reasonable and not granted arbitrarily, an effective review mechanism must be devised,” the paper notes.
+  
+ 

@@ -1,0 +1,16 @@
+MUMBAI: A growing number of studies in recent years have suggested that the warmer temperatures and pollution associated with urban development may intensify rainfall over cities, and even trigger thunderstorms. Now, a study from   adds a twist to this intriguing phenomenon: Extreme rainfall may intensify over only some areas of a city, and this uneven distribution may depend on the buildings and roads that make up the urban form.
+
+ “What we call urban morphology, the pattern of structures, road networks, angles and heights, may all play a role in intensifying rainfall and in the spatial variability of rainfall,” said Subimal Ghosh, assistant professor of civil engineering at IIT Bombay, and a study author.
+ 
+ The IIT's study, published in Nature Scientific Reports on Friday, was motivated by a puzzle: Although satellite studies have shown urban influence on extreme rainfall, this trend has not shown up in rain-gauge data. Ghosh and others sought an answer to the discrepancy.
+ 
+ The scientists carried out a modelling experiment, running climatological data for select heavy rainfall days in Mumbai in 2014 and 2015 through three scenarios. The first had no urban built-up area. The second had uniform built-up area, with no variation in roads or buildings. The third used a spatially diverse urban cover based on Mumbai’s built form. The results were then compared with rainfall data for the selected days from the Mumbai Metropolitan Regional Development Authority's 55 rainfall stations. The third scenario—diverse urban form—came closest to the actual rainfall patterns for those days, scientists found.
+ 
+ The results show that rain-gauge stations may not capture the urban pattern unless they are actually located in a   pocket, said study co-author Dev Niyogi, who is a professor at Purdue University and a state climatologist in Indiana, US. Urban areas seem to “restructure rain to make heavy rain-bands”, he said. There is “redistribution of rain to create pockets of heavy, intense rainfall, the kind which can cause localized flooding and other hazards”.
+ 
+ Why would urban form affect rainfall? Clusters of concrete can raise temperatures, but wind can also interact with structures. Just as a rock in water creates an eddy, a high-rise structure will cause eddies in wind, said Ghosh. A group of structures of different heights, sizes and angles will create different kinds of eddies, creating atmospheric instability. This may make a difference during extreme rainfall conditions when winds are strong, he said.
+ 
+ Scientists say much work needs to be done on the issue. Even so, the study throws up several policy suggestions. For one, a dense network of stations is needed to capture rainfall patterns in Mumbai. A key finding is that rainfall stations may need to be less than 10km apart to detect the trend. Until now, it was not clear how close stations should be, Niyogi said.
+ 
+ Another suggestion, as per Ghosh, is: “Mumbai needs a more dynamic system for forecasting, one in which data is constantly assimilated into the model.”
+ 

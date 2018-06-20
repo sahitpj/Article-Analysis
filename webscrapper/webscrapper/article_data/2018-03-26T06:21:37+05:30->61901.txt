@@ -1,0 +1,18 @@
+What is the opposite of fragile? That’s a question that Nassim Nicholas Taleb always asks when he is talking about his book Antifragile. Audiences always respond with words like ‘strong’ or ‘robust’ or ‘unbreakable’. Then Taleb asks, “What is the opposite of positive?” Obviously, people answer ‘negative’. “Why didn’t you say that the opposite of positive is zero? If the opposite of fragile is robust, then the opposite of positive should be zero.” This always needs further explanation.
+
+ 
+ If, as Taleb explains, you are shipping a glass object, you would write on the package ‘Handle Carefully’. However, if you are shipping something made of iron, you won’t write anything, it is unlikely to break if the package is dropped. But that’s not the true opposite of fragile. If your package contains something that is the real opposite of fragile, you would write ‘Please Mishandle’ on it. That is because if fragile things are those that are harmed by any kind of shock or by adversity, then the opposite of fragile must be those things that actually benefit from shock or adversity.
+ 
+ On first reading, this sounds absurd. Surely, while there are things that can resist shock, there can’t be anything that will actually benefit from it? However, once Taleb starts explaining it, you realise that actually, there are many, many things that are the true opposite of fragile.
+ 
+ When we skim headlines about equity investing, we get the impression that volatility is absolutely the worst thing for investors. Like for the last month or so, the   have been quite volatile. The headline writers always assume that since the equity markets are oscillating sharply, dropping on more days than they rise on, it’s a bad time for investors. So is there any investment strategy available to the ordinary saver, which would bring in gains of equity investing, and yet actually gain from volatility? Is there an antifragile investing strategy that you and I can use?
+ 
+ Of course there is, and it’s something that smart mutual fund investors are already practising. I’m talking, of course, about SIP (Systematic Investment Plan). SIP is based on the idea of averaging your investment cost over time and it’s the simplest and yet most effective technique of benefitting from volatility. You invest a constant amount every month and keep doing it for a long time. When the markets drop, stock prices are low and so are the NAVs of equity mutual funds. Therefore, the sum you invest gets you more units of the fund. Eventually, when you redeem your money, all units fetch you an equal amount. However, your gains are higher because of the volatile periods, when you were able to invest at a low price. SIP gains depend on the long-term, gradual rise in equity prices, punctuated by periods when the   is volatile. It’s an antifragile investing strategy, since you make more money because of volatility.
+ 
+ SIPs are essentially a psychological trick to keep investing regularly, regardless of whether the markets are down or up. The antifragile nature is a hidden advantage that brings the real benefit over time.
+ 
+ When one looks at investing with this fragile-antifragile framework in mind, it’s immediately obvious that short-term trading of equities is the ultimate in fragility and long-term SIPs is the ultimate in antifragility.
+ 
+ 
+ 
+ 

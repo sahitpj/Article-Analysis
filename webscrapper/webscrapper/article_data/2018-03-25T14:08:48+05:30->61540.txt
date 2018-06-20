@@ -1,0 +1,41 @@
+NEW DELHI: The Congress and BJP on Sunday engaged in a war of words - this time on the issues of technology and user data.
+
+ 
+ "Hi! My name is Narendra Modi. I am India's Prime Minister. When you sign up for my official App, I give all your data to my friends in American companies. Ps. Thanks mainstream media, you're doing a great job of burying this critical story, as always," tweeted Congress chief  , with a link to a report about a French cybersecurity researcher's recent allegations that the   shares registered users' data with a US-based behavioral analytics company.
+ 
+  
+  
+ 
+ The BJP responded with tweets of its own, mocking Gandhi for his "zero knowledge of technology," and accusing him of trying to "divert attention" from the   controversy due to his party's alleged links to the firm.
+ 
+  
+  
+ 
+ It clarified that the   app "unlike most Apps, gives access to users in 'guest mode' without even any permission or data."
+ 
+ "Contrary to Rahul's lies, fact is that data is being used for only analytics using third party service, similar to Google Analytics. Analytics on the user data is done for offering users the most contextual content."
+ 
+ "This ensures that a user gets the best experience by showing content in his language & interests. A person who looks up agri-related info will get agri related content easily. A person from TN will get updates in Tamil and get an update about an important initiative about TN," the ruling party explained.
+ 
+ 
+ 
+ 
+ Armed with a graph, the BJP asserted that the   would gain further popularity and downloads due to Gandhi's "fright".
+ 
+  
+  
+ "We also take this opportunity to encourage Rahul Gandhi to download NaMo App to keep himself appraised of the good things happening in India," the party wrote.
+ 
+ On Friday evening, ' ' was among the top Twitter trends nationally, with Congress members putting their weight behind the hashtag. 
+ 
+ BJP IT cell head   reacted by posting screenshots of a Narendra Modi Android app page, which said, "No permission is compulsory on the NM app."
+ 
+ TOI took a closer look at the apps of the BJP, Congress and Samajwadi Party.
+ 
+ The BJP app asks for access to phone, photos, media, files, storage, device ID, call information and network connections. The BJP-owned Narendra Modi Android app requires access to the contacts on a user's phone, accounts on the device, its GPS location, USB storage, microphone, camera, storage and more.
+ 
+ The Congress party's Android app, "With INC" needs access to accounts and contacts on a device, photos and files, storage, camera, and network information.
+ 
+ The Samajwadi Party app needs the same permissions in addition to location information.
+ 
+ 

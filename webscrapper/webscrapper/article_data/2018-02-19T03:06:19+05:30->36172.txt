@@ -1,0 +1,15 @@
+NEW DELHI: Indian Space Research Organisation ( ) is planning to launch the country's second   or space observatory. The mission is meant to further the study of astronomy (the study of celestial bodies) and astrophysics.
+
+ 
+ Isro made the announcement of opportunity on February 3 to seek proposals from all institutions currently involved in astronomy/astrophysics for the development of scientific instruments for astronomy payload and mission. The advantage of having such a space observatory in outer space is that it helps observe distant planets, galaxies and other astronomical objects more clearly than from the Earth. Space telescopes avoid problems of ground-based observatories, such as light pollution and distortion of electromagnetic radiation.
+ 
+ The first AstroSat-1 weighing 1,515kg was launched on September 28, 2015. It was successfully placed at an orbit of 650 km altitude and has a life span of five years. It circles around the Earth in 97 minutes and makes 15 rounds a day. The Rs 178-crore AstroSat-1 has five hi-tech cameras (payloads), which cover the energy bands of ultraviolet (near and far), limited optical and X-ray regime (0.3 keV to 100keV). The 2015 launch helped India gain entry into the select club of nations having its own observatory after the US, Japan, Russia and Europe.
+ 
+ The key functions of AstroSat-1 are to study binary star system, neutron stars, black holes and star berth regions. One of the unique features of AstroSat mission is that it enables the simultaneous multi-wavelength observations of various astronomical objects with a single satellite.
+ 
+ With two more years to go before the first observatory's space life ends, Isro is planning to send Astrosat-2. AstroSat-1 (1,515 kg) is desi version of  's Hubble Telescope though Hubble (11,110 kg) is around eight times heavier than India's satellite and is a more sophisticated telescope.
+ 
+ Besides Isro, five premier institutes that played a key role in the development of Astrosat-1 are   (IIA), Bengaluru; Physical Research Lab (PRL), Ahmedabad; Raman Research Institute, Bangalore; Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune; and M P Birla Institute of Fundamental Research (IFR), Bangalore.
+ 
+ The spacecraft control centre at Mission Operations Complex (MOX) of Isro Telemetry, Tracking and Command Network (ISTRAC), Bengaluru, manages the satellite. The science data gathered by five payloads of AstroSat are telemetered to the ground station at MOX. The data is then processed, archived and distributed by   located at Bylalu near Bengaluru.
+ 
