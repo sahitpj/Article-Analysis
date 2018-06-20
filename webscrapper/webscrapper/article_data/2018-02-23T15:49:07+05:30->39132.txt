@@ -1,0 +1,11 @@
+NAGPUR: A message going viral on social networking sites says that 10-digit cell phone numbers would soon change to 13 digits. If this had left you flustered, then rest easy, because the   (DoT) has clarified that the 13-digit numbers would be used only for machine to machine (M2M) communications, a step to prepare for future technologies. India is possibly the first country to start using the 13-digit numbers.
+
+ M2M (data communication) is technology that leverages connected devices to remotely work or talk to each other via wireless networks in the Internet of Things (IoT). New M2M numbers would be used for SIM cards embedded in swipe machines, refrigerators, smart electric or water meters, surveillance cameras, cars, child-tracking devices, gas meters, vehicle tracking devices, fuel monitoring systems, traffic management solutions etc.
+ 
+ “The 13-digit numbers would be specifically for industries, companies, and corporates. The numbers would be registered with the companies. These will help monitor how much fuel is consumed from a machine, or if there are any problems in it. Companies would automatically receive messages from the machines using these 13-digit embedded SIM cards, and they would be able to fix the problems. Companies would be able to generate bills remotely since the machines would transfer meter readings to another machine, and bills would go out to the customers,” said  , Principal General Manager (mobile) for Vidarbha and Marathwada, BSNL, told TOI. The numbering scheme would connect billions of machines and regular mobile numbers would remain unaffected, he added.
+ 
+ The Central government plans to make it easy for the new concept of ‘machine to machine talk’. The directions from DoT, undersigned by   (BSNL), were issued in a letter on January 5 to their equipment vendors, “All TSPs (Telecom Service Provider) must ensure that their network elements, including IT and other relevant systems, are aligned with 13-digit numbering for M2M SIMs before July 1, 2018,” the letter says.
+ 
+ It also added that the few existing M2M 10-digit numbers would be migrated to the 13-digit format between October 1, 2018, and December 31, 2018. The directives have been issued to prepare for the future as the number of devices is rising, and there would be emerging need of frequent communication between machines.
+ 
+ 

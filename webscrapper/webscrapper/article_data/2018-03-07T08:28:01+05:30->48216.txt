@@ -1,0 +1,15 @@
+KOCHI: For decades, members of   used to carry quaint blue coloured cards that would be submitted at the counter in exchange of books. Many a times, the cards would be lost and reissued. But with the introduction of the   (RFID) system at Ernakulam Public Library, these problems have been more or less solved. Members can now register the dates on which they take the books by placing them atop the RFID machine and then swiping on the screen. 
+
+ The library has witnessed an increase in the membership, with over 250 new members getting registered following the installation of   in January this year. Library authorities said there has been a 10 -15% increase in the number of people who come to library for reading and borrowing books. The library is one of the oldest in the state with a legacy of more than 140 years has around 11,000 members. It is the first public library in the state to be equipped with RFID facility.
+ 
+ RFID is a combination of radio - frequency based technology and microchip technology. It acts as a kind of digital catalogue or online library management system. The information contained on microchips in the tags affixed to books, can be read by the machine using radio frequency technology. 
+ 
+ RFID tags have been placed on all books in the library in Malayalam, English, Hindi, Sanskrit, Tamil and Konkani. 
+ 
+ "Since the introduction of RFID, a lot of young people especially children have started coming to the library along with their parents. We do have a separate section for children with over 20,000 books. Similarly, youngsters especially those eyeing civil service and other competitive exams frequently visits the library," said  , senior librarian at the public library.
+ 
+ "The inconvenience of frequent visits to renew and reserve books is one of the biggest put - off about libraries. Members of the library that has a collection of over one lakh books were earlier finding it difficult to identify and locate books of their interest. In addition to that, our readers had to queue at the counter for 5-10 minutes to register the books they want. RFID tagging system has put an end to it as it can help them to easily identify and locate the books they want to read, said Ashok Cherian, secretary of Ernakulam public library.
+ 
+ Regarding how the RFID system works, Cherian said that smart cards have been distributed to each member of the library. "Smart card consists of the name of the person and their number. The members should place their card to the RFID reader which will automatically enter their details. The members have to keep the RFID - tagged book on a platform, equipped with sensors which will enter the details into software named  . This then links the the book and the card. The books can be returned through a box which is equipped with photo censors," said Cherian. 
+ 
+ 

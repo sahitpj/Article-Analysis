@@ -1,0 +1,15 @@
+Mumbai: The   has fined   Rs 58.9 crore for selling   ( ) from a portfolio that was classified as long-term investments — bonds being intended to be   ( ). This is the highest penalty imposed by the RBI on a bank for a single incident.
+
+ In a press release issued on Thursday, the central bank said it has imposed a penalty on ICICI Bank for “non-compliance with directions issued by the RBI on direct sale of securities from its HTM portfolio and specified disclosure in this regard”. “This action is based on the deficiencies in regulatory compliance and is not intended to pronounce upon the validity of any transaction or agreement entered into by the bank with its customers,” the RBI said.
+ 
+ Under RBI guidelines, lenders have to split their holding of government securities into HTM,   (AFS) and   ( ) categories. If the market value of bonds in the HTM category falls (due to an increase in interest rates in the market), banks do not need to make provisions. The rationale is since it is mandatory for lenders to invest certain part of their deposits in government bonds, they will not be selling any in this category and therefore there is no market loss. Banks are, however, required to make provisions for losses in the market value of bonds in the   category as it is their trading or liquid portfolio.Under existing guidelines, lenders can shift investments to/from HTM with the approval of the board of directors once a year, and such shifting will normally be allowed at the beginning of the accounting year. 
+ 
+ The RBI had allowed banks to shift their excess government securities, along with direct sale from the HTM category to AFS/HFT. However, this relaxation came into force only on October 4, 2017.
+ 
+ ICICI Bank said, “The bank had continued with sales from the HTM category for a few weeks during the quarter ended March 2017 due to genuine misunderstanding on the timing of the applicability of the RBI’s direction in the matter.”
+ 
+ In its press statement on the fine, the RBI has not indicated which period the violation pertained to. The October 2017 relaxation allows lenders to transfer G-secs in addition to the shifting permitted at the beginning of the accounting year — in the month of April.
+ 
+ The RBI had said, “Such transfer to AFS/HFT category, as well as sale of securities from HTM category, to the extent required to reduce the   in HTM category in accordance with the regulatory instructions, would be excluded from the 5% cap prescribed for value of sales and transfers of securities to/from HTM category.”
+ 
+ 

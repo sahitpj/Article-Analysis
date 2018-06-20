@@ -1,0 +1,22 @@
+At a time when smart devices are globally preferred, our electricity board too can’t turn its face away from the developments. 
+
+ KSEB will soon roll out smart meters and prepaid meters, to make energy consumption a lot more efficient and cost effective. How? Read on. 
+ 
+ KSEB will be implementing the smart meters project first. P Kumaran, Director of Distribution and IT, KSEB, says, “Smart meters, will collect and transmit the user’s consumption data to a data collecting unit (DCU) using GPRS or radio frequency technology using optical fibres. From there, it will be sent to the cloud of our central server, from where we can view the real time consumption of customers and even control the load, if required.”
+ 
+ The plan, he says, is to implement it state-wide by December 2018 for high value customers, who use around 200 units of electricity in a month. There is also a Ministry of Power guideline that all the meters brought by the board in the future should be smart meters, he says. “Uttar Pradesh is installing about 4 lakh smart meters and Bihar, 10 lakh. In that case, KSEB can’t lag,” the official adds.
+ 
+ Smart meter is an important element in the government’s project on smart grid that will eventually replace the conventional grid. J Sathyarajan, KSEB Executive Engineer (IT) says, “This means that we can dynamically sustain the load, as per demand. Through smart meter, we can take the reading, disconnect, reconnect and control the load remotely.”
+ 
+ How will it benefit the customer? Sathyarajan explains, “Firstly, we can network the devices at home using the smart meter, like in the concept called  , which is popular abroad. That means, even if I am not at my residence, I can still use my washing machine, refrigerator or lights, by controlling them remotely. If not now, it will be of major use in the future.”
+ Another utility is that consumers can be notified about the electricity consumption in real time. “In the future, charges will be based on the time of use. That means, in peak hours the electricity charges could be higher. The smart meter, through a mobile app, will notify the user of the charges who can then reduce the consumption, if needed. For example, if the charge is `10 per unit in the evening and `2 per unit in the morning, I can probably operate my washing machine or air conditioner more during the time when the rates are less.”
+ 
+ Through smart meters, we can also contribute electricity to the grid, Sathyarajan says. “For instance, if I have a solar installation and want to sell extra power generated to the grid at the peak time, I can,” he explains.
+ 
+ As per the government plan, by 2022 smart meters will be the standard, he says. So how much does one cost? “Due to the increased demand, its cost is coming down. It is currently priced at around ` 3,500, but we hope it comes to the range of `1,000 soon,” Sathyarajan says.
+ Another initiative proposed is the prepaid meter, using which one can pay the bill in advance. However, the board is still in the initial stages of deciding the details of it. “The proposal is to fix prepaid meters for those who use more than 200 units monthly and also government offices. But once implemented, anyone should be able to opt for it,” P Kumaran says.
+ 
+ While many customers sound excited about the progressive moves in the board, they are also concerned about how efficiently these will be implemented.
+ Ashwathy Hari, a consumer, says, “I used to pay my current bills through the web. However, a few times, the power was cut as my online payments didn’t reflect with the KSEB. Since then, I have been doing it manually. I hope that KSEB also tries to earn the trust of its customers by efficiently implementing all of its existing methods.”
+ 
+ 

@@ -1,0 +1,13 @@
+BENGALURU: Three   at the   (MIT) have joined hands with the government-run   (CIET) to launch an   that brings the classroom to mobile screens.
+
+ The ministry of human resource development had, in July 2017, launched Swayam Prabha, an initiative to telecast high-quality educational programmes 24x7 over 32 direct-to-home satellite TV. The ministry aims to bridge the digital divide by delivering educational content to students living in remote areas.
+ 
+ A team of MIT students partnered with CIET, under NCERT, to launch ‘ePathshala Kishore Manch, an app that enables interaction between faculties and student-viewers. The courses offered through the NCERT Kishore Manch channel target students, teachers and teacher educators at the secondary and senior secondary level (Classes 9 to12).
+ 
+ CIET joint director Amarendra Behera said the institute was interested in three things. Viewers watch telecasts over satellite TV, which posed a challenge to gather data about demographics; a way to quickly measure student learning and earlier, student-viewers had to call a telephone hotline during certain hours to clear doubts and a better student-faculty interaction platform was needed.
+ 
+ Sudhanshu Nath Mishra, Apurva Shrivastava and Shreyash Agarwal, three computer science undergraduate students at MIT, reached out toBehera. “Istudiedin Bengaluru tillClass12. AtMIT, I decided to do my final-year thesis on improving education in India using cutting-edge technology. When I read about Swayam Prabha, I was excited that my friends and I could get involved,” Mishrasaid.
+ 
+ The app — ePathshala Kishore Manch — is available on Google Play Store.
+ 
+ 

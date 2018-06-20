@@ -1,0 +1,56 @@
+KOCHI: Of the 100 industries, both large and small, that are playing a role in making navigation and communication systems as part of anti-submarine warfare for the Indian naval warships, 25 are from Kerala. And they are working with the scientists of defence research and development organization, ( ) to develop what is exclusively and uniquely Indian Sonar (sound navigation and ranging) system.
+
+ These industries get orders from the Kochi-based   (NPOL) under the DRDO which designs and develops the   exclusively for the navy’s warships and submarines.
+  
+  
+ 
+ “The   is our first user and a satisfied one too. Of the three services - Indian Navy is satisfied with the work being done here in NPOL and in the other two labs - Naval science and technological laboratory, Vishakhapatnam and Naval materials research laboratory, Maharashtra,” said S Christopher, secretary, defence (R&D). In the last five years, the sonar systems developed by NPOL have had takers from navies abroad. “Countries like Myanmar have already installed systems in their warships while discussions are on at various levels with other Indian ocean countries. Our advantage is that unlike other two services, Indian Navy is using only our sonars for its ships and submarines. This helps us immensely because when we scour abroad for vendors for our products, the first question is ‘are your services using this? Of course, we make the variants of what we give to our Navy,” said Christopher, who is also chairman, DRDO. Countries looking to import Indian sonars include Vietnam, Philippines, Indonesia, Thailand and Myanmar.
+ 
+ India has been witnessing debates on the economics of defense R&D but NPOL has been doubling the overall commercial worth of their products. In 2007, the cumulative product value was just above Rs500 cr. In the next five years, it touched Rs 1,280 cr and today it stands at over Rs 3,800 cr, out of which around Rs 1,400 cr worth of products have been delivered. Around Rs 2,400 cr worth of products are under various stages of production and delivery. The export product portfolio includes different kinds of sonars suitable for all kinds of ships and submarines, acoustic domes, directing gears etc.
+ 
+ “We have both public-sector units and small industries developing components for us. Even though it requires long periods of investment, all those who have joined us remain with us in our product development. They are making electronic items, sensors and several other components used in the final product that is fitted in the Indian naval ships and submarines,” said S Kedarnath Shenoy, director, NPOL. "No one knows our Indian oceans waters as we do and hence the sonars developed by NPOL are qualitatively much higher and better than many others in the world," Shenoy said.
+ 
+ Christopher said that understanding oceans had become more important in the wake of increase in trade and commercial activity, growing accidents and disasters involving vessels. "There is a growing demand for latest technologies and academicians, scientists and industries have started focusing on this sector," he said.
+ 
+ Sonars which play a crucial role in navigation and communication for warships and submarines is an important technology as far as defence is concerned. “With Chinese presence in the Indian waters, it has become important for the Navy to be more vigilant,” officials said.
+ 
+ 
+ SONAR It is a device that is used to detect underwater objects using sound waves. The acoustic frequencies used in sonar systems vary from very low (infrasonic) to extremely high (ultrasonic)
+ 
+ A sound pulse is generated and sent underwater through a transmitter. The sound waves are reflected by the underwater object which are received at receiver
+ 
+ The time taken by sound wave to come back is recorded. And by knowing the speed of sound wave in water, the distance is calculated
+ 
+ The challenge lies in ensuring that while your sonar detects a submarine lying hidden in the deep waters, it should also not radiate any waves that will expose you to the enemy
+ 
+ 
+ 
+ Actual depth of the sea
+ 
+ Lost ships and submarines
+ 
+ As an ocean surveillance system
+ 
+ Locate enemy submarines
+ 
+ For under water security
+ 
+ SPIN-OFFS Even as they develop defence systems for the services, DRDO’s technologies have yielded interesting spin-offs including the artificial leg which came from the technology used in Agni. Similarly, R&D by NPOL scientists resulted in two major technology spin-offs that could be used for civil society needs
+ 
+  A gadget that can detect people trapped in debris in quake-hit areas. It was used during the Latur and Bhuj earthquakes to find survivors
+ 
+ The equipment works on simple sonar technology. It sends signals that can direct you to a trapped life. An easy-to-handle gadget that looks like a mine- detector, it can capture minute decibels like scratching on the wall or feeble breathing. The main unit can be strapped onto the waist. A long handle with a sensor called probe, leads the search. It transmits low-decibel sounds to a headphone. The inability to track people trapped under debris has been one of the major reasons for loss of life in quake-hit areas
+ 
+ TARAGINI Yet another hand-held device, it can understand depth and aid rescue during accidents in water-bodies. Can been recharged with a mobilecharger and can be used by divers when searching when there is no diving gear. It provides information about depth in terms of feet, limited to an operational range of 100 feet. The information about bottom hardness is presented in qualitative terms
+ 
+ 
+ 
+ 
+ Tracking and detection of completely and partially-buried objects in coastal ocean is a major challenge. A paper presented at the recently concluded international conference on sonars and sensors (ICONS-2018) spoke of how objects can be tracked using sonar images. Autonomous surface tracking vehicle, autonomous underwater vehicle, advanced sonars for underwater unexploded ordnance can be used for this purpose. High-resolution sonar system provides acoustic images of high quality sonar images for underwater tracking and detection. Infrared sensors are also used to capture data
+ 
+ 
+ 
+ 
+ Developed by NPOL scientists, MR (Magnetorheological fluid) has got international patent in the USA, UK, Japan, France and India. It is a smart fluid which changes its viscosity. While this is already being used in Indian naval ships, it can also be used in automobiles. There are about two lakh kilometres of roads in India. Many of the roads are in bad conditions. Automotive shock-absorbers are mostly ineffective in accommodating these road conditions, since their performance are optimized in the factory based on ideal road conditions. This smart fluid can do wonders on the road, scientists said. Depending on the road conditions the damping values can be changed on the road as situation demands. Several automobile shock-absorber manufacturing companies have shown interest in this fluid and NPOL is negotiating with them for technology transfer and licensing
+ 
+ 

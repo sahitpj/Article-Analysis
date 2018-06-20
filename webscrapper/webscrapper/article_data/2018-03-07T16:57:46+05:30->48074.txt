@@ -1,0 +1,21 @@
+BENGALURU:  , or ICOs, are emerging as a new way of raising funds for startups. An   is based on   and is, in some ways, a mix of an initial public offer (IPO) and crowdfunding. Despite no regulation around this space, startups have managed to raise as much as $200 million in a single round of funding through ICOs. In 2017 alone, startups globally raised around $3.7 billion, according to audit and accounting firm EY. Indian startups are also among those raising funds through   in foreign markets.
+
+ The founders of Drivezy, a peer-to-peer vehicle-sharing platform, were introduced to this fund-raise last year. “We had been operating for three years and had achieved significant traction. But the problem was we needed a lot of capital to put cars onto our platform. Instead of reaching out to VCs, which would have led dilution of our equity, a couple of Japanese investors suggested an ICO,” says co-founder Abhishek Mahajan.
+ 
+ Belfrics, a   started in 2014, raised around $2.2 million in funding through an ICO in October last year. Founder Praveenkumar Vijayakumar said, “We raised funds to build a KYC-compliant blockchain and a token exchange platform. The funds came in bitcoins and most of our investors came from Europe.”
+ 
+  
+  
+ 
+ An ICO is similar to an IPO. However, instead of granting shares in the company, the issuer will create crypto-tokens to give out to investors. The investors, on the other hand, will invest any well known cryptocurrency (usually bitcoins or ether) into the venture in exchange for tokens.
+ 
+ Companies self-regulate and create their own rules for each fund-raise — including the duration of an ICO, the initial value of the token, and rules regarding when an investor can encash the token. In Belfrics’ case, 1 bitcoin was equal to 2,000   tokens. Once the company is able to raise the required funds within the stipulated period of time, they close the ICO. After it closes, the company no longer has any responsibility towards the tokens they issued. The investors can encash the tokens or choose to trade them on token exchange platforms.
+ 
+ The lack of clarity about cryptocurrencies in India has led to companies raising these funds in other markets. The US, Europe and Singapore are the most popular destinations. Belfrics raised in Singapore, while Drivezy in Japan.
+ 
+ WandX, which raised a little over $1 million in an ICO last November in Singapore, used the funds to create a platform that lets users buy a basket of tokens in a single transaction. It was launched five days ago. Founder Abhinav Ramesh says he knows a lot of Indian companies who have an upcoming ICO. Currently, most companies going for ICOs are in the blockchain space, because they understand the process better than anyone else and can create tokens themselves. Blockchain is the underlying technology of cryptocurrencies, but many believe it will have applications across industries.
+ 
+ Professional network platform in education space SpringRole, AI-based sports platform Machaao, gifting platform EasterEgg, and fintech company Cashaa are all Indian startups using blockchain platforms and looking to raise funds through ICOs.
+ 
+ Belfrics’ Vijayakumar says an ICO is not for everyone. “An Indian company could be competing with global companies to raise funds. This requires a lot of marketing,” he says. For investors, too, the risks are high because the token values could be volatile given that the number of investors are still small relative to those in IPOs, and the largely unregulated nature of the space. EY notes that there has been a fall in ICO numbers this year due to the recent crackdown on them by the Chinese government. A large number of ICO investors are from China. 
+ 

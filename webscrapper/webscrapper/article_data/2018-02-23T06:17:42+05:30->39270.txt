@@ -1,0 +1,11 @@
+AHMEDABAD: Why do our roads feel more jammed up? Why does it take us longer to get anywhere? A   from   and LD College of engineering recently got down to some of the busiest road stretches in the city to get answers. They began by measuring the size of vehicles and   under varying road width conditions — owing to roadside parking — for these roads. In a nutshell, the researchers K C Varmora and Dr P J Gundaliya simulated road width conditions using a software under varying traffic flow which caused a drastic reduction in speeds, which led to jams.
+ 
+  
+ 
+ On Jaymangal – Palav stretch on SP Ring Road, for instance, Varmora and Gundaliya found that there was a noticeable change in speed of vehicles from 31.67 kmph to 25.65 kmph when the road width was reduced by 1 metre (because of roadside parking). The vehicle flow too decreased from 4,176 vehicles per hour to 3,856 vehicles per hour. However, the researchers saw that there was a drastic reduction when the road width was changed to 6.5 metre from 9.5 meters ( a decrease of 3 metre). Here Varmora noticed that the average speed of vehicles had reduced to 23.23 kmph and the number of vehicles that could pass through reduced to 2,542 vehicles per hour.
+ 
+ “During peak hours, a reduced road width leads to slower traffic. This has its own perils,” says Varmora. “In case of high density traffic, a small disturbance, such as a driver braking suddenly, becomes amplified as cars behind it react even more strongly,” he said, adding, “Eventually, many cars and vehicles behind this initial disturbance leads to small incremental increases which become a fully fledged traffic jam.”
+ 
+ Varmora said the traffic volume study should be used for proper road design and traffic management. He adds, “Any sort of congestion radically reduces the volume of traffic passing a road section. This in turn creates a negative loop that creates more backups and bunching of vehicles.”
+ 
+ 
