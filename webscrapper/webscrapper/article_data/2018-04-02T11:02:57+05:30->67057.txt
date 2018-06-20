@@ -1,0 +1,9 @@
+BENGALURU: As Know Your Customer (KYC) regulations continue to adversely affect mobile wallet companies,  , the largest among them all, is looking to focus on facilitating direct money transfers from a bank account to another, using methods like Immediate Payment Service or  .
+
+ 
+ Paytm has been looking to diversify and offer new payment options to users since RBI rules mandated KYC compliance for peer-to-peer ( p2p) and merchant payments, starting March 2018. Anticipating the slump in business due to KYC rules, the company has been pushing platforms like UPI, QR code-based solutions to users. Paytm's founder   had complained about WhatsApp's entry onto   for p2p payments. Players like Google Tez have been challenging existing players in categories like online utility payments.
+ 
+ The company declined to share details of its KYC compliant user base but it has been on an overdrive to get customers to complete the requirements. As per industry sources and analysts, most digital wallet companies are struggling to widen user base, which is KYC compliant. Along with focus on newer payment solutions, the company is rolling out a set of changes on its app from Monday to make the overall experience more intuitive. It is also trying to scale up its money transfer payment solutions by betting on areas like house rent, supplier and wholesale dues, tuition fee, freelancers, salaries of unorganised workforce, among others.
+ 
+ "We have been working on becoming a full-stack payments player. The focus on money transfer clearly shows we want people to make transactions on our platform, using whichever solution they like," said Kiran Vasireddy, COO, Paytm.
+ 

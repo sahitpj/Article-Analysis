@@ -1,0 +1,19 @@
+Mumbai: Even as   migrates customer engagement to digital platforms, there is a quiet digital revolution taking place internally. Employee transfers are now decided by algorithms, senior manager appraisals are being done by aggregating app-based instant feedback from bosses, and data from canteen purchases is analysed to track employee health.
+
+ ICICI Bank MD and CEO Chanda Kochhar said, “For ICICI,   automation has been around since 2000. Digitisation is what we have added on top of that by bringing in mobility, connectivity and straight-through processing of everything.” 
+ 
+ According to Kochhar, if the bank wants its customer engagement to be digital, the channels that employees use internally should also be digital and mobile. “We believe that HR is a huge enabler for all our businesses. So if the enabling environment is not dynamic and agile, then how can the organisation be agile and dynamic?” she said.
+ 
+ ICICI Bank HR head T K Srirang said the lender has developed through partnerships and customised applications, which are not available globally. Employees can avail this facility through a mobile application. “We wanted an application that would enable a virtual amphitheatre of 80,000 people. But the only solutions available were webcasts or videoconferences,” he said. 
+ 
+ While webcast addressed the one-to-many requirement, there was no two-way communication. Videoconferencing allowed two-way communication but could support at most 30 users. A Pune-based developer came with an out-of-the-box solution — a bridge between two applications. This led to the creation of iStudio — which enables Kochhar to address all employees, and those who wish to engage migrate to a videoconferencing mode.
+ 
+ Srirang said the solution is useful in a demonetisation-like situation, when employees have to be made mentally ready immediately. It also enables Kochhar make e-visits to branches. The platform is also useful for other employee engagements, like when the bank got a cardiologist to speak to staff on health.
+ 
+ Digitising the transfer policy has also helped the lender save senior-manager bandwidth and prevent heartburn. “We have coded all the reasons for transfer requests, post-marriage relocation, health reasons or a transfer to hometown. Based on the weightage, the algorithm identifies the vacancies and prioritises the transfer requests. This has removed discretion, which sometimes acts as a bias,” said Srirang.
+ 
+ “Often appraisals are clouded by our recent interaction and that colours, both positively or negatively, leadership assessment. The data from real-time feedback is gold for us as it is immediate, instant and without bias,” said Srirang.
+ 
+ Most of the applications are developed rather than purchased. “While for the cloud-based HR management system we have fallen back on Oracle, we find that India has so much talent in development that it gives us an opportunity to do things in-house,” said Srirang.
+ 
+ 

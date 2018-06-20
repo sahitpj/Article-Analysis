@@ -1,0 +1,27 @@
+BENGALURU: Four minutes after executing the second orbit-raising operation, Indian Space Research Organisation’s ( ) Master Control Facility (MCF) at Hassan lost all contact with GSAT-6A, a mega communication satellite that was to provide mobile communications to both civilians and the armed forces.
+
+ 
+ At 9.22am on Friday, the first orbit raising operation changed the apogee and perigee height to 36,412km and 5,054km respectively. MCF gave the command to fire the LAM engine for the second orbit raising operation at 9.51am on Saturday. The satellite executed it and the engine fired for 53 minutes and 54 seconds. Soon after, it communicated back, the signals riding electromagnetic waves and covering a distance of 36,000km to reach the ground station within a fraction of a second. Then, all went blank.
+ 
+  
+  
+  
+  
+ 
+ On Sunday, TOI had reported that the satellite had experienced hitches in communication and Isro officially confirmed saying, “After the successful long duration firings, when the satellite was on course to normal operating configuration for the third and the final firing, scheduled for April 1, 2018, communication from the satellite was lost.”
+ 
+ Scientists and engineers at MCF continued working to establish contact with the satellite even as another team was trying to analyse the exact cause for the power failure. “With everything else having gone exactly as per our plans, we are confident that the systems are working well. At this moment, we do not know what caused the power system to fail,” one scientist said.
+ 
+ According to Isro chairman  , “when there are power fluctuations, the satellite goes into a safe mode with all communication lost. This is not unusual.” “However, that has not happened this time,” Sivan told TOI, adding Isro was “still hopeful of regaining control.”
+ 
+ Sivan said scientists were even trying to send non-command messages to see if the satellite responded. But the agency has not seen any success.
+ 
+ Y S Rajan, distinguished professor, Isro, said there have been instances of signals going blank. “Sometimes, it may suddenly wake up and sometimes it may not. It could also be an issue of a charge or a recharge (battery) problem. It will take at least two or three days depending on the anomaly. There have been instances of   losing communication with its satellites and getting it back.”
+ 
+ But even as Isro scientists and engineers burned the midnight oil, insiders said the agency was likely to launch a massive quality assurance drive which might impact immediate future launches.
+ 
+ Given that this is a second major technical issue faced by the agency — a PSLV heat shield separation failure prevented navigation satellite IRNSS-1H from reaching the orbit in August 2017— in seven months, there will be a renewed emphasis on processes, an insider said.
+ 
+ (With inputs from U Tejonmayam)
+ 
+ 

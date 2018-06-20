@@ -1,0 +1,15 @@
+THIRUVANANTHAPURAM : The   (KBA) of the   and Management-Kerala (IIITM-K) has become the first Indian institution to be granted membership by the   hosted by  .
+
+ Hyperledger is an open source collaborative effort created to advance crossindustry blockchain technologies, according to an official statement issued here on Sunday.
+ 
+ The city-based KBA has now become an associate member along with the Cambridge Centre For Alternative Finance (University of Cambridge) in Hyperledger ecosystem, which was launched in 2016 with a technical and organizational governance structure and 30 founding corporate members.
+ 
+ Hyperledger aims to enable organizations to build robust, industry-specific applications, platforms and hardware systems to support their individual business transactions by creating enterprisegrade, open source distributed ledger frameworks and code bases. It is a global collaboration of leaders in finance, banking, Internet of Things (IoT), supply chain, manufacturing and technology.
+ 
+ Moreover, 14 new organizations have joined the project as general members from across the world. With these new members, the Hyperledger community has grown to 231 organizations in more than 25 countries.
+ 
+ Hyperledger has gained significant traction as a multi-project, multi-stakeholder effort and now includes 10 business blockchain and distributed ledger technologies.
+ 
+ Building on the momentum from the Hyperledger Sawtooth 1.0 release at the end of January, the   recently accepted Hyperledger Caliper, a blockchain performance benchmarking tool, into incubation. Additionally, Hyperledger Fabric version 1.1.0 was released last week. Of the 70 plus open source organizations the Linux Foundation has launched, Hyperledger holds the distinction as the fastest growing.
+ 
+ 

@@ -1,0 +1,46 @@
+NEW DELHI: At 462.12 million, India has the second highest number of internet users in the world after China but lacks the legal framework to ensure data protection and privacy with current laws inadequate for the rapidly-evolving sector, say   experts.
+
+ As   becomes the political buzzword pitching the ruling BJP against the opposition Congress, recent revelations on the issue have forced people to re-examine their everyday social media browsing habits, particularly on Facebook.
+ 
+ It started mid March with international media reports claiming that the profiles of 50 million Facebook users were harvested by UK-based analytics firm   (CA) to influence the US presidential election and the pro-Brexit campaign as well as polls in other countries.
+ 
+ The resulting storm engulfed India too, with former CA employee-turned-whistleblower Christopher Wylie claiming the firm extensively operated in the country and had served political parties, including the Congress and the Janata Dal (United).
+ 
+ Beyond the global impact of the biggest-ever data breaches and the social media behemoth Facebook, the scandal brought to the fore the shortcoming of India's laws to deal with ever advancing issues of online privacy and data theft in the country, say experts.
+ 
+ "India has the second highest number of internet users globally. However India's Information Technology Act, 2000 and its amendments- 2008 and 2011- are not well suited to deal with social media and internet related cyber-crimes," said Jaspreet Singh, partner, Cyber Security, Ernst & Young.
+ 
+ According to figures by Internet World Stats, a website featuring data on global internet usage, China had highest number of internet users at 738.5 million till December 31, 2017. India was second and the US third with 286.94 million users.
+ 
+ India does not have a dedicated law on data protection and privacy, said Singh.
+ 
+ "Consequently, the third party transfers and cross border movement of personal data, the entire sharing ecosystem, is not adequately dealt with under the Indian IT Act. If any organisation is disclosing the personal information to third parties in India for data profiling or other such marketing and business purposes, there is no effective legal solution that is available," he added.
+ 
+ Supreme Court lawyer Pavan Duggal said it would be a mistake to expect the IT Act to be a holistic one-point legal framework for cyber security as it was enacted 10 years ago.
+ 
+ "... there have been dramatic advances in cyber security and also cyber security breaches, but the law has stood frozen in point of time in history," the cyber law specialist told PTI.
+ 
+ Going by Indian law, the data breach episode, which has attracted a probe by regulators and governments in several countries and also triggered panic amongst millions of internet users, is at best "immoral or unethical" but not illegal.
+ 
+ "If you take Cambridge Analytica as an example, what they have done is mining of data and purchase of data with the consent of users by tricking them into giving their consent and taking off their data.
+ 
+ "So you may call this entire practice of data collection and data harvesting immoral and unethical, but according to Indian laws it is not illegal. It is not against the law of the land," said cyber security expert Jiten Jain.
+ 
+ The Facebook-CA episode throws up a host of issues, added Rama Vedashree, CEO of the   (DSCI), stressing the need for clarity about the roles, obligations and responsibilities of all stakeholders towards protecting data and protecting individual privacy in the ecosystem.
+ 
+ "I won't call it the way it is being positioned- as a security breach or a data breach -- but possibly a breach of trust of the users who have shared their data because the data was used or harvested for some other purpose which the user was not not even aware of. I think that is the fundamental thing (here)," she said.
+ 
+ Biju Janata Dal MP Baijayant Panda has filed a private members bill in Parliament and been passionately championing the cause for "sensible new regulations".
+ 
+ "Using data for marketing and political campaigning purposes should be done legitimately, with the consent of people whose data is being used and also in line with a modern regulatory framework that protects privacy and enshrines accountability for misuse of data," he said.
+ 
+ Panda described the current Indian regulatory framework as inadequate, especially since these challenges are rapidly evolving in a widely connected world.
+ 
+ As debates over online privacy trended globally following the data breach expose, there were acrimonious exchanges in India between its two main parties.
+ 
+ While the BJP attacked the Congress and asked it to explain CA's role in its social media outreach, the opposition party said it was the BJP which hired the services of the controversial firm during Bihar and other state polls as well as for its 'Mission 272-plus' campaign
+ 
+ Congress president Rahul Gandhi recently claimed that Prime Minister Narendra Modi's official mobile application works as a "spying" tool and dubbed him as the "Big Boss who likes to spy on Indians".
+ 
+ BJP leader and Union minister Smriti Irani retorted that even "Chhota Bheem", a cartoon character, knows that commonly asked permission on apps do not "tantamount to snooping".
+ 

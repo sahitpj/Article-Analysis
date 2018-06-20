@@ -1,0 +1,11 @@
+AHMEDABAD: After Bitcoin,   cops on Sunday encountered another cryptocurrency, Ether. A city-based businessman has filed a complaint with Anandnagar police for the theft of data worth Rs 20 lakh using an access key.
+
+ According to experts,   is a blockchain based open-source computing platform that functions similarly to Bitcoin. The currency it generates is called ‘Ether’, and is generated for users participating in mining.
+ 
+ According to Anandnagar police, Darshil Shah, 32, a resident of Jodhpur, he owns an office in Prahlandnagar for software and application development. According to his complaint, he found two data breaches on February 19 and 21 from the server. At that time, the data was worth Rs 40 lakh.
+ 
+ “He has stated that he had got in touch with a service provider for the investigation, when he came to know that an outside intrusion was not possible in the set-up. The only way to get in would be through a private key which only he and the service provider hold. Two accounts out of 250 were holding the maximum data. He has thus mentioned in the complaint that the data theft was performed by someone known to the system,” said an Anandnagar police official.
+ 
+ Investigators said that an offence has been registered under sections of the IPC and the IT Act.
+ 
+ 

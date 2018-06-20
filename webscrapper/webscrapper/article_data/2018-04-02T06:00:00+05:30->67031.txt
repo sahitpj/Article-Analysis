@@ -1,0 +1,17 @@
+KOLKATA: Fill it, shut it, forget it. No, we are not talking of motorcycle fuel tanks; instead, this is about a   made by  .
+
+ The civil engineering department of IIT-Kgp has made a bio-toilet, whose giant flush needs to be filled with 500 litres of water, which then recycles itself for a lifetime of use, which can stretch up to 15 years.
+ 
+ This bio-toilet, which also helps generate electricity, has won the Prime Minister’s   award. The department — which has built a prototype — is in the process of replicating it. The   ( ), its first partner, has asked the developers to build one such toilet in rural Noida as a test case.
+ 
+ The toilet is unique because it is self-sustainable, and does not need a constant supply of fresh water like other toilets. Once the 500 litres of water are filled, it can be used by a family of five for a “lifetime”. 
+ 
+ Usually, toilets need about 10-12 litres of fresh water per flush. The IIT Kgp bio-toilet does not need fresh supply of water because microbial fuel cell (MFC) reactors are made to work on the used water after each flush to completely recycle it. The clean water is then sent to a reservoir on top of the toilet, where it is stored for re-use.
+ 
+ And that’s not all. The septic tank of the toilet has electrogenic bacteria, which acts on the human waste and generates electricity. “You can use this electricity to illuminate the toilet at night. During the day, the electricity can be used to charge mobile phones. The toilet is ideal for villages, where people still have to go out into the fields to relieve themselves. To meet the sanitation needs of the rural population, the government is funding toilets at home, but the problem is that they are dry and water crisis is a perennial issue. Our toilet solves all these problems,” said M Ghangrekar, a civil engineering professor who’s the project leader.
+ 
+ The bio-electric toilet consists of a six-chambered reactor in which waste water is rotated both clockwise and anti-clockwise. Hypochlorite used in the final cathode chamber reduces pathogenic contamination. The chambers are lined with a membrane that has proton-exchange property. And this is where the researchers have brought in another technological innovation. Bikash Ranjan Tiwari and Md Tabish Noori, both PhD students at the department, have invented a membrane separator that is both cheap and efficient. Usually, the membrane is made of Nafion, which is extremely expensive, thereby raising the price of the MFC. The polyvinyl alcohol-Nafion-borosilicate membrane invented by Tiwari and Noor is not only 11-fold cheaper but is also more efficient in treating waste water.
+ 
+ The toilet being built at Noida will be tested for sometime before other toilets are built, said a source. The department of science and technology has also funded four bio-toilets to be built on the IIT-KGP campus.
+ 
+ 

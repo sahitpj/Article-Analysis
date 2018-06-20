@@ -1,0 +1,22 @@
+PUNE: The   government is ready to roll out the   as a pilot project in Pune and Konkan divisions to ensure that all land transaction data are insulated against tampering and hacking.
+ 
+  
+ Information technology officials said blockchain technology is a decentralized digital ledger that will store all transactions in a chronological order and detect any change in the records.
+ 
+ “It is a foolproof system. Once the data are entered into the system in cases of land transactions, it can be seen by all departments concerned. Any change made by anybody will be immediately recorded. This will improve security and make the process transparent,” principal secretary (IT-Maharashtra)   said.
+ 
+ The department has prepared the proof of concept and it will be first experimented for land records in some select cities of the Pune and Konkan revenue divisions before being replicated across the  .
+ 
+ Currently, the data are entered manually, stored digitally and uploaded to the central server. Subsequently, it’s modified for the cloud technology. But if anyone makes any changes before uploading the data on the cloud, the modifications will be registered in the transactions. 
+ 
+ This will not happen in the blockchain system, said IT officials implementing the project involving startups in the next few months.
+ 
+ The state government is also contemplating to use the technology in sectors such as financial inclusion, land records, supply-chain financing, goods and farm insurance and motor vehicle registration.
+ 
+ “Land transaction is the first target, before rolling out the technology in the other sectors. We will follow the   model. The southern state has tied up with start-ups to implement blockchain technology,”   said. 
+ 
+ The system will allow maintaining identical copies of data of records on a multiple computer system, which can be verified by a reviewer. However, the reviewer can only update the blockchain through request to another official added from the revenue department.
+ 
+ Maharashtra is the second state after Andhra Pradesh to put in place a blockchain and data cloud policy. 
+ 
+ 

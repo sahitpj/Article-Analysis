@@ -1,0 +1,30 @@
+Let me ask you a question: Do you know your tapwater well? Chances are, you have more information on that bottle of mineral water than you do about what’s coming out of your tap.
+
+  technologies today are helping us map water. One such innovation is IOT, or the Internet of Things. It’s an inter-connected system of sensors or devices that relay information. IOT can change the world.
+ 
+ But the problem is not a lack of data; we have a problem putting data to work. According to experts, we live in a data-rich but informationpoor water world. The information is also hidden in hardto-access databases. It’s no wonder then, India is a country of thin, inaccessible data. However, if the same data were shared openly, we will have a game-changer on our hands. Imagine using an integrated water website as part of a house-hunting effort. One could access area-specific water trends. For example, when picking a home in the suburbs, we could find out how many quality violations the local water supplier has had over the past five years.
+ 
+ Recently, a global meet — hosted by the   — brought together experts on water management, big data and possibilities. The dialogue came up with some interesting ideas.
+ 
+ The focal point was public and governmental water data — the data collected by public water agencies. Such data are usually collected at great cost and effort but are mostly unusable. Instead, the data must be open, or “discoverable” in machine-readable formats.
+ 
+ This public data could really be the platform for the Internet of Water (IOW). Think of this in terms of something like   Maps for water.
+ 
+ IOW should be allowed to evolve like the internet did — through sharing and integrating knowledge; It should not be controlled or regulated by one agency. It has to be a network of inter-linked data shared between regions to enable sustainable management of water supply.
+ 
+ The Water Data Exchange, for instance, integrates information on water availability and use. Similarly, the   in the  , integrates groundwater data. These networks provide users with data on what’s available. As far as water is concerned, that information is as precious as the liquid itself.
+ 
+ Next, according to the   meet, we need integration of data hubs. This integration will form IOW — the primary structure that brings together all the working parts. The IOW can help make sense of all the data available. It can generate trends, statistics and even trigger alarms.
+ 
+ After the integration, two things can then happen.
+ 
+ First, we can develop tools to forecast problems. We could even have technologies to detect and repair leaks in pipes. According to research, a typical modern home loses up to 75,000 litres to leaky pipes.
+ 
+ Second, an IOW based on public data can help individuals and companies generate their own data sets — it could truly democratise water.
+ 
+ Today, we live in the age of “anything is possible”. We are looking to set up mass transit systems connecting entire cities; gardens atop skyscrapers; machines that can detect illnesses; and food that can cure diseases. It’s only during such a period of innovation, can we look at saving what makes our planet unique.
+ 
+ Information has the power to secure our resources. We just need to know what to do with information.
+ 
+ The writer is president, Society for Environment Education Research And Management
+ 

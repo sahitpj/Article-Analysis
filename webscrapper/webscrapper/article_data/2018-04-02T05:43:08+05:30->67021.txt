@@ -1,0 +1,16 @@
+KOLKATA: With   claiming around 40 lives in 2017 (the official figure, however, is only 19) and affecting thousands, the health department has now taken the digital route to track the virus this year. Vector control and preventive measures are now guided by data fed into a software, which has already traced 31 cases of dengue this year.
+
+ “The trial run of the software was carried out in January and actual implementation started in February. We hope this will enable better coordination, taking up vector-prevention and control measures in time,” said Dr Ajay Chakraborty, director, health services ( ).
+ 
+ 
+ Developed by a technical support team in the health department, officials in Swasthya Bhawan said they were confident this software will minimise the communication gap between stakeholders, enable senior health officials to intervene whenever required and act swiftly.
+  
+ 
+ Recently, Swathya Bhawan officials received an alert about several cases of fever in a particular ward in Cooch Behar. Officials immediately got in touch with the   health (CMOH) of   and asked him to hold a meeting with municipality officials to investigate the fever. Within days, Swasthya Bhawan officials received a feedback from the district ruling out dengue.
+ 
+ “This software system covers all urban municipalities in the state. Each are expected to daily feed in their respective data on vector-control measures. This software is meant to enable detailed data analysis and plan follow up action accordingly. Another feature is that it emits an alert whenever there is something to be concerned about,” added Chakraborty.
+ 
+ All municipalities are required to update information on fever cases in a ward, dengue cases detected by any clinic, number of households and the findings by health workers during door-to-door visits during the day, including mosquito breeding sites, water stagnation and fever.
+ 
+ Cut-off points have been set up for various parameters and if the software finds any data overshooting the cut-off mark, it sends out an alert.
+ 
