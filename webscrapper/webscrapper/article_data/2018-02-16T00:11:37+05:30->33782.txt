@@ -1,0 +1,17 @@
+Thiruvananthapuram: During monsoons and drought seasons, Kerala water authority (KWA) officials have to make calls to Peppara and Aruvikkara to get updates about dam level. And in areas like Peppara, where service of guards is not available after dusk, getting updates after night was an impossible task. 
+
+ Now with a new   developed by Centre for Development of Advanced Computing ( ), the KWA is getting updates about   at regular intervals via SMSs. 
+ 
+ Nirchhari, the sensor for remote monitoring of water level, is operational at Peppara and Aruvikkara dams for the past three months. Originally developed to check level of sewage in sewer lines under smart city programme, Nirchhari can transmit immediate alert in cases of emergencies such as river flood, sewer overflow, fuel leaks in tanks etc. 
+ 
+ Sindhu R, group head and scientist at Strategic Electronic Group of C-DAC, said that the device sends ultrasonic pulse echo of the frequency 40khz. The level is measured when the transducer in the device detect the signals that get reflected back from the water surface. The device will process time of receiving the signals and measures the depth. The details will be send to KWA officials via SMS. C-DAC has developed an android application to send messages according to the need of the user. 
+ 
+ The maximum gap between the surface and device is 7 meters and minimum 10cm. However, the location of the device can be changed using a pulley where it could be lowered or raised based on the level of the dam. 
+ 
+ In Aruvikkara, C-DAC has installed a solar plant to supply power to the device. C-DAC is also planning to develop the system further to enable automatic opening of shutters based on the water level.
+ 
+  C-DAC officials said that the device could be used in fuel tanks, overhead tanks, sewage lines etc. 
+ 
+ KWA officials in charge of Peppara and Aruvikkara dams said that the device is sending messages about water level on an hourly basis and is very effective. “Currently, we are receiving messages only to the number of assistant engineer at Aruvikkara. We will request to send messages to more officials,” an official said. 
+ 
+ 

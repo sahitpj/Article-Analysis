@@ -1,0 +1,11 @@
+CHENNAI: A large refrigerator-sized box may be a simple solution to growing and eating fresh, pesticide-free vegetables right inside your apartment complex. 
+
+ A Mumbai-based startup U-Farm has developed a semi-automatic IoT-enabled small-scale vertical farming appliance to grow organic vegetables all year round. The technology won a technical excellence award at the   - Renewable Energy Innovation Challenge organised by   along with Industrial Waste Management Association, US Consulate in Chennai and  , a Virtusa company.
+ 
+  said the appliance uses hydroponics, a method used to grow plants only with mineral nutrient solutions in water solvents, without soil. "We are looking at a reliable urban farming system. If residents of an apartment subscribe, we will install the system in their complex, we will grow and maintain the plants. All that they would need to provide us is a power socket," he said, adding that the appliance is ideal for large residential communities, townships, corporate offices and supermarkets. "For an apartment of 40 families, it may consume about 1,000 units a month."
+ 
+ The appliance works on IoT sensors and actuators that help set, keep track and control various parameters required to grow vegetable plants, including temperature, humidity, dissolved oxygen in water, air flow, pH levels and so on. While vegetables that are similar in terms of these parameters could be grown together, the entrepreneur says the plants can grow 1.5 faster than in the traditional method as they get the ideal blend of nutrients required.
+ 
+ While large scale vertical farming is popular in the West, Gudhaka said their technology will help consumers get fresh food, as it could be used within the housing complex that is organically grown, thereby also cutting down on the food wastage that occurs during transporation, reducing usage of water and decreasing pressure on land to mitigate land degradation. "We are also working on a predictive system that will eventually replace the sensors and reduces our operational cost," he said.
+ 
+ 

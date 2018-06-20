@@ -1,0 +1,13 @@
+CHENNAI: Being quick in typing, or using auto-fill to enter names, will no longer give you the edge while booking tatkal tickets online.
+
+ The ministry of railways has identified at least 19 websites being used to facilitate auto-filling to get that extra edge of a few seconds in booking tatkal tickets. Most of these sites have the word ‘tatkal’ for instance tatkaltkts.com, tatkalsoft.co.in and tatkaltkt.com which provide software to enable a passenger to fill the booking form on the   website faster. However, said the ministry, software from these websites have not been able to bypass the system. By enabling the user ‘auto-fill’ details, these software enable him to reach the   and improve the chances of getting a confirmed  . The window opens at 10am and usually for in-demand trains tickets are sold out within five minutes.
+ 
+ However, the ministry said the system cannot be thwarted any more as it will not accept submission of the form before a stipulated time check. For instance, the minimum time for filling up the form is set at 25 seconds irrespective of the number of passengers. So if an IRCTC user fills up a form within 20 seconds, he will not have an edge. Similarly, there is a minimum time check of 10 seconds for users to make the payment besides a minimum time limit of five seconds for entering the CAPTCHA.
+ 
+ The ministry has requested the electronics and IT ministry to block these websites, but a cursory check shows that they continue to offer the auto-fill software.
+ 
+ “But by keeping a time check the government is denying the edge to those who can be fast,” said  , a regular rail user.
+ 
+ This is apart, regular rules stipulate that only two tatkal tickets per IP address can be booked from a single user   and only one tatkal ticket in a single session. Also, agents will not be allowed to book between 10am and 10:30am. “Aadhaar card has also been made mandatory for agent registration,” a senior IRCTC official said.
+ 
+ 

@@ -1,0 +1,17 @@
+THIRUVANANTHAPURAM: The government is all set to make global positioning system ( ) equipment mandatory in all public transport service vehicles from April 1. But the decision, based on an earlier central directive to locate the position of a vehicle optimally and ensure passenger safety, has hit a roadblock after the   directed a specific technical specification for the equipment. It is unavailable in the market at present.
+
+ On the basis of the directive, the state government has issued a notification – making relevant changes in rules – to making some things mandatory: GPS, an automatic emergency button system and display of the driver details inside the vehicle.
+ 
+ 
+ While GPS will be used for locating the position of the vehicle, tracing its navigation route and also informing the users about the timing of the vehicle on a continuous basis, a safety button should be present for the passengers or crew members to send specialized message to a centralized regulatory server to indicate safety or a panic situation.
+ 
+ The report submitted by   committee – to improve safety of women in vehicles – recommended that all transport vehicles should be fitted with tamper-proof GPS tracking system. The vehicle should display the name, age, address and contact number of all drivers along with their photograph inside the vehicle at a prominent location.
+ 
+ The state government has amended the   Motor Vehicles Rules 1989 to insert rule 151A to incorporate the recommendations, and the amended provisions will be made effective from April 1, 2018.
+ 
+ The state government entrusted the   (C-DAC) to develop the software and a software titled Suraksha Mitra was developed. At present, the software can track, locate and give the real time data of one lakh vehicles. The motor vehicles department has also set up a control room for tracking vehicles.
+ 
+ But the Centre has now asked the state government to make mandatory a particular technical specification (AIS-140) for all GPS equipment. This has raised concerns about starting the project.
+ 
+ “The Centre has given a directive in this regard. But, we could not identify a company that can provide the equipment with such a specification. We will take up the matter with the Centre,” said transport commissioner K Padmakumar. GPS will be made mandatory for all passenger as well as non-passenger public transport vehicles except two-wheelers, three-wheelers and those vehicles that does not require permits.
+ 

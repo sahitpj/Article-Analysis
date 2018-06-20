@@ -1,0 +1,23 @@
+New Delhi: Hours after Union minister Gopinath Munde died in a horrific car accident in central Delhi on June 3, 2014, a group of policemen quietly reached the spot. They probed the accident to determine how and why the minister’s car had been hit on the side by another. Soon after, the team recommended that the hedges along Aurobindo Marg, on which the collision had taken place, be pruned to aid visibility for drivers. In the four years since, there have been zero fatality on the stretch.
+
+ The cops not only visit accident sites to learn who is at fault, but also to assess the factors contributing to the disasters. So, every time there is a   in the capital, a   reaches the spot,   and returns to the office of the  . The cell analyses the accidents for their causes and creates a database to aid research and help formulate policies.
+ 
+ This little-known police unit was set up in 2008 with a team of seven cops, who possessed a sound idea of road engineering and traffic management. They mapped the location of each accident on a GIS mapping software and created a database of the causes of 50,000 accidents that has occurred in Delhi. 
+ 
+ The unit was revamped four years ago and is today armed with the latest software such as PC Crash and ArCGIS to help the personnel in their evaluations. The cell not only helps Delhi Police in managing the city’s traffic, but also assists central agencies in critical probes. Delhi sees almost 6,500 road accidents per year.
+ 
+ Dependra Pathak, special commissioner (traffic), explained that the analyses of road accidents took into account influencing factors such as type of vehicle at fault, place and time of occurrence, road specifics, type of location (flyover, intersection, roundabout, etc), and age, sex and profile of victims. 
+ 
+ “We can use the data to categorise the circles, districts, ranges that have more accidents or show an increase in the number of accidents. Black spots and accident prone zones can be determined by the spatial analysis of the accident spots,” said Pathak.
+ 
+ The anti-encroachment drive that is currently being conducted by the joint action team of the Traffic Police and the civic bodies is based on a report prepared by the cell. Most recently, the unit was requested to assess an accident in Ghaziabad, and the report was entered as a crucial piece of evidence during the court hearing related to the incident.
+ 
+ The data collated by the cell earlier was analysed and some changes in road and traffic management were recommended by the team in 2013. Police claimed this has led to a dip in the number of road fatalities.
+ 
+ Arun Kampani, joint commissioner (traffic), said that a group led by an inspector at the accident spot uses special software to simulate and recreate every accident in 2D or 3D format, based on the information provided by the investigating officer. A detail collection group employs a crash lab vehicle (a specially modified vehicle with radar and speed guns, cameras and tapes) to collect information. The data from the device is stored in a laptop.
+ 
+ “Once all the data collected by the various teams are compiled, the software calculates the probability of the accidents factoring in various physical parameters like speed, momentum, friction of the vehicle and the objects involved in the accidents,” said Kampani. These can later be used during investigations or for taking corrective engineering measures, he added.
+ 
+ In 2016, the team also studied stretches like Ring Road, Outer Ring Road, Mathura Road and Aurobindo Marg for pedestrian facilities and traffic flow in an effort to reduce vehicle-human conflicts. Perhaps due to this exercise, the number of pedestrian deaths fell from 1,561 in 2015 to 1,451 in 2016.
+ 
+ 

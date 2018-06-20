@@ -1,0 +1,25 @@
+NEW DELHI: Indian Space Research Organisation (Isro) is planning to usher in an age of high-speed internet connectivity in the country with the launch of heavy-duty communication satellites.
+
+ Giving details about the upcoming launches this year, Isro chairman   toldTOI: “We will launch   in April or May.” The 5,725-kg satellite, which will carry 40 transponders in the Ku-band and Ka-band frequencies, is capable of “providing high bandwidth connectivity” with up to 14 gigabit per second (Gbps) data transfer speed.
+ 
+ “We will launch Gsat-11 from the European spaceport as it’s a five-tonne satellite. Around the same time in May, Isro will launch Gsat-29 through our GSLV Mk III rocket from Sriharikota. Thereafter, we plan to launch Gsat-20 from India itselfby next year,” the Isro chief said. Last year on June 5, the Indian space agency had launched Gsat-19, which too carried Ka/Ku-band high throughput communication transponders.
+ 
+ Dr Sivan said, “Together, all these satellites will provide high bandwidth connectivity of up to 100 gigabit per second. They will provide high-speed internet connectivity in rural areas as well and help bridge the digital divide.”
+ 
+ 
+  
+ 
+ The satellites are special as they use multiple spot beams (a special kind of transponder that operates on a high frequency) that will not only increase internet speed and connectivity. A spot beam is a satellite signal that is specially concentrated in power so that it covers only a limited geographical area on the earth. The narrower the beam more is the power. These satellites will reuse “beams” (signals) several times in order to cover the entire country. In contrast, traditional satellite uses a broad single beam (not concentrated)to cover wide regions.
+ 
+ Gsat-19 launched last year uses 16 beams and is able to transfer data at the rate of 13 Gbps. GSAT-20 will use 40 beams. Each beam will have two polarisations, which will effectively make them 80 beams. This satellite will have data transfer rate of 60-70 Gbps.
+ 
+ Isro's move to launch these communication satellites is coming at a time when Elon Musk-founded US space company Space X is also busy building the largest satellite-based internet network in the world to bring low-cost high-speed internet to billions of people. To fulfil its mission, Space X last Thursday had launched two experimental internet-based satellites, known as Microsat-2a and Microsat-2b. Space X plans to launch a constellation of 800-1,200 small satellites of 4,425 Ka/Ku band into the low-earth orbit. The constellation, first announced in 2015, will help the Elon Musk company start global internet services in 2020, albeit on a limited basis.
+ 
+ Though India had overtaken the US in 2016 to become the world’s second largest internet user base after China, the country is still behind many Asian countries when it comes to internet speed. The number of internet users in the country is expected to reach 500 million by June this year, up from 432 million in December 2016, according to a report from the Internet and Mobile Association of India.
+ 
+ When it comes to mobile internet speed, India ranked a disheartening 109 out of 122 countries, says popular speed testing service Ookla in its 2017 November edition of Speedtest Global Index. However, India stood at a little better 76th rank out of 133 countries in broadband speed, says the report.
+ 
+ According to the index, average mobile (download) speed in the country last November was 8.8 Mbps. Norway was the fastest mobile network with an average speed of 62.6 Mbps, followed by Netherlands with 53 Mbps, Iceland (52.7 Mbps) and Singapore (51.5 Mbps). India also fared poorly when compared with its neighbours. According to the November index, China ranked 31st and had a speed of 31 Mbps, Pakistan with 13 Mbps was ranked 89th even after slipping three positions, Nepal (99th rank) had 10.9 Mbps and Sri Lanka (107th) had 9.3 Mbps download speed.
+ 
+ When it comes to broadband speed, India stood at 18.8 Mbps. Singapore led the way with 153.8 Mbps, followed by Iceland with 147.5 Mbps and Hong Kong (133.9 Mbps). China ranked 23rd with 61.2 Mbps, Sri Lanka had 19.2 Mbps and Pakistan on 126th spot with 6 Mbps. Though India needs to go a long way in boosting internet speed, Isro’s new satellites are expected to be a game-changer for the country.
+ 

@@ -1,0 +1,6 @@
+ used to be slung under a plane’s wing and then largely forgotten about until they came into the hangar for a check-up. More recently they’ve graduated to data downloads that allow engineers to devise maintenance regimes while aircraft are still flying.
+
+ The next generation of turbines will be way smarter, according to  , communicating with each other to share readings such as weather data so that their blades can be perfectly angled and thrust adjusted to minimise fuel burn — all without any input from the pilot.
+ 
+ Further into the future, power-plants may even detect their own ailments via 70 trillion data points and then effectively self-heal, perhaps even deploying an army of robotic worms to crawl around making fixes as they go,  , Rolls’s director for customers, said. The UK firm aims to apply enhancements from its Intelligent Engine program to the new Ultrafan turbine, slated to enter service by 2025. 
+ 

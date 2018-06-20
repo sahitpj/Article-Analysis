@@ -1,0 +1,22 @@
+KOLKATA: Unable to cope up with a barrage of missing cellphone complaints, and realizing that cyber hacking through phones has seen a phenomenal growth in Kolkata, Lalbazar is mulling setting up of a monitoring cell that will track down lost mobile phones. It also wants a dedicated cybercell in each division to help monitor cybercrimes involving mobile phones.
+
+ 
+ Though Lalbazar is now taking the task seriously along with   police and returning recovered mobile phones to their rightful owners on a monthly basis, they have realized that tracking these lost phones can lead to a variety of crimes, often having their root in other districts and even other states.
+ 
+  
+  
+ 
+ “The cell will monitor thousands of mobile phone numbers. Their job would be to stay abreast of the latest technology so that they stay a step ahead of criminals,” said an officer.
+ 
+ Similarly, cybercrimes are now no longer restricted to the “white collar” class. “It has been a very democratic process and thus the crime now cuts across all sections of people. Hence, co-ordination is needed among the divisions, which can take care of the less important cases through a dedicated cybercell. They can forward the difficult cases to the headquarters,” claimed a source.
+ 
+ If implemented, the move will help reduce pressure on two of the most important sections in the detective department — the watch section that tracks lost mobile phones and the cybercell that looks after the phone hacking cases.
+ 
+ Police sources say tracking down high-end phones and solving the crimes involving the phones is not an easy job.  , or International Mobile Equipment Identity, is a unique 15-digit number associated with every phone and believed, till now, to be tamper-proof. Sources told TOI that the myth about IMEI’s invulnerability can be dispelled by using a device now popularly called a flasher. It resembles a regular Wi-Fi router. a professional criminal opens files that is in the disc on a computer and then uses the flasher to connect the phone to the computer. After that, all that needs to be done is to change the digits.
+ 
+ Once the IMEI is replaced with another number, the phone’s origin can never be traced. This means there could be two or more devices with the same IMEI in circulation, depending on the number keyed in. And all that the unscrupulous operators charge for this work is Rs 200-500 per handset. The flasher costs Rs 2,000-5,000.
+ 
+ Apparently, it is easier to junk the IMEI in phones that run on the cheaper MTK processor. Handsets fitted with Qualcomm Snapdragon are harder to crack, though they are not totally tamper-resistant. Changing the IMEI number of Apple handsets is, however, not possible because the flashers do not work on iPhones.
+ 
+ Yet, as police pointed out, this is not a deterrent since Apple phones are almost always dismantled and their parts sold separately.
+ 

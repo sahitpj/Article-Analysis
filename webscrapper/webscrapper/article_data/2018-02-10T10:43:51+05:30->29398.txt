@@ -1,0 +1,31 @@
+PUNE: Two unidentified men exploited a flaw in an automated teller machine ( ) and got richer by Rs1.9 lakh. 
+
+ Employing a unique method, the thieves had struck through 19 card swipes at the ATM, attached to State Bank of India’s Sasanenagar branch, in October 2017.
+ 
+ As seen in footage captured by the ATM’s CCTV camera, the duo repeatedly inserted a debit card and keyed in the personal identification number (PIN).
+ 
+ 
+  
+  
+ 
+ Then, they would unplug an ATM cable after it starts to dispense the cash, and collect the money. As the machine went offline after triggering the dispensing of cash, the system treated it as a failed transaction. 
+ 
+ Due to this, the card holder’s bank account was not debited. Instead, the bank’s coffers were. The   was soon discovered by the bank officials during an audit, and they checked the CCTV footage to ascertain what happened. 
+ 
+ The modus operandi deployed by the duo is unique, police said.   (32), the manager of the bank, lodged an FIR with the Hadapsar police on Thursday. 
+ 
+ “The fraudsters used a debit card to withdraw Rs1.9 lakh — Rs10,000 each over 19 transactions — between since October and January 2018. The fraud came to light after SBI conducted an audit of the bank account in February. They lodged a complaint soon after,” sub-inspector   said.
+ 
+ A case has been registered under IPC section 379 (theft) and 34 (common intention).
+ 
+ “One fraudster is seen [in the footage] using a debit card, while the other removes and re-fixes the ATM cable. The transactions were done early in the morning. The bank has yet to identify the customer on whose name the debit card was issued,” he said.
+ 
+ ‘We are working on certain clues to identity the fraudsters at the earliest,” Dokhe added. 
+ 
+ “The ATM machine has either been compromised or has malfunctioned,” opined cybersecurity expert Niranjan Reddy. “The ATM machine should be closed for end users and a thorough examination needs to be done at the back-end well as on the machine to locate and eliminate the cause of the problem. Also, regular audits need to be done to avoid such incidents. In this0 case, the bank is solely responsible, while the card holder will bear the brunt of the consequences,” Reddy added. 
+ 
+ This correspondent, on visiting the ATM at Shri Siddhi apartments in Sasanenagar, found that it was not manned by a security guard. 
+ 
+ The bank manager Pathak refused to comment on the incident, as did the bank’s chief manager in charge of all branches under Pune East. An e-mail sent to the bank’s official spokesperson and others officials, and phone calls, did not elicit a response.
+ 
+ 
