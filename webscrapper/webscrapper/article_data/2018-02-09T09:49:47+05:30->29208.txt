@@ -1,0 +1,24 @@
+PUNE: A whopping 103 of the 146 Aadhaar centres in the district are non-functional because of a technical glitch that is preventing operators in Pune, Pimpri Chinchwad and the rural areas from uploading daily enrolment data on the   server.
+
+ Several applicants were shocked to find that many government offices and citizen facilitation centres were not functioning on Thursday even as the March 31 deadline of linking Aadhaar numbers with a variety of services is approaching.
+ 
+ 
+  
+ 
+ District administration officials confirmed that almost all the Aadhaar enrolment centres at the ward offices of the Pune and   municipal corporations did not operate on Thursday.
+ 
+ 
+ The officials said the data stored at the enrolment centres would not be uploaded on the   server if the snag was not resolved within five days. The data from the Aadhaar kits at the enrolment centres has to be uploaded on the UIDAI central server via a gateway called Secured File Transfer Protocol. The officials said the gateway was not operational (See graphics).
+ 
+ The operators have to update the data they receive within five days. If they don’t, the kits stop functioning and the machines have to be re-activated. UIDAI has instructed all data operators functioning from government premises to update the data to the Central Identities Data Repository (CIDR).
+ 
+ District nodal officer (Aadhaar) Vikas Bhalerao said, “There has been a glitch in the server for the last 2-3 days. We faced a similar issue a fortnight ago. We have informed the IT department about the problem.”
+ 
+ Almost all the machines at ward offices and the collectorate were not functioning because of the glitch, Bhalerao said.
+ 
+ Pushpa Waghmode, a resident of Mohammedwadi, visited the ward office at   and the citizen facilitation centre in   to make her Aadhaar card. “At both places, the operators said the machines were not working,” she said.
+ 
+ Mohandeep Sethi, who has to enrol his grandson, said he visited the facilitation centres twice and found the machines non-functional.
+ 
+ 
+ 

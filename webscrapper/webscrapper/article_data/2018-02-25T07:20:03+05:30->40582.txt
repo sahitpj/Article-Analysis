@@ -1,0 +1,11 @@
+AHMEDABAD: Eric S Maskin, professor at   and a Nobel laureate, delivered the second IIM-A-SRK Lecture at IIM-A on Saturday. The event was jointly organized by IIM-A and the Surat-based Shri   (SRK) Knowledge Foundation.   elaborated on his seminal work on mechanism design theory during his one-hour lecture.
+
+ “Theory of mechanism design can be thought of as the engineering side of economic theory. Much theoretical work focuses on existing economic institutions. On the other hand, mechanism design theory identifies desired outcomes or goals. We then ask whether or not an appropriate institution could be designed to attain that goal,” said Maskin, introducing the basic idea of the theory.
+ 
+ He said that the theory works when the mechanism is incentive compatible. To elaborate on the model way of sharing resources, he gave the example of a mother dividing cake between two children. “If the distribution is not acceptable to either of the child, he/she can be invited to cut equal parts and the other child can be invited to choose the piece. However, complex economies doesn’t work this way. The choice is based on a number of factors with stress on different parameters,” said Maskin.
+ 
+ He went on to give the example of how choices are made when it comes to fields such as energy and allocation of radio frequencies. He elaborated on the factors that play a major role in selection of one category over another by the players involved. Maskin also laid out conditions for rules to work, such as equal opportunity for all to choose freely and uniformity of conditions across the spectrum.
+ 
+ In his concluding remarks, Maskin said that his current research tries to find answers to question related to real-world issues — including greenhouse gas emissions, prevention of financial crises and improving the system by which Americans elect presidents — on the basis of the theory.
+ 
+ 

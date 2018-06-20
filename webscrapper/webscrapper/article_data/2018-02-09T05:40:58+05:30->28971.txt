@@ -1,0 +1,11 @@
+NEW DELHI: At a time when the Centre is encouraging people to adopt digital transactions, some banks are allegedly not enforcing   directions to provide an additional authentication system for online transactions and the   has decided to examine the issue to protect consumers from rising incidents of credit card fraud. 
+
+ Under additional authentication system, banks are supposed to send one-time password (OTP) to the card-holder which is to be used for the transaction and it is meant to ensure that the card is not misused by another person when it is lost. RBI has been asking banks to adopt second level of authentication and has issued several circulars from 2009 to implement it.
+ 
+  Alleging that some banks, including   were not providing additional protection layer for consumers, a   lawyer approached Delhi high court for its implementation. He urged the court to direct the RBI to ensure compliance of its circulars. He approached the court after HDFC deducted an excess amount in his online transaction . 
+ 
+ "The case pertains to complete failure of RBI to implement its notifications/circulars issued in 2009, 2010, 2011 and 2014 mandating the use of an additional authentication/validation system also referred to as second level authentication for online card not present ( ) transactions. The additional authentication/validation is to be obtained using information that is not visible on the credit card itself, ie information known or available to the holder of the card but not printed on the card. One-time passwords, internet banking passwords are second level authentication," petitioner advocate Chirag Shroff said.
+ 
+  Agreeing to hear his plea, a bench issued notice to RBI and HDFC. Responding to the legal notice sent by the lawyer, HDFC had said the requirement of second level of authentication was applicable for online transactions done with Indian companies and his transaction was through a foreign website . 
+ 
+ 

@@ -1,0 +1,11 @@
+KOCHI: Students of   (Fisat), Angamaly, have developed two prototypes that can contribute to making smart systems in agriculture and health using internet of things ( ). The initiatives include a machine that automates irrigation, fertilization, climate monitoring and another one that can aid doctors in diagnosing a disease quickly. 
+
+ The agriculture prototype has 50 grow bags planted with common vegetables. The grow bags are integrated with sensors for monitoring soil moisture, PH, humidity, temperature and air quality.
+ 
+ "Depending on the sensor values, the system will automatically adjust the conditions so that it will be suitable for the growth of the plant. This system aims to minimize human intervention and improve efficiency and productivity. One of the major features of the system is scalability and the integration of technologies related to irrigation, sensors systems, air and soil monitoring to IOT. The technology will be given to farmers for fee, the aim is that people can use, modify or develop the system," said C Mahesh, professor, civil engineering department.
+ 
+ The other initiative is the disease diagnostic machine (DDM) developed by students. DDM can measure a person's vitals (BP, ECG, temperature, blood-glucose level, heartbeat) using modern sensors. The data can be sent to a doctor at the press of a button in the tablet integrated in DDM.
+ 
+ The doctor can analyze and give his/her diagnosis and prescribe medicines back to the patient using his tablet. The machine is also capable of suggesting diagnosis (based on vitals) using artificial intelligence.
+ 
+ 

@@ -1,0 +1,22 @@
+KOLKATA: Soon, long queues at Metro ticket counters will be a thing of the past. Come June, you can just walk into the East-West Metro, with your cell phone tucked inside your bag or trouser pocket. All you will need to do is enable the NFC-based app and maintain the required balance.
+
+ NFC or 'near field communication' is a technology that enables contactless exchange of data between two electronic devices.
+ 
+ The system is expected to be implemented on the truncated East-West service slated to begin in June between Salt Lake's Sector V and Salt Lake stadium.
+ 
+  
+  
+ 
+ Passengers can commute ticketless with apps on their NFC-based phones. It would enable metro access by just moving their phones close to the system-compatible metro gates.
+ 
+ The East-West Metro authorities expect immediate disbursal of funds from   (Jica), which is providing 46% of the Rs 8,575-crore project cost for the underwater Metro connectivity. It will also provide loans in various categories like Automatic Fare Collection and Passenger Control (AFC&PC), which includes NFC as a key component.   is expected to pay Rs 48.6 crore for AFC&PC.
+ 
+  will implement the AFC&PC system in all its 12 stations, beginning with the six stations between Sector V and Salt Lake stadium. The system would include the flap gates at all stations. When the e-card in the app comes in proximity with the metro gates, it sends a command to open it. Once a passenger enters a station, the phone starts its "Metro session" and deducts the fare based on the exit point.
+ 
+ "It's an e-tag which allows the exit machines to read or write data on it. The sensor on the exit machine works on electromagnetic induction to transmit data and the technology is called RFId (radio frequency identification)," an official at   (KMRC) that's implementing the metro corridor project between Howrah Maidan and Salt Lake's Sector V.
+ 
+ The official explained, "NFC uses the RF-Id technology that establishes communication between devices when they are brought close to each other, a few centimetres." Applications can include contactless transactions, data exchange, contacts with NFC tags to trigger actions like opening up WiFi connections and more.
+ 
+ Most Metro projects, including the North-South corridor, will eventually introduce NFC-based solutions for ticketing.
+ 
+ 
