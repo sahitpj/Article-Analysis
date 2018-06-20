@@ -1,0 +1,17 @@
+PUNE: In May 2017,   and  , two   students studying at the Symbiosis Institute of Computer Studies and Research, went to a secondary school in Kabul and gave computer lessons to students there. Arifa now has bigger plans for the new year.
+
+ Later this year, she aims to impart programming skills to underprivileged Afghan children, in their own language, for free. Helping her would be professor Shahrevar Davierwala.
+ 
+ Davierwala’s job profile is such that he gets to travel to various under-developed countries. “Generally, when students the go back home from the institute, they just want to relax. Many international students come here to get proper   and exposure. However, many children in their home countries — especially if they come from under-developed countries — have no exposure to what is happening in the academic world outside. I wanted to help change this,” said Davierwala.
+ 
+ During the Kabul school project, Arifa and Habiba, both final year students of Bachelor of Computer Applications, realised there is a need to teach students in a systematic manner, which would require more teaching material. The Afghani girls had taken up a small project earlier where they taught the basics of web language in two schools in Pune.
+ 
+ “This got me thinking. We spoke to the concerned authorities in the school education department in Afghanistan, who gave us a go ahead. We have started a website called Hour of Computer, which will host basic modules of web language in Dari (which is their local language) and English. This will help students understand the concepts better,” Arifa said. She wants to teach in colleges as well, but can’t at the moment as rules in   mandate a minimum Master’s degree to teach in colleges.
+ 
+ The duo has decided to teach students how to make a basic website home pages in the first course. Therefore, they will start the course with basics of ‘Scratch’ and other such languages that will be easy and interesting to learn.
+ 
+ “Even if you learn C or anything like that, immediate job opportunities are few. Also, these are school students with no prior knowledge of computers; hence programing language may be very hard for them. If they can make a website, they may find employment with local people as many start-ups there may want a website. Once the students develop a liking for computers, they can try and learn other languages as well,” Arifa said.
+ 
+ They hope to get more people to contribute to the portal. “What we need is quality material that is easy for students to learn and also helps them in building skills that will eventually help them find employment. Once the website is up and running, we will start other courses such as C, C+ Java etc. But whatever happens, the learning material will remain free,” said Davierwala, who is also Arifa’s technical advisor.
+ 
+ 

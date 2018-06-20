@@ -1,0 +1,11 @@
+NEW DELHI: Following speculation over its role in the user data recorded and shared by the  , US-based web analytics and marketing company   has published a blog clarifying its stand on data privacy. 
+
+ "CleverTap doesn't sell, share, rent, re-market, or do anything funny with publisher data," co-founder   said in a blog detailing how his company works with app publishers' data.
+ 
+  In a blog published on Monday, Jain gave examples of how his company processes the user information that app publishers share with them. "The CleverTap dashboard lets the app publisher run queries on this data set to extract reports like app logins, transactions, video views, etc. CleverTap also enables publishers to send messages to users based on their actions or demographic profile. For example, a publisher can use CleverTap to send an email to their users thanking them for a recent purchase," he wrote, clarifying that the data shared is the publishers' prerogative, and that his company does not "mandate any specific user information to be sent." 
+ 
+  "CleverTap doesn't have any audio or video storage or processing capabilities... nor does it seek any extra permission outside of what an app might typically ask," the blog said. According to its official website, CleverTap was founded in 2013 by three Indian-origin co-founders - Sunil Thomas, Anand Jain and Suresh Kondamudi. All three list leadership positions at Network18 as previous experience. The California-headquartered company hired its 40th employee in March 2017. 
+ 
+  The blog made no direct mention of the   app or the discussion around data privacy in India. However, it did say one could use India data-centres while using their services. "CleverTap offers a variety of hosting locations globally, including Indian data-centers for those businesses that might have a legal or governance requirement. CleverTap hosts its servers within AWS," wrote Jain, referring to Amazon Web Services, a cloud hosting service from the American e-commerce and tech giant. 
+ 
+ 

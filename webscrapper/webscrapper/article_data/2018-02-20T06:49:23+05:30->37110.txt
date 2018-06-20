@@ -1,0 +1,14 @@
+BENGALURU:  's payments app   has thrown a new challenge to domestic payments players. Tez just launched its recharge and utility payments business, which is the largest use case for mobile wallets, and has on-boarded around 90 merchants onto its platform.
+
+ The development comes at a time when incumbents like Paytm and PhonePe are already feeling the heat from tech giant WhatsApp's entry into the peer-to-peer payments space. Paytm's founder & CEO Vijay Shekhar Sharma had stirred up a storm last week, saying WhatsApp had been given preferential treatment as it had arm-twisted the   and launched its beta version on the messaging app.
+ 
+ Tez's entry into the recharge and bill payments segment will put further pressure on these existing players as Google is incentivising users for using its payments option. Google had earlier doled out heavy discounts when it made its debut on the Unified Payments Interface ( ) platform, where it grabbed a 67% market share in terms of transactions in October 2017.
+ 
+ For now, Tez's merchant base is spread across electricity boards, telecom operators and insurance companies, among others.
+ 
+ Digital wallets have had it tough the past few months as their future as standalone wallet entities has been questioned after the RBI announced new KYC regulations. Most of the incumbents made a bulk of their revenues tapping into mobile recharges and other utility payments.
+ 
+ Google said in a blog post, "Paying your bills could be much simpler - and could save you a lot of time. So today, Tez is adding a specially designed experience that lets you pay your bills in seconds, not minutes. Adding a new biller is a breeze, and you only have to do it once." The company added, "Today's rollout of bill payments on Tez comes with an exciting new offer. For every new biller you pay this month, you'll get a scratch card that could win you up to Rs 1,000."
+ 
+ Tez's entry into this category is expected to disrupt the space as higher incentives will see one set of users changing loyalties to gain additional discounts.   recently entered the recharge space and is incentivising existing users to use its e-wallet frequently.
+ 

@@ -1,0 +1,22 @@
+NEW DELHI: The   expressed concern on Tuesday over the potential misuse of   authentication data collected by private companies for commercial use and said that safety measures put by UIDAI may not be sufficient to deal with the problem as there is no data protection law in the country.
+
+ 
+ UIDAI CEO Ajay Bhushan Pandey concluded his four-hour PowerPoint presentation in the courtroom with a strong pitch to convince a Constitution bench of Chief Justice   and Justices A K Sikri, A M Khanwilkar, D Y Chandrachud and Ashok Bhushan that   was well protected and could not be breached.
+ 
+ However, the bench pointed out two loopholes in the system, the private operator at the time of enrolment in Aadhaar could keep a copy of the data to himself and, second, private companies which are using the Aadhaar platform could also collect the authentication data of customers. The court said in both cases the data could be misused for commercial gains.
+ 
+ “Security at your end would not ensure data protection. My concern is about the misuse of data at another end point,” Justice Chandrachud said while pointing out that authentication data could be collected by private companies.
+ 
+ Pandey contended that under the present system, UIDAI would never know for what purpose the authentication was done and it did not collect data pertaining to purpose, location and details of the authentication. He said collection of such data was prohibited under the Aadhaar Act.
+ 
+ The bench, however, said, “There are two ends of authentication. You said that you do not retain information on the purpose of authentication but the private entity before whom authentication is done could retain the data or the number at the time authentication was done and the information could be used for commercial purposes. What is there to prevent the private sector from collecting the data?” Justice Chandrachud asked the UIDAI chief.
+ 
+ The bench also said data collected by a private enrolment agency could easily be copied before sending it to the authority concerned.
+ 
+ The UIDAI chief admitted that the enrolment agency could copy the data and said that there was also the possibility that experts could tamper with the software used for collecting data but tried to allay the apprehension of the court by saying that people could be punished for indulging in such activities as it was an offence.
+ 
+ “In IT world, what is secured today may not be safe in future. We have to upgrade the system continuously. In the last seven years there has not been a single breach from our data bank,” he said and briefed the court about various measures taken by the authority to protect Aadhaar data. He said only four digits of an Aadhaar number would be put in the public domain and the authority had a system in place to generate a virtual 16-digit alternative Aadhaar number.
+ 
+ He also told the bench in view of a large number of cases of authentication failure, the authority had decided to use face and fingerprints of people for authentication purpose.
+ 
+ 

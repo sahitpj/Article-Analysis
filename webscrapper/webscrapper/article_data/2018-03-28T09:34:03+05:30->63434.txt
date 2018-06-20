@@ -1,0 +1,10 @@
+CHENNAI: A   spokesperson denied the claim by a French cyber security researcher who goes by the pseudonym Elliot Alderson on Tuesday that PM  's website narendramodi.in is hosted on a US server. Alderson has for the past few days focused his attention on the privacy policies of the PM's and  's apps, forcing the first to do a tweak and the other to delete it. 
+
+ 
+  Delhi-based security researcher   said that the IP address location (23.9.185.190) of narendramodi.in is hosted by Akamai Technologies in Cambridge, Massachusetts, US, but said having server locations outside of India was not a problem. Alderson has said legal compliance may be an issue with varying data use regulations in different jurisdictions. 
+ 
+ The website asks those wishing to register for their first name, last name, email address, phone number, profession, areas of interest, and date of birth.
+ 
+  "The @narendramodi's #Android #application sends silently and without the user's consent, his IP address and a unique identifier of his phone. Personal data is being sent to the website http://api.narendramodi.in which is located in the US," tweeted Alderson, who on Sunday had pointed out that the Congress' now defunct website membership.inc.in was hosted on a Singapore server. 
+ 
+ 

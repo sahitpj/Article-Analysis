@@ -1,0 +1,9 @@
+Coimbatorte: Markets regulator   has decided to permit liquidity enhancement schemes (LES) in commodity derivatives contracts. Sensitive commodities however will not be eligible for LES. “Any commodity that is classified as ‘Sensitive Commodity’ by the exchange shall not be eligible for LES,” it said.
+
+ “If any commodity derivative product is liquid on any of the exchanges i.e. there is at least one exchange where the average daily turnover in ‘Options or/and Futures’ on similar underlying commodity is more than or equal to Rs 200 crore for agricultural and agri-processed commodity, and Rs 1000 crore for non-agricultural commodity during the last six months, then no other exchange is eligible to launch LES on the same derivative product unless the exchange where the product is liquid, has itself also launched a LES on said product,” the regulator said.
+ 
+ “For the present, schemes which incentivise brokers based on activation of new UCC (Unique Client Codes), number of trades or open interest shall not be permissible under LES,” Sebi said in its latest circular.
+ 
+ “Exchanges shall put in place a mechanism to ensure that the LES does not create artificial volumes, does not take away liquidity form the market, is not manipulative in nature and shall not lead to mis-selling of the product in the market,” the regulator said. “The exchanges are advised to take steps to make necessary amendments to the relevant bye-laws, rules and regulations for the implementation of the same,” it said.
+ 
+ 

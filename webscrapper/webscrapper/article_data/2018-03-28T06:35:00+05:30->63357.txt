@@ -1,0 +1,9 @@
+AHMEDABAD: The recently concluded ‘Smart   for New India Hackathon’ on Monday offered a peep into the problems and dilemmas faced by various government departments. Departments such as climate change, energy & petrochemical, roads and buildings, education, home, urban development, information and broadcasting, and agriculture placed their problems before the final 30 IT engineering student teams.
+
+ For instance, the energy and petrochemical department required a software that would allow tariff benefits to be passed to consumers when there is excess power generation. This is a peculiar demand, said energy policy expert K K Bajaj. “While the state claims to have a power surplus, it buys 60 million units, approximately 2,800 megawatts, from the Indian energy exchange,” he said. “In fact, consumers end up paying more in Gujarat when there is excess power supply.” The education department sought a GPS-based vehicle-tracking system for schoolchildren. It also wanted a mobile location-based student attendance system. 
+ 
+ The roads and buildings department wanted a grievance redress system for road maintenance while the urban development department required a software that could identify available parking spaces at bus depots within the city. The otherwise dormant climate change department wanted a “traffic management system based on area-wise air pollution concentration.” The sports and culture department wanted a system that can mark attendance by scanning faces. The woman and child development department required a caller’s location tracking system.
+ 
+ The national-level grand finale of the Smart India Hackathon will be held on two days beginning March 30. Ahmedabad will be one of the regional nodal centres in the country. Twenty-three teams from Gujarat, including teams from colleges in Ahmedabad, Rajkot, Surat, and Vadodara are participating in challenges to solve the problems of various government departments.
+ 
+ 

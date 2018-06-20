@@ -1,0 +1,24 @@
+NEW DELHI: Delhi Police’s  , approved by the  , is largely based on artificial intelligence. It will substantially reduce human intervention in the city’s day-to-day traffic management. 
+
+ Special commissioner   and his team have been working on the nitty-gritty of the ambitious project since February, according to police sources.
+ 
+ 
+  
+ 
+ Crucial to the new system will be road-based sensors that will help in traffic classification and volume count. This will entail colourless laser sensors to detect vehicles and create a pattern of traffic movement based on the traffic volume. This should prove particularly effective for stretches like Outer Ring Road, Ring Road, Vikas Marg and Mathura Road, which together carry almost 75% of the city’s traffic.
+ 
+ Cops say that an integral part of the   will be Adaptive Traffic Control System that will crucial roles at intersections on arterial roads that usually clog up during peak hours. Such snarls are currently cleared by traffic police using hand signals or tweaking the signal timings. The AI-controlled system will have sensors on footpaths and dividers to constantly monitor the flow of traffic and provide live data to the control room. When vehicle movement on a stretch becomes heavy, the control room can divert vehicles approaching the congestion using variable message boards and IP-based public address systems.
+ 
+ In an ideal situation, the computers monitoring the traffic will leave signals green on a vehicle-heavy stretch for a longer period so bottlenecks can be cleared up. The sensors will also anticipate traffic congestion and take pre-emptive measures, while monitoring information exchanged on Facebook, Twitter, Google Map and social network platforms about traffic snarls and road blocks.
+ 
+ The system will be able to create a pattern of traffic movement on any particular street in the context of time of day and weather condition for the future reference of the traffic cops. The data for the 33,000 km of roads in Delhi will be stored in a cloud-based system accessible to senior officers through a single software.
+ 
+ ITMS will also have an alert generation system that will enable faster and efficient decision-making to manage traffic in case of an emergency such as an accident or a blockade.
+ 
+ Another important feature of ITMS will be an automatic prosecution system. This will be enabled by a series of cameras equipped with high-resolution number plate detection lenses to determine stop-line violations, lane violations, speeding, travelling without seat belts or use of a mobile phone while driving. According to the traffic police accident records, 90% of the accidents take place due to violations like these. Once detected, e-challan systems set up at the control rooms will send a notice to the violator’s address and alert the violator about the notice on his or her registered mobile numbers.
+ 
+ The video incident-detection cameras for online traffic management and the proactive variable message signage, and speed control signals will also reduce the incidence of accidents on the major roads.
+ 
+ Police can match the information collected by the cameras with the National Crime Database and CCTNS to detect stolen vehicles and intercept suspect vehicles. This will be particularly effective in tracking down cars involved in hit-and-run cases.
+ 
+ 

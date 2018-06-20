@@ -1,0 +1,19 @@
+Hyderabad:   co-founder   believes AI is the new electricity, transforming every major sector and embedding itself into daily life, like the way electricity did some 100 years ago. Ng, an adjunct professor at  , was the founding lead of the Google Brain deep learning project. He says the scale of data and computational power have made AI a goldmine of insights for government and businesses. For Coursera, which offers online courses from some of the world's best universities, India is the second largest market, with 2.8 million learners. It adds 60,000 learners here every month. Of the 1.92 lakh enrollments globally for its deep learning (AI) course, 25,000 are from India. Its most popular course, machine learning, has seen 1.9 million enrollments globally, of which 3 lakh were from India. Ng, who was in Hyderabad on Monday for the Nasscom-WCIT conference, spoke to TOI. Excerpts:
+
+ How do you see the AI story unfolding in boardrooms and management discussions?
+ 
+ AI is the new electricity and it has made significant advances to transform industries. If you look at Google and Baidu, it’s not that AI is just used for online advertising. Google and Baidu have better web search results, much better map services and computer security. So many businesses and products are being transformed using AI and if we look at our society, there would be hundreds of great projects to be done. I think CEOs should get involved because what businesses will fail and what will succeed is changing because of AI technologies. In healthcare, AI will be used for diagnosis, in IT services, what we can automate is changing significantly because of AI. I think call centres will be significantly impacted.
+ 
+ There is a lot of anxiety around the future of jobs with pervasive automation in every industry. Do you think AI will replace traditional jobs?
+ 
+ Yes it will. The biggest ethical challenge AI is facing is jobs. You have to reskill your workforce not just to create a wealthier society, but a fairer one. A lot of call centre jobs will go away and a radiologist's job will be transformed. Governments and corporations have the responsibility of reskilling. There’s still a lot of work humans can do in the foreseeable future and we don’t seem to find enough people in some areas. We can’t find enough healthcare workers, teachers or wind turbine technicians in the US. Our educational system globally has not been historically great in reskilling for newer job roles. We need a new social contract to do that. For India, lack of an incumbent structure might be an advantage, where it can use digital education to leapfrog.
+ 
+ China’s is emerging as a dominant force in the global AI race. How is India placed to leapfrog into the future with AI?
+ 
+ AI is witnessing an early innings in India. It has a thoughtful government and India can race ahead if it chooses to. India has a chance of capturing a large piece of the AI story. The Chinese AI ecosystem is very sophisticated. The action is in the Valley and Beijing. The scale of activity and how quickly the companies embrace it and take AI tech to the market is remarkable.
+ 
+ Do you think domain-specific AI has made significant progress?
+ 
+ There is fantastic progress in AI in the last few years. Almost all the progress has been in building specialized intelligence. For instance, speech recognition works much better now than a few years ago. The ability of a self-driving car to detect other cars is much better now than two years ago. A lot of unnecessary hype about AI is about the fears of general intelligence (machines performing any intellectual task a human can, by connecting varied elements). I would like for us to make progress on artificial general intelligence, but that might be many years away.
+ 
+ 

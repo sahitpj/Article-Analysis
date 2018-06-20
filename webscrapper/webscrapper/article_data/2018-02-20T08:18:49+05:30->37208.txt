@@ -1,0 +1,14 @@
+NEW DELHI: The role of at least one or two senior executives of   (PNB) in the about Rs 11,300-crore fraud is being investigated even as the state-run lender’s internal probe has revealed that accused deputy manager Gokulnath Shetty had access to more than one password to undertake, authenticate and verify a  , which has to be handled with three passwords that act as checks. While bank executives acknowledged the “failure of internal controls”, the lender at the centre of the crisis is key to solving many puzzles.
+
+ To begin with, SWIFT — the international money transfer switch — requires three separate employees with different passwords to issue a message for a transaction, authenticate it and verify it. A fourth employee has access to a printout when the transaction related to a letter of undertaking (LoU) is received.
+ 
+  
+  
+ 
+ Bank sources said that the deputy manager, who was supposed to be efficient, enjoyed the confidence of almost all his superiors over the seven years that he spent at the bank’s Brady House branch in Mumbai. As a result, it is possible that the trust that people had enabled Shetty to have more than one password. Manoj Kharat, another employee who was accused in the first FIR by PNB, is said to be the one issuing the message. Given the complicated code — as well as the high stakes — many bank employees do not want to take up the job, which requires extensive training in operating SWIFT. PNB, which conducted preliminary investigations, is, however, yet to figure out how Shetty or Kharat managed to access printouts that were received once other banks provided funds.
+ 
+ “It is quite possible that there was an outsider involved who either helped the accused manage technology or there was an insider who played along and passed on the printouts to them to avoid detection of the transaction,” said a bank executive. A third possibility is that Kharat or Shetty would keep tabs on the printouts, which are supposed to go to a special room, on the day a transaction took place.
+ 
+ While the bank had ruled out the involvement of senior executives, investigative agencies are looking at how only two executives could have managed to swindle such a large amount, and over six years.
+ 
+ 
