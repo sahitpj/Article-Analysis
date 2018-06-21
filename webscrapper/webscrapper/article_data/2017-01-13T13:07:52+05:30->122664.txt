@@ -1,0 +1,22 @@
+HOUSTON: The Indian  , widely popular for spicing up food, may soon be used as a potential   treatment drug, according to a new study.
+
+ The Indian long pepper contains a chemical that could stop your body from producing an enzyme that is commonly found in tumors in large numbers, according to the study in Journal of Biological Chemistry.
+ 
+ UT Southwestern Medical Center scientists have uncovered the chemical process behind anti-cancer properties of a spicy   plant called the long pepper, whose suspected medicinal properties date back thousands of years.
+ 
+ The secret lies in a chemical called Piperlongumine (PL), which has shown activity against many cancers including prostate, breast, lung, colon, lymphoma, leukemia, primary brain tumors and gastric cancer.
+ 
+ Using x-ray crystallography, researchers were able to create molecular structures that show how the chemical is transformed after being ingested. PL converts to hPL, an active drug that silences a gene called GSTP1. The GSTP1 gene produces a detoxification enzyme that is often overly abundant in tumors, the study said.
+ 
+  "We are hopeful that our structure will enable additional drug development efforts to improve the potency of PL for use in a wide range of cancer therapies," said Dr Kenneth Westover, Assistant Professor of Biochemistry and Radiation Oncology.
+ 
+ "This research is a spectacular demonstration of the power of x-ray crystallography." The long pepper, a plant native to India, is found in southern India and southeast Asia. Although rare in European fare, it is commonly found in Indian stores and used as a spice or seasoning in stews and other dishes.
+ 
+ It dates back thousands of years in the Indian subcontinent tied to Ayurveda, one of the world's oldest medical systems.
+ 
+ "This study illustrates the importance of examining and re-examining our theories. In this case we learned something fundamentally new about a 3,000-year-old medical claim using modern science," said Westover.
+ 
+  X-ray crystallography allows scientists to determine molecular structures that reveal how molecules interact with targets - in this case how PL interacts with GSTP1.
+ 
+ This work is supported by the V Foundation for Cancer Research, founded by ESPN and legendary basketball coach Jim Valvano, The Welch Foundation, and the Cancer Prevention and Research Institute of Texas. 
+ 

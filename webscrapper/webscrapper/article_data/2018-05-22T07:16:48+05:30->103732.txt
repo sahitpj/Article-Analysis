@@ -1,0 +1,11 @@
+In UK, iPhone users suing   over data-collection claims may be seeking as much as 3.2 billion pounds ($4.29 billion), the search giant said in a court filing. The group representing iPhone users, known as Google You Owe Us, now includes 4.4 million people, according to documents filed with the court at a hearing Monday. The group says the   unit unlawfully collected people's personal information by bypassing  .’s iPhone default privacy settings.
+
+ While any potential damages are still to be determined, the group has suggested each individual could receive 750 pounds if the case is successful, Google said in court documents. The Mountain View, California-based company denies the allegations and argued at the hearing that the dispute doesn't belong in a London court.
+ 
+ 
+ Privacy has been a hot topic for the manufacturers of the world's most popular devices, from   to  . to Google. In 2015, Apple allowed iPhone and iPad users to start installing content blockers -- software that can block ads on websites, for example -- on their devices as a way of giving people more control over how their data is gathered and used.
+ 
+ Led by consumer advocate  , the group is seeking permission to hear the case as a "representative action" that is akin to a U.S. class action, arguing that all the customers share the same interests.
+ 
+ The group said that Google used an algorithm that allowed developers to track a user's browsing history and collect personal information. The algorithm acted to get around the default settings of Apple's Safari browser, which blocked third-party tracking via cookies. 
+ 

@@ -1,0 +1,15 @@
+KOCHI: The   is set to introduce online certification for   testing following pirated software being used by pollution testing centres leading to false data on the pollutants. 
+
+ "Many of the pollution testing centres are using pirated software, which lead to false values. The certification, which include details of the testing centre and the vehicle and a QR-code, will strengthen security," said Ajith Kumar, deputy transport commissioner, central region, Ernakulam.
+ 
+  officials closed three centres last week during an inspection following detection of fake software. "The inspection of the remaining centres is being carried out by the MVD. On finding any regulation non-compliance, action will be taken against them." Kumar said. As of now there is no way of identifying whether a customer has been issued a certificate from an authorized centre or not.
+ 
+ MVD is proposing to duplicate a pilot project in a test centre in Perumbavoor. This was already piloted at 10 centres in Alappuzha. Under the project, the pollution testing centre is connected online to the MVD through an authorized pollution testing equipment manufacturer. "As soon as the vehicle number is entered, details of the make and standards of the vehicle, be it car, scooter or bike is seen. When the photo is taken, the system will not allow any manipulation of the vehicle number. Once the readings are taken, the data is analysed and a certificate is generated with a QR code. This is immediately entered into the e-governance site of MVD," said Sameer Bhatnagar, technical head of research, AVL India private limited.
+ 
+ There is also an alert to the vehicle owner on when the next test is due. In case the owner fails to the take the test despite the reminders, he/she will not be able to get another test done without paying the fine to the motor vehicles department, said Bhatnagar.
+ 
+ He said that this is being implemented successfully in Rajasthan for the past one year leading to a complete online certification of vehicle pollution testing.
+ 
+ However, the pollution testing centres want the government to deliver the necessary software. "There are about 100 authorized centres in Ernakulam district. The online system was implemented in other states like Karnataka and Tamil Nadu but it failed to achieve desired results. If a single private company develops the software, then it would affect other companies. Making government developed software mandatory would ensure that pirated software can't be used. In addition, it would generate revenue for the state government," said Dominic Savyo, district president of Association of Authorized Pollution Testing Stations for Motor Vehicles (Kerala).
+ 
+ 

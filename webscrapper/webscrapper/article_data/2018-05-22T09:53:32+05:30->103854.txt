@@ -1,0 +1,10 @@
+HYDERABAD: In a cause for concern, experts in ocean sciences and meteorology have cautioned against ‘significant’ changes in quantum of rainfall, particularly during the southwest monsoon, in view of global warming and climate change.
+
+ Decoding the secrets behind the Indian summer (southwest) monsoon and northeast monsoon, a team of researchers from prestigious institutions including city-based Indian National Centre for Ocean Information Services ( ), has pointed out that the monsoons over India are controlled by factors not only in the   and the  , but also in the Pacific and the   oceans. 
+ 
+ The researchers said factors as far away as the Atlantic play a key role in deciding the quantum of rainfall over India during the two monsoon seasons. Based on the data (1979-2017), the team found a decreasing trend in rainfall (0.43 mm) during southwest monsoon and increasing trend in rainfall (0.11 mm) in northeast monsoon.
+ 
+ Apart from INCOIS in Hyderabad, researchers were drawn from the Centre for Oceans, Rivers, Atmosphere, and Land Science ( ), IIT,Kharagpur, andtheIndian Institute of Tropical Meteorology, Pune. The team, comprising scientists PJ Nair, A Chakraborty, H. Varikoden, PA Francis and J Kuttippurath, also introduced a new method for estimating variability and trends in rainfall over different regions in the country.
+ 
+ The new method is based on multiple linear regression and helps in assessing contributions of different remote and local climate forcings to seasonal and regional unevenness (in homogeneity) in rainfall. Based on the new method, the team showed that the variability in rainfall during the southwest monsoon is controlled by factors like Eastern and Central Pacific El Niño Southern Oscillation, equatorial zonal winds, Atlantic zonal mode and surface temperatures of the Arabian Sea and Bay of Bengal.
+ 

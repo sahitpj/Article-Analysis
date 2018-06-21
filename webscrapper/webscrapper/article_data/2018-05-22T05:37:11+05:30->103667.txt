@@ -1,0 +1,13 @@
+MUMBAI: A day after students were stumped by the new type of   (Advanced) questions, IITs issued a clarification that came as a relief of sorts for many. On Monday, IIT-Kanpur, the   that organized JEE (A) 2018, stated that students’ answers for questions which did not have multiple choices will be evaluated depending on the question.
+
+ 
+ TOI , on Monday, reported that a major component—close to 45% of the 54 questions in each of the paper I and II of in JEE (Advanced)—had numerical answer-type questions which did not have multiple choices. While these questions appeared in the earlier editions of JEE (A) as integer-type questions, an answer range of 0-9 was provided. So, students had the option of re-calculating if they arrived at an answer out of the range. In the earlier tests, the numbers of such questions were restricted to 15. This year, not only did the questions increase to 48, there was no range provided. The students were also asked to round off answers up to the second decimal place.
+ 
+ Praveen Tyagi, MD of a coaching institute, said based on students’ feedback, he felt that IITs should have ideally tested them on conceptual clarity, innovative thinking, speed, etc and not on decimal accuracy. “For almost 50% of questions in each of the papers, we had to calculate up to the third decimal and then round off and get two accurate decimal places. It has left most of us uncertain about our answers,” said a student.
+ 
+ On Monday, IIT-Kanpur’s statement stated, “For numerical answer-type questions, the numerical value entered by the candidate will be evaluated. Wherever applicable, depending on the question, answers will be evaluated by checking whether the answer entered by the candidate falls within a range of two values, with or without including the upper and lower values of the range depending on the question.”
+ 
+ Some of the examples given by IIT-Kanpur are: If an answer is the integer 11, all answers entered as 11, 11.0 or 11.00 will be correct, if an answer is exactly 11.5, all answers entered as 11.5 or 11.50 will be correct, and if an answer is 11.367777777…, all answers entered within a specified range, such as from 11.36 to 11.37 (this range is shown for illustration purposes only) will be correct. Thus, both answers 11.36 and 11.37 will be correct, said the statement.
+ 
+ In a separate statement, IITKanpur said there were issues related to responsibilities entrusted to a third party such as location and ambience of centres along with infrastructural challenges related to electric supply and networking were reported. “IIT authorities are properly investigating the matter,” it said .
+ 
