@@ -1,0 +1,9 @@
+Filing   3B form is highly important for all those who have registered for Goods and Services Tax (GST). The GSTR 3B is a simple tax return form introduced by the   ( ) for the month of July and August. The forms - GSTR-1, GSTR-2 and GSTR-3 - for the months of July and August are to be filed in September. In the interim, all   registrants have to file GSTR-3B form.
+
+ It is must that you have a separate GSTR 3B file for each Goods and Services Tax Identification Number (GSTIN) you have. You can mention only total values for each field in this form; invoice level information is not required for this form.
+ 
+ An important point to note is that some portions of Part B of GSTR-3 will be automatically populated from GSTR 3B file. So, in case there is any discrepancy between the two forms you can correct GSTR-3 later and deposit the taxes payable.
+ 
+ In February, the government simplified the process of filing GSTR-3. “By improving the user interface and redesigning the process, filing of GSTR-3B has been made considerably convenient. We expect the user experience will be far better and the process of filing will be now more convenient. We anticipate our taxpayers to experience limited scope for errors in filing returns, save time, and increase the speed and accuracy in return filing,” Goods and   (GSTN) said in a statement.
+ 
+ 

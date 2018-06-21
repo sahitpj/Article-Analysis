@@ -1,0 +1,15 @@
+BENGALURU: It's not unusual to see enticing queries on   - "Which celebrity do I most resemble?", "How long will you live?" or "Who hates you most on your FB list?" - but don't click on such links because they could put your data at risk. 
+
+ Financial industry experts say quizzes and contests on websites are the latest bait to dig out data about you, your friends and an extended circle of your network. 
+ 
+ When you give access to third-party websites by signing in via Facebook, the site collects data to measure your popularity by counting the number of likes you get from each person. This gives them access to their profiles, and this information, in turn, is sold to e-commerce players looking for consumer insights, or on the dark web.
+ 
+ "An equally popular method is online contests. Many times, your screen flashes a message - "Take a simple survey and win a chance to get an iPhone 6" - and the site asks for a payment of $1, which is immediately reversed to your account. This makes you think the site is credible. But the real reason is that they want your bank details as overseas payments require only card number and CVV (single-factor authentication). Most frauds come from e-commerce players, and no longer ATM or point-of-sale-machine-related skimming," said Loney Antony, managing director, Hitachi Payments.
+ 
+ Facebook told TOI that it cannot be held liable for third-party websites when a link carries the user outside of Facebook's platform. 
+ 
+ For frauds on its platform, a Facebook spokesperson said, "Our computer models analyse hundreds of details of every payment to help our specialists block fraud and recognise when payment information has been stolen. In rare cases of fraud on a user's account, we'll work with the user to secure the account again and help her take steps to remove the fraudulent charge."
+ 
+ Nitin Bhatnagar, a vice-president at global payment security specialist SISA Information Security, said when customers pay for chips to play games on international websites, they store your card number, expiry date and CVV without seeking your permission. "I would advise people to regularly check the privacy settings on social media accounts. Many websites can be accessed via Google or FB. And many of them tend to skip registration. Check privacy settings and revoke the access given to various sites even if you logged onto it just once as it can still be getting data streamed from your feed," said Bhatnagar.
+ 
+ 

@@ -1,0 +1,17 @@
+GSTR-1 is a monthly or quarterly return to be filed by regular dealers, the return of which is divided into 13 sections. It is the base document upon which the entire compliance structure of   is based.
+
+ For traders with turnover upto Rs 1.5 crore annually, GSTR-1 needs to be filed on quarterly basis while that for traders having turnover above that needs to be filed every month. The late fee for filing GSTR-1 is Rs 50 per day after the due date, and Rs 20, in case of nil returns.
+ 
+ Once GSTR-1 return is filed, a trader does not need to pay any tax immediately. The tax has to be paid at the time of filing GSTR-3B (until March 2018).
+ 
+ Composition dealers need not file GSTR-1. Such traders need to file GSTR-4 every quarter. 
+ 
+ GSTR-1 is filed in FORM GSTR-1. The various details included in GSTR-1 are:
+ 
+ (i) Invoice wise details of Inter-State and Intra-State supplies made to registered persons and Inter-State supplies with invoice value more than two and a half lakh rupees made to unregistered persons.
+ 
+ (ii) Consolidated details of Intra-State supplies made to unregistered persons for each rate of tax and State wise Inter-State supplies with invoice value upto two and a half lakh rupees made to unregistered persons for each rate of tax.
+ 
+ (iii) Debit and Credit notes, if any, issued during the month for invoices issued previously. 
+ 
+ 

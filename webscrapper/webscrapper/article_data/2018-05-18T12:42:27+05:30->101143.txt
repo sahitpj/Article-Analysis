@@ -1,0 +1,17 @@
+THIRUVANANTHAPURAM: Though the Union ministry of road transport and highways has extended the deadline—to add security features in vehicles as post-Nirbhaya precautions—by one year, motor vehicles department ( ) will go ahead with its proposed plan.
+
+ 
+ In the first phase, all   and vehicles transporting school children must have mandatory security features by the end of upcoming academic year’s first quarter.
+ 
+ State-mandated security features for school buses include a buzzer for speeding, a tilt-alert system, an impact alert mechanism and emergency buttons. Transport commissioner   said that these features must be put in place by the time educational institutions reopens after   vacation.
+ 
+ “We are going ahead with the plan and it will be made operational on vehicles of educational institutions. In addition to hardware specifications stipulated by the Centre, we have added our features on the technical side of the system, taking into consideration safety of students,” he said.
+ 
+ While the mandatory buzzer will alert the driver when the vehicle crosses the permissible speed limit, prolonged speeding will alert the nearest MVD enforcement vehicle, the concerned RTO office and MVD’s centralized control room.
+ 
+ The tilt-alert mechanism will alert in a similar way when the vehicle’s balance is changed beyond a specific degree, and the impact alert will give alerts to MVD offices and vehicle owner if there is an accident. Additionally, emergency panic buttons will be available for passengers, which would be preferably fitted on the vertical pillar above the window-rail below the luggage rack.
+ 
+ The Centre has specified the hardware requirements for the GPS system. The centre for development of advanced computing (C-DAC) has developed a software, titled Suraksha Mitra, that can track, locate and give real-time data of one lakh vehicles, said Padmakumar. MVD has also set up a control room for tracking vehicles. The Centre had asked state government to make a particular technical specification—(AIS-140) for all GPS equipment– mandatory.
+ 
+ Then, C-DAC began testing and empanelling GPS manufacturers who expressed interest in supplying AIS-140- specified GPS equipment. Till date, 11firms have come up with the hardware with the aforesaid specifications.
+ 

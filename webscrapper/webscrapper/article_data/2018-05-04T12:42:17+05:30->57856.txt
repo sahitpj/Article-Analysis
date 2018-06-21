@@ -1,0 +1,33 @@
+The government launched the official   - www.gst.gov.in. The website is a one-stop solution for all information, filing, queries and other technicalities related to the new tax regime.
+
+ The portal also has all the GST-related laws listed and downloadable files that a taxpayer under   requires.
+ 
+ A taxpayer needs to have a username and password to operate within the portal. for first time login, the user needs to enter his/her GSTIN.
+ 
+ Following tasks can be carried out in the GST portal:
+ 
+ 1) Application for Registration for Normal Taxpayer, ISD, Casual Dealer
+ 
+ 2) Application for GST Practitioner
+ 
+ 3) Opting for Composition Scheme (GST CMP-02)
+ 
+ 4) Stock intimation for Composition Dealers (GST CMP-03)
+ 
+ 5) Opting out of Composition Scheme (GST CMP-04)
+ 
+ 6) Filing GST Returns
+ 
+ 7) Payment of GST
+ 
+ 8) Filing Table 6A of GSTR-1 (Export Refund)
+ 
+ 9) Claim Refund of excess GST paid (RFD-01)
+ 
+ 10) Furnish Letter of Undertaking(LUT)(RFD-11)
+ 
+ 11) Transition Forms (TRAN-1, TRAN-2, TRAN-3)
+ 
+ 12) Viewing E-Ledgers
+ 
+ 

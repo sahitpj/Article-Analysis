@@ -1,0 +1,19 @@
+The new Goods and Services Tax (GST) has evolved the way businesses use to bill their clients and customers. If you are one those wondering how to calculate   returns, here is a step by step guide for you:
+
+ 
+ The first step is to find the exact slab rate for the goods or services under the GST Act. To find GST Rate, you will have to determine the type of supply item, i.e., whether is it a good or a service. If the supply is a good, find the   Code and if the transaction involves the supply of a service, then find the SAC Code.
+ 
+ Once you know the HSN or SAC Code, then find out under which slab of   rate the supply fits into. The   has created 5 different slab rates at NIL/0%, 5%, 12%, 18% and 28% for both goods and services. Click here to find the list of goods and service tax rates.
+ 
+ 
+ Once you know the GST rate, next find out the applicability of IGST or   and SGST. To do so, you need to determine the place of supply first. Mostly, the place where the supply of goods or services was done would be the address where the goods or the service was provided. But in case of e-commerce or OIDAR services, the determination of the place of supply is a more complex issue.
+ 
+ 
+ Under GST rule, the supplier of the goods or service can collect tax from the recipient and remit the same to the government. However, there are some services like 'reverse charge services', where the recipient is made liable for payment of GST.
+ 
+ 
+ According to new GST rules, suppliers must maintain extensive accounts, records and file 3 GST forms in a month. However, small businesses having a turnover of less than Rs 75 lakhs, can enrol under the GST Composition Scheme and pay a flat GST based on their aggregate turnover. You should check whether your supplier is enrolled under GST Composition Scheme or not.
+ 
+ 
+  Next is to find out the type of transactions, for example - Business to Business; Business to Consumer where the value of supply is more than Rs 2.5 lakhs; or Business to Consumer where the value of supply is less than Rs 2.5 lakhs.
+ 

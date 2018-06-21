@@ -1,0 +1,24 @@
+
+
+ GST has subsumed more than a dozen taxes that existed before the new tax regime. This helps in eliminating the cascading effect of taxes. Cascading effect refers to the situation where a taxpayer needs to pay taxes on taxes.
+ 
+ 
+ 
+ 
+ Under the previous taxation system, any business with a turnover of more than Rs 5 lakh (in most states) was liable to pay VAT. Also, service tax was exempted for service providers with a turnover of less than Rs 10 lakh.
+ 
+ Under GST regime, however, this threshold has been increased to Rs 20 lakh, which exempts many small traders and service providers.
+ 
+ 
+ 
+ 
+ Over a period of time, government has provided reliefs to small businessmen and taxpayers as far as rate of tax and compliance of filing tax is concerned. Under GST, small businesses (with a turnover of Rs 20 to 75 lakh) can benefit as it gives an option to lower taxes by utilizing the Composition scheme. This move has brought down the tax and compliance burden on many small businesses.
+ 
+ 
+ 
+ 
+ Compliance will be simpler through the harmonisation of tax rates, procedures, and laws. Synergies and efficiencies are expected across the board thanks to common formats/forms, common definitions, and common interface via the GST portal. Inter-state disputes such as those on e-commerce taxation and entry tax that currently prevail will no longer cause concerns, while multiple taxation on the same transactions will also be removed. Compliance costs will also reduce as a result.
+ 
+ The previous tax regime had service tax and VAT, and they both had their own compliances and returns. GST will merge them and lower the number of returns as well as the time spent on tax compliances. GST has around 11 returns under it. Four of them are basic returns that are applicable to all taxable entities under GST. Although the number of returns could increase, the main GSTR-1 shall be manually populated, while GSTR-2, GSTR-3, AND GSTR-4 shall be auto-populated.
+ 
+ 

@@ -1,0 +1,17 @@
+After filing Income  , taxpayers also have to verify the same and this can be done easily online. The tax department will commence processing the return request only when it is verified. Taxpayers can verify their returns through net banking, which is considered as the quickest way to do so.
+
+ An individual can verify his/her return electronically using E-Verification Code (EVC), physically or via other modes. Under the 'e-verify return' option, three alternatives to verify returns are given.
+ 
+ 1. I already have an EVC to e-verify my return.
+ 2. I do not have an EVC and I would like to generate EVC to verify my return.
+ 3. To verify your returns using Aadhaar OTP (For this, mobile mobile number must be linked with Aadhaar)
+ 
+ How to generate EVC via netbanking:
+ 
+ 1. Log-in to your net banking account and click on tab related to income  . Select the e-verify option and you will be redirected to e-filing website.
+ 
+ 2. Once logged in to the   e-filing website, click on the 'My Account' to generate the EVC. A 10-digit alpha-numeric code will be sent to your email and mobile number which is valid for 72 hours. Now, click on 'e-verify' option in 'My Account' tab to verify your returns using option 1 'I have EVC already'. 
+ 
+ After filing tax return, taxpayers have a time period of 120 days to verify it.
+ 
+ 

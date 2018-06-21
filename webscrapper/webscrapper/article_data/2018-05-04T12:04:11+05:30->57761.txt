@@ -1,0 +1,23 @@
+ or Goods and Services Tax Identification Number is a unique 15-digit number, which has replaced the Tax Identification Number (TIN). Before GST was implemented, dealers registered under the state VAT law were given a unique TIN number by the respective state tax authorities. Business entities registering under GST will be provided a unique identification number known as the GSTIN.
+
+ GSTIN, as the name suggests, is an unique identification number assigned to a dealer or supplier, under the GST regime. Obtaining GSTIN and registering for GST are free of cost. There are two ways to register for GST:
+ 
+ 1. GST Online Portal
+ 2. GST Seva Kendra set up by the government
+ 
+ 
+ 
+ 
+ * First two digits of GSTIN is your state code, for instance, state code of Delhi is 07
+ * The next 10 digits denotes the PAN or Permanent Account Number of business entity/proprietor
+ * 13th digit is based on the number of registrations done by the business entity within a state
+ * 14th digit is "Z" by default
+ * The last digit is the check code, this can be a number or an alphabet
+ 
+ Verification of GSTIN can also be done on the GST portal.
+ 
+ 
+ 
+ 
+ GSTN and GSTIN are very much different from each other. GSTIN is a tax registration number under the new tax structure. And, the GSTN or Goods and   manages the entire IT system of the GST portal. This platform is be used by the government to track financial transaction and other tax details.
+ 

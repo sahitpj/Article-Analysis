@@ -1,0 +1,25 @@
+The Income Tax department levies penalties in the form of interest under Section 234 on taxpayers if they fail to file return on time or don’t pay Advance Tax on time. 
+Under Section 234, there are three types of interest:
+ 
+ 234A: In case of delay in filing I-T return
+ 
+ 234B: In case of delay in payment of advance tax
+ 
+ 234C: In case of delay in payment of an installment of advance tax
+ 
+ Under Section 234A, interest is charged at 1 per cent on the outstanding tax amount and will be payable from the first day after the due date of filing the return till the 
+ date of actual filing of the return.
+ 
+ A taxpayer pays interests under  , if he/she is liable to pay advance tax but fails to do so or when a taxpayer has paid advance tax but the amount paid is less than 90 per cent of the assessed tax. 
+ 
+ Interest under Section 234C is payable if :
+ 
+ a) Advance Tax is paid on or before 15th June is less than 12% of Assessed Tax
+ 
+ b) Advance Tax is paid on or before 15th September is less than 36% of Assessed Tax
+ 
+ c) Advance Tax is paid on or before 15th December is less than 75% of Assessed Tax
+ 
+ d) Advance Tax is paid on or before 15th March is less than 100% of Assessed Tax
+ 
+ 

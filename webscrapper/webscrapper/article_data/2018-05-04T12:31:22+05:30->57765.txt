@@ -1,0 +1,21 @@
+Goods and Services Tax (GST) has changed the way businesses use to bill their clients or customers. To calculate tax under GST, first you need to know the tax slabs for the goods or services. The   has created 5 different slabs which are zero per cent, 5 per cent, 12 per cent, 18 per cent and 28 per cent for both goods and services. 
+
+ Once you know the   slab, then you need to find out the applicability of IGST or   and  . And once that is done, then the tax calculation process can be started.
+ 
+ Also, tax calculators are available across different portals that can help. These are the few details which are needed to calculate the GST:
+ 
+ 1. Month for which the calculations are being done
+ 
+ 2. Due date of filing return for the month
+ 
+ 3. Actual date of filing the return
+ 
+ 4. Your total tax liability during the month
+ 
+ 5. Your purchases attracting Reverse Charge Mechanism (if applicable)
+ 
+ 6. ITC or input tax credit
+ 
+ The finance ministry said that 1.03 crore taxpayers have been registered under GST till February 25, of which 17.65 lakh are composition dealers who are required to file returns every quarter.
+ 
+ 
