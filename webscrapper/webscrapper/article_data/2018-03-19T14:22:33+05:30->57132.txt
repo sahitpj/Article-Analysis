@@ -1,0 +1,13 @@
+CHENNAI: Green-tech   Facilio has bagged funding of close to $1.5 million from   Partners. Founded in March 17 by Prabhu Ramachandran, Rajavel Subramanian and Yogendra Babu, former   senior execs, the startup offers an integrated facilities management software that harnesses IoT and machine learning to manage building operations, maintenance and sustainability performance, in real-time, across portfolio of buildings.
+
+ “Our product is for companies that own and operate multiple buildings. 20-25% of construction cost goes towards facilities ranging from fire-fighting equipment to heating, ventilation and air-conditioning (HVAC). Today, the building owner is not on the driving seat. While hardware has been developed, the influence of software on buildings is yet to be seen in a big way,” said Ramachandran.
+ 
+ "We have been looking at the IoT space for a while. Hardware focussed startups have limitations because they are capital intensive and take time to scale. Facilio's software can delivery value to the customer quickly and works with the existing hardware. The team is solving a global problem and the timing is right given the emphasis towards green buildings and sustainability," said Shekhar Kirani, partner, Accel Partners.
+ 
+ According to Transparency Market Research, the worldwide market for facilities management is expected to grow at CAGR of 13.6%, touching US$1,887 billion by 2024. While individual players offer IoT-based solutions for various aspects like energy management or HVAC,   is looking to create an integrated platform that gives the building owner a birds eye view of systems across buildings. The startup counts behemoths like IBM, Microsoft and SAP amongst its competitors.
+ 
+ “Energy management is typically a post facto exercise. With IoT and the data we source from buildings, we hope to offer actionable intelligence and drive sustainability, which is important not just for the building owner but every stakeholder in the building from the tenant to the ground staff and occupant,” said Ramachandran.
+ 
+ The startup has pilots running across 10 buildings and is in talks with players in the US and Middle East. “No customer to date has refused to try our product. That gives you a sense of how relevant the offering is today,” said Ramachandran.
+ 
+ 

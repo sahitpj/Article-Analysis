@@ -1,0 +1,34 @@
+
+We live in the age of mobile apps and there seems to be practically nothing for which there isn't an app - right from chatting with friends to doing financial transactions to even ordering food to be delivered at home.
+ 
+ Now what is a mobile app or mobile application? It is a computer programme designed to run on a mobile device like a smartphone, tablet or a watch. It usually provides user services that are similar to those that the user can access on a personal computer or a desktop.
+ 
+ Mobile apps were originally offered for general productivity and information retrieval, including email, calendar, contacts, stock market and weather information, but heavy demand has resulted in rapid expansion in other categories. Thus, this is a rapidly-growing segment and the demand for people who can design and develop mobile apps is increasing.
+ 
+ 
+ 
+ 
+ Mobile app development is the process by which a mobile app is developed; it involves writing software for your app. Its roots are traditional software development, and a developer needs to write several versions of an application for many different platforms using a single language and reusable code. The language in which the app is written depends on what kind of app is being developed, but the most common languages being used now are HTML5, Objective-C, Swift, C++, C# and Java.
+ 
+ 
+ 
+ 
+ Various kinds of mobile app development courses are available. These courses are available in the traditional classroom mode in various institutes, as well as in the online mode on several digital learning platforms. The durations of the courses in the traditional classroom mode vary from a few weeks to six months.
+ 
+ In the traditional mode, courses are available as standalone courses, meaning you are taught only mobile app development. In addition, some courses include mobile app development as part of the syllabus. These courses are available at various levels of study, like certification, diploma, graduation as well as postgraduation. These courses also offer specialisation for platforms like Android and iOS. The courses are available in universities, state universities, private universities and deemed universities. The fees range from a few thousand (Rs 20,000) for a 60-hour part-time certificate course, to a couple of lakh of rupees (can be as high as Rs 5 lakh) for a fulltime, three-year postgraduate degree like  .
+ 
+ 
+ 
+ 
+ The major centres where these courses are available are Mumbai, Pune and Delhi,though courses are also available in Bangalore, Kolkata, Ahmedabad, Chandigarh, Indore and Jaipur. Students must know the requirement and analyse the course fee before deciding the centre. A word of caution here - do check the recognitions and affiliations of the courses on offer before you finally join one. Recognitions to these courses are typically given by the   ( ) and the   (AICTE). Your prospects of getting employment or assignment may get affected because of the recognition status of the course that you attend.
+ 
+ 
+ 
+ 
+ The field has been steadily growing, both in terms of revenue as well as in terms of jobs created. Globally, mobile app development career as a segment is growing twice as fast as the overall job market. While there are many full-time positions, opportunities also exist for freelance work. A mobile app developer can hope to earn anything between Rs 15,000 to Rs 25,000 per month in India, at the initial level.
+ 
+ Some of the skills that you need to be a good app developer include problem-solving, analytical skills, communication, creativity, team-player and leadership skills.
+ 
+ 
+ 
+ 

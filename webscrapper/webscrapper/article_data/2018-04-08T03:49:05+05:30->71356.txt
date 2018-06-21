@@ -1,0 +1,17 @@
+NEW DELHI: An official website of the   was discovered to be hosting files infected with malware. The website bsf.gov.in is currently offline, and a BSF spokesperson told TOI that the website has been under security audit for little over a month now. An Indian security expert found the malware files capable of sending fake emails pretending to be from Mumbai's  , which serves military officers and eminent citizens. The paramilitary force's other website bsf.nic.in was functioning normally on Saturday. 
+
+  The malware issue became public knowledge after MalwareHunterTeam, a globally-diffused team of security professionals and researchers who diagnose malware on infected files, tweeted about it on Friday. This group was also actively involved with malware analysis and diagnosis when the Wannacry ransomware hit computer systems the world over last year.
+ 
+  A UK-based security researcher, Bryan Cambell, also ran a check on bsf.gov.in and tweeted that the website had "numerous malware" and "multiple vulnerabilities."
+ 
+  A BSF spokesperson told TOI that the organisation's teams were aware of the issues. "The website has been under security audit for the last 30-40 days. Concerned officials are comprehensively studying various elements of the website and why they were behaving in a certain manner," he said.
+ 
+  MalwareHunterTeam said the malware they discovered on the   - called SocketPlayer - had not been seen anywhere else earlier. "Currently, every single SocketPlayer sample we know of, are either were seen on BSF's website, or they are samples that were downloaded by the samples seen there," they tweeted from their handle @malwrhunterteam.
+ 
+  Mumbai-based security professional Yash Kadakia analysed the way the malware works. "From an initial look, it appears that once downloaded, these infected files work by accessing a person's contact lists through a mail client like Outlook to send out emails pretending to be from the United Services Club in Mumbai. The email then triggers another malware which can remotely access one's system from attacker-controlled servers in Germany and the USA," Kadakia told TOI over phone. He is the Chief Technology Officer of information security firm Security Brigade.
+ 
+  Although the website is down, its "cached version" -- or a snapshot of as it appeared earlier -- could still be accessed on Saturday. "Based on Google Cache results of the BSF.gov.in website, it seems to be extremely vulnerable and susceptible to attacks," said Kadakia.
+ 
+  These issues with the BSF website have come to light a day after at least 10 government websites, including those of the union ministries of defence, home, and law were discovered to be offline after the   reported a hardware issue.
+ 
+ 

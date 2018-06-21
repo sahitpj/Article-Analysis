@@ -1,0 +1,11 @@
+MUMBAI:  , in its   filed before the Bombay high court last week, has banked on the fact that the   on   currently in operation in India have never been red-flagged by Indian or European civil aviation  . This, despite the various technical problems the new engines have suffered in the past two years.
+
+ The affidavit was filed in response to a PIL filed last month which sought the grounding of all A320neos flying in India. Airbus320neos (new engine option) operated by IndiGo and GoAir are powered by Pratt and Whitney (PW) 1100 engines, manufactured with a new technology introduced in 2016 to cut fuel bills.
+ 
+ In February, the European regulator issued an emergency directive against PW 1100 engines manufactured post October 2017 bearing serial numbers 450 and above (post-450). The European regulator found that these post-450 engines which incorporated an engineering change (involving a “knife-edge seal” in the aft of high pressure compressor) were more prone to inflight shutdown. Last month, the Indian regulator issued a directive grounding all A320neos powered by post-450 PW1100 engines.
+ 
+ The A320neos in operation are those fitted with engines with serial numbers lower than 450 and manufactured before October 2017 and so are without the problematic knife-edge seal engineering change. Though these engines too had instances of inflight shutdown (because of problems related to combustion chamber and bearing number 3) since their debut two years ago, no regulator has so far called for their grounding. The IndiGo affidavit said that in absence of adverse airworthiness directive from PW and   safety agencies, “the aircraft fitted with pre-450 engines cannot be considered as unsafe for operations”.
+ 
+ The petitioner’s advocate,  , in his argument before the court pointed to the recurrent problems pre-450 engines face. This, despite the fact that PW and Indian aviation regulator said last month all old problems (combustion chamber, number 3 bearing etc) that pre-450 engines faced have been resolved. Last month, an IndiGo A320neo with a pre-450 engine suffered suffered an old problem that led to its grounding. The affidavit said the problem was detected on ground and so did not constitute an air safety issue.
+ 
+ 
