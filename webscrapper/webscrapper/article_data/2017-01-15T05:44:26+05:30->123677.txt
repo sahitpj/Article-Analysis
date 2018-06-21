@@ -1,0 +1,13 @@
+THANE: Bringing cheer to thousands of budding   and  , the   (BHNS) has recently launched a one-of-its-kind online platform that identifies Indian bird species using artificial intelligence. 
+
+ The  , in collaboration with a Bangalore based tech firm, has created an online database of over 300 species of the avifauna found in the country. This, when combined with an image recognition and a deep learning mechanism, will help people in birdwatching by identifying key species of birds. 
+ 
+ "India is a biodiversity hotspot and is home to almost 12.5% of the world's avifauna, consisting of 1,300 species. This platform can identify over 300 species but will eventually support all species found in India. Birds are excellent indicators of their environment, providing ecological information based on when and where they are located. We need more amateur birders to come forward and help gather all information about the country's avifauna and participate in the nature conservation activities," said Dr Deepak Apte, director, BNHS.
+ 
+ This cloud-based platform, titled Internet of Birds, requires any amateur bird watcher to just upload picture of the bird onto the site. The site then runs an analysis on the picture, compares it to the species in the database and informs the person of the bird species. 
+ 
+ Shubik Das (19), Vartak Nagar resident, said, "I started going for nature trails as part of college trips, and now I go for bird watching. It has been very difficult to identify many birds that we see on these trails. It was only when we went with birding experts that we got to know the names of the birds we saw. With this platform, we can identify the birds we spot on our own."
+ 
+ "I never paid attention to birds in my area even though I live close to Yeoor forest. I clicked a few pictures of some birds outside my balcony, and uploaded those on the website. I could identify three birds today using the website," said   (16), a resident of Tiku-jini-wadi.
+ 
+ 

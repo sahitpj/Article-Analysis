@@ -1,0 +1,16 @@
+NEW DELHI: The   became operational in the early hours of Sunday after remaining shut for close to 12 hours, during which nearly 20 flights to and from the city were cancelled. Airlines resumed flights as per schedule from Sunday morning. Airlines like Vistara and Air India confirmed they had resumed flights to Lucknow on Sunday.
+
+ The   ( ) had despatched teams with the data card that needed to be replaced in the VHF omnidirectional range (VOR), a vital component of instrument landing system (ILS), to make it functional again from both Delhi and Kanpur.
+ 
+ “Our team from Kanpur airport reached Lucknow’s   at 11 pm on Saturday. Since Kanpur airport is not used much, they took the data card from there and installed it in Lucknow VOR, making it operational just after midnight. The notice to airmen (Notam) issued earlier in the day about closure of Lucknow airport was lifted and airlines resumed operations from Sunday morning,” said a senior AAI official.
+ 
+ The AAI is now studying how this problem can be avoided in future. Air Traffic Control chief AK Dutta has sent technicians from Delhi to see how backup can be created for the data card that got corrupted on Saturday, leading to chaos with cancelled flights leaving hundreds of outbound passengers stranded in Lucknow and Lucknow-bound flyers stuck in other parts of the country. “This data card is the same for both the original and the backup VOR. We will see how to have a different card for the back up,” said the official.
+ 
+ The closure of Lucknow airport impacted Delhi-bound flights also indirectly as the former is the alternate airport for the latter in case of diversions due to fog in the national capital. If a nearby airport like Lucknow or Jaipur is closed for whatever reason, flights coming to Delhi have to carry more fuel as they would need to go to a distant diversion airport like Ahmedabad if they can’t land at IGI Airport. To accommodate more fuel, airlines may need to offload some on cargo or passengers.
+ 
+ The VHF omnidirectional range (VOR), a vital component of ILS used by incoming aircraft, had failed at 4.30 pm Saturday. Following this, the airport was out of bounds for any more arrivals. Consequently it meant that the flights which were to depart from there after landing were also cancelled.
+ 
+ VOR produces an angle between the station and the receiver in the aircraft, while distance measuring equipment (DME) does the same for range. The VOR/DME combine refers to radio navigation station for aircraft.
+ 
+ Lucknow handles 90 schedule commercial flights daily, 45 arrivals and 45 departures, apart from “double digit” charter operations in this poll season.
+ 

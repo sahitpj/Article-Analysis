@@ -1,0 +1,11 @@
+Ghaziabad: Talking bins promise to take the business of hygiene to the next level. Pawan Kumar, a city-based 21-year-old  , has developed a sensor-monitored dustbin that will send repeated text message alerts to its owner each time it needs to be emptied.
+
+ The dustbin uses GSM technology to enable transmission of messages to a phone. Pawan told TOI that he has used a microprocessor, a 20-volt battery, along with an infrared sensor to sustain the design.
+ 
+ “The programming was done through an IC computer chip, in which a computer program is transferred into an integrated computer circuit and that chip is attached to a base or a surface,” Pawan said. Two sensors are attached to the brim of the dustbin, which then send repeated SMS alerts on the registered mobile number saying, “The dustbin is full”, punched into the programmed system after garbage is detected by the sensors.
+ 
+ The alerts will stop only when the dustbin is emptied. Any information like the place of the dustbin and its location can also be punched into the system, which will be connected to a laptop and can be controlled for instructions or changes through the same. Up to two phone numbers can be punched into the system for alerts at any given time. 
+ 
+ The dustbin was demonstrated at a college science exhibition by Pawan, who has previously been honoured by the former President of India, late Dr A P J Abdul Kalam, for creating a T-shirt that enables charging a cellphone. Pawan’s smart bin, however, is not a first-of-its-kind. Students of IIT-Gandhinagar developed a similar smart dustbin using solar power for their campus in 2015.
+ 
+ 

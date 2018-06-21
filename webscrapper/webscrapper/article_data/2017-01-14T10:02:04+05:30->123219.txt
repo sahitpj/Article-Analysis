@@ -1,0 +1,26 @@
+BENGALURU: In a major breakthrough,   police traced the June 2016 defacing of the   website to China and Pakistan. Investigations revealed that the miscreants had adopted the '  to deface the website, sources said.
+
+ The defaced police website had a Pakistan flag and the words `Police Website Pwned! (sic). Shame on your security. We are team Pak cyber attackers'.
+ 
+ The hacking had come as an embarrassment for the state police, which boasts of having pioneered several hitech methods of policing.
+ 
+ “The first URL and IP address were traced to a place closer to Shanghai in China.As we intensified the probe, the China link was traced to Lahore in Pakistan,” police sources said, adding, “The same miscreants seem to have hacked or defaced the websites of other countries.During investigation, we came across cyber police from countries like the US also looking for the same IP address and URLs.
+ 
+ “Interpol sleuths are also looking for more details on the URLs and IP addresses generated from Pakistan, and which defaced many foreign websites. What is shocking is these links are being routed through China,” they said.
+ 
+ SQL Injection (SQLi) refers to an injection attack where an attacker can execute malicious SQL statements (also commonly referred to as a malicious payload) that control a web application's database server (also commonly referred to as a Relational Database Management System ­ RDBMS).
+ 
+ 
+ 
+ 
+ In order to run malicious SQL queries against a database server, an attacker must first find an input within the web application that is included inside of an SQL query, say cyber experts.
+ 
+ In order for an SQL Injection attack to take place, the vulnerable website needs to directly include user input within an SQL statement.
+ 
+ An attacker can then insert a payload that will be included as part of the SQL query and run against the database server.
+ 
+ 
+ 
+ 
+ February 27, 2013 This is not the first time that hackers are targeting the Karnataka police website. In February 2013, unidentified hackers with the handle of H4x0r HuSsY from Pakistan Cyber Army had posted a label `hacked' on the official website of Bangalore City Police (bcp.gov.in).Investigations had shown that the IP address was from Pakistan.
+ 

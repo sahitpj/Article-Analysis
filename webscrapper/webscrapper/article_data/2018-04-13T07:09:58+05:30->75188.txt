@@ -1,0 +1,10 @@
+BENGALURU:   and   (SEP), a technology and growth-focused private equity firm, are acquiring   Corporation in an all-cash deal of $330 million (Rs 2,155 crore).   will own 80% in Actian, while the remaining will be held by SEP. Actian is HCL’s second-largest acquisition; the largest was that of   consulting firm Axon in 2008 for 440 million pounds (then Rs 3,100 crore).
+
+ Palo Alto-based Actian, which counts Citi, Deutsche Bank and GE Transportation as customers, solves data challenges for them, delivering analytics query results fast and at scale. Actian says its flagship vector technology can deliver ten to almost one thousand times the performance of open source alternatives. Actian’s technology is available on premise and in the cloud.
+ 
+ 
+ Actian will continue to operate as a separate entity within HCL Technologies, led by current CEO and president Rohit De Souza. “The age of hybrid data and its management is upon us, and Actian is at the forefront. The most successful business leaders today recognize data as their most valuable asset and strive to leverage it at the speed of their business, no matter where it resides,” De Souza said.
+ 
+ C Vijayakumar, president and CEO of HCL Technologies, said, “Actian will play a critical role in enhancing HCL’s Mode 3 offerings in data management products and platforms. Actian’s products when combined with HCL’s Mode 2 solution offerings – Cloud Native, digital and analytics, and IoTWorks, will be a powerful proposition to harness the power of hybrid data.”
+ 
+ 

@@ -1,0 +1,36 @@
+LOS ANGELES: Scientists have developed a new 5D technique for analysing images, an advance that may make it easier to quickly find tell-tale signs of diseases from pictures taken using cell phones.
+
+ Called " " analysis, or HySP, it is much faster and far less expensive than current techniques, and may be useful for diagnosing and monitoring diseases by using cell phone images, researchers said.
+ 
+ Through the new imaging technology, researchers at the   (USC) in the US have used fluorescent imaging to locate proteins and other molecules in cells and tissues.
+ 
+ It works by tagging the molecules with dyes that glow under certain kinds of light - the same principle behind so-called "black light" images.
+ 
+ Fluorescent imaging can help scientists understand which molecules are produced in large amounts in cancer or other diseases, information that may be useful in   or in identifying possible targets for therapeutic drugs.
+ 
+ Looking at just one or two molecules in cell or tissue samples is fairly straightforward. However, it does not provide a clear picture of how those molecules are behaving in the real world.
+ 
+ "Biological research is moving toward complex systems that extend across multiple dimensions, the interaction of multiple elements over time," said Francesco Cutrale, a postdoctoral fellow at the USC.
+ 
+ "By looking at multiple targets, or watching targets move over time, we can get a much better view of what's actually happening within complex living systems," Cutrale said.
+ 
+ Researchers must look at different labels separately, then apply complicated techniques to layer them together and figure out how they relate to one another, a time-consuming and expensive process, Cutrale said.
+ 
+ HySP can look at many different molecules in one pass.
+ 
+ "Imagine looking at 18 targets. We can do that all at once, rather than having to perform 18 separate experiments and try to combine them later," Cutrale said.
+ 
+ In addition, the algorithm effectively filters through interference to discern the true signal, even if that signal is extremely weak.
+ 
+ Recent technology from NASA's Jet Propulsion Laboratory can also do this, but the equipment and process are both extremely expensive and time-consuming.
+ 
+ "HySP uses much less computing time, and we don't need the expensive imaging instrumentation," said Scott Fraser, a Professor at USC.
+ 
+ It may be possible one day for clinicians to use HySP to analyze cell phone pictures of skin lesions to determine if they are at risk of being cancerous, said Fraser and Cutrale.
+ 
+ "We could determine if the lesions have changed color or shape over time," Cutrale said.
+ 
+ Clinicians could then examine the patient further to be certain of a diagnosis and respond appropriately.
+ 
+ The research was published in the journal Nature Methods.
+ 

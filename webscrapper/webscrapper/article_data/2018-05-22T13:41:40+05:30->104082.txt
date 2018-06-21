@@ -1,0 +1,27 @@
+LOS ANGELES: Scientists have developed a 3D printer that can build therapeutic biomaterials, paving the way for on-demand printing of complex artificial tissues needed in transplants and surgeries.
+
+ 
+ The technique, developed by researchers at the University of California, Los Angeles ( ) in the US, uses a light-based process called  , and it takes advantage of a customised 3D printer that has two key components.
+ 
+ The first is a custom-built   - a small, flat platform similar in size to a computer chip - with multiple inlets that each "prints" a different material.
+ 
+ The other component is a digital micromirror, an array of more than a million tiny mirrors that each moves independently.
+ 
+ "Tissues are wonderfully complex structures, so to engineer artificial versions of them that function properly, we have to recreate their complexity," said  , a professor at UCLA.
+ 
+ "Our new approach offers a way to build complex biocompatible structures made from different materials," said Khademhosseini, who led the study published in the journal  .
+ 
+ The researchers used different types of hydrogels - materials that, after passing through the printer, form scaffolds for tissue to grow into.
+ 
+ The micromirrors direct light onto the printing surface, and the illuminated areas indicate the outline of the 3D object that is being printed.
+ 
+ The light also triggers molecular bonds to form in the materials, which causes the gels to firm into solid material. As the 3D object is printed, the mirror array changes the light pattern to indicate the shape of each new layer.
+ 
+ The process is the first to use multiple materials for automated stereolithographic bioprinting - an advance over conventional stereolithographic bioprinting, which only uses one type of material.
+ 
+ While the demonstration device used four types of bio-inks, the study's authors write that the process could accommodate as many inks as needed.
+ 
+ The researchers first used the process to make simple shapes, such as pyramids. Then, they made complex 3D structures that mimicked parts of muscle tissue and muscle-skeleton connective tissues.
+ 
+ They also printed shapes mimicking tumours with networks of blood vessels, which could be used as biological models to study cancers. They tested the printed structures by implanting them in rats. The structures were not rejected. 
+ 

@@ -1,0 +1,27 @@
+BENGALURU: Over a dozen Bengalureans have fallen prey to a new   through which fraudsters have accessed their bank-generated One Time Passwords (OTPs) and swindled them of lakhs of rupees. While   are probing multiple complaints, experts suspect the use of MazarBOT, a malware sent as an SMS link to the victim to gain remote access to the latter’s cellphone images,   and  .
+
+ 
+  
+  
+ 
+ Sources with cybercrime police station said they received over 10 written complaints on cellphone malware attacks till Monday, with the victims claiming to have lost money from their bank accounts. “The SMSs appear like regular text messages sent by banks. However, they are sent by fraudsters and contain a link. All the complainants clicked on the link, which resulted in a malware invading their phone, via which the conmen gained access to the device and all SMSs received by the user,” revealed an investigating officer probing the fraud.
+ 
+ They target people whose bank credentials are already in their possession, police said. Investigators believe that after sending the texts, scamsters entered the users’ online banking interface and generated OTPs to siphon off money from the complainants’ bank accounts. “As far as phone banking frauds are concerned, this is one step ahead of vishing, where crooks pose as bank executives and ask for the customer’s   and PIN. The new malware is an easy tool and a secret weapon to steal money from bank accounts,” the officer added.
+ 
+ Sources said the victims include customers of private and nationalised banks. “Android devices are more vulnerable to this Trojan which is sent to cellphones via SMS to get the receiver’s details. Once downloaded to the victim’s phone, the fraudster can read, block or divert all SMSs,” said a city-based bank risk management expert.
+ 
+ An official from a private bank said alerts are issued to customers against such malware threats and they are warned against clicking on unknown links. 
+ 
+ K S Santosh, founder of cyber security solutions group Cyber ID, said the malware could be MazarBOT, which has the capability of deleting all content from a smartphone. “It is a spyware which gives the fraudster remote access to the cellphone user’s photo gallery and apps too,” he added.
+ 
+ Police have cautioned online banking users to remain vigilant about malware carrying texts.
+ 
+ HOW THEY OPERATE
+ 
+ *Send text, which seems like an official bank SMS, carrying a link to victim. Clicking on link leads to downloading of Android Package Kit (APK) files of malware on smartphone, allowing it to gain administrative rights of device
+ 
+ *Use confidential bank details of victim, including cellphone numbers, to generate OTP 
+ 
+ *Initiate internet banking transaction from victim’s account and have early access to generated OTP, which they use to siphon off money
+ 
+ 

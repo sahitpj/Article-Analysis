@@ -1,0 +1,34 @@
+
+NEW DELHI: Over the past few weeks, chances are you have received alerts from an assortment of online services letting you know that their privacy policies are changing. Some might be offering options where they previously didn’t exist — like a health tracker application confirming your willingness to share your data for research purposes, or a visa services website letting you know they will only send you updates if you ask. 
+ 
+ 
+ Others will be reminding you that you haven’t used their service for years, and so, unless they hear otherwise, they will have to delete your login data. These alerts invariably emphasise on simpler, clearer options for how businesses collect, process and store your personal data, and if they do it right, you will be spared convoluted legalese.
+ 
+ What has changed? These companies are likely changing their policies to comply with the   ( ), which comes into force today. It’s a European law, and yet several online companies are changing their privacy policies that will apply to all their users globally, irrespective of location. 
+ 
+ The predecessor to the GDPR, a 1995 regulation, generally applied only if the business was itself physically located, or had processing equipment in Europe. This nexus to physical territory remains, but the GDPR goes beyond, and territoriality is increasingly irrelevant. If your service targets   residents today, you will be subject to and liable under the GDPR. The law walks a tightrope for what qualifies as targeting. 
+ 
+ 
+ 
+ 
+ Merely having your website accessible to an EU resident is not enough, but offering a European language or currency or mentioning customers or users in the EU would count as intention to target. So, if a European comes to India and shops in an Indian clothes store, the store won’t automatically be subject to the GDPR, but if an online retailer in India displays European currency or language options, it probably will. 
+ 
+ Similarly, entities that “monitor the behaviour” of EU residents, are also covered by GDPR. In other words, popular social networks, email providers, search engines, browsers, a majority of which do systematically monitor user behaviour, are indisputably subject to this law.
+ 
+ As companies scramble to update their privacy policies and reform practices throughout the data lifecycle, it isn’t pragmatic to cordon off these changes only to their European users. Many businesses are making some of these safeguards, notably, meaningful notice, consent and opt-out options, available globally rather than adopting country-specific formats. 
+ 
+ Indeed, developing different technologies with different privacy protections would place a costly burden on companies and developers, it’s easier to support just one (high) standard. The barrage of emails hitting your inbox about changing privacy policies demonstrate that these companies are already complying with the GDPR. However, while consent forms might be generally simplified, these businesses are under no obligation to adapt these notices to Indian context and languages. Also, key obligations to notify users of data breaches might only apply to EU residents. Simply put, we can’t rely on European regulators to do the work of protecting Indians’ privacy — and we shouldn’t have to.
+ 
+ India is at its own tipping point vis-a-vis privacy norms — not precipitated by the GDPR but instead by national context.  , the government’s biometric-enabled identifier, brought almost every Indian resident in contact with technology, but simultaneously made concrete concerns of profiling, surveillance, and exclusion. 
+ 
+ The legal challenges to the project led the   to declare that privacy is a fundamental right guaranteed to every Indian resident by the Constitution. The Court made it clear that the State has a duty to enact laws that will protect users from privacy threats of businesses and the government. On the heels of the Aadhaar case, a Committee was set up, chaired by former Supreme Court judge, Justice B N Srikrishna, and a draft bill is imminent.
+ 
+  A law that applies to both the public and private sector, would also introduce safeguards to government surveillance processes in India, which remain among the least regulated in the world. More recently, the   episode spurred a debate about the use of data-driven methods by Indian electoral campaigns, like the targeting and profiling of users to disseminate propaganda. As control over personal data becomes the lifeblood of both commerce and politics, it is no longer tenable to suggest that data protection is a concept foreign to India.
+ 
+ As we ready ourselves to discuss and debate the draft bill that will form India’s first comprehensive data protection law, this context should not be lost. There are of course pragmatic reasons why Indian businesses might actually benefit from a law that meets the European standard (The GDPR only allows data transfers to countries that have an ‘adequate’ level of data protection). 
+ 
+ But beyond this, developments in India themselves make the case for a strong data protection law. As the Supreme Court’s judgment endorses, we need a law grounded in individual rights, and supported by measures that hold state and private actors accountable for their use of personal data. We can’t rely on the spillover effects of the GDPR.
+ 
+ 
+ 
+ 

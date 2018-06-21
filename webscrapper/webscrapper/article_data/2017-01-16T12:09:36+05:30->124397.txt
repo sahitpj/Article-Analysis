@@ -1,0 +1,17 @@
+BENGALURU/MUMBAI: Large banks like   and   have raised concerns over non-banks getting access to their customer information through third-party applications developed for the Unified Payments Interface ( ) platform. 
+
+ ICICI Bank has blocked customers from accessing their accounts using the   UPI application citing these concerns, and also said that the app discriminates against users of UPI apps of other banks.
+ 
+ Flipkart-owned PhonePe is a third-party app but it is able to be part of UPI through a partnership with Yes Bank.   recently integrated UPI payments on its website, and is offering customers cashback on their e-wallet on PhonePe UPI payment. However, users have discovered that they cannot add their ICICI Bank account to the PhonePe UPI app. One of the requirements of being part of the UPI platform is that banks should facilitate interoperability — they should allow customers to be part of the UPI platform through any other bank’s app. PhonePe CEO   raised the issue first on Twitter on Saturday. He told TOI over the phone that the bank has made no communication to them as to this was being done. “We have received no communication from them nor Yes Bank. We are clueless as to why this has been done” Nigam said. 
+ 
+ “Some banks, including us have raised security related concerns at appropriate forums about the access to UPI data to a non-banking application. Further, this entity is following restrictive practices allowing users to make payments with only its UPI handle, which is in contravention to the UPI guidelines of interoperability and choice that empowers a customer to choose any app to make payments through UPI,” ICICI Bank said in response to a TOI query. The bank confirmed that pending resolution of these concerns, it has temporarily declined to undertake UPI transactions from this entity.
+ 
+ Meanwhile, SBI deputy managing director Manju Agarwal said that the bank is ensuring that customer data details are not available to third parties. “As per UPI, only bank applications can be used by customers. We will have to take up with the RBI and NPCI to get non-banks blocked,” said Agarwal. 
+ 
+ Earlier in June last year, SBI had blocked customers from using net banking to load money in one of the largest e-wallet player —  , citing security concerns. SBI also has its own wallet named Buddy.
+ 
+ Wallet companies like Mobikwik and Paytm have been lobbying for access to the UPI interface for wallets. However, PhonePe has been the first off the block thanks to the partnership with Yes Bank.
+ 
+ According to industry experts, these developments are clear sign of banks not wanting emerging companies to emerge as a strong competitor in the space. “This is similar to what happened between e-commerce firms and offline retailers — turf war. Now lot of new age companies have gained strong user base in payments space and banks don’t like that so issue will have more friction from both these parties as people migrate further towards digital payments,” a senior executive in a payments firm said. Banks are however raising the issue of regulatory arbitrage.
+ 
+ 

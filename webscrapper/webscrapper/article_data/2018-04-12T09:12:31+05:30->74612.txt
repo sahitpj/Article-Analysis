@@ -1,0 +1,32 @@
+NEW DELHI/BENGALURU: The successful launch of PSLV-C41 rocket carrying India's eighth   from   at 4.04am on Thursday brought smile back on the faces of scientists of   ( ) amid tough time when the space agency is struggling to restore the snapped link with its recently launched communication satellite Gsat-6A.
+ 
+ The textbook launch of PSLV-C41 took place in four stages and the total time taken for the rocket to put the satellite into the intended orbit was 19 minutes.
+  
+ Navigation satellite IRNSS-1I has been launched to replace India's first navigation satellite IRNSS-1A, whose three Rubidium atomic clocks had stopped working two years ago. The malfunctioning of the Europe-imported atomic clocks in IRNSS-1A made it difficult to measure precise locational data from the satellite. When the time signal is missing, getting true positional accuracy becomes a problem. Therefore, Isro felt a need to replace faulty satellite IRNSS-1A.
+ 
+ IRNSS-1I weighing 1,425kg and with a life span of 10 years has become the eighth satellite to join the constellation of navigation satellites called NavIC (Navigation with Indian Constellation) or popularly known as IRNSS or 'desi' GPS.
+  
+ 
+ 
+ Congratulating space scentists for the successful mission, Isro chairman Dr K Sivan, in a press briefing soon after the launch, said, "PSLV-C41 precisely injected the eighth navigation satellite of India of the NaviC constellation into the targeted orbit. This is the second successful launch we achieved in just 14 days after the successful GSLV launch (on March 29). The entire Isro community worked tirelessly to achieve this success."
+ 
+ Explaining a new feature in the launch vehicle, Dr Sivan said, "We have adopted a new technology called friction stir welding which will improve the productivity and enhance the payload capability of the vehicle." In the satellite area, the participation of industry has been enhanced this time. And we are slowly moving towards getting the entire satellite and the launch vehicle made from the industry." Bengaluru-headquartered Alpha Design Technologies played an active role in the integration of IRNSS-1I satellite.
+ 
+ On popularising the indigenous navigation system, the Isro chairman said, "NavIC will provide innovative applications to the entire community in the position-based services, especially for the unserved and the underserved. We have created an app which will be released soon. Likewise, a lot of applications are on the anvil. I request the industry and institutions to come forward to take these (navigation) applications to the user community."
+ 
+ Like its predecessors, IRNSS-1I carries two types of payloads: Navigation and Ranging. The navigation payload of IRNSS-1I transmits signals for the determination of position, velocity and time and operated in the L5-band and S-band. The atomic clocks are part of the navigation payload of the satellite, while the ranging payload consists of a C-band transponder, which facilitates accurate determination of the range of the satellite and it also carries Corner Cube Retroreflectors for Laser ranging.Serving both military and civilian needs, NavIC satellites will broadcast highly-accurate timing signals that a receiver can use to triangulate its location. NavIC is designed to provide accurate position information service to users in India as well as the region extending up to 1,500 km from its boundary.
+  
+ Last year, Isro tried to launch the replacement satellite IRNSS-1H on August 31 but the satellite got stuck in the heat shield (cone-shaped topmost part) of the rocket as the controlled explosion meant to open the hatch and release the satellite in space could not happen due to a malfunction in a rocket component. The IRNSS-1H satellite still stuck in the heat shield has now been declared space debris.
+  
+ The country's seven-satellite indigenous navigation system is a smaller version of the American GPS, which with about 31 satellites has global reach. Though the navigation system is very much operational, it is not as popular as the American GPS because the receiver and mobile chipset needed to access the navigation system have not been commercialised.
+  
+ The seven satellites launched earlier are IRNSS-1A (launched in 2013), IRNSS-1B (April 2014), IRNSS-1C (October 2014), IRNSS-1D (March 2015), IRNSS-1E (January 2016), IRNSS-1F (March 2016) and IRNSS-1G (April 2016).
+ 
+ Tapan Misra, director of Ahmedabad-based Space Applications Centre, had earlier told TOI, "Though NavIC doesn't have global reach, it is more accurate than the American GPS. NavIC provides standard positioning service to all users with a position accuracy of 5 metre. The GPS, on the other hand, has a position accuracy of 20-30 metre." The less the distance more is the accuracy of the navigation device in finding the real location.
+ 
+ For many years now, India had been dependent on the GPS, a project that the US began in 1973. However, when the US denied GPS information during the Kargil war in 1999, the nation felt an urgent need for an indigenous navigation system. NavIC has helped India enter the club of select countries, which have their own positioning systems. Besides America's GPS, Russia has its GLONASS and European Union, its Galileo. China is also in the process of building Beidou Navigation Satellite System.
+ 
+ 
+ 
+ 
+ 

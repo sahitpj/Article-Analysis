@@ -1,0 +1,15 @@
+As per the   ( ), any personal data must not be kept any longer than it is necessary for the purpose for which the personal data is processed. This further means there is a time limit on how long customers’ data can be kept intact. Though there is no specified time limit. 
+
+ Customers are always advised that you must store data for the shortest time possible. This time period should consider the reasons why your organisation needs to process the data, as well as any legal obligations to secure that data for a fixed period of time. For example: The National Labour, Tax or Anti-Fraud laws that need you to store the personal data about your employees for a specific period of time, product warranty duration, etc.
+ 
+ Your organization/company should fix certain time limits to clear or review the data stored. 
+ 
+ 
+ The only exception is in the case, where personal data can be kept for a longer period of time is for archiving purposes in the public interest or for reasons of scientific or historical research, provided there is appropriate technical and organisational measures put in place. Your organisation should also make sure that the data held is accurate and kept up-to-date.
+ 
+ 
+ 
+ The   (EU) introduced the General Data Protection Regulation (GDPR) in order to bring together all EU member states' attempts of data regulation and to make sure all the laws related to data protection are applied uniformly in all countries that come under EU. This is done to protect people of the EU countries from organizations using their data irresponsibly and also states them responsible of what information is shared, where and how it's shared.
+ 
+ The GDPR is set to be implemented from May 25, 2018 and even though the United Kingdom is expected to leave Europe in the coming 12 months, it will still be applicable to all businesses taking care of EU residents' data, effectively replacing the  .
+ 

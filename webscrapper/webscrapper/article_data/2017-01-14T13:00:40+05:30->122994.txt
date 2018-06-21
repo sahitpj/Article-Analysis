@@ -1,0 +1,35 @@
+PANAJI: Any fears of misuse of government vehicles during the elections can now rest with a six-month old Goan startup stepping forward to track and monitor   vehicles on a real time basis in Goa and in Punjab for the February 4 state assembly elections.
+
+ The Panaji-based startup, Numadic, will track over 220 government vehicles that have been requisitioned for poll duty.
+ 
+ Given that the   Commission of India wants a flying squad of election observers in each constituency with a five minute response time, it is vital for the chief electoral officer to have real time awareness of the flying squad vehicles during the elections.
+ 
+ “Each constituency will have one election vehicle. The response time that we are aiming for is five minutes from the time we receive a complaint,” said secretary for elections and chief electoral officer, Kunal.
+ 
+ Numadic has been chosen as the technology partner to track each vehicle for this purpose. “They track their vehicles to make sure that the flying squads are actually where they are supposed to be. Also, in the event of an issue, they can quickly plan and deploy the nearest squad. It eases the logistics of monitoring the elections,” said chief executive officer of Numadic Luke Sequeira.
+ 
+ The startup is currently tracking 117 vehicles in Punjab and 50 vehicles in Goa. “As the vehicles are government vehicles from various departments, we had to coordinate with multiple agencies and our team worked around the clock and overtime. Fortunately, Numadic has a special workforce tracking and deployment app that helps us plan and dispatch our own deployers on the fly,” Sequeira says.
+ 
+ An election control room has been setup at the North Goa and South Goa collectorates for officials to keep track of the vehicles. Similar control rooms have been created in Punjab.
+ 
+ While the tender to track the vehicles and setup the control rooms was awarded to a Delhi-based company, the contract to deploy the tracking devices in Punjab and Goa was outsourced to Numadic. The startup has helped create employment opportunities for local ITI graduates.
+ 
+ ORIGINAL
+ 
+ Panaji: Fears of misuse of government vehicles during the elections could rest with a six-month old Goan startup stepping forward to track and monitor election commission vehicles on a real time basis in Goa and in Punjab for the February 4 state assembly elections. The Panaji-based startup, Numadic, will track over 220 government vehicles that have been requisitioned for poll duty.
+ 
+ Given that the Election Commission of India wants a flying squad of election observers in each constituency with a five minute response time, it is vital for the chief electoral officer to have real time awareness of the election flying squad vehicles.
+ 
+ “Each constituency will have one election vehicle. The response time that we are aiming for is five minutes from when we receive a complaint,” said secretary for elections and chief electoral officer Kunal.
+ 
+ Numadic has been chosen as the technology partner to track each vehicle for this purpose. “They track their vehicles to make sure that the flying squads are actually where they are supposed to be. Also, in the event of an issue, they can quickly plan and deploy the nearest squad. It eases the logistics of monitoring the elections,” said chief executive officer of Numadic Luke Sequeira.
+ 
+ The startup is currently tracking 117 vehicles in Punjab and just nearly 50 vehicles in Goa. “As the vehicles are government vehicles from various departments, we had to coordinate with multiple agencies and our team worked around the clock and overtime. Fortunately Numadic has a special workforce tracking and deployment app that helps us plan and dispatch our own deployers on the fly,” Sequeira says.
+ 
+ An election control room has been setup at the North Goa and South Goa collectorate for officials to keep track of the vehicles. Similar control rooms have been created in Punjab.
+ 
+ While the tender to track the vehicles and setup the control rooms was awarded to a delhi company, the contract to deploy the tracking devices in Punjab and Goa was outsourced to Numadic. The startup has helped create employment opportunities for local ITI graduates.
+ 
+ “We hired a few local ITI guys to assist us to complete the installations. We call them the deplos! Our little SWAT team. We have a floating pool of about 12 deplos in Goa alone,” Sequeira said.
+ 
+ 

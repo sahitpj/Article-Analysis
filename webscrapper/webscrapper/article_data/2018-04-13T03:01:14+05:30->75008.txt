@@ -1,0 +1,14 @@
+NEW DELHI: Mark Zuckerberg’s revelations about Cambridge Analytica’s illegal mining of data of   users cast a shadow on the   hearing on Thursday with the Supreme Court expressing concern that the demographic data of millions of citizens could be a huge “gold mine” for commercial entities.
+
+ 
+ The court said there might be a need for safeguards to ensure data is held safely by ‘requesting entities’ (the place where one is undergoing Aadhaar authentication) seeking to use Aadhaar for authentication and asked the Centre to detail statutory and proposed steps to prevent UID centres from sharing demographic details of persons enrolled in the system. Appearing for UIDAI and Gujarat, senior advocate Rakesh Dwivedi said Aadhaar biometrics were not shared with anyone and even the authentication process for requesting entities was encrypted.
+ 
+ The requesting entities are barred from storing biometrics. It is a punishable offence if anyone, including UIDAI, shares biometric details with anyone,” UIDAI’s senior advocate Rakesh Dwivedi said.
+ 
+ A bench of CJI Dipak Misra and Justices A K Sikri, A M Khanwilkar, D Y Chandrachud and Ashok Bhushan said while there might not be a problem at the UIDAI end, that does not eliminate the possibility of misuse. “As of today, we do not have a robust data protection regime. What about requesting entities? They can store demographic data, sans biometrics, to analyse and share,” it said.
+ 
+ Dwivedi said the Aadhaar Act prohibited sharing of data and barred UIDAI from acquiring any tool that could read the personal details of UID users and analyse it. “If the court still feels that there is some loophole within the provisions of the Act that could allow such sharing or analysis of personal data, it can go ahead and read it in a manner to completely prohibit it,” he said.
+ 
+ Justices Sikri and Chandrachud flagged the issue and said in today’s world, details of millions of citizens had huge commercial value. “India may have a huge number of poor persons. But their personal demographic data is a huge gold mine for commercial entities,” Justice Chandrachud said.
+ 
+ 

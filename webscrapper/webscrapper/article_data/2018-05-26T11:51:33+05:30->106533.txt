@@ -1,0 +1,13 @@
+MUMBAI: In a bid to take on fintechs and bolster its digital banking initiatives,   has set up an innovation lab that will be headed by Rohan Angrish, former chief technology officer (CTO) at online small business lender Fintech Capital Float. Besides using the innovation lab, which will develop technology from scratch, ICICI Bank is also partnering fintechs and supporting them through a Rs 100-crore innovation fund.
+
+ The mandate for Angrish is to build a new tech bank that will be able to do business in hitherto untapped areas, starting with digital small-ticket personal loans. Another area is ‘one-cycle’ credit that allows a customer to maintain dues until his next transaction — like Uber. ICICI Bank CTO and head of digital Madhivanan Balakrishnan said, “There are no bankers in  . The only person involved who comes close to being a banker is me.”
+ 
+ According to Balakrishnan, the innovation lab is part of the bank’s three-pronged strategy — ‘Run, evolve and imagine’. Under ‘run’, one group is tasked with keeping the existing business running, while ‘evolve’ involves completely digitising all existing processes, including customer acquisition. The innovation lab comes under the third prong ‘imagine’, which is aimed at using tech as a product.
+ 
+ On the investment side, ICICI Bank has acquired a stake in Signzy, a startup that uses   to do online  , and Fingapy, which allows customers to shop without cash or cards using biometrics. According to Balakrishnan, the bank plans to invest in its own payment switch to handle larger volumes of inter-bank transactions. This is in preparation for   (Unified Payments Interface) 2.0, which has features like an e-mandate that will increase account-to-account transfers. 
+ 
+ Soon, the bank will be providing customers the option of receiving alerts and messages through  . This will provide a much richer interaction as the bank will now be able to use data as against simple text messages earlier.
+ 
+ Angrish, a Stanford postgraduate with multiple patents to his name, has a team of around 22 people working together at a centre away from the bank. The lender would have a hands-off approach and support the team by opening its application programming interface (APIs) to the developers in the lab. “Globally, some banks have chosen to take the acquisition route. For instance, Spain’s BBVA acquired banking startup Simple. However, we have chosen to build on our own,” said Balakrishnan.
+ 
+ 

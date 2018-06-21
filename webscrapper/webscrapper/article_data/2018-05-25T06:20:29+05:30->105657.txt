@@ -1,0 +1,9 @@
+Chennai: Soon, the city airport can cut delays and add more flights as   ( ) launched the Airport Collaborative Decision Making (A-CDM) system on Thursday. The system, which will be introduced on a trial basis in the first week of June, will help in better planning of departures, turnaround time of planes, route planning by sharing information between airport staff, airlines, ground handlers, security service and air traffic control. 
+
+ A senior AAI official said that the airport would be able to handle planes efficiently leading to an eventual increase in aircraft handling capacity. “The primary focus is on reducing aircraft holding delays at the end of the runway. This results in substantial saving of aviation fuel. Planes will be allowed to pushback and taxi to the runway as per a sequence decided automatically based on runway capacity at a given time,” he added.
+ 
+ Congestions occur because planes pushback and taxi towards the runway but have to wait for permission to enter the runway for take-off. This wait, though not longer than at   abroad, leads to waste of time and fuel. Inputs from Airport Operations Control Centre will be processed and shared with airlines, groundhandling staff and air traffic control automatically so giving clearance for planes is easier for the air traffic control. Clearance will be given based on realtime information about the prepardness of the plane to depart. This reduces the workload of the ATC and pilot while maintaining optimum runway capacity, said a statement.
+ 
+ A K Dutta, member,  , and I N Murthy, member, Operations, inaugurated the system at the airport on Thursday. 
+ 
+ 

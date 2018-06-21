@@ -1,0 +1,23 @@
+NEW DELHI: In what is being regarded as the biggest   in the country so far, a leading   exchange firm has lost bitcoins worth Rs 20 crore after most of its wallets were hacked. Altogether 440 bitcoins were   in this way. 
+
+ 
+  
+  
+ 
+ Senior officers of Delhi Police’s Cyber Cell confirmed the incident and said the firm, identified as Coinsecure, told them about the theft. A case was registered under IPC sections and Section 66 of the IT Act. 
+ 
+ The company, which has over two lakh users across the country, told police that they got to know about the theft on Monday while going through all the wallets. A senior security officer found that all the bitcoins that were stored offline had vanished. It was later found that the private keys — the password that is kept by the company and is stored offline — were leaked online, leading to the hack. 
+ 
+ The company tried to trace the hackers, but found that all the data logs of the affected wallets had been erased, leaving no trails about where the bitcoins were transferred. The website of the company has since then remained shut. On Thursday night, the company confirmed the hack to their users through a message posted on the website. 
+ 
+ “We regret to inform you that our bitcoin funds have been exposed and seem to have been siphoned out to an address that is outside our control. Our system itself has never been compromised or hacked, and the current issue points towards losses caused during an exercise to extract bitcoins to distribute to our customers,” the company stated.
+ 
+ The company’s founder and CEO Mohit Kalra told TOI that he suspects an insider’s hand in this. 
+ 
+ “Private keys should have never been exported online. It looks like a crime committed intentionally. We have shared our suspicions with the Cyber Cell, and contacted specialists to find out the source of the hack and trace the bitcoins,” Kalra said, adding that even if funds are not recovered, his company is willing to pay from its own pocket to compensate its customers. 
+ 
+ Police said that the company’s servers have been seized to ascertain the extent of the system breach. It is also being checked if more wallets have been compromised. The senior security officials of the company have also been called in for questioning. 
+ 
+ Cyber security experts said that the private keys – the password that is kept by the company is never connected to an online system. But police found that not only were the private keys online, they were kept like that for more than 12 hours. Police are also checking if malware infection led to the hack.
+ 
+ 

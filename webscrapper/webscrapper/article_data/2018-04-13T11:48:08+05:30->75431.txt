@@ -1,0 +1,10 @@
+VIJAYAWADA:   (TTD) will be the first ever temple management in the country to use Virtual   ID of devotees for identity authentication when they come for VIP or slot-based darshan. A system will soon be introduced in a phase-wise manner.
+
+ “Tata Consultancy Services (TCS) is working on our platforms so we can use this new service launched by   ( ) in some days,” Anil Kumar Singhal , TTD executive officer, said.
+ 
+ However, devotees can still use their Aadhaar cards. Having only Virtual ID from UIDAI is not compulsory.
+ 
+ Virtual IDs can be created by users who already have Aadhaar cards by logging into UIDAI website and providing details or by downloading M Aadhaar application. They can even approach Aadhaar enrollment centers for creating Virtual ID. “Virtual ID is like duplicate Adhaar.”
+ 
+ Virtual ID will be a 16-digit number mapped to Aadhaar number. Once citizens generate a Virtual ID, they can provide that number for authentication. If a devotee provides Virtual ID to TTD, they will enter it into the system and receive a token that authenticates it, and provides a limited set of demographic details such as name, phone number and address. Unlike in the past, TTD will now be able to authenticate devotees without actually knowing the Aadhaar number.
+ 

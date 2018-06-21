@@ -1,0 +1,26 @@
+BENGALURU: India early on Thursday put into space a new satellite under its regional navigation satellite system — also called   — adding to the constellation of six operational satellites. The Indian Space Research Organisation ( ) thus completed the constellation, which needed seven functional satellites to provide foolproof satellite-based navigation signals.
+
+ 
+ Isro carried out a textbook launch of the Indian Indian Regional Navigation Satellite System-1I (IRNSS-1I), the latest satellite for the NavIC system, which replaces a faulty spacecraft (IRNSS-1A) in orbit more than seven months after its intended replacement could not be deployed due to a heat-shield failure of the Polar Satellite Launch Vehicle (PSLV).
+ 
+ "I am confident that the NavIC constellation will serve the underprivileged and unserved for years to come. I am really grateful to the entire Isro family for having worked this hard and making IRNSS-1I a success," Isro chairman K Sivan said after the mission was declared a success.
+ 
+ The 1,425-kg satellite made by Bengaluru-headquartered Alpha Design Technologies, in collaboration with Isro, is the second satellite to be actively built by private industry. The first one, IRNSS-1H, could not be put into space because of its failure in August last year.
+ 
+ On Thursday, the PSLV-C41 lifted off at 4.04am, and the spacecraft’s final separation happened about 20 minutes later putting it into a geosynchronous orbit, exactly as planned by Isro. 
+ 
+ Like its predecessors, IRNSS-1I carried two types of payloads: Navigation and Ranging.
+ 
+ The navigation payload of IRNSS-1I transmits signals for the determination of position, velocity and time and operated in the L5-band and S-band. 
+ 
+ The Rubidium atomic clocks are part of the navigation payload of the satellite, while the ranging payload consists of a C-band transponder, which facilitates accurate determination of the range of the satellite and it also carries Corner Cube Retroreflectors for Laser ranging.
+ 
+ Serving both military and civilian needs, NavIC’s seven satellites will broadcast highly-accurate timing signals that a receiver can use to triangulate its location. 
+ 
+ “The NavIC system enables providing position, navigation and timing information that could be utilised for a large range of civil and strategic applications and services that include terrestrial, aerial and marine navigation; precise timing; disaster management and alert messages; mapping and Geodetic data capture; vehicle tracking and fleet management; visual & voice navigation for drivers, etc,” according to the Department of Space (DoS).
+ 
+ The constellation will also provide signals in a space covering India and its surroundings, which could be utilised by using receivers on ground to determine position and time accurately. 
+ 
+ According to the DoS: “Signal in space is provided globally by GPS of USA, GLONASS of Russia, Galileo of Europe and Beiden of China. Current global trend is to make use of ground receivers which utilises as many signals as available for providing timing and position solutions.”
+ 
+ 

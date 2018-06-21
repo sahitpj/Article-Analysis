@@ -1,0 +1,26 @@
+BOSTON: MIT scientists have designed a fleet of 3D printed, driverless boats that could ferry goods and people, helping clear up road congestion in waterway rich cities such as Amsterdam, Bangkok and Venice where canals run alongside and under bustling streets and bridges.
+
+ 
+ 
+ The autonomous boats offer high maneuverability and precise control. They can be built using low cost printer, making mass manufacturing more feasible.
+ 
+ In the future, the researchers also envision the driverless boats being adapted to perform city services overnight, instead of during busy daylight hours, further reducing congestion on both roads and canals.
+ 
+ "Imagine shifting some of infrastructure services that usually take place during the day on the road - deliveries, garbage management, waste management to the middle of the night, on the water, using a fleet of autonomous boats," said  , from   (MIT) in the US.
+ 
+ The boats are rectangular 4 by 2 metre hulls equipped with sensors, microcontrollers, location trackers, and other hardware that could be programmed to self-assemble into floating bridges, concert stages, platforms for food markets, and other structures in a matter of hours.
+ 
+ "Again, some of the activities that are usually taking place on land, and that cause disturbance in how the city moves, can be done on a temporary basis on the water," said Rus.
+ 
+ The boats could also be equipped with environmental sensors to monitor a city's waters and gain insight into urban and human health.
+ 
+ To make the boats, the researchers 3D printed a rectangular hull with a commercial printer, producing 16 separate sections that were spliced together. Printing took around 60 hours. The completed hull was then sealed by adhering several layers of fibreglass.
+ 
+ Integrated onto the hull are a power supply, Wi-Fi antenna, GPS, and a minicomputer and microcontroller. For precise positioning, the researchers incorporated an indoor ultrasound beacon system and outdoor real-time kinematic GPS modules, which allow for centimeter level localisation, as well as an inertial measurement unit ( ) module that monitors the boat's yaw and angular velocity, among other metrics.
+ 
+ The boat is a rectangular shape, instead of the traditional kayak or catamaran shapes, to allow the vessel to move sideways and to attach itself to other boats when assembling other structures.
+ 
+ Researchers used an efficient predictive control platform to run their algorithm, which can rapidly determine upcoming actions and increases the algorithm's speed by two orders of magnitude over similar systems. While other algorithms execute in about 100 milliseconds, the researchers' algorithm takes less than one millisecond.
+ 
+ The innovations in design and fabrication, as well as faster and more precise control algorithms, point toward feasible driverless boats used for transportation, docking, and self-assembling into platforms, researchers said. 
+ 

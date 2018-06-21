@@ -1,0 +1,14 @@
+THIRUVANANTHAPURAM: A comprehensive study on the ground reality of agriculture was the need of the hour, opined Arun Raj, CEO of  , who took part in the debate on ‘challenges of IT initiatives in farming sector’ held in the state capital.
+
+ “Proper information on each locality could provide customer input required for developing software that would be useful in the agriculture sector. We can’t expect farmers to come forward and provide the specifications. Only a full-fledged study could bridge this gap between technology and agriculture,” said Raj, at the talk held as part of   (free & open source software) Young Professional Meet, organized by ICFOSS, an autonomous institution of the state government that promotes free and open source software.
+ 
+ More than 350 delegates, including, young software developers and students attended the two-day conclave on ‘FOSS for Sustainable Development’.
+ 
+ The discussion led by   experts held on Saturday concluded that agricultural production, distribution and food security squarely depended on providing the right information at the right time through information technology. Also, it has to provide updates on everything related to the sector –seeding, soil testing, weather, crop protection, marketing etc.
+ 
+ Vinay Seghal, professor at  , Pusa Campus, New Delhi, who led the session on FOSS tools and data for mapping, monitoring and modelling of crops said, FOSS provides freedom to learn, share and make modifications to suit various agricultural needs and conditions without depending on vendors/intermediaries.
+ 
+ Deliberations were also held on how the adoption of free and open source software could improve farmers’ access to required information, overcoming the price barrier in use of information technology.
+ 
+ Jayasankar Prasad, director of ICFOSS, stressed on the need of cost effective information technologies to facilitate development in all spheres of human activity. “Sustainable social, political, economic and ecological development is possible only when people control technology through open source. Unicef had used an open source platform namely RapidSMS to facilitate and monitor food distribution in countries hit by natural calamities,” he pointed out.
+ 

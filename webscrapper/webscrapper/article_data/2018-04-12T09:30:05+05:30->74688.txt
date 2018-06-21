@@ -1,0 +1,19 @@
+NANTES: Researchers have unveiled what they billed as the   to serve as a home in the French city of  , with the first tenants due to move in by June.
+
+ 
+ Academics at the   who led the project said it was the first house built in situ for human habitation using a robot 3Dprinter. The robot, known as  , uses a special polymer material that should keep the building insulated effectively for a century.
+ 
+ It took BatiPrint3D around 18 days to complete its part of the work on the house — creating hollow walls that were subsequently filled with concrete for insulation.
+ 
+ The advanced technology consists of depositing 3 layers of materials using a polyarticulated industrial robot: two layers of expansive foam serve as formwork for a third layer of concrete.
+ 
+ Once the walls have been constructed, the foam is kept in place in order to insulate the house without thermal bridging. At the end of the operation, the mobile robot emerges through an opening provided for the fitting of the joineries.
+ 
+ “Is this the future? It’s a solution and a constructive principle that is interesting because we create the house directly on site and in addition thanks to the robot, we are able to create walls with complex shapes,” said  , a professor who worked on the project.
+ 
+ The 1000 square feet, fiveroom house will be allocated to a local family which qualifies for social housing, authorities said.
+ 
+ The Y-shaped home is equipped with multiple sensors that monitor air quality, humidity and temperature, as well as equipment to evaluate and analyse the thermal properties of the building. Researchers believe this technology will enable tenants to save on energy costs. Authorities in Nantes are planning further 3D-printed building projects, including a public reception building and a housing estate.
+ 
+ This innovative project is led by a consortium of scientists, manufacturers, and public and socio-economic actors. The aim: to quickly build affordable, adaptable, and energy efficient housing. 
+ 

@@ -1,0 +1,13 @@
+Mumbai: Cost of compliance is set to significantly rise for Indian banks and companies with an exposure to the   with the   ( ) coming into effect from May 25 in the common market. If global customer data stored in India gets leaked, Indian businesses could face huge penalties in Europe, ranging from 20 million euros to 4% of global turnover. The stringent fines are causing some companies with small businesses to rethink their businesses in EU.
+
+ The GDPR is aimed at protecting personal data and empower users to demand that companies have to come clean on personal data that they have or delete it.   also holds companies accountable for leakage of personal data.
+ 
+ Speaking to TOI,   partner (information security) Jaspreet Singh said that it is a popular misconception that the GDPR will impact only   (IT) and   (ITeS) companies. “Since IT and   contribute 8% of   and a lot of business is offshore, they will be impacted more. However, banks also collect a large quantity of customer data, and to that extent they will be liable,” he said. He added that the law will also have a huge impact on manufacturing, hospitality, and other financial services that have an exposure to EU.
+ 
+ The law requires companies to obtain explicit consent for all services without getting them to click a single ‘I accept’ button for a blank approval for using personal data. “Consent has to be separately taken when data is used for advertising, marketing or service-related request and the customer must provide an explicit opt-in for each of this,” said Singh.
+ 
+ Second, customers will have to be provided the option to delete personal data. “Companies will have to put in ‘right to be forgotten’ request. The only exception to comply with this request is legal requirements for preserving data as prescribed by the laws of the land,” said Singh.
+ 
+ “Right now, organisations with only physical presence in EU will be impacted. They are also exploring the possibility of having tie-ups with governments across the world. Currently, if the entity with a EU exposure is not present in the country, the regulators there cannot impose fines. But they can name and shame and ban them from doing business in the EU region.”
+ 
+ 

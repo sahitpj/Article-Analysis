@@ -1,0 +1,30 @@
+PUNE: Sights of long queues and citizens and officials fretting over server snags at property registration offices will soon be a thing of past with the state   aiming to shift all data to cloud by October. 
+
+ On Monday, the state government issued a directive listing empanelled service providers and the registration department is expected to select a provider for data migration from the servers to the cloud.
+ 
+ 
+  
+ 
+ Technical snags at registration offices across the state because of server problems often lead to delay in work. The citizens have to wait for hours for property registration. There have been instances when all 500 department of registration and stamps (IGR) offices across the state stopping the process with the server remaining down for most part of a day. 
+ 
+ “Once we upload our data on cloud, we will not face these issues and the registration process will be smooth,” a senior IGR official said. 
+ 
+ The department of information technology has released names of the cloud service providers and guidelines for the government organisations. The registration department is holding discussions with respective consultants to decide on the empanelled service providers in accordance with the government instructions.
+ 
+ “We will go for annual packages to avail of the services. We will first upload or migrate the data from the server to the empanelled cloud service provider. We will be able to do it before October,” the official added. 
+ 
+ IT department officials said the state wan not keen on having any new data centre. “All state government departments will shift to cloud by October,” an official said. 
+ 
+ Government statistics reveal that over 1 lakh documents are produced daily and all these records have to be stored in 75 centralised data centres. The maintenance cost of this entire process is high.
+ 
+ IT secretary SVR Srinivas said the government had allocated Rs 100 crore for data centres and the corpus will now be used for the cloud-based system. 
+ 
+ “This will be a cost-effective measure. Earlier, every department would spend Rs 15-20 lakh a year for server maintenance. Besides, the data centres had to operate 24 hours, irrespective of the usage. Once the cloud service is in place, the departments have to pay according to the usage only,” he told TOI.
+ 
+ Lawyers who help register property documents said the cloud-based system will help the citizens. “There won’t be any time lag and no buffering. Services at the registration offices will be faster,” high court lawyer Amitabh Mehta said.
+ 
+ The citizens, too, expect an improvement in services. “Officials at the registration offices will not be able to cite factors such as server snags for the delay in registration,” said Aparna Pant. 
+ 
+ In January, Maharashtra came out with a public cloud policy virtually mandating its departments to shift their data storage onto the cloud, creating a USD 2- billion opportunity for the industry.
+ 
+ 

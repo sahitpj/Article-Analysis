@@ -1,0 +1,12 @@
+VADODARA: In a bid to tackle rising number of road accidents in the city, cops have decided to go hi-tech. The city police have developed a software to record and analyse the road accidents that occur in different areas. The software named   (RASTA) has already been put in use at the traffic police station in  . 
+
+ 
+ “With increase in number of vehicles, the frequency of accidents too has gone up. Road accidents happen due to several reasons. And, if we want to reduce them, then we need to know the reasons behind the accidents. This software will help us in understanding the reasons,” said Amita  , ACP (traffic).
+ 
+ Once police complaint of any accident is registered, the police feeds details in this software under 55 different heads. The fatal accidents, serious ones where victims suffer injuries and normal ones are recorded in separate categories. “We use google map to record the exact site of the accident along with latitude and longitude. This data is then fed in the software,” Vanani told TOI. The cops who reach the spot also note the road’s design, if there was any traffic signal, crossroad or speed-breaker nearby.
+ 
+ Also, if the accident has happened in interior roads of the city, main road or the highway is also recorded along with the make of the vehicle and its manufacturing year. “This entire data is fed in the software. The elaborate information will help us in understanding the trend and spots where accidents happen more due to certain reasons. Then we will be able to take necessary steps to reduce the accidents. We have begun analysing the data,” Vanani added.
+ 
+ The traffic cops have already fed 365 traffic accident details in the software. The city saw 210 fatal accidents in 2015, 183 in 2016 and 160 in 2017. “Currently the software is available only at the traffic police station in Karelibaug but in the coming days, it will be installed at all the police stations in the city. Whenever any accident is registered, the cops will be able to directly feed the details in the software from their respective police stations,” the police said.
+ 
+ 

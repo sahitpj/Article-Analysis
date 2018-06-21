@@ -1,0 +1,28 @@
+PORTLAND: A  , Oregon, family has learned what happens when  's popular   Alexa is lost in translation. 
+
+ Amazon on Thursday described an "unlikely... string of events" that made   send an audio recording of the family to one of their contacts randomly. The episode underscored how Alexa can misinterpret conversation as a wake-up call and command.
+ 
+ A local news outlet, KIRO 7, reported that a woman with Amazon devices across her home received a call two weeks ago from her husband's employee, who said Alexa had recorded the family's conversation about hardwood floors and sent it to him.
+ 
+ "I felt invaded," the woman, only identified as Danielle, said in the report. "A total privacy invasion. Immediately I said, ‘I'm never plugging that device in again, because I can't trust it.'"
+ 
+ Alexa, which comes with Echo speakers and other gadgets, starts recording after it hears its name or another "wake word" selected by users. This means that an utterance quite like Alexa, even from a TV commercial, can activate a device.
+ 
+ That's what happened in the incident, Amazon said.
+ 
+ "Subsequent conversation was heard as a ‘send message' request," the company said in a statement. "At which point, Alexa said out loud ‘To whom?' At which point, the background conversation was interpreted as a name in the customer's contact list."
+ Prompts on how to use Amazon's Alexa personal assistant
+ 
+ Amazon added, "We are evaluating options to make this case even less likely."
+ 
+ Assuring customers of Alexa's security is crucial to Amazon, which has ambitions for Alexa to be ubiquitous - whether dimming the lights for customers or placing orders for them with the world's largest online retailer.
+ 
+ University researchers from Berkeley and Georgetown found in a 2016 paper that sounds unintelligible to humans can set off voice assistants in general, which raised concerns of exploitation by attackers. Amazon did not immediately comment on the matter, but it previously told The New York Times that it has taken steps to keep its devices secure. 
+ 
+ Millions of Amazon customers have shopped with Alexa. Customers bought tens of millions of Alexa devices last holiday season alone, the company has said.
+ 
+ That makes the incident reported Thursday a rare one. But faulty hearing is not.
+ 
+ "Background noise from our television is making it think we said Alexa," Wedbush Securities analyst   said of his personal experience. "It happens all the time." 
+ 
+ 

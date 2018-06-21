@@ -1,0 +1,15 @@
+MANGALORE To encourage a healthy lifestyle and cut down the carbon footprint in educational campus, students of the technical institute NIT-K, have launched  . 
+
+  The startup ' ' (WOR) was launched at National Institute of Technology, Karnataka, Surathkal, on Sunday. WOR team consists of four core team members Amartya Gupta, TK Jeshwenth Raja, Piyush Bansal and Pratyush Giri handling various aspects related to the startup services. 
+ 
+  Apart from the core team, there is a technical team of seven members that is helping in the development of the technology. The team says this startup is a service-oriented that aims to provide a public bicycle sharing initiative with a fully automated system to dispense the bicycles. The entire automated system is app-based along with website support. 
+ 
+  WOR is incubated under National Institute of Technology Karnataka- Science & Technology Entrepreneurs Park (NITK-STEP) and mentored by Anmol Nautiyal, director, IBM Cloud Integration. 
+ 
+  "Our aim is to deliver single speed and multi-speed bicycles at nominal renting rates in academic campuses starting with the NIT-K, Surathkal, " according to founders of WOR. 
+ 
+  Pratyush Kumar Giri, co-founder, WOR, said that on Sunday they have rolled out 10 bicycles and this semester, it will be leased out. However, from next semester onwards, the service will go app-based and include more bicycles. "Our operational plan in the coming year is to have 500+ bicycles in the NITK campus. We will be having four hotspots or docking stations to dispense and collect the rented bicycles. The hotspot will comprise of an app-based automatic bicycle key vending machine and a customized bicycle parking space. The users will be provided with the dual option of booking a ride either with the android app or a smart card. The riders will also have the option to go for distant rides outside the campus at lower rates. The bicycles will be secured with a dual combination of frame locks and RFID tags." 
+ 
+  In order to accomplish this task, the WOR team is collaborating with various corporate companies and technical clubs. The NITK Alumni Association is providing the team with the seed investment in the form of bicycles. IBM major American computer hardware and software MNC has agreed to provide the startup with Bluemix cloud platform, free of cost during its operation. Also, IEEE   is providing the necessary technical expertise and financial support to build the technology. NITK administration is helping them set up the dock across campus. 
+ 
+ 
