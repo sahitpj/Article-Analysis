@@ -1,0 +1,17 @@
+Nagpur: The Nagpur   Rail Corporation Limited (NMRCL), which is constructing the Metro Rail as per schedule, is preparing a virtual model of the project to further expedite its completion. Five dimensional building information modelling (5D BIM) integrated with enterprise resource planning (ERP) softwares is being used to construct this model. Nagpur Metro Rail is the first infrastructure project in the country to use these advanced softwares.
+
+ Upagupta Patnaik, engagement director of 5D BIM project, told TOI that the virtual model will enable NMRCL officials to track the progress of the project at the click of a mouse. “We will first feed data regarding construction of viaduct and stations. Say if an official wants to know the progress of work in a particular section, all he has to do is to issue a command. The screen will show a 3D model of the part of project has been completed, underconstruction part and part to be constructed in future. 
+ 
+ “The underconstruction part will show the structures that are as per schedule as well as behind schedule. Say the pillars have been constructed on time but the slabs are behind schedule then the former will shown as green and the latter as red,” Patnaik said.
+ 
+ Programme manager Anilkumar Jeur said that the fourth dimension of 5D BIM software was cost. “If there is a cost overrun in construction of a particular part then the software will indicate it on the screen. It will also tell the officials the amount of total cost overrun if this kind of cost escalation is not controlled,” he added.
+ 
+ Jeur further said that the ERP software would keep track of expenses on various heads like administration, procurement, etc. “It will also keep a tab on accounting, administration, office automation, quality control and management and safety,” he added.
+ 
+ Sameer Dhar, assistant general manager (IT), said that the software will facilitate the maintenance of the structures years after completion. “In most cases, the design sheets of the structures get lost or damaged after some years. This creates problems during maintenance. This software will provide all information on centralized platform,” he further said.
+ 
+ NMRCL will seek data from Nagpur Municipal Corporation (NMC), mobile companies, power companies, etc to know the location of water pipelines, sewer lines, telephone cables and power cables. “This will help us know the physical hurdles in way of construction beforehand,” Dhar said.
+ 
+ However, this is difficult to obtain as many agencies do not maintain an integrated database. The data available with them is often outdated. NMRCL may use the latest software but callousness of government agencies will reduce its effectivity.
+ 
+ 

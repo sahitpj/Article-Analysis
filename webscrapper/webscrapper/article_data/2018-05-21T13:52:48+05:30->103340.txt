@@ -1,0 +1,21 @@
+Researchers, including one of an Indian-origin, have found that medically induced cooling in brain to lower the temperature can help in treating injury and  .
+
+ Lowering the brain temperature after head injury or stroke may help relieve pressure inside the head to avert swelling and further injury, especially in critical cases as it impacts the blood vessels and tissue throughout the brain.
+ 
+ The study also showed that the cooling   may help babies at risk of long-term damage from birth complications, without having to cool their entire body.
+ 
+ Infants suffering from Hypoxic ischemic encephalopathy (HIE) -- a form of brain damage caused due to lack of oxygen -- can be given cooling therapy to reduce their core brain temperature from a normal level of 37 degree Celsius to 36 degree Celsius -- which is recognised as low enough to aid recovery, according to the study.
+ 
+ In the study, published in journal Scientific Reports, the team developed a robust 3D model which can predict temperature and blood flow.
+ 
+ Using computer simulations, the model scans the entire brain or parts of it showing the brain neuron connections.
+ 
+ The model takes into account simultaneous flow, heat transfer and metabolism between arteries, veins and brain tissue in three dimensions throughout the organ.
+ 
+ "Our sophisticated model should enable speedy progress in developing optimum treatments involving brain cooling, and support the development of studies on brain health," said study lead Prashant Valluri from University's School of Engineering.
+ 
+ When applied to adult brains, the model predicted cooling was able to precipitate a potentially beneficial 0.5 degree Celsius drop, in line with clinical observations.
+ 
+ It could also be modified to imitate the effects of stroke and also impact of the drugs administered, the researchers said.
+ 
+ 

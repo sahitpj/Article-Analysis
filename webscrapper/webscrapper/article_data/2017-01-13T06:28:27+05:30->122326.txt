@@ -1,0 +1,10 @@
+MUMBAI: The city's cyber police station registered 2,444 offences between 2014 and 2016, but managed to arrest only 609 accused, revealed the latest Mumbai police report.
+
+ Cyber offences increased by 1.8% (928 cases) in 2016 against 912 in 2015, with credit and debit card fraud (423 cases) rising 32.2% against 320 in 2015.
+ 
+ Experts pointed out that the recent push for a cashless society has come without creating a cybercrime deterrence infrastructure. Thus though the increases in percentage term seem small, since the volumes of digital transaction are jumping, the total number of cybercrime cases will also shoot up.
+ 
+ The poor investigation and conviction data indicated a lack of technical expertise among officials, a lack of training, and proper infrastructure to deal with such cases, said the experts. In cyber offences, when an IP address cannot be mapped to a suspect (loosely, the suspect to the computer used in the crime), no arrest is made as sometimes the investigation officer doesn't understand the complexities, giving a chance to the suspect to escape. “ A dedicated metropolitan court for trying cybercrime matters, more staff in cyber forensics lab, and more cyber police stations, all on one premise, will also help get convictions,“ said advocate (cyber)  .
+ 
+ Training of investigators has to be continuous affair, not a day-long workshop. Also, prosecutors should be given training so that they understand technical details of the cases, added the experts. Former director of the   Rukmani Krishnamurthy said collection of digital evidence is critical. “The government should bring in private agencies who can train the cyber police on methods to collect evidence and guard against tampering.“
+ 

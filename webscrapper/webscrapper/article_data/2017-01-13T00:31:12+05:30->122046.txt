@@ -1,0 +1,12 @@
+HYDERABAD: Legal experts in the city have welcomed the central government’s move to appoint examiners of   in courts of law. The Union ministry of electronics and information technology recently issued a notification about the pilot scheme for identification of examiners of such evidence on a priority basis.
+
+ As more courts across the country began accepting e- evidence during proceedings, the Information Technology (IT) Act, 2000, was amended recently to enable the acceptance of electronic evidence. “Such a move will definitely aid in prosecution. This is a very important move,” professor V C Vivekandan of National Academy of Legal Studies and Research, Hyderabad, said.
+ 
+ “In the case of cybercrimes where the conviction is very low due to lack of evidence, the proposed scheme can bring in necessary changes in the system,” Chandra Sekhar, a cyber law specialist said. 
+ 
+ Only central government or state government agencies competent in the field of forensics can apply to assess any evidence. Currently, evidence is sent to forensic labs based on the court’s direction on a case-to-case basis. Having more authenticators will help investigators go to court with confidence, Sekhar said. 
+ 
+ According to other legal experts, it is very important to maintain the best standards as tampering with digital data or evidence, especially if it is a video or image, is not difficult. 
+ 
+ After demonetisation, the rate of cybercrimes has increased as digital transactions have started gaining popularity. Nearly 80% of cybercrimes go unreported, say cyber security experts.
+ 

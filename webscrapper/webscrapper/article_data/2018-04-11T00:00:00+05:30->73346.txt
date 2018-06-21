@@ -1,0 +1,25 @@
+In an effort to bring poll-related information to voters on their mobile screens, the   ( ) has launched four Android apps that cover general information, directory, navigation and complaints on code of conduct.
+Developed by the BBMP IT cell, the apps will aim to create poll-related awareness and allow users to access contact details of poll officers. Not only that, users can also register their complaints and upload photographs of incidents related to any violation of the model code of conduct, as well as make use of a navigator for finding polling booths. For a city as bustling as Bengaluru, these applications have been designed to make the voting process easier, considering in the past, the voter turnout has been as low as 52%.
+ Here are the mobile apps, and what they do...
+ 
+ 
+ 
+ Not sure which polling booth you are required to vote in? This app will help voters get some clarity on which booth they are required to vote in. And it’s quite simple and straightforward too — in the app, users need to enter their voter ID in the app and will be shown the exact location of polling station, along with the map. The app will also suggest least-congested routes to take to your polling station.
+ 
+ 
+ 
+ 
+ The app’s objective is simple — to create more awareness about the Assembly elections. And in this case, a quiz is made use of as a medium of engagement with potential voters. The app asks users to answer 10 random questions about the elections, and on passing the test, users will be issued an online certificate. This kind of quizzing and certification will spread the word about elections, giving it more visibility and awareness. 
+ 
+ 
+ 
+ Making the election process transparent, free and fair is a very important part of election officers's jobs. But they are not alone in that endeavour — so is the public. If a voter sees an untoward action or malpractice, it becomes his or her duty to report the same. To make this convenient, the app provides users with contact details of all election officers in each constituency.
+ 
+ 
+ 
+ If citizens or members of any political party witness a violation of the model code of conduct by any contestant, they can register complaints with the Election Commission easily. The app will not only allow users to upload the photographs of any incidents with a short note on the violation, it also allows users to upload video and audio clips. Along with sending the location and the address of the polling stations, the control room will be alerted about the incidents based ion the information uploaded on the app.
+ 
+ 
+ 
+ Apart from the apps, there are two useful websites that allow eligible voters to access and modify information related to the elections – National Voters’ Services Portal (www.nvsp.in), maintained by the Centre for Development of Advanced Computing, and the Citizen Portal For Online Submission of Form (www.voterreg.kar.nic.in), run by the Office of the Chief Electoral Officer of  . These websites allow users to apply online for registration of voters, correction or deletion in electoral rolls, transposition within the Assembly as well as tracking application status. While the facilities are available, how soon and efficiently they function is unknown. 
+ 

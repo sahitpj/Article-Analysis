@@ -1,0 +1,18 @@
+Researchers have found that long term   isolation cause the build-up of a   in the brain, that increases stress, aggression and fear.
+
+ The mice isolated for two weeks showed behavioural changes like, increased aggressiveness towards unfamiliar mice, persistent fear, and hypersensitivity to threatening  .
+ 
+ When encountering a threatening stimulus, mice that have been socially isolated remain frozen in place long after the threat has passed, whereas normal mice stop freezing soon after the threat is removed, the research said. 
+ 
+ Although the study was done in mice, it has potential implications for understanding how chronic stress affects humans and has potential applications for treating mental health disorders, said lead author Moriel Zelikowsky, postdoctoral scholar at the California Institute of Technology in the US.
+ 
+ Previous studies have determined that social isolation for two weeks in mice resulted in the upregulation of the signalling molecule neuropeptide, tachykinin 2 (Tac2)/neurokinin B (NkB) -- a short protein molecule. 
+ 
+ In the new study, published in the journal Cell, the team found that chronic isolation leads to an increase in Tac2 gene expression and the production of a neuropeptide called neurokinin B (NkB) throughout the brain. 
+ 
+ But, administration of a drug that chemically blocks NkB-specific receptors enabled the stressed mice to behave normally, eliminating the negative effects of social isolation. 
+ 
+ On the other hand, artificially increasing Tac2 levels and activating the corresponding neurons in normal, animals led them to behave like isolated and stressed, the research showed.
+ 
+ Suppressing the Tac2 gene in certain different brain parts, increased fear behaviours, or aggression accordingly, implying that it must increase in different brain regions to produce the various effects of social isolation, the researchers said.
+ 

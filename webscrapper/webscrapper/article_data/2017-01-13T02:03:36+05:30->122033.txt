@@ -1,0 +1,13 @@
+NEW  : In an effort to ensure its   follow traffic rules, taxi aggregator   has launched a remote monitoring mechanism to keep a constant tab on how they are driving on the road. It has added new safety features in the driver’s mobile app powered, which will help predict and prevent road crashes. 
+
+ These features were first rolled out in Bengaluru as a pilot in India and are now available across 29 cities where Uber operates, including Delhi and NCR. 
+ 
+ “With these telematics powered road safety features, riders need not even complain about about any issues with driver’s style of driving as Uber closely monitors the driver and will give him alerts (it will beep if a rider crosses speed limit, etc.) via the driver partner app if he is in anyway compromising rider’s safety,” a company spokesperson said.
+ 
+ The new features include providing daily reports to each driver about his/her driving patterns compared to other drivers, with suggestions on how to provide a smoother and safer ride. Moreover, there will be speed display that alerts drivers about the vehicle speed.
+ 
+ Uber claimed that in the first 16 weeks of the launch of the multi-city pilot, there was 4.03% reduction in harsh braking events. Drivers’ fault has been identified as the reason for 77% of road accidents and 72.6% of road fatalities in India. Speeding and intake of alcohol or drugs have huge share of about 67% caused due to fault of drivers.
+ 
+ “Uber has invested in dedicated product and engineering teams to work towards building safety features to help drivers mitigate driving risks posed by ‘four Ds’ identified by road-safety experts—drunk, drugged, distracted and drowsy driving. We believe that our investments in telematics and analytics can help make Indian roads safe again by predicting patterns around driving and correcting them proactively,” said  , head engineering of Uber India.
+ 
+ 
