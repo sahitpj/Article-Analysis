@@ -1,0 +1,21 @@
+BENGALURU: The ransomware attacks over the past two years has significantly increased Indian companies’ desire to take cyber insurance.
+
+ Gurgaon-based Secure-Now, an insurance brokerage and risk advisory firm that works with companies in the e-commerce and mobile wallets space, said it saw a 200% increase in demand for cyber insurance last year, compared to the year before.
+ 
+ Tapan  , MD and CEO of  , which has sharply scaled up its cyber covers, says two years ago, they would rarely see such a demand from companies for cyber insurance.
+ 
+ Cyber insurance covers loss or damage to data, network downtime, cyber extortion, customer data breach, and loss of intellectual property. Insurance providers first do an assessment of a company’s cyber security and data resilience status, and then provide appropriate covers.
+ 
+ 
+ 
+ In May last year, the WannaCry ransomware attack is estimated to have infected more than 230,000 computers in over 150 countries in just one day. The following month, the Petya attack again impacted many countries. India was the third most affected country by the WannaCry attack, according to estimates by security solutions company Kaspersky Lab. Startups like Uber and Zomato also suffered data breaches last year. This has had its impact. “Three or four years ago, we would have to pitch to clients on why they should secure their company. Now, we have inbound interest from companies, especially e-commerce and consumer facing companies that keep third-party data,” says  , founder of SecureNow.
+ 
+ Vivek Chudgar, senior director —   for US-based security company FireEye, which does assessments and forensic investigations for insurance companies, says companies have come to realize the big risks involved. “Cyber is no longer a separate risk. Companies are at risk of losing information to competition and that has made them aware,” he says. FireEye, in partnership with insurance brokerage firm Marsh India, will launch several initiatives in the cyber insurance space later this year.
+ 
+ Delhi-based Lucideus is a cyber-assessment company that provides ratings to companies based on their cyber maturity. These assessments are used by insurance brokers and cover providers to decide on premiums and appropriate solutions. Saket Modi, who started Lucideus in 2011, says companies are now proactively doing cyber assessments. “With even SMEs being digitally enabled, the demand is growing,” he says, adding that cyber assessment may become a mandatory requirement in the next five years.
+ 
+ Traditional insurance cover providers like ICICI Lombard and Bajaj Allianz, which were selling cyber covers in a small way, are now scaling up with new solutions. Bajaj Allianz launched cyber insurance covers for individuals last year, where it provides security covers between Rs 1 lakh and Rs 1 crore. The insurance provider says it saw a 50% increase in this retail business in each of the past two years. Enterprise covers have gone up to $50 million. “They are mainly for malware attacks,” says Singhel.
+ 
+ For a Rs 5 crore cover, the premium usually ranges from Rs 5 to 10 lakh for the manufacturing industry, education sector, and for consulting, accountancy and similar professional services. It can go up to Rs 25 lakh for financial services, healthcare and telecom industry, which are more vulnerable to attacks. Security experts say insurance is still at a nascent stage in India, at least five years behind that of the US ecosystem. Most companies are still not very serious about it. Currently, most of the demand comes from the online retail and IT service sectors that deal in crucial third-party user data.
+ 
+ 

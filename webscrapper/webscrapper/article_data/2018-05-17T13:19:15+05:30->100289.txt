@@ -1,0 +1,35 @@
+WASHINGTON: There are probably 303 species of mammals left to be discovered by science, most of which are likely to live in tropical regions, according to a predictive model developed by ecologists.
+
+ 
+ The research, published in the journal Ecology and Evolution, could guide efforts to find and conserve these as-yet unknown species.
+ 
+ "With extinction rates increasing, it is extremely important to be able to find new species before they disappear if we want to be able to understand the world that we are living in," said Molly Fisher, a doctoral student at the University of Georgia in the US.
+ 
+ The new model yielded an estimate of 5,860 mammal species currently in existence - more than previously thought, researchers said.
+ 
+ They then subtracted the number of known mammal species to come up with the estimate of 303 yet to be discovered.
+ 
+ To determine the number of undiscovered mammal species, Fisher and her colleagues had to start by finding a way to estimate as accurately as possible the total number of mammal species, both known and unknown.
+ 
+ Since, it is not logistically possible to count all the world's species based on direct observation, scientists use statistical models to calculate their numbers.
+ 
+ Fisher based her approach on one such model that was published in 2011 estimating the total number of plant species.
+ 
+ "We took their method and built onto it. We decided to work with mammals because they are a group that everyone knows, and we are getting to that point where we actually have discovered a majority of them," said Fisher.
+ 
+ Fisher pored through records of species descriptions of mammals from 1760 through 2010 and counted how many taxonomists were working and how many species descriptions were published in each five-year increment within that time.
+ 
+ "With this method, we can see the pattern of how many species are described and how that is related to how many taxonomists are working in a time period," she said.
+ 
+ They used a statistical technique known as maximum likelihood to predict the total number of species.
+ 
+ "Maximum likelihood estimation figures out how many species there are likely to have been to produce the pattern of description that we have seen," she said.
+ 
+ Fisher's model differs in two important ways from the one upon which it was based.
+ 
+ She and her colleagues used a different method to calculate taxonomic efficiency that allows it to increase exponentially over time, thereby reflecting the effects of gains in scientific technique and knowledge.
+ 
+ They also applied a different statistical distribution pattern that was better suited to the kind of data they were studying.
+ 
+ Using simulated data sets, the researchers ran thousands of tests of both models and found that theirs was more likely to arrive at the correct number of species.
+ 

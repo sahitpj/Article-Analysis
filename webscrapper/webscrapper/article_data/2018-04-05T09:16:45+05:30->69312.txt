@@ -1,0 +1,14 @@
+CHENNAI/BENGALURU: In a move that seems to have left fintech players scrambling, the   ( ) revoked on Tuesday their access to a dozen agencies that provide e-KYC verification and authentication services. Some of these agencies - KUAs (e-KYC user agencies) and AUAs (authorised user agencies) - will no longer be able to provide e-KYC verification to onboard new customers or authenticate financial transactions affecting  , online lenders, NFBCs and smaller fintech players.
+
+ Many fintech players are not AUAs or KUAs themselves but sub-KUAs and sub-AUAs, routing their requests through UIDAI's network. The recent development will affect these companies, particularly e-commerce players and peer-to-peer lending platforms, which operate on a completely online model. They will now have to change their mode of doing business and incur higher costs to physically verify the credentials of their customers.
+ 
+ "This is detrimental to fintech companies which rely on e-KYC for user verification and on-boarding. A physical   costs about Rs 100 per person, while the same is roughly Rs 15 when it is done via e-KYC. The problem started since Tuesday and we are talking to all stakeholders to regarding this major problem," Jitendra Gupta, MD of digital payments company PayU India, told TOI.
+ 
+ PayU, which has a pay later service called LazyPay, on an average onboards about 40,000-50,000 users every day and conducting physical KYC for them would be a costly affair. The move does not affect banks, insurance companies or mutual fund houses as many of them are AUAs or sub-AUAs with UIDAI. Even players like payments bank Paytm, Airtel and Jio were unaffected, as is the case with some ewallets like MobiKwik. But three other players said their access has been revoked, but did not wish to comment.
+ 
+ UIDAI did not respond officially to a request for a comment. But UIDAI officials said they are yet to understand the situation and certain approvals might have been revoked after a CERT-In empanelled IT security audit. An earlier security audit in September 2017 saw UIDAI blacklisting 49,000 enrolment centres.
+ 
+ A UIDAI official responded, "It is an exaggeration to say access has been revoked to all KUAs. Some KUAs might have been barred post-audit for various reasons, lack of compliance, technical lethargy, etc." For some players like KrazyBee, their access was revoked much earlier. "Since January, we have had to do physical verification or get e-signatures from our customers," said Madhusudan, CEO, KrazyBee. "We feel the older method of e-KYC verification was more fraud-proof."
+ 
+ A chief digital officer at a private bank said UIDAI's actions are based on reports that they were storing customers' data on their devices and attempting to create parallel databases by industry-wide collaboration on the dark web.
+ 

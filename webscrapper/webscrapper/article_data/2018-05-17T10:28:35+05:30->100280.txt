@@ -1,0 +1,9 @@
+WASHINGTON: Scientists have developed insect-sized flying   for the first time that are powered by lasers and could help with surveying crop growth on large farms or sniffing out  .
+
+ 
+ These robots soar by fluttering their tiny wings because they are too small to use propellers. These machines are cheap to produce and can easily slip into tight places that are inaccessible to big drones.
+ 
+ RoboFly, developed by researchers from University of  , is slightly heavier than a toothpick and is powered by a   beam. It uses a tiny onboard circuit that converts the laser energy into enough electricity to operate its wings. For now, RoboFly can only take off and land.
+ 
+ Once its photovoltaic cell is out of the direct line of sight of the laser, the robot runs out of power and lands. However, the team hopes to soon be able to steer the laser so that it can hover and fly around.
+ 

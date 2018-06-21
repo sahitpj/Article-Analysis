@@ -1,0 +1,15 @@
+PUDUCHERRY: Pondicherry University associate professor (computer science) S Siva Sathya has been presented the ‘Naari Shakthi Puraskar’   by the Union government for designing and developing an Android-based safety application for women in distress.
+
+ President   presented the award to Sathya during the International Women’s Day celebrations at the Rashtrapati Bhavan.
+ 
+ Sathya launched the mobile application in 2015 during the women’s day celebrations at Pondicherry University.   police customised the application and launched it a year later. Puducherry government also officially launched the application in February 2016.
+ 
+ The main advantage of this application titled, ‘Mitra’ (Mobile-initiated tracking and rescue application), meaning friend in Hindi, compared to other similar applications – is its simplicity of usage. During an emergency, it is difficult for the women in distress to make a call or type an SMS to a friend.
+ 
+ “The main goal of this application is to enable women to send an SMS without the knowledge of the attacker. The application gets launched by long pressing the audio button and sends women’s location and nearest police station details as SMS to three numbers selected to seek emergency help. Moreover, the application can update the location of the person through GPS if she is on the move,” Sathya said.
+ 
+ The application does not require an internet connection to run. It also has a decline option if the user launches the application by mistake. 
+ 
+ “This option will send an apology message to the three numbers from whom the help was sought. The user needs to enter a password which is given during the registration. To ensure security, a wrong password entry facility is also provided. In case the user is forced by the attacker to send a decline, the user can enter a wrong password which will send an SMS stating that the user is still in danger,” Sathya said.
+ 
+ 

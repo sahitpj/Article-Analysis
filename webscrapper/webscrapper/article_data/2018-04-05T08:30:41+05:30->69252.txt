@@ -1,0 +1,21 @@
+NEW YORK:   Inc said on Wednesday that personal information of as many as 87 million people, most of them in the US, may have been improperly shared with data firm  .
+
+ 
+ This is Facebook's first official confirmation of the possible scope of the data leak, which was previously estimated in news reports. About 270,000 people downloaded a personality quiz app and shared information about themselves and their friends with a researcher, who then passed along the information to Cambridge Analytica, in a move that Facebook says was against its rules.
+ 
+ The 87 million figure is much higher than the 50 million people estimated in earlier reports. Facebook made the new disclosure in an online posting on Wednesday. Facebook said it will tell people, in a notice at the top of their news feeds starting April 9, if their information may have been improperly shared with Cambridge Analytica.
+ 
+ The revelation hints at the drilling chief executive officer   will likely have to face when he testifies on the matter before Congress next week: How many other Cambridge Analytica-scale leaks of data are out there?
+ 
+ The company has been embroiled in controversy for weeks over the revelation that data was shared and then not deleted. It raised questions over the reams of data Facebook compiles on users, makes available to third parties, and what happens to it afterward.
+ 
+ Facebook made the announcement along with an update of its privacy policy. The new policy aims to explain the data it gathers on users more clearly, but doesn't actually change what it collects and shares.
+ 
+ Among Wednesday's changes: Facebook has added a section explaining that it collects people's contact information if they choose to "upload, sync or import" this to the service. This may include users' address books on their phones, as well as their call logs and text histories. The new policy says Facebook may use this data to help "you and others find people you may know." The previous policy did not mention call logs or text histories.
+ 
+ Several users were surprised to learn recently that Facebook had been collecting information about whom they texted or called. Facebook says it collected such data only from Android users who specifically allowed it to do so.
+ 
+ Facebook also adds clarification that local laws could affect what it does with "sensitive" data on people, such as information about a user's race or ethnicity, health, political views or even trade union membership. This and other information, the new policy states, "could be subject to special protections under the laws of your country."
+ 
+ The new policy also makes it clear that WhatsApp and Instagram are part of Facebook and abide by the same privacy policy. The two were not mentioned in the previous policy. While WhatsApp still doesn't show advertisements, Instagram long has, and the policy consolidation could be a sign of things to come for WhatsApp as well. Other changes incorporate some of the restrictions Facebook previously announced on what third-party apps can collect from users and their friends. 
+ 

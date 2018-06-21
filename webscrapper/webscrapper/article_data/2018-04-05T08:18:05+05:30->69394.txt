@@ -1,0 +1,27 @@
+BENGALURU: A group of   led by a team in Bengaluru has, for the first time, developed a mouse model of   — important for development of embryos and tumours alike — which may spur a search for new   drugs.
+
+ The findings, published in ‘Nature’s Scientific Reports’, help understand ‘Rudhira’ (blood in Sanskrit), a   essential for taking blood to all parts of the body and formation of blood vessels which is co-opted by tumour cells to multiply and spread.
+ 
+ 
+  
+ 
+ “Generally, formation of blood vessels is controlled and stops soon after the requirement is met. However, in a tumour, it’s uncontrolled and doesn’t know when to stop,” said Prof Maneesha Inamdar, Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) and project lead.
+ 
+ The study finds that mouse embryos engineered to remove Rudhira make it only halfway through development due to a defective circulatory system as without the gene, blood cannot reach all parts of the developing embryo, leading to its death.
+ 
+ Rudhira is part of the cell cytoskeleton — the beams and scaffolds that maintain cell architecture — and its absence perturbs blood vessel cells which cannot migrate to different parts and form new vessels.
+ 
+ Tumours also need to form blood vessels to grow and spread to different parts of the body, a process called metastasis, and many cytoskeletal proteins are targeted in cancer therapy to stop tumour growth.
+ 
+ While Rudhira has been confirmed as an important gene associated with many human cancers, it was so far not possible to study its normal role due to lack of suitable animal models.
+ 
+ “We knew that cancer/ tumour cells were growing when Rudhira was found in places it shouldn’t have been. While we understand its malfunction can spread cancer, nobody knows how it functions under normal conditions without which you cannot develop methods to restrict its malfunction,” Inamdar explained.
+ 
+ She added that their study, to which PhD students Ronak Shetty and Divyesh Joshi contributed, helps understand this.
+ 
+ Using mouse genetics tools, Inamdar’s team and collaborators — at RIKEN CDB, Kobe, Japan and the National Centre for Biological Sciences, Bengaluru — engineered a mutation in the DNA such that the mouse could be bred to make embryos deficient of Rudhira. The embryos died halfway through development with a deformed heart and short, tangled and leaky blood vessels.
+ 
+ “Removing the protein in just the blood and blood vessels had a similar effect. These findings will help understand how embryos and tumours grow and spur a search for drug treatments for a wide range of diseases affected by Rudhira, including cancer,” she said.
+ 
+ 
+ 

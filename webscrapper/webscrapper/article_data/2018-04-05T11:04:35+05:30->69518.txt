@@ -1,0 +1,36 @@
+WASHINGTON:   has deployed technology tools like artificial intelligence and thousands of people to work on security as the company's "major focus" this year is to protect the integrity of upcoming elections in several countries, including India, on its platform, its founder and CEO Mark   has said.
+ 
+ Terming 2018 a "big year" for elections, Zuckerberg said Facebook was enhancing its security features to prevent trolls from spreading information.
+ 
+ The social media giant has been slammed over a major data breach scandal by  , a British firm linked to  's presidential campaign.
+ 
+ "In the US Senate Alabama special election last year, we successfully deployed some new artificial intelligence (AI) tools that removed Macedonian trolls who were trying to spread information during the election. We now have about 15,000 people working on security and content review and we'll have more than 20,000 by the end of this year," Zuckerberg told reporters during a conference call yesterday.
+ 
+ "This is going to be a big year for elections ahead with the US midterms and elections in India, Brazil, Mexico, Pakistan, Hungary and others. This is going to be a major focus for us," he said.
+ 
+ Several Indian states like Karnataka, Madhya Pradesh, Rajasthan and Chhattisgarh are scheduled to go for polls this year and the general elections are due in a little over a year from now.
+ 
+ A day earlier, Zuckerberg said Facebook had taken big steps by taking down Russia's   (IRA) pages that were targeting the US.
+ 
+ "Since we became aware of their activity after the 2016 US elections, we've been working to root out the IRA and protect the integrity of elections around the world," he said.
+ 
+ "There have been a number of important elections that we've focused on. A few months after the 2016 elections, there was a French presidential election and leading up to that we deployed some new AI tools that took down more than 30,000 fake accounts," he said.
+ 
+ In German election, the company developed a new playbook for working with the local election commission on share information on threats it received, he said.
+ 
+ "We have more work to do here and we're going to continue working very hard to defend against them. There's the Mexican presidential election, there are big elections in India and Brazil as well as in Pakistan and Hungary and a number of other countries and the US midterms, of course," he said.
+ 
+ Zuckerberg pointed out three different types of activity that required different strategies for fighting.
+ 
+ Economic actors, who are basically spammers; the second are governments trying to interfere in elections, and then the third is just polarisation and sometimes lack of truthfulness in what you've described as the media, he said.
+ 
+ "If we just make it so that the economics stop working for them then they'll move on to something else. I mean, these are literally the same type of people who had been sending you Viagra e-mails in the '90s. We can attack it on both sides. on the revenue side, we make it so that they can't run the Facebook ad network," he said.
+ 
+ The second category are the national security type issues, Zuckerberg said, adding that is the Russian election interference.
+ 
+ "In order to solve that, what we need to do is to identify these bad actors...What we need to do is to just track that really carefully in order to just be able to remove it from Facebook entirely," he said.
+ 
+ Zuckerberg alleged that some media organisations that are sanctioned news outlets in Russia when investigated closely over time, clearly come out as organisations completely owned, controlled and operated by the IRA.
+ 
+ "So we take them down and treat that as a security issue," he said. 
+ 

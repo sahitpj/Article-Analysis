@@ -1,0 +1,27 @@
+LONDON: The   network - one of the most popular cryptocurrencies - currently uses almost as much power as Ireland does, and could be consuming about 0.5 per cent of the world's total   by the end of this year, a study has found.
+
+ 
+ Bitcoin's burgeoning electricity demands have attracted almost as much attention as the  's wildly fluctuating value. However, estimating exactly how much electricity the Bitcoin network uses, necessary for understanding its impact and implementing policy, remains a challenge.
+ 
+ "We've seen a lot of back-of-the-envelope calculations, but we need more scientific discussion on where this network is headed. Right now, the information available is pretty poor quality overall, so I'm hoping that people will use this paper as a foundation for more research," said economist and blockchain specialist  , who works at PwC in the Netherlands.
+ 
+ The estimates, based in economics, put the minimum current usage of the Bitcoin network at 2.55 gigawatts, which means it uses almost as much electricity as Ireland.
+ 
+ A single transaction uses as much electricity as an average household in the Netherlands uses in a month. By the end of this year, he predicts the network could be using as much as 7.7 gigawatts - as much as Austria and half of a per cent of the world's total consumption.
+ 
+ "To me, half a per cent is already quite shocking. It's an extreme difference compared to the regular financial system, and this increasing electricity demand is definitely not going to help us reach our climate goals," he said.
+ 
+ If the price of Bitcoin continues to increase the way some experts have predicted, de Vries believes the network could someday consume five per cent of the world's electricity.
+ 
+ Bitcoin is dependent on computers that time-stamp transactions into an ongoing chain to prevent duplicate spending of coins. Computers in the network perform calculations continuously, competing for the chance, once every ten minutes, to be appointed to create the next block of transactions in the chain.
+ 
+ The user of the computer that wins is awarded 12.5 new coins - a process known as "mining" Bitcoin. However, all the time, even the users that don't win are expending computing power.
+ 
+ "You are generating numbers the whole time and the machines you're using for that use electricity. But if you want to get a bigger slice of the pie, you need to increase your computing power. So there's a big incentive for people to increase how much they're spending on electricity and on machines," de Vries said.
+ 
+ It is figuring out when that incentive stops paying off that is at the heart of de Vries's estimation method. Economic principles suggest that the entire Bitcoin network will eventually reach an equilibrium where the costs of the hardware and electricity used to mine equal the value of the Bitcoin being mined.
+ 
+ That information can approximate the total amount of electricity that the network will use at said equilibrium.
+ 
+ Getting a good estimate is important in determining the sustainability of cryptocurrencies moving forward and in helping shape policy around them, de Vries said.
+ 

@@ -1,0 +1,35 @@
+WASHINGTON: The earliest stars may have been forged just 250 million years after the  , say scientists who observed a galaxy at a record-setting distance of 13.28 billion light-years from Earth.
+
+ 
+ Scientists using the the Atacama Large Millimetre/submillimetre Array ( ) found faint, telltale signature of oxygen coming from the galaxy - which is seen as it appeared when the universe was only 500 million years old.
+ 
+ For such a young galaxy, known as  , to contain detectable traces of oxygen, it must have begun forging stars even earlier - a scant 250 million years after the Big Bang.
+ 
+ This is exceptionally early in the history of the universe and suggests that rich chemical environments evolved quickly, according to the study published in the journal Nature
+ 
+ "This extremely distant, extremely young galaxy has a remarkable chemical maturity to it," said Wei Zheng, an astronomer at   in the US, who led the discovery of this galaxy with the Hubble Space Telescope.
+ 
+ "It is truly remarkable that ALMA detected an emission line - the fingerprint of a particular element - at such a record-breaking distance," Zheng said.
+ 
+ Following the Big Bang, the chemical composition of the universe was starkly limited, with not even a trace of elements like oxygen. It would take several generations of star birth and supernovas to seed the young cosmos with detectable amounts of oxygen, carbon, and other elements forged in the hearts of stars.
+ 
+ After they were liberated from their stellar furnaces by supernovas, these oxygen atoms made their way into interstellar space. There they became superheated and were ionized by the light and radiation from massive stars.
+ 
+ These hot, ionized atoms then "glowed" brightly in infrared light. As this light travelled the vast cosmic distances to Earth, it became stretched by the expansion of the universe, eventually changing into the distinct millimeter-wavelength light that ALMA is specifically designed to detect and study.
+ 
+ By measuring the precise change in the wavelength of this light - from infrared to millimeter - the team determined that this telltale signal of oxygen traveled 13.28 billion light-years to reach us, making it the most distant signature of oxygen ever detected by any telescope.
+ 
+ This distance estimate was further confirmed by observations of neutral hydrogen in the galaxy by the European Southern Observatory's Very Large Telescope.
+ 
+ These observations independently verify that MACS1149-JD1 is the most distant galaxy with a precise distance measurement.
+ 
+ The team then reconstructed the star formation history in the galaxy using infrared data taken with the Hubble Space Telescope and NASA's Spitzer Space Telescope.
+ 
+ The observed brightness of the galaxy is well explained by a model where the onset of star formation was another 250 million years ago. The model indicates that the star formation became inactive after the first stars ignited.
+ 
+ It was then revived at the epoch of the ALMA observations: 500 million years after the Big Bang.
+ 
+ The astronomers suggest that the first burst of star formation blew the gas away from the galaxy, which would suppress the star formation for a time. The gas then fell back into the galaxy leading to the second burst of star formation.
+ 
+ The massive newborn stars in the second burst ionized the oxygen between the stars; it is those emissions that have been detected with ALMA. 
+ 

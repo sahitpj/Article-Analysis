@@ -1,0 +1,11 @@
+PANAJI: In a bid to offer optimised travel routes for commuters of the state-run   ( ) buses, Goa IT professionals ( ) group has developed a system, available through   Transit. 
+
+ With this system, a schedule of a total of 350 routes and 1,900 trips of KTCL buses will be made available to citizens at their fingertips via smartphones. “There was a plan to make KTCL digital, and this is an initiative towards this,” a KTCL official told TOI.
+ 
+ GITP developed the app for data entry and KTCL uploaded its bus time-table to the system. GITP then uploaded it to Google Maps which helped make the information available to the average smartphone user. “This is the easiest way we can enable people to opt for public transport. There is no need for any special new app to do this,” a GITP official said.
+ 
+ With the aid of this technology, users in Goa will be able to see the route they want to take, and choose the travel option (which in this case would be the KTCL bus), and key in the boarding and destination points. Google Maps will then show the most preferred timing of the bus closest to their location. 
+ 
+ The system doesn’t track the buses for now. tnn
+ 
+ 

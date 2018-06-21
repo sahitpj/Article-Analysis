@@ -1,0 +1,9 @@
+VISAKHAPATNAM: In a move towards real-time monitoring of   and transfer, the   will soon switch over to a radio frequency identification (RFID)-based collection system. 
+
+ All the households of the city will be affixed with RFID tags with a chip embedded in it. The tags are read using a RFID device that is provided to the sanitary workers, recording the quantum of   collected on a particular day, timing of the collection, coverage of households, frequency of collection etc. The data will be transferred to the command and control centre of the city and to the CM dashboard. Affixing of tags has already begun at several wards — ward numbers 40, 50, 59, 69, to name on a pilot basis. The gate survey is going on in some other wards to identify the number of   generating units.
+ 
+ The wards of the city will be demarcated into smaller units of micro pockets consisting of, on an average, 350 waste-generating units. A GVMC health wing official informed that while transferring the waste from residential area micro pockets to the secondary transportation vehicles, the waste would be segregated and placed into different partitions of the vehicles.
+ 
+ “It would be weighed micro pocket trip-wise by using the electronic weighing scales of the vehicles. Apart from the weighting at vehicles and through the RIFD tags, a third level weighing would be conducted at the garbage transfer stations of the city before disposing it at the dumping yard in  ,” he said. “The identity of the micro pocket from which waste was brought to the transportation vehicle will be established through the RFID card with a unique identification number for each micro pocket. The garbage collection and disposal can be monitored at various levels, from the commissioner to chief minister through this system,” the official added.
+ 
+ 

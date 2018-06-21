@@ -1,0 +1,17 @@
+TNN
+
+ Mumbai: The Delhi bench of the   Appellate Tribunal (ITAT) has held US-based   to be liable to tax in India on income earned by it for registration of domain names. GoDaddy is considered to be the world’s largest domain name registrar and is accredited with the Internet Corporation for Assigned Names and Numbers ( ). In its order dated April 3, the   held income of Rs 17.4 crore earned by GoDaddy during the financial year 2012-13 for providing domain name registration services to be in the nature of ‘royalty’ income, which would be taxable in India.
+ 
+ The tax administration and the judiciary increasingly have to interpret application of tax laws in the backdrop of technological advancements. The ITAT order was pronounced by a two-member bench comprising the tribunal’s president G D Agrawal and judicial member Suchitra Kamble. It states, “It is now a settled law that with the advent of modern technology, particularly that relating to cyberspace, domain names or internet sites are entitled to protection as a trademark because they are more than a mere address.”
+ 
+ Royalty under the Income Tax (I-T) Act includes consideration received for the ‘use’ of a trademark or similar property. In this context, the ITAT held “the rendering of services for domain name registration is rendering of services in connection with the use of an intangible property, which is similar to a trademark”. Thus, income or consideration received by GoDaddy for providing domain name registration services would be royalty income. From financial year 2015-16 onwards, the tax on royalty income has been reduced to 10%. For fiscal 2012-13, the year in dispute, the rate was 25%. 
+ 
+ The counsel for GoDaddy contended before the ITAT that the role of the US-based company was limited to checking the availability of the desired domain name, facilitating registration, assigning a unique IP address for the domain name and maintaining a record of the names and their IP address. 
+ 
+ It was also pointed out that for providing domain registration service, none of the employees of the US company visited India nor did it have a place of business in India. All services were provided from outside India. The US company merely facilitated in getting the domain name registered in the name of the customer, who paid a price for availing such services. Thus, revenue received for domain name registration cannot be treated as royalty. However, these contentions were dismissed by the ITAT.
+ 
+ Abhishek Goenka, partner and direct tax head at PwC-India, points out that the domain name is owned by the customer who registers it. Thus, facilitation of a domain name registration should not constitute ‘use’ of the trademark so as to fall within the royalty definition. 
+ 
+ Given the wide ramifications of this order, any developments — such as an appeal to the high court or litigation on a similar issue in cases involving other companies — will be keenly watched by India Inc and professional circles.
+ 
+ 
