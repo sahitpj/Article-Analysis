@@ -1,0 +1,20 @@
+A US study used data from the   (2008 to 2016) to create a formula for predicting how well a book would sell and whether it would be a bestseller. The team found that fiction, especially thrillers, released around the festive season was more likely to have high sales. 
+
+ Books that are fiction, thrillers or mysteries, have high initial sales numbers and are more likely to be bestsellers if released around Christmas, according to a study.
+ 
+ Researchers from   in the US used a big data approach to investigate what makes a book successful. By evaluating data from the New York Times Bestseller Lists from 2008 to 2016, they developed a formula to predict if a book would be a bestseller.
+ 
+ They found that general fiction and biographies were more likely to make the bestseller list more often than other genres. Those with a higher initial place on the list were more likely to stay on it for a longer amount of time, researchers said. 
+ 
+ “The most surprising result was that we found a universal pattern to book sales: all hardcover bestsellers, regardless of genre, follow a sales trajectory governed by the same factors,” said  , a professor at Northeastern University.
+ 
+ “This allowed us to create a statistical model to predict sales of a book based on its early sales numbers,” said Barabasi, lead author of the study published in the journal EPJ Data Science.
+ 
+ The researchers found that although fiction books sold more copies than non-fiction books, non-fiction titles were more likely to retain their bestseller status once achieved. An example of this was Unbroken by  , a non-fiction title that stayed on the bestseller list for 203 weeks, longer than any other book in the study, researchers said.
+ 
+ The fiction title that stayed on the list the longest was The Help, which stayed for 131 weeks; this may have been due to a popular film adaption, they said. The researchers also found that fiction writers had more repeat success with getting on the list than non-fiction writers.
+ 
+ Books in the romance category were more likely to be written by female authors and male authors were more likely to be authors of non-fiction books. 
+ 
+ The researchers found no gender disparity among bestselling fiction authors, but most non-fiction bestsellers were written by men. They evaluated sales numbers and patterns from 2,468 fiction titles and 2,025 non-fiction titles from the New York Times Bestseller Lists 2008-2016 to create their formula for predicting how well a book would sell and whether it would be a bestseller.
+ 

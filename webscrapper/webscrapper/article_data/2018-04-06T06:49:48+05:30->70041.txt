@@ -1,0 +1,15 @@
+BENGALURU: The   on Thursday mandated all payment system operators to store data within the country by September. The development comes at a time when global tech giants like   and the Facebook-owned WhatsApp have entered the domestic digital payments sector, which has also sparked a debate over data privacy and security.
+
+ 
+ The RBI observed that at present only certain payment system operators and their outsourcing partners store related data either partly or completely in the country. The central bank said that, "in order to have unfettered access to all payment data for supervisory purposes", it has been decided that all such operators will ensure that data related to payment systems operated by them are stored only inside the country within a period of six months. "Detailed instructions will be issued in this regard within one week," the RBI said in a notification after announcing the monetary policy.
+ 
+ 
+  
+ This is being seen as a major policy move by the central bank as industry executives said it would make it mandatory for global payment giants like Visa and Mastercard, among others, to store data locally. These players have been storing most of their data here, but the current notification brings legality into this space.
+ 
+ The Unified Payments Interface ( ) platform, which is being promoted by the government to push a digital economy in the country, is witnessing dynamic changes with the entry of players like Google Tez and WhatsApp. PayU India CEO Amrish Rau said, "Most countries require transaction data to be in the country. This is different from situations where the regulator allows no data to leave the country. The RBI's step is welcome and we adhere to it today."
+ 
+ The RBI added that ensuring the safety and security of payment systems data by adoption of the best global standards and their continuous monitoring and surveillance is essential to reduce risks from data breaches, while maintaining a healthy pace of growth in digital payments.
+ 
+ While the central bank is expected to announce further instructions on this matter, a potential change for companies with data centres outside India would be to build such centres in India to meet RBI's guidelines. Industry executives raised similar questions via tweets. The new norms come at a time when social media giant   has been facing a huge backlash over data harvesting by  , a voter analytics company.
+ 

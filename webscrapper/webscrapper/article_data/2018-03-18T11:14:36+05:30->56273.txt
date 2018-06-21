@@ -1,0 +1,37 @@
+LOS ANGELES: In a breakthrough, scientists have created novel protein mats that can soak up and trap  .
+
+ 
+ Despite years of effort to stabilise proteins outside of their native environments, scientists have made limited progress in combining proteins with synthetic components without compromising protein activity.
+ 
+ The study, published in the journal Science, shows a path toward exploiting the power of proteins outside of the cell by demonstrating a unique way to keep proteins active in synthetic environments.
+ 
+ The materials presented in the study could enable on-demand biochemical reactions where they were once not feasible.
+ 
+ "We think we've cracked the code for interfacing natural and synthetic systems," said Ting Xu, professor at  , Berkeley in the US.
+ 
+ Proteins are usually unstable outside their native environments. To function properly, proteins must fold into a specific structure, often with the help of other proteins.
+ 
+ To overcome this challenge, researchers analysed trends in protein sequences and surfaces to see if they could develop a synthetic polymer that provides all the things that a protein would need to keep its structure and function.
+ 
+ "Proteins have very well-defined statistical pattern, so if you can mimic that pattern, then you can marry the synthetic and natural systems, which allows us to make these materials," Xu said.
+ 
+ Researchers created random heteropolymers, called RHPs. RHPs are composed of four types of monomer subunits, each with chemical properties designed to interact with chemical patches on the surface of proteins of interest.
+ 
+ The monomers are connected to mimic a natural protein to maximise the flexibility of their interactions with protein surfaces.
+ 
+ The RHPs act as unstructured proteins, commonly seen inside cells. They increased membrane protein folding in water during protein translation and preserved water-soluble protein activity in organic solvents.
+ 
+ The researchers at Northwestern University in the US ran extensive molecular simulations to show that the RHP would interact favourably with protein surfaces, wrap around protein surfaces in organic solvents and weakly in water, leading to correct protein folding and stability in a non-native environment.
+ 
+ They then tested whether they can use an RHP to create protein-based materials for bioremediation of toxic chemicals, which they were funded to do by the Department of Defense.
+ 
+ They mixed RHP with a protein called organophosphorus hydrolase (OPH), which degrades the toxic organophosphates found in insecticides and chemical warfare agents.
+ 
+ The researchers used the RHP/OPH combination to make fibre mats, submersed the mats in a well-known insecticide and found that the mats degraded an amount of insecticide weighing approximately one-tenth of the total fibre mat in just a few minutes.
+ 
+ This opens the door to the creation of larger mats that could soak up toxic chemicals in places like war zones.
+ 
+ "Our study indicated that the approach should be applicable to other enzymes," Xu said.
+ 
+ "This may make it possible to have a portable chemistry lab in different materials," he said.
+ 

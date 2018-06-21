@@ -1,0 +1,22 @@
+NEW DELHI: At least 10 government websites, including those of the union ministries of defence, labour, home affairs, and law and justice were down on Friday, initially sparking fears of a Chinese hack. However, senior government officials, as well as the   (NIC) said this was due to a hardware error detected in the afternoon and not because of a security breach. By 9.00 pm, at least four of these websites, including that of defence and home affairs, were operational again.
+
+ The speculation of a Chinese hack originated after Mandarin characters were noticed on the top left of the   website while it displayed an error message. However, the NIC explained that the Mandarin characters were the logo of content management tool Zen from a platform called Drupal that was used for the website. “mod.gov.in is NOT HACKED. There is some technical issue since 2:30PM today. Drupal theme https://www.drupal.org/project/zen framework. The site displayed the default logo,” said a tweet from @NICMeity on Friday evening. NIC develops and maintains government websites.
+ 
+  
+  
+ 
+ National Cyber Security Coordinator Gulshan Rai told TOI the downtime was due to 
+  . “There has been no cyberattack on any government website or any sabotage. It is a hardware failure, affecting about 10 government websites. Drupal is a content management software used by the affected websites,” he told TOI. “It was a minor malfunction between the data centre and the system gateway and has been set right. It was not at all a case of hacking, much less any Chinese intrusion,” Union minister for electronics and information technology Ravi Shankar Prasad told TOI.
+ 
+ Earlier, Sitharaman had tweeted from her verified handle @nsitharaman that the MoD website was hacked. “Action is initiated after the hacking of MoD website (http://mod.nic.in). The website shall be restored shortly. Needless to say, every possible step required to prevent any such eventuality in the future will be taken,” she posted at 5.16 pm. By then, “Ministry of Defence” was among the top Twitter trends in India. The tweet still stood at 9.45 pm.
+ 
+ 
+  
+  
+ 
+ By 9 pm, TOI found that the websites of the Union ministries of labour and employment (labour. gov.in), defence (mod.nic.in and mod.gov.in), home affairs (mha.gov.in) and department of science and technology (dst.gov.in) were functioning again. Among the websites still down were those of the ministries of culture (indiaculture. nic.in); law and justice (lawmin.nic.in); water resources, river development and Ganga rejuvenation (mowr.gov.in); department of science and technology (dst.gov.in); statistics and programme implementation (mospi.nic.in); and chemicals and fertilisers (chemicals.nic.in). Responding to initial reports of the websites being down, a French cybersecurity researcher who goes by the pseudonym Elliot Alderson initially tweeted, “I warned the #Indian government that the majority of the #Indian governmental websites are vulnerable. For the sake of your country, it’s urgent to take the necessary steps NOW! Of course, I’m no the (sic) author of this attack, I’m not an attacker.” 
+ 
+ However, after the government clarified that the sites were under maintenance for the hardware failure, he tweeted: “This seems consistent with the error messages that can be seen on the affected sites.” Alderson had also pointed out that other Indian websites that were down at one stage included rch.nhm.gov.in, gst.gov.in and ngodarpan.gov.in.
+ 
+ Over 22,000 Indian websites, including 114 government portals were hacked between April 2017 and January 2018, according to a written answer in the Lok Sabha last month from minister of state for electronics and information technology K J Alphons.
+ 

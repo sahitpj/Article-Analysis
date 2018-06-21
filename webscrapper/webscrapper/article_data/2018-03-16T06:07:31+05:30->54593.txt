@@ -1,0 +1,13 @@
+NEW DELHI: California is looking at safeguards to guarantee net neutrality, including curbs on zero-rated platforms offered by telecom companies. The move, through a proposed net neutrality law, comes at a time when the US Federal Communications Commission ( ) — under President   — has moved to repeal landmark 2015 rules that ensured a free and open internet.
+
+ 
+ According to a report published in Ars Technica, the proposed legislation “is the first state-level bill that would comprehensively secure all of the net neutrality protections that Americans currently enjoy,” the report quotes   law professor Barbara   as saying.
+ 
+ “The (California) bill prohibits ISPs from blocking, speeding up or slowing down websites, applications, and services; charging online companies for access to an ISP’s customers and blocking those that do not pay; and from entering into deals with online companies to put them in a fast lane to the ISP’s customers,” van Schewick says. The report says that the bill is notable for prohibiting ISPs from charging “access fees” that online services would have to pay in order to send data to broadband consumers. Importantly, while the FCC is trying to pre-empt statelevel net neutrality laws, van Schewick contends that “the bill is on firm legal ground.”
+ 
+ “An Internet service provider may zero-rate Internet traffic in application-agnostic ways, without violating (the proposed law), provided that no consideration, monetary or otherwise, is provided by any third party in exchange for the provider’s decision to zero-rate or to not zero-rate traffic,” the bill says. In order for the zerorating to be “application-agnostic,” it must not “differentiat(e) on the basis of source, destination, Internet content, application, service, or device, or class of Internet content, application, service, or device”, as per the report.
+ 
+ India has taken a progressive stance on the issue of net neutrality. In November, telecom regulator   recommended that internet access should remain non-discriminatory and telecom companies and internet providers should place no restrictions in the delivery of content through practices such as throttling of speeds, blocking, paid prioritisation or preferential treatment.
+ 
+ “Internet access services should be governed by a principle that restricts any form of discrimination or interference in the treatment of content, including practices like blocking, degrading, slowing down or granting preferential speeds or treatment to any content,” Trai had said.
+ 

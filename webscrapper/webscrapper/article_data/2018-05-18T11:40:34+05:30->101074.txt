@@ -1,0 +1,23 @@
+Researchers have developed a new artificial intelligence-based software which may identify and measure the severity of common causes of strokes and  .
+
+ Small vessel disease (SVD) is a very common neurological disease among older people that reduces blood flow to the deep white matter connections of the brain, damaging and eventually killing the brain cells.
+ 
+ It causes stroke and dementia as well as mood disturbance. SVD increases with age but is accelerated by hypertension and diabetes.
+ 
+ The software can help physicians administer emergency treatment more quickly and also predict the one's chances of developing dementia.
+ 
+ It also provides 85 per cent accurate prediction results than current methods.
+ 
+ "Current methods to diagnose the disease through CT or MRI scans can be effective, but it can be difficult for doctors to diagnose the severity of the disease by the human eye," said lead author Paul Bentley from the Imperial College London. 
+ 
+ "The importance of our new method is that it allows for precise and automated measurement of the disease," Bentley added in the study published in the journal Radiology.
+ 
+ He explained that this software could help doctors administer more personalised medicine during emergency. For instance, treatments such as "clot busting medications" during stroke can be quickly administered to unblock an artery.
+ 
+ However, Bentley also warned that these treatments can be hazardous as they may cause bleeding which becomes more likely as the amount of SVD increases.
+ 
+ The study used data of 1,082 CT scans of stroke patients across 70 hospitals in Britain.
+ 
+ The software identified and measured a marker of SVD and then gave a score indicating how severe the disease was ranging from mild to severe. 
+ 
+ 

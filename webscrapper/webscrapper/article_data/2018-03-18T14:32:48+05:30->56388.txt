@@ -1,0 +1,22 @@
+MELBOURNE: All galaxies, no matter how big they are, rotate once every billion years, astronomers have discovered.
+
+ The Earth spinning around on its axis once gives us the length of a day, and a complete orbit of the Earth around the Sun gives us a year.
+ 
+ "It's not Swiss watch precision. But regardless of whether a galaxy is very big or very small, if you could sit on the extreme edge of its disk as it spins, it would take you about a billion years to go all the way round," said  , from of the   (ICRAR) in Australia.
+ 
+ By using simple maths, you can show all galaxies of the same size have the same average interior density.
+ 
+ "Discovering such regularity in galaxies really helps us to better understand the mechanics that make them tick - you won't find a dense galaxy rotating quickly, while another with the same size but lower density is rotating more slowly," Meurer said.
+ 
+ Researchers also found evidence of older stars existing out to the edge of galaxies.
+ 
+ "Based on existing models, we expected to find a thin population of young stars at the very edge of the galactic disks we studied," Meurer said.
+ 
+ "But instead of finding just gas and newly formed stars at the edges of their disks, we also found a significant population of older stars along with the thin smattering of young stars and interstellar gas," he said.
+ 
+ "This is an important result because knowing where a galaxy ends means we astronomers can limit our observations and not waste time, effort and computer processing power on studying data from beyond that point," said Meurer.
+ 
+ "We now know that galaxies rotate once every billion years, with a sharp edge that's populated with a mixture of interstellar gas, with both old and young stars," he said.
+ 
+ The next generation of radio telescopes, like the soon-to-be-built Square Kilometre Array (SKA), will generate enormous amounts of data, and knowing where the edge of a galaxy lies will reduce the processing power needed to search through the data.
+ 

@@ -1,0 +1,24 @@
+N
+ : Altogether 105 people were arrested from six locations in   for allegedly duping people to the tune of   by pretending to be representatives of insurance companies and online shopping portals and offering lucrative discounts against a fee.
+
+ Sources in the Noida STF’s cyber wing, which conducted the   in the six locations on Friday, said the people had been running   for the past two years. They would allegedly call up people identifying themselves as representatives of Paytm, Myntra, ShopClues and other online portals and tell them to deposit an amount in some bank accounts if they wanted to avail of attractive discounts.
+ 
+ Ten of the key members were produced in court and remanded in judicial custody, while 95 workers were released on personal bonds.
+ 
+ The police have found from the call centres details of at least 2 lakh customers of private insurance companies. Triveni Singh, the SP (STF), said the breakthough was significant and they would probe if the database of the original companies had been hacked.
+ 
+ The raids followed a complaint by Abhishek Singh Dwivedi, an assistant manager of HDFC Ergo General Insurance, who had alleged a fraud amounting to crores of rupees.
+ 
+ Dwivedi said some of his company’s policyholders had complained to him that they had been getting calls promising a heavy bonus on their insurance policies. “The customers were taken into confidence and asked to deposit some money in specified bank accounts to get the bonus. They deposited the money but there were no returns,” he said.
+ 
+ After the police complaint, the numbers and IP addresses of the suspects were put on surveillance and they were traced to two places in Noida. The STF team raided the places on Friday and got leads on at least four fake call centres operating from Janakpuri,   and Faridabad. The raids led to the arrest of 105 people from the six fake call centres.
+ 
+ The accused call centre operators have been identified as  , a resident of Vikaspuri; Akhilesh Kumar (Bhadohi),   (Shahdara), Imran (Ballia), Dayal Singh (Badarpur), and Anuradha (Laxmi Nagar). Sources said they had worked in call centres earlier and were aware of their functioning.
+ 
+ Four data brokers were also among those arrested. They were Anuj Kumar (Shahdara), Dilip Kumar (New Ashok Nagar), Vishal Kumar (Delhi) and Kamlesh Kumar (Jaunpur).
+ 
+ Triveni Singh said the STF team had recovered 53 mobile phones, 12 computer sets, 11 walkie-talkies, one pen drive, three debit cards, a chequebook, and 2 lakh contact numbers of people who had accounts/insurance policies with Reliance General Insurance, Birla Sun Life Insurance, HDFC Life Insurance, PNB Metlife, Bajaj Allianz Life Insurance, HDFC Egro and so on.
+ 
+ A case under Sections 419 (cheating by personation), 420 (cheating), 467 & 468 (forgery), 471 (using as genuine a forged document) and 66 B & D of the IT Act has been registered against the accused. The police said the items sized would be sent for tests to find out the source of the data leak.
+ 
+ 

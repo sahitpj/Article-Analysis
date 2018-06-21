@@ -1,0 +1,20 @@
+NEW DELHI: The day is not far when you will chat with friends while watching a movie in a cinema, without disturbing other viewers. An Indian-origin researcher at   ( ) has developed a device that lets others hear the words you are thinking without your making a sound.
+
+ 
+ Arnav Kapur’s ‘AlterEgo’ headset is not a freaky mindreading device. As the   website makes very clear in its FAQs: “No, this device cannot read your mind… The system does not have any direct and physical access to brain activity, and therefore cannot read a user’s thoughts.” Privacy campaigners need not lose sleep, yet. AlterEgo works by using ‘subvocalisations’ — tiny, imperceptible movements in the jaw each time you say a word in your mind. “The wearable system reads electrical impulses from the surface of the skin in the lower face and neck that occur when a user is internally vocalising words or phrases.”
+ 
+ The device in its present form looks like a curved bone hooked to one ear that touches the jaw on the chin and under the lower lip. While the idea of turning subvocalisations to speech is not new, for Kapur’s team the challenge was to identify the locations on the face where the most reliable vibrations can be picked up. Initially, they worked with 16 sensors, but now they are able to get good accuracy with just four, increasing hopes of a miniaturised device that users won’t mind wearing all the time.
+ 
+ Once the device picks up these signals, a computer that has been trained to recognise and convert them back to words gets down to work, but AlterEgo doesn’t transmit the words to the listener as ordinary ‘over the air’ sound waves. Some more tech wizardry happens now as the words are conveyed to the listener’s mind through ‘bone conduction’. Instead of making air molecules vibrate all around, the vibration is sent through direct contact with the listener’s jawbone.
+ 
+ Bone-conducting headsets have been used by militaries for several years and a few companies now market them as a lifestyle gadget.
+ 
+ The advantage of combining these two technologies — reading subvocalisations and bone-conduction — is that it enables voice communication without sound, or in spite of it. For instance, on a noisy factory floor or the deck of an aircraft carrier, staff will be able to carry on a conversation without shouting themselves hoarse.
+ 
+ It also has the potential to become a popular technology by taking the awkwardness out of using voice assistants on phones. Not many people like to say “OK, Google” or “Alexa” in a public place, nor would you want everyone to hear the questions you ask your voice assistant. But using AlterEgo’s technology, you could ask your question soundlessly, and get a voice reply only in your ears. Couples will be able to continue their domestic battles inside crowded elevators with utmost privacy. The possibilities are immense.
+ 
+ However, AlterEgo’s success will depend on the accuracy with which it translates vibrations into words. At present, Kapur’s team claims an accuracy of 92%, which is slightly less than the performance of Google’s voice transcription. But Kapur says the system will improve with use as it gets exposed to more types of vibrations and words.
+ 
+ 
+ 
+ 

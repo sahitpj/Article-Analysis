@@ -1,0 +1,45 @@
+
+
+ No Netflix for eight days? And how will I get anywhere without   Maps? That was my reaction to being told to do a data detox, till a bit of googling told me it wasn’t about logging off — near impossible anyway with a job in news — but about “managing data bloat”. Also known as cleaning up your digital life so that you don’t inadvertently give away more details than you already have.
+ 
+ I tried an eight-day online Data Detox programme, designed by non-profits Mozilla Foundation and Tactical Technology Collective, that’s meant to show internet users how much data they scatter every time they swipe, and how to make more informed choices in future. You detox on a clock — “just half an hour a day and you’ll be on your way to a healthier and more in-control digital self”.
+ 
+ DAY 0 
+ 
+ Seemed like kids’ stuff — clear your browser history, do a search for yourself on big bad search engines like Google as well as the virtuous, non-commercial ones like DuckDuckGo and Startpage that claim not to store any data. There’s little difference in the results different search engines throw up — links to long-forgotten articles and public social media accounts, embarrassing pictures of a time a friend thought I was missing and posted a public notice, lots of information I did not need to know about South Indian actor Shalini and, for some reason, screen grabs of ‘Paani Poori Telugu Short Film’.
+ 
+ DAY 1
+ 
+ After the tutorial, it was time to check whether my browser protects me from being tracked by the websites I visit (of course not) and getting data protection tools. For a data detox programme, this seemed to require a lot of downloads.
+ 
+ DAY 2
+ 
+ Started with the innocuous question ‘Is Google your BFF?’ ‘Course not, haven’t had one of those since Class 8. After a series of questions about things I share with Google (seemed suspiciously like more data gathering), it took me to the My Activity page to show me that Google has kept track of every single thing I’ve done online since what seems like time began.
+ 
+ At some level, it’s a fun, nostalgia trip. But, it also reminds you of things you wanted to forget. And it makes you realise how reliant you are on apps. The ‘Privacy Checkup’ shows that Google auto-groups photos from my phone. I search for ‘coffee’ and photos with anything resembling mugs pop up. ‘Cobblestones’ throws up mis-clicks of pavements. Tried to fool Google with ‘kulam’, pond in Tamil, but it found my pictures of varied water bodies. Then, all the audio you didn’t know Google was picking up. There’s a benefit to speaking Indian English. Of all the voice files it’s saved on its own, Google has only been able to decipher and transcribe the words ‘room service’ and ‘ascent’. So at the end of Day 2, it turns out that Google does know me best, and, can remember and predict my behaviour with far greater accuracy than I can.
+ 
+ DAY 3
+ 
+ Is about downloading more browser extensions. Panopticlick to check if you’re protected from non-consensual web tracking. Privacy Badger to stop ad trackers. What Facebook Thinks You Like to find out what ad personality the social media company has assigned you.
+ 
+ I, apparently, am a person of indeterminate age with interests in Entre Rios province in   (I haven’t the foggiest idea why) and Georgia, US (because I liked a page of a friend running for public office). To FB, my hobbies are ‘Human’ (and here I was thinking that was a fulltime occupation) and ‘Illuminated Manuscripts’ (because ordinary manuscripts are just for the slushpile?).
+ 
+ There may not be a point to changing settings — it only affects whether Facebook decides to show you certain ads or not. Information will still be gathered and Facebook can put you in whatever bucket it wishes to.
+ 
+ DAY 4
+ 
+ I have more add-ons than I’ve ever used in my life but now we’re stopping the invisible trackers that follow you around the net, as well as untagging self and friends from mortifying posts and pictures.
+ 
+ DAY5/6
+ 
+ These are devoted to cleaning your phone. Deleting apps, resetting permissions, and downloading “less toxic” apps that don’t hoover up so much data. If you have more than 40 apps, you’re broadcasting data that even advertisers probably don’t want. Google Fit threw a fit when I turned off location tracking, and kept sending dire warnings about how it couldn’t do its job.
+ 
+ DAY 7
+ 
+ It’s time to see your ‘Data Selfie’ or how Facebook profiles you. It’s similar to what companies like Cambridge Analytica used — algorithms that predict sentiments, personality type, political leanings, religious orientation, shopping preferences, health… The last day is about helping you set goals and reminders so you don’t leave the door to your data open again.
+ 
+ Do I feel lighter? At the end of eight days, I’ve spent an entire day on Facebook — more time than I ever have — to test the Data Selfie tool, gone from zero to seven browser extensions, downloaded six “less toxic apps”, and spent Rs 99 on an app that visualises radio waves around me. It may not be a total detox, but it does force you to look at how your data is being misused, and realise that you have to pay for services if you don’t want to turn into the primary product to be sold to a third party.
+ 
+ But for now, I’m going to turn my Location Tracking back on so Google Maps will get me home, and Google Fit can tell me how far I’ve walked.
+ 
+ 

@@ -1,0 +1,32 @@
+Data of over 5.6 lakh Indian users was harvested by an app that shared its records with analytics and consulting company  ,   said in a statement on Thursday.
+
+ 
+ These half a million users were affected after 335 Indian users installed the now inactive app, thisisyourdigitallife. Globally, Facebook estimates a 
+  . Cambridge Analytica has claimed it received data for less than half that number - 30 million - and that it has been destroyed. Starting Monday, affected users will be notified on their profiles if the analytics company "improperly" accessed their Facebook data.
+ 
+  
+  
+ India had the seventh-largest number of users affected, according to Facebook.US topped the list with 70.6 million users - close to 82% of all affected users. Philippines and Indonesia were the second and third most impacted countries, respectively, while 1.07 million users were affected in the UK.
+ 
+ 
+ 
+  
+ 
+ On Thursday, a Facebook spokesperson explained to TOI how they arrived at the India figure.
+ 
+ 
+ 
+ 
+ The numbers that we have now are that only 335 people in India installed the app, which is 0.1% of the app's total worldwide installs. We further understand that 562,120 additional people in India were potentially affected, as friends of people who installed the app. This yields a total of 562,455 potentially affected people in India, which is 0.6% of the global number of potentially affected people," he said.
+ 
+ Facebook has over 217 million monthly active users in India and over two billion monthly active users globally. 
+  will testify before the US House commerce committee on April 11 on the data harvesting scam that was unearthed last month. In India, the Union ministry of electronics and IT had sent a questionnaire to Facebook on the extent of data collection in the country, asking the company to respond by April 7. Reacting to the development, a ministry spokesperson told TOI, "We will wait for a response from Cambridge Analytica before taking any decision."
+ 
+ Active on Facebook between 2013 and 2015, thisisyourdigitallife used to let Facebook users take personality quizzes. When users authorised the app on their Facebook profiles, it got access to their data and also that of their friends. The app was developed by researcher Aleksandr Kogan, who had founded Global Science Research. Collecting data on the pretext of psychological research, GSR passed on this trove to its client Cambridge Analytica, which then used it to psychologically profile users and target them for the 2016 US polls for Republican candidates, including Donald Trump. According to a Guardian report, GSR co-founder Joseph Chancellor is employed with Facebook.
+ 
+ Facebook says it arrived at the 87 million figure by multiplying the number of people who downloaded the app with the maximum number of connections allowed on the network. "What we did was construct the maximum possible number of friends lists that everyone could have had over the time, and assumed that Kogan queried each person at the time when they had the maximum number of connections that would've been available to them. That's where we came up with this 87 million number," Zuckerberg said on Wednesday evening. Initial reports that came out right after whistleblower Christopher Wylie blew the lid off the scandal said the potentially affected 50 million people.
+ 
+ Facebook also announced changes to its application programming interface on Thursday morning. The changes are detailed in a blog dated April 4 by Facebook's chief technology officer Mike Schroepfer. App developers will now have restricted access to users' groups, events, calls, messages and other data. "Starting on April 9, we'll show people a link at the top of their news feed so they can see what apps they use and the information they have shared with those apps. People will also be able to remove apps that they no longer want. As part of this process we will also tell people if their information may have been improperly shared with Cambridge Analytica," he wrote in a blog post.
+ 
+ Facebook, according to Zuckerberg, had learned of the unauthorised data use in 2015 itself. But it failed to notify its users then.
+ 

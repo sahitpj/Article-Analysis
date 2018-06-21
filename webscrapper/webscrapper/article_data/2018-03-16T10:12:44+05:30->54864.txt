@@ -1,0 +1,17 @@
+NEW DELHI: Banks on Thursday said they have initiated a series of steps — including tighter control over use of loan sanctions,  , the switch for global transactions, and linking it with their core banking software — to strengthen the risk management system after being hit by an over Rs 12,600-crore fraud at state-run PNB and a surge in bad debt over the last few years.
+
+ 
+ While reiterating that damage due to fraudulent issue of letters of undertaking to Nirav Modi- and Mehul Choksirun outfits was limited to one branch of PNB, SBI deputy MD M S Shastry said an additional layer of approval for all outward SWIFT messages had been put in place. By April-end, SWIFT will be linked to the core banking software of banks, a gap which was misused in the case of the mega fraud.
+ 
+ Executives from the state-run banks also decided to “discourage” multiple banking arrangements for those with an over Rs 250-crore exposure to prevent cases of fraud. Although several norms do exist, the risk management executives said promoters will have to bring equity upfront.
+ 
+ While sanctioning loans, promoters have to bring in their share of funds. In the past, banks have often ignored conditions, which is seen as the reason for a spike in bad debt in recent years.
+ 
+ As was the norm for large projects, interest cost during the construction phase of a project will have to be borne by the promoters and will no longer be borne by banks, a presentation made after a three-day workshop said. Banks are also going to insist on common terms in loan documents, a gap that companies often exploited in the past. And, to reduce human interface and possible biases, executives from public sector banks have also decided on end-to-end automation of the entire process.
+ 
+ After sanction of loans, bankers will insist on regular audit, sharing of information and validating turnover and cash flows. Through a systemgenerated mechanism, banks want to receive Early Warning Signals (EWS) to detect stress early before the borrower defaults on repayment and the corporate debt turns into an NPA.
+ 
+ Banks will be putting up their action plans to respective boards and these would be implemented by all of them in three to six months, Shastry said. Action plans are drawn to further strengthen controls in areas of trade finance, SWIFT, credit risk, operational risk, besides cyber and IT risk.
+ 
+ The meeting was the result of a directive from the finance ministry to identify the gaps and plug them. The steps that are being taken include screening for anti-money laundering by a team other than the one which is responsible for generating business. Similarly, all Nostro accounts — which a bank holds in a foreign currency in another bank — are being reconciled to identify if there are lapses. Further, banks have been asked to reconcile all electronic fund transfer transactions on a daily basis and no message for such transfers will be allowed unless there is a corresponding entry in the core banking software.
+ 

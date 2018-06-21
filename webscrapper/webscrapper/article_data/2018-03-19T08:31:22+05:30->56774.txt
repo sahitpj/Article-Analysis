@@ -1,0 +1,6 @@
+AGRA
+    ( ) is all set to begin ‘live bus tracking system’ for AC buses, a facility aimed at benefitting passengers. To avail this, travellers need to install ‘Chalo App’ through which they will get all details about a bus such as its departure and arrival timings.
+ 
+  This initiative of the UPSRTC would save passengers from waiting unnecessarily for long hours if their bus got late. Service manager of   region, SP Singh said, “Currently this app is on trial period which in due course of time will be implemented in all air conditioner buses of the UPSRTC.”
+  
+  Later, the corporation plans to use the app in non-AC buses too, added Singh.

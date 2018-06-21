@@ -1,0 +1,20 @@
+WASHINGTON: In a first, Microsoft researchers have developed an   (AI) system that can translate news from   with the same quality and accuracy as a human. Researchers said their system achieved human parity on a commonly used test set of news stories, which was developed by a group of industry and academic partners.
+
+ To ensure the results were both accurate and on par with what people would have done, the team hired external bilingual human evaluators, who compared Microsoft’s results to two independently produced human reference translations.
+ 
+ Xuedong Huang, a technical fellow in charge of Microsoft’s speech, natural language and machine translation efforts, called it a major milestone in one of the most challenging natural language processing tasks.
+ 
+ “Hitting human parity in a machine translation task is a dream that all of us have had. We just didn’t realise we’d be able to hit it so soon,” Huang said.
+ 
+ The translation milestone was especially gratifying because of the possibilities it has for helping people understand each other better, he said.
+ 
+ Arul Menezes, partner research manager of Microsoft’s machine translation team, said they set out to prove that its systems could perform about as well as a person when it is used a language pair — Chinese and English — for which there is a lot of data, on a test set that includes more ordinary vocabulary of general interest news stories.
+ 
+ Researchers added other training methods to make the system more fluent and accurate. These methods mimic how people improve their own work iteratively, by going over it again and again until they get it right.
+ 
+ “Much of our research is inspired by how we humans do things,” said Tie-Yan Liu, a principal research manager with   in Beijing.
+ 
+ The researchers also developed two new techniques to improve the accuracy of their translations, Zhou said.
+ 
+ These techniques could be useful for improving machine translation in other languages as well. He said they also could be used to make other AI breakthroughs beyond translation.
+ 

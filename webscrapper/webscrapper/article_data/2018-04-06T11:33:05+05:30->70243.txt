@@ -1,0 +1,59 @@
+ has said that about 5.5 lakh Indian users were affected by the   data breach, which has placed the social media giant in the eye of a storm with investigations underway by British and US authorities. But this is not the first time the social media giant has faced heat over its handling of user data. Here’s a look at all the troubles it has had with national  ...
+
+ 
+ 
+ 
+ 
+ 
+ Total FB users in country | 40m
+ 
+ THE ISSUE | No clear consent; “abuse” of dominant position
+ 
+ A preliminary report in December 2017 by German competition authorities found Facebook “abuses” its dominant position to gain access to third-party data when an account is opened. That includes transferring data from its own WhatsApp and Instagram products as well as how it tracks what sites its users access. 
+ 
+ In January 2018, a court ruled that Facebook was collecting and using personal data without providing enough information to users for them to render meaningful consent.
+ 
+ 
+ 
+ 
+ Total FB users in country | 31.9m
+ 
+ THE ISSUE | Massive compilation of personal data... To display targeted advertising
+ 
+ France’s data protection watchdog slapped a €150,000 fine on Facebook last year. It objected to “massive compilation of personal data... in order to display targeted advertising” and red-flagged collection of data on third party websites, via the “datr” cookie.
+ 
+ Facebook argued that the Irish data protection authority, and not its French counterpart, was the competent authority to pass such orders as FB’s European base was Dublin.
+ 
+ 
+ 
+ 
+ Total FB users in country | 19.9m
+ 
+ THE ISSUE | Gathering personal data of even non Facebook users for targeted advertising
+ In September 2017, Facebook was fined $1.4m for collecting personal information from users that could be used for advertising. Authorities pointed to FB’s collection of data using cookies from people who do not have an FB account but navigate other pages containing a “like” button.
+ 
+ 
+ 
+ 
+ Total FB users in country | 9.6m
+ 
+ THE ISSUE | Insufficient information to users on how FB uses their data
+ 
+ Found Facebook was giving insufficient information to users on how the social network collects and uses their data Also found that Facebook uses sensitive personal data without explicit consent. It cited data relating to sexual preferences that was used to show targeted ads.
+ 
+ 
+ 
+ 
+ Total FB users in country | 6.4m
+ 
+ Earlier this year, Facebook was ordered by a Belgian court to stop collecting data on users or face fines of €250,000 a day, or up to €100m. The court ruled Facebook had broken   laws by tracking people on third-party sites. Facebook was ordered to delete all data it had gathered illegally on Belgian citizens, including people who were not users of the social network. 
+ 
+ 
+  
+ 
+ In May last year, the EU fined FB $122m for giving misleading statements during the company’s $19bn acquisition of
+ WhatsApp in 2014. 
+ 
+ EU ruled that while Facebook had said it would not combine data from WhatsApp it later announced it would begin doing so, and that would allow it to gain an unfair advantage over rivals. 
+ 
+ 
