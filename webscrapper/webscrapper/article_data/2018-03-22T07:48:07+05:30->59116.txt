@@ -1,0 +1,13 @@
+KOLKATA: Imagine the horror if the doors of a crowded Metro train were to slide open even as it runs at top speed through the underground tunnel. What if the controller were to receive false information on his screen about the gap between two trains on the same track? Such systems errors are not uncommon across the world as rakes get more sophisticated and technologically advanced.
+
+  
+  
+ 
+ This was the reason why experts from the ministry of communications and information technology and Research Designs and Standards Organisation (RDSO) spent Tuesday night calculating the electro-magnetic emissions from the two new rakes that   received from Integral Coach Factory (ICF), Chennai, a few months ago. Armed with equipment, including a track-circuiting sniffer, the experts tried to find out the kind of impact that the emissions may have on the environment around the tracks.
+ 
+ “Electro-magnetic interference ( ) is a vital issue and the emissions can have an impact on surrounding systems, including those in the train itself. If the emissions are too high, there may be an impact on systems such as those controlling the doors or even the signals. Systems that are even 10 metres from the tracks can get affected due to these emissions. These may include power substations, radio and television transmitters and mobile signals. There have also been instances when road traffic signals were impacted due to emissions by passing trains,” an expert said.
+ 
+ The EMI was measured at the Mahanayak Uttam Kumar station as part of trials that the two rakes are undergoing before they can be used for commercial services. The rakes reached Kolkata in July and August, 2017, but could not undergo inspection by the Commissioner of Railway Safety as they were found incompatible with Metro Railway’s existing system.
+ 
+ “Our general manager   has made it very clear that the rakes can only be used after they clear all trials. Now that the measurements have been taken, they will be analysed and if any rectification is required in the rake, it will be done. It is very important that emissions from the rakes do not interfere with other systems,”  , CPRO, Metro Railway said.
+ 

@@ -1,0 +1,22 @@
+Scientists have identified the molecular handle that   grabs to get inside cells and cause  , a finding that could lead to ways to prevent or treat the disease as well as related viruses.
+ 
+ The study, conducted over mice, identified the protein on cells called Mxra8 that is needed for   virus to invade both human and mouse cells.
+ 
+ The virus uses Mxra8 protein as a handle to open a door into cells.
+ 
+ The handle, or receptor, is located on cells that build cartilage, muscle and bone. Joints are filled with such cells, which helps explain patients' painful symptoms. 
+ 
+ By creating decoy handles, the researchers showed that they could prevent the virus from grabbing that handle and thus reduce chikungunya infection and signs of arthritis.
+ 
+ "The name chikungunya comes from the Makonde language of Tanzania, and it means 'to walk bent over.' That's how painful the   can be," said Michael S. Diamond, Professor at the   in St. Louis, US. 
+ 
+ "We now know how chikungunya gets into cells, and we may have found a way to block the infection. If the virus cannot get into the cell, it is unable to replicate and cause infection and disease," Diamond added.
+ 
+ In the study, published in the journal Nature, the team deluged the virus with decoy handles, so that chikungunya would grab the decoy and be locked out of cells.
+ 
+ A day after infection, the level of virus in the mice's ankles and calf muscles was between ten-fold and a hundred-fold lower in the animals that had been treated with Mxra8 proteins or blocking antibodies than those that received placebo, and the numbers remained lower over the next two days.
+ 
+ In addition, three days after treatment, the mice that had received the protein exhibited much less swelling in their ankles than those that received the placebo.
+ 
+ The results suggest that a compound that blocks the virus from attaching to Mxra8 on the surface of cells could prevent or reduce arthritis.
+ 

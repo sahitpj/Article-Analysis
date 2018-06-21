@@ -1,0 +1,37 @@
+WASHINGTON: Scientists - including one of Indian origin - have created bioengineered   that can break down plant components into valuable chemicals required to manufacture products like nylon, plastics and pharmaceuticals, which are currently derived from petroleum.
+
+ 
+ Economically and efficiently converting tough plant matter, called lignin, has long been a stumbling block for wider use of the energy source and making it cost competitive.
+ 
+ Piecing together mechanisms from other known lignin degraders,   and colleagues from   in the US, have engineered E coli into an efficient and productive bioconversion cell factory.
+ 
+ Lignin is the component of plant cell walls that gives them their incredible strength. It is brimming with energy, but getting to that energy is so costly and complex that the resulting biofuel cannot compete economically with other forms of transportation energy.
+ 
+ Once broken down, lignin has other gifts to give in the form of valuable platform chemicals that can be converted into nylon, plastics, pharmaceuticals and other valuable products.
+ 
+ Future research may focus on demonstrating the production to these products, as they could help bring biofuel and bioproduction economics into balance.
+ 
+ Researchers have solved three problems with turning lignin into platform chemicals.
+ 
+ The first was cost. E coli typically do not produce the enzymes needed for the conversion process. Scientists must coax the bacteria into making the enzymes by adding something called an inducer to the fermentation broth.
+ 
+ While effective, for activating enzyme production, inducers can be so costly that they are prohibitive for biorefineries.
+ 
+ The solution was to "circumvent the need for an expensive inducer by engineering the E coli so that lignin-derived compounds such as vanillin serve as both the substrate and the inducer" Singh said.
+ 
+ Vanillin is not an obvious choice to replace an inducer. The compound is produced as lignin breaks down and can, at higher concentrations, inhibit the very E coli working to convert it. This posed the second problem: toxicity.
+ 
+ "Our engineering turns the substrate toxicity problem on its head by enabling the very chemical that is toxic to the E. coli to initiate the complex process of lignin valorization," said Singh.
+ 
+ "Once the vanillin in the fermentation broth activates the enzymes, the E. coli starts to convert the vanillin into catechol, our desired chemical, and the amount of vanillin never reaches a toxic level. It auto regulates," she said.
+ 
+ The third problem was efficiency. While the vanillin in the fermentation broth moves across the membranes of the cells to be converted by the enzymes, it was a slow, passive movement.
+ 
+ The researchers looked for effective transporters from other bacteria and microbes to fast track this process.
+ 
+ "We borrowed a transporter design from another microbe and engineered it into E coli, which helps pump the vanillin into the bacteria," postdoctoral researcher   said.
+ 
+ Engineering solutions like these, which overcome toxicity and efficiency issues have the potential to make biofuel production economically viable.
+ 
+ The external inducer-free, auto-regulating method for valorizing lignin is just one way that researchers are working to optimise the biofuel-making process.
+ 

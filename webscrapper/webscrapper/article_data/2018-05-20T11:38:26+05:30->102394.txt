@@ -1,0 +1,27 @@
+WASHINGTON: Scientists have created a 3D-printed smart gel that can walk underwater, grabs objects and move them, an advance that may lead to soft robots which mimic sea animals like the octopus.
+
+ 
+ It may also lead to artificial heart, stomach and other muscles, along with devices for diagnosing diseases, detecting and delivering drugs and performing underwater inspections.
+ 
+ Soft materials like the smart gel are flexible, often cheaper to manufacture than hard materials and can be miniaturised. Devices made of soft materials typically are simple to design and control compared with mechanically more complex hard devices.
+ 
+ "Our 3D-printed smart gel has great potential in biomedical engineering because it resembles tissues in the human body that also contain lots of water and are very soft," said Howon Lee, an assistant professor at   in the US.
+ 
+ "It can be used for many different types of underwater devices that mimic aquatic life like the octopus," said Lee.
+ 
+ The study, published in the journal ACS Applied Materials & Interfaces, focuses on a 3D-printed   that moves and changes shape when activated by electricity.
+ 
+ Hydrogels, which stay solid despite their 70-plus per cent water content, are found in the human body, diapers, contact lenses, Jell-O and many other things.
+ 
+ During the 3D-printing process, light is projected on a light-sensitive solution that becomes a gel.
+ 
+ The hydrogel is placed in a salty water solution (or electrolyte) and two thin wires apply electricity to trigger motion: walking forward, reversing course and grabbing and moving objects, said Lee.
+ 
+ The human-like walker that the team created is about one inch tall.
+ 
+ The speed of the smart gel's movement is controlled by changing its dimensions (thin is faster than thick), and the gel bends or changes shape depending on the strength of the salty water solution and electric field.
+ 
+ The gel resembles muscles that contract because it's made of soft material, has more than 70 per cent water and responds to electrical stimulation, Lee said.
+ 
+ "This study demonstrates how our 3D-printing technique can expand the design, size and versatility of this smart gel. Our   allowed us to create unprecedented motions," he said.
+ 
