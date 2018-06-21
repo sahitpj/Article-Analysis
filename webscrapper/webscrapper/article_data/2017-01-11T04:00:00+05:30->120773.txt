@@ -1,0 +1,25 @@
+CHENNAI: Merchant discount rate or MDR promises to be a bone of contention between banks and e-wallets in the months to come as competition, costs intensify post-demonetisation.
+
+ With banks replicating all what wallets offer, the battle appears to be that of David vs Goliath. "A bank's income is not hinged on its payments business, however for most e-wallets merchant commission from payments is likely to be their main source of income. With UPI, banks' now offer their own mobile payment options that have inter-operability and ubiquity through exhaustive list of merchant tie-ups. This resurgence of banks' mobile apps combined with a significant drop in MDR is likely to present a challenge to private wallet companies," said Lokvir Kapoor, CEO, Pine Labs
+ 
+ MDR rate - which is the rate charged by banks for providing debit/credit card services and interchange fees charged by Visa, MasterCard and RuPay -- for merchants was waived the first two months of demonetisation. Going forward MDR rates were capped from January 1 to March 31, 2017 by the Reserve Bank of India. For transactions below Rs 1,000 the cap was at 0.25% and for transactions between Rs 1,000-Rs 2,000 at 0.50%. 
+ 
+ While these measures were an incentive to go cashless, the cost of this exercise is being entirely borne by banks, who have lost transaction fees and a sizeable chunk of their non-interest income. 
+ 
+ But for e-wallets, investors are concerned about lower commissions. "Post-demonetisation, it is true, that e-wallets have gone on a customer acquisition spree and onboarded thousands of new customers. But profitability is a question. It is no longer just about valuation," said an investor in an e-wallet.
+ 
+ While merchants normally pass on the costs of MDR or surcharge onto customers, e-wallets like PayTM are not doing so. "We are currently paying the MDR rate to banks on behalf of the merchants. It is an incentive for more merchants to use PayTM and we will be offering this even as we make the transition into a payment bank," said Vijay Sekhar Sharma, CEO, PayTM.
+ 
+ The MDR caps, will particularly affect e-wallets more than banks. "People use banks for high-value transactions and e-wallets for smaller payments. e-wallets today are trying for scale, volumes so that the small percentage in commissions no longer matter," Ranga Reddy, CEO, Maveric Systems Ltd.
+ 
+ Players like Freecharge told TOI they saw 75% of wallet loads for below Rs 1,000 and 20% for Rs 1,000-Rs 5,000 wallet loads and 5% for above Rs 5,000. 
+ 
+ Banks also said that the convenience offered by e-wallets is being super-ceded by NPCI's initiatives such as UPI, BHIM app, USSD and multiple bank offerings.
+ 
+ "Banks have a large, ready customer base and interoperable network, unlike e-wallets. We've also reduced friction by doing away with second-factor authentication for transactions below Rs 2,000. Today you can even cardless payments at shops using QR code from a smartphone is possible," said Deepak Sharma, chief digital officer, Kotak Mahindra Bank.
+ 
+ "Ultimately e-wallets have to be funded through bank accounts. Why do two transfers? When the banks' own wallets or UPI-enabled mobile apps, can do payments in one click?" asks Sharma.
+ 
+ (With inputs from Ranjani Ayyar)
+ 
+ 

@@ -1,0 +1,10 @@
+NEW DELHI: Indian Space Research Organisation (Isro) has found no anomaly in its heaviest satellite   weighing over 5.7 tonnes, which it had recalled from the European spaceport some time back to look for any potential glitch.
+
+ Talking to TOI, Isro chairman K Sivan said, “All the tests on Gsat-11 at Bengaluru’s ISRO Satellite Centre (ISAC) are over. We have found no anomaly. We are in the process of discussion with Arianespace to fix the next launch date for our satellite.” Earlier, the Isro chief had told TOI that all tests would be completed by May 17.
+ 
+ Isro had postponed the launch of Gsat-11 initially planned on May 25 from the European spaceport as it did not want to take chances with its heaviest satellite especially after the signal failure episode with Gsat-6A. Communication satellite Gsat-6A, which was successfully launched from Sriharikota on March 29, went out of control during the third orbit-raising manoeuvre in space when the signal with the satellite got abruptly snapped because of suspected power failure. The space agency since then has been trying to restore the communication link with Gsat-6A though it knows its exact location through the satellite-tracking system.
+ 
+ Isro is launching Gsat-11 from the European spaceport in French Guiana as its own GSLV Mk III rocket can only lift a satellite weighing not more than four tonnes.
+ 
+ High-throughput satellite Gsat-11, which carries 40 transponders in Ku-band and Ka-band frequencies, is capable of “providing high bandwidth connectivity” with up to 14 gigabit per second data transfer speed. The heavy-duty satellite is so massive that each solar panel is over four metres long, equivalent to the size of a room. The satellite will usher in high-speed internet connectivity, especially in rural India. 
+ 

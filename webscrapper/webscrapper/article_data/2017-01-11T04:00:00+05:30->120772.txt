@@ -1,0 +1,21 @@
+CHENNAI: Sudeep Pal, who runs a grocery store in Bankura district, West Bengal, used to be the butt of jokes among his friends because he aspired to buy a smartphone despite not knowing English. 
+
+ Now, armed with a Micromax phone, which is powered by an Indus OS (operating system), he is able have a hassle-free experience. “With one swipe, I can translate orders sent by customers into Bengali. I can play games, chat with friends and do everything on this phone because it is all in Bengali,” said Pal.
+ 
+ With telecom operators offering data packs as low as Rs 8 and smartphones getting affordable, all eyes are now on the next 100 million first-time smartphone users. Startups like Reverie, Indus OS, Process9 and Keypoint Technologies are betting big on this segment with regional language assistance. From a complete OS that supports languages like Hindi, Marathi and Tamil to building intuitive keyboards and a repository of apps, these companies are trying to bridge the rural-urban digital divide. Indus OS works with OEMs (original equipment manufacturers) like Micromax, Intex and Karbonn to integrate its operating system, which offers features like translation through a single swipe, text-to-speech in nine regional languages and intuitive auto-correction.
+ 
+ “Besides having a phone that has regional context, we realised that content available on the internet was still English. So we created App Bazaar, a self-publishing platform that has 24,000 developers offering apps in regional languages,” said Rakesh Deshmukh, CEO and co-founder, Indus OS. With popular apps like Twitter, Skype, Freecharge, TrueCaller, Snapdeal and Cut the Rope available on the App Bazaar, all users of Indus OS-integrated smartphones have access to over 50,000 apps for as less as Re 1 and up to Rs 80.
+ 
+ The demonetisation move has proved handy for startups like Reverie Language Technologies (Reverie) and Process9. Fintech players like MobiKwik, Bajaj Finserve and HDC Securities are looking to offer their apps in regional languages and these startups are offering tech support.
+ 
+ Reverie also offers tech-enabled support to consumer-facing apps. Going beyond translation of English words, original content is created in regional languages to facilitate a better experience. “Some of the first-time rural users of internet can identify phonetics, but not spell the words right. To look up mobile phone covers, they may type ‘mobail kover’ and yet find the right results,” said Arvind Pani, CEO, Reverie. Some of the prominent apps that the startup provides support for are Snapdeal, Ola’s driver app and Practo.
+ 
+ Vidushi Kapoor, COO, Process9, said, “We offer localisation in 10 Indian languages and work with OEMs and other players like BookMyShow, MakeMyTrip and Gaana.com to localise content for consumers.” Their Indian language keypad is currently installed on over 10 million devices made by companies like iBall, Gionee and Lava.
+ 
+ Their products offer technologies that facilitate translation to regional languages, intelligent keyboard layouts and OS to provide multi-lingual support.
+ 
+ A major driver for these startups is the government mandate for mobile phones sold after July 2017 to have regional language reading support in 22 languages. “We have partnered with Intex, Karbonn and Zen Mobiles for keypads in regional languages. The option to toggle between languages is made available on the lock screen itself as many users may not understand the word settings in English to change the language there,” Pani of Reverie said.
+ 
+ Investors say that first-time internet and smartphones users are the next big bet. Karthik Reddy, managing partner, Blume Ventures, said the first 100 million users are those who have multiple internet access points. To them, one can sell the concept of luxury, convenience and want-based products. The rest, which represents first-time internet users, is a different market. It is a domestic problem unique to India and an unlikely space for foreign competition. “Here, spending is driven by how much one requires your product to get past their immediate need. Data usage is off the hook with people across economic levels using the internet and this is a shift entrepreneurs need to be cognisant of.”
+ 
+ 
