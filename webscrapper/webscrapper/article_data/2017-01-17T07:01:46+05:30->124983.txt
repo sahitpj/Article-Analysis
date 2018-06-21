@@ -1,0 +1,17 @@
+PUNE: City-based Centre for Development of Advanced Computing ( ) has indigenously developed two   that can help researchers and doctors predict probable future ailments and prescribe a personalized cure for the same.
+
+ Developed by C-DAC’s Bioinformatics team, the two tools —   and   — will be launched on Tuesday and will be free for students and academicians. However, industries or private parties wishing to use these tools will have to pay. 
+ 
+ “A similar technology was used by Hollywood actor Angelina Jolie to find out if she carried a mutant gene that could have resulted in breast cancer. Accordingly, she opted for surgeries for prevention of cancer,” an official from C-DAC told TOI.
+ 
+ While DPICT can help the researchers visualize multiple simulation trajectory data in accelerated and efficient way, NEURON comes handy in identifying cause and its effect on genes by focusing on deriving gene regulatory network.
+ 
+ “The key feature of DPICT is to load multiple trajectory files simultaneously and view them together and perform operations on them. Various colour coding schemes for the structure is also available,” Hemant Darbari, executive director of C-DAC, said while addressing a news conference on Monday. 
+ 
+ If there are A, B and C molecules, the researchers can simulate and run functions on all the three at the same time. This will help in finding out what a particular medicine will do to all the three molecules within a very short time. “This will help us in giving personalized treatment to the patients,” Darbari said, adding that these tools may become as common as CT scan or MRI scan in the future.
+ 
+ “NEURON has been used in studying 70,000 varieties of rice crops in collaboration with the Indian Council of Agricultural Research. DPICT is a tool to assist drug discovery which will lead to understanding a disease and its therapy,” senior scientist and head of bioinformatics team Rajendra Joshi said.
+ 
+ NEURON (Network Relationship Using Casual Reasoning) is an easy to use interface where the researcher can understand the process of identifying casualty in a gene, the relationship of cause and effect. 
+ 
+ 

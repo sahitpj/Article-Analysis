@@ -1,0 +1,13 @@
+COIMBATORE: Soon, robots could be teaching children in city schools. Vishnu Engineering,  , is in talks with the Coimbatore district education department to deploy robots in schools,  .
+
+  Shah of Vishnu Engineering said that a few private schools in the city were already using such robots for research and development purpose and to learn to build and design robots. “The robot will be fed with the entire syllabus. It will help students learn topics easily. We have made it compatible for six platforms such as C, C++, Java, .Net, Metlab and Python. Students can not just learn but also generate coding and build their own robots,” he said.
+ 
+ The robot that is 2feet tall and weighs 5kg, costs Rs 8lakh. It can speak 17 Indian languages and 19 foreign languages and runs on Linux platform.
+ 
+ Though robotics is a much sought-after field, many children don’t even know how a robot looks like, Vijay told TOI. “They are only taught how to dismantle and assemble a robot. They are not given access or made to build them. So, we want the children even in rural schools to get awareness about robots and artificial intelligence,” he said.
+ 
+ “We are expanding our robot in different sectors. They are currently deployed at the city airport and a bank,” Vijay said.
+ 
+ The robot will have all the applications installed and will also have cloud integration that will allow it to access other topics outside the syllabus. Other features will be tactical sensors, motors, actuators, bumpers, voice and speech recognition, face recognition and other applications.
+ 
+ 

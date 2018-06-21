@@ -1,0 +1,17 @@
+AHMEDABAD: The devastation of the 2001 earthquake was a wake-up call for all stakeholders. In Ahmedabad, 81 multi-storeyed buildings had collapsed, killing 752 persons and maiming hundreds. The tragedy exposed how construction standards and building bylaws were compromised and how citizens paid dearly because of unpreparedness.
+
+ A team of researchers from Pandity Deendayal Petroleum University’s civil engineering department have prepared a seismic risk index for the city in a pilot project, to help better earthquake preparedness for the city. The index, with values ranging from 1 to 5, for the first time lays emphasis on socio-economic factors, apart from technical reasons, in analyzing earthquake risks. 
+ 
+ The team was led by   and included Pankaj Savaliya and  . Though developing areas like Bodakdev, Thaltej, Gota, Chandlodia or even Vejalpur and Jodhpur come in Risk 1 and Risk 2 zones, areas like Danilimda, Isanpur, Vatva, Paldi, Maninagar, Lambha and   are in high-risk index categories.
+ 
+ “The index does not tell you where buildings are likely to fall. It helps point out municipal wards where we should be more prepared, like which areas should have more government vigilance on construction, better provisions for large public gathering places, shelters, rescue teams and medical help, in the event of an earthquake.”
+ 
+ Thaker and his team collected data available in the public domain and from various laboratories about earthquake events since 1660 and their epicentres, physical properties of soil types across the city, peak ground acceleration values, shear wave velocities, population density, building and construction types and even information on groundwater table variation. They then rendered the data in a powerful geographic information system (GIS) software called ArcGIS to create a seismic risk index map for the city.
+ 
+ “The data we collected pertains to 600 spots in Ahmedabad and is procured from well-known local and international laboratories. A better risk map can be prepared by policy makers by on-site authentication of the data. The purpose of the study was to press for better urban risk management,” says Thaker.
+ 
+ City’s risk status
+ 
+ Ahmedabad falls in seismic zone 3, on a scale of 2 to 5. The Deccan basement, found in the adjacent   basin at 4km to 5km depth is missing in Ahmedabad and the hard rock at the basement of granite rock occurs at a depth of 7km to 8km. The upper portion, 200m to 300m below surface level is mostly alluvium from the meandering Sabarmati river. Ahmedabad lies on two marginal faults and at the intersection of two minor lineaments.
+ 
+ 

@@ -1,0 +1,19 @@
+CHENNAI: Customers, who are regulars on Ola, Uber or shopping sites, many a time find themselves having to use multiple wallets as some merchants are supported only by a specific few. The handicap is made more severe by the fact that you cannot transfer money from one wallet to another easily — or in other words ‘interoperability’ that all banking platforms, including wallets, offer.
+
+ Taking to twitter,   CEO Vijay Shekhar Sharma said that e-wallets offered interoperability, even as he got trolled for the same claim. “One can take money from Paytm wallet to any bank account and tax to any other wallet. 100% portable. True portable,” said Sharma. In responses to customers Sharma tweeted, “Take money to bank at no cost to you (option in passbook). Add add money from bank to any other wallet. 100% interportable switch. Can you move money from Paytm to any other wallet? Yes!"
+ 
+ But within a few minutes, Paytm’s CEO took a U-turn and tweeted that “regulation does not permit wallet to wallet transfer of money.” Both of which statements do not address the issue at hand, according to other e-wallet players.
+ 
+ “We have been petitioning the Reserve Bank of India and the Ministry of Finance for more than three years now. We are not allowed to transfer money between wallets. We can only transfer money to and from bank accounts. Permitting interoperability will really help scale up,” said Upasana Taku, co-founder and director, Mobikwik. “For instance, RBI permitting e-wallets to carry as much as Rs 20,000 came as a great boost to the sector. Similarly a change in regulation on the interoperability front will really help the growth of wallets,” said Taku.
+ 
+ Industry observers said that another deterrent to collective lobbying is that the wallets for now do not seem to have collective interests. Just last week, Mobikwik disputed PayTM's numbers that they had crossed 100 million users. Given that RBI data as of December 2016 shows the total payments industry having only 88 million users, Mobikwik felt that there was some inflation in PayTM’s figures. 
+ 
+ “In most industries, companies come together to form an industry body like iSPIRT, CATMi or CLAI . Banks with the help of the National Payments Corporation of India (NPCI) have interoperability at all levels. With wallets, there is no collective voice or forum for them to make their representations,” said Lokvir Kapoor, CEO, Pine Labs.
+ 
+ “At the consumer end again, with concerns being voiced as to the security of e-wallets, there are no redressal forums. For banking frauds or negligence, there is the banking ombudsman, but for e-wallets?” asks Kapoor.
+ 
+ Concerns about e-wallet security, led State Bank of India (SBI) to stop supporting PayTM, Mobikwik, FreeCharge, Oxigen and others on its platform since last June. ICICI Bank on Sunday said that it has stopped supporting Flipkart's PhonePe UPI application. In September, Freecharge told TOI that about 100 customers had lost up to Rs 2.9 lakh while using its services and the wallet has registered a cyber complaint regarding the same.
+ 
+ “As per UPI, only bank applications can be used by customers. We will have to take up with RBI and NPCI to get non-banks blocked," said Manju Agarwal, deputy managing director, State Bank of India. Measures, impeding interoperability, which e-wallets term as anti-competitive in nature. In November, PayTM's CEO Vijay Shekhar Sharma said that SBI was doing this so that customers add money to its wallet - SBI Buddy. "Strange incumbent reaction? Pls use debit card,” tweeted Sharma.
+ 
+ 

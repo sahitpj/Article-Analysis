@@ -1,0 +1,17 @@
+CHENNAI: Guns, fighter jets and missiles might be the hardware required in combat, but it is the software that makes these metal and mechanics smart.
+
+ Realising the need for advanced weaponry, companies participating at the DefExpo 2018 are also focusing on marketing sophisticated algorithms besides the traditional arsenal.
+ 
+ Swedish aerospace company Saab, which has developed a next generation fighter aircraft Gripen-E, is marketing its product for the Indian Airforce with a simulator software to train pilots to fly the machine. The software is packaged with the hardware. “A simulation software is crucial for development of an aircraft because not all can be taught on the machine directly,” said Andreas Ladell, systems engineer, Saab. 
+ 
+ If complex computer coding could train men to operate machines, they have also become crucial in making ammunition smarter. European missile manufacturer MBDA has developed next generation guided missiles that are completely software driven. According to Nick De Larrinaga, head MBDA media relations, the missile can hit targets beyond the visibility of the naked eye. “We can either use a joystick or the software to manually or automatically change the course of the missile even after it is fired and is close to the target,” he said.
+ 
+ When commanders and gunners fire such smart bombs, they rely on battlefield management systems. These manage men, machine and munitions, and enable commanders in making quick decisions. But the system requires several layers of protection from hackers. Firms like Thales from France and UK-based   have developed programs that build a strong security wall to guard information from malicious ware.
+ 
+ But it was not just foreign defence system manufacturers who held sway at the expo, India too projected its prowess in software development. XR Labs, a startup from Chennai, has developed simulation software and has exhibited a virtual reality-based application that can train pilots to operate as well as other personnel for fleet maintenance. “You can use a VR headset or strap on your smartphone to your head after downloading the software to get trained,” said  , CEO, XR Labs. 
+ 
+ Bengaluru-based   has developed a video synopsis software that can review long videos within minutes with a few filters. The software is helpful for surveillance and investigations.
+ 
+ But how open are the Indian armed forces in using software for operational needs? “Initially they were pretty hesitant to accept simulation training. It took time. But now they are customers,” said Major  , adviser, Alpha Design Technologies, a defence and space electronics equipment manufacture from Bengaluru.
+ 
+ 

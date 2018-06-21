@@ -1,0 +1,20 @@
+LONDON: Even in a "runaway Artificial Intelligence (AI)" scenario, robots will not render people completely jobless,   CEO   told The Sunday Telegraph in an interview.
+
+ People will always want a job as it gives them "dignity",   said, adding that the focus should instead be on applying AI technology ethically.
+ 
+ "What I think needs to be done in 2018 is more dialogue around the ethics, the principles that we can use for the engineers and companies that are building AI, so that the choices we make don't cause us to create systems with bias 
+ 
+  that's the tangible thing we should be working on," he was quoted as saying.
+ 
+ According to a report in   on May 25, Microsoft is building a tool to automate the identification of bias in a range of different AI algorithms.
+ 
+ The Microsoft tool has the potential to help businesses make use of AI without inadvertently discriminating against certain groups of people. 
+ 
+ Although Microsoft's new tool may not eliminate the problem of bias that may creep into Machine-Learning models altogether, it will help AI researchers catch more instances of unfairness,  , a senior researcher at Microsoft who is working on the bias-detection dashboard, was quoted as saying by MIT Technology Review. 
+ 
+ "Of course, we can't expect perfection -- there's always going to be some bias undetected or that can't be eliminated -- the goal is to do as well as we can," he said.
+ 
+ In the interview with The Sunday Telegraph, Nadella also said that as Microsoft's business model was based on customers paying for services, he believed the company was on "the right side of history". 
+ 
+ "Our business model is based on our customers being successful, and if they are successful they will pay us. So we are not one of these transaction-driven or ad-driven or marketplace-driven economies," the Microsoft chief was quoted as saying.
+ 

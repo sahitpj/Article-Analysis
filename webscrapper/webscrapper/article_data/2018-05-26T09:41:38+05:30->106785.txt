@@ -1,0 +1,25 @@
+Scientists have developed a swallowed   packed with tiny electronics and millions of genetically engineered living cells that might someday be used to spot   from inside the gut.
+
+ The capsule was tested in pigs and correctly detected signs of bleeding, researchers at the Massachusetts Institute of Technology reported Thursday in the journal Science . At more than an inch long, it will have to be made smaller for testing in people. But the results suggest the capsule could eventually be used in people to find signs of ulcers, inflammatory bowel disease or even colon cancer, the researchers said.
+ 
+ It's the latest advance in a growing field of sensors that can be swallowed or worn to monitor our health. Pills equipped with cameras, thermometers and acidity gauges already look for disease and track digestion. Last year, a psychiatric medication that alerts doctors when it's taken won U.S. approval. Stick-on skin monitors for recovering stroke patients are in the works.
+ 
+ The MIT device is the first to use engineered cells as sensors in swallowed capsules, said Kourosh Kalantar-zadeh, who is developing a gas-sensing, all-electronic pill at the Royal Melbourne Institute of Technology in Australia.
+ 
+ "The work is yet another step toward showing the great promises of smart, ingestible capsules," said Kalantar-zadeh.
+ 
+ The researchers tested the capsules using a harmless strain of E. coli bacteria. The cells were modified with DNA from other bacteria to make them detect blood and then light up. Electronics then take over, relaying signals to a smartphone.
+ 
+ Shrinking the capsule to a normal pill size could be achieved by combining its three electronic chips, said co-author Phillip Nadeau. Data encryption will be needed to protect patient privacy. And it's meant to be used once, so they'll need to make it flushable, co-author Mark Mimee said.
+ 
+ All that, plus human testing, means a commercial product is years off.
+ 
+ As labs discover DNA with new sensing powers, the capsule could be customized to diagnose multiple conditions. Co-author Tim Lu speculated that future patients could swallow a capsule "once a week or once a month" to screen for early signs of cancer instead of getting a colonoscopy.
+ 
+ The capsule could help doctors monitor tricky-to-reach parts of the small intestine for people with  's disease or to study the normal balance of microbes in the gut, said Dr. Stephanie Hansel of   in Rochester, Minnesota, who wasn't involved in the research.
+ 
+ "We're excited about it," said Hansel, while noting that it probably won't replace the need for procedures using flexible scopes.
+ 
+ Texas Instruments and the National Science Foundation helped pay for the research, and the researchers are seeking patents for the capsule. Mimee received a fellowship from the Howard Hughes Medical Institute, which also supports The Associated Press Health & Science Department.
+ 
+ 

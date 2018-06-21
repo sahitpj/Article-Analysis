@@ -1,0 +1,13 @@
+KOLKATA: An attempt to commission the Instrument Landing System (ILS) at   in   ahead of the arrival of Bangladesh Prime Minister Sheikh Hasina’s flight on Saturday failed after the pilot carrying out test flights submitted an adverse report on a key guidance equipment. Hasina’s flight, a Biman Bangladesh flight, landed using an alternative visual-based procedure that requires a much higher visibility for safe operations.
+
+ 
+ The flight, a   737-800 aircraft, touched down at Andal at 10.58am on Saturday with the pilot using the Doppler Very High Frequency Omnidirectional Range (DVOR), a radio navigation aid that gives the aircraft’s position relative to the ground. The AI Delhi-Durgapur flight operates using the DVOR. ILS comes in handy when visibility drops. But there was no such problem on a bright and sunny Saturday.
+ 
+ On the eve of her visit, AI carried out test flights with an   A-320 aircraft to ratify the Category-I ILS installed two years ago. Interference in signals due to the presence of a Coal India dumpsite in the vicinity had led to the regulatory authority refusing its use earlier. Subsequently, the Airport Authority of India ( ) had relocated the antenna and sought for flight trials to commission the ILS. These were carried out on Friday.
+ 
+ During the trials, the ILS system — comprising Localiser, Glide Scope and a distance measuring equipment — that is maintained by AAI functioned perfectly. But the captain operating the flight reported problems in the Precision Approach Path Indicator (PAPI), a visual aid that provides guidance information to help a pilot acquire and maintain the correct approach path. This is maintained by airport operator Bengal Aerotropolis Projects Ltd (BAPL).
+ 
+ Comprising high intensity lights that appears red or white from the cockpit of an aircraft coming in to land, thereby giving the pilot an indication of whether the angle of approach to the runway is correct. The pilot aligns the aircraft in a manner so that the ratio of white and red lights is equal throughout the landing sequence. If more white lights are visible than red, the pilot will know that the aircraft is above the ideal approach angle while more white lights will indicate it is below the ideal approach angle.
+ 
+ According to sources, the pilot felt the lights appeared faded. “The intensity of red lights is poor. Hence, all the lights were appearing white,” a source said. Following the adverse report by the pilot, DGCA has refused to give the nod for commissioning the ILS.
+ 

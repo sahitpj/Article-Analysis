@@ -1,0 +1,20 @@
+MUMBAI: The Reserve Bank of India (RBI) has gone on a promotion overdrive for the ‘zero balance, zero charges’ account that banks provide. The RBI has been sending bulk SMSs about this account during IPL matches. However, crores of basic savings bank deposit account holders — including those having 
+  — risk having the same abruptly frozen by banks. 
+
+ 
+ These accounts allow only four free debits a month and, since banks are not allowed to impose any kind of charge on customers, many are freezing the accounts once four transactions are complete. A few like   and Citi are converting these accounts into regular ones if the number of transactions exceed four, which means the account holder pays a regular penalty if minimum balance is not maintained.
+ 
+ The basic savings bank deposit account (BSBDA) was aimed at financial inclusion and, therefore, kept free of all charges. To make it viable for banks, the RBI kept the maximum withdrawals from the account at four a month, going by average withdrawals. However, banks have extended the term free debit transactions to include not just ATM withdrawals but also debit by way of real-time gross settlement (RTGS),  , clearing, branch withdrawal, transfer, internet debit, and EMIs. 
+ 
+ For the purpose of withdrawal, the account stands frozen once four transactions are completed in a month. This means that if a customer withdraws money twice and uses the debit card twice in 20 days, he will have to wait until the next month to access his money again. The issues with the BSBDA have been highlighted in an IIT Bombay technical report — ‘Can BSBDA depositors have long innings? Be aware and remain vigilant’ — authored by Ashish Das, who has for years been researching and surveying impact of steps taken towards financial inclusion. 
+ 
+ Of the banks covered in the report,   (SBI) and   prevent customers from undertaking any debit transaction beyond four in a month, virtually freezing accounts thereafter for the customer. HDFC Bank and Citi say that they will convert the basic account into a regular account if a customer withdraws for a fifth time.   in the past used to charge for the fifth transaction, but has refunded the amount after being told that they cannot apply charges. It currently allows free transactions beyond four. 
+ 
+ Other banks do not divulge what measures they will be taking after the four free transactions are exhausted. In the report, Das pointed out that after four debits in a month from a BSBDA, the customer would no longer be able to make online purchases, transfer money through 
+  at merchant locations for his day-to-day purchases. 
+ 
+ “Inhibiting the financially included folks to transact digitally through their bank accounts is a blow to our country’s digital payments drive. The very nature of the RBI regulation has forced banks to limit the BSBDA usage,” said Das. The report has suggested that banks should give unlimited electronic transactions under BSBDA and the restriction should apply only to cash withdrawals. Incidentally, banks earn a fee when their debit cards are used for shopping.
+ 
+ 
+ 
+ 

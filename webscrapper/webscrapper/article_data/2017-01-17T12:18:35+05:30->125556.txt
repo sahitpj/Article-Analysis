@@ -1,0 +1,15 @@
+NEW DELHI: Your   card could soon become a universal payment ID. In a few weeks, the government will unveil a feature for payments through the Bharat Interface for Money ( ) app by simply entering the 12-digit Aadhaar number.
+ 
+  Transactions where Aadhaar is listed as a payment ID on the   will not require any biometric   or prior registration with the bank or   (UPI). This will make it more mainstream since almost one-third of India already has Aadhaar numbers, which have been linked to their bank accounts. UIDAI is currently working with banks and the National Payments Corporation of India (NPCI) and expects to roll out the feature in the “next few weeks.”
+  
+  Ajay Bhushan Pandey, chief executive of Unique Identification Authority of India (UIDAI), told ETthat almost 38 crore people have already linked their bank accounts with Aadhaar and can receive payment directly from the UPI app without having to register first.
+  
+  Though BHIM allows sending money to a mobile number, it requires the receiver to be registered with the UPI in order to accept payment. In turn, the long process of generating a UPI PIN by entering debit card details may discourage the poor and the illiterate.
+  
+  “Through Aadhaar, any person — large service providers or independent ones such as plumbers or carpenters, irrespective of whether they are on BHIM or not — can get payments for their services directly into their bank accounts if it is linked to Aadhaar,” said Pandey. He added that almost two crore people are linking with accounts with Aadhaar every month and total figure for such accounts should go up to 50-60 crore — half the country —in the next two to three months.
+  
+  Currently, there are five payment options on the BHIM app — namely mobile number, bank account or IFSC code, among others. Aadhaar number will be the sixth such option. “There are some teething troubles but we are working on strengthening security,” said Pandey.
+  
+  Making Aadhaar a payment address is only part of the plan. It will also be possible to key in the Aadhaar number at a point-of-sale device and authenticate using biometrics. Pandey said this feature will be more useful for those making payments rather than receiving, such as shoppers. “A pilot is underway at fair price shops in Andhra Pradesh, where shopkeepers are accepting payments from PDS beneficiaries. The results are very encouraging,” Pandey had told ET earlier.
+  
+  The process involving biometrics is complicated and could see failure due to weak fingerprints, biometric reader device malfunctions or even internet connectivity issues. On the other hand, integration with BHIM makes it a relatively hassle-free method. BHIM app for UPI, launched by Prime Minister Narendra Modi last month, works on both feature as well as smartphones. 

@@ -1,0 +1,21 @@
+NEW DELHI: The trial of a satellite-based early warning system about approaching trains at unmanned level crossings has been completed by the Indian Railways, a top official of   ( ) said.
+
+ 
+ Speaking to TOI, Ahmedabad-based Space Applications Centre (SAC) director   said, “The one-year phase-1 trial of the satellite-based early warning system is over. Its performance has been satisfactory.”
+ 
+ Under a pilot project, the railways had last year installed Isro-developed integrated circuit (IC) chips on some train engines. The Indian Regional Navigation Satellite System (or NaVIC) was used to caution road users at unmanned crossings about approaching trains through hooters installed at these crossings. Explaining its functions, Misra said, “A hooter gets activated as soon as it gets signal from the IC chip installed on a train when its engine is at a distance of 500 metres to 4 km from the crossing. The hooter, linked to the navigation system, thus warns road users about the approaching train. It becomes louder as the train approaches the crossing and goes silent after the train has passed.”
+ 
+ 
+ 
+  
+ 
+ On its efficiency, Misra said, “The satellite-based technology was tested under different terrains and tough climatic conditions, including heavy rains and harsh summer, throughout the year. Its smooth functioning shows it is an all-weather system.”
+ 
+ TOI first reported about the pilot project in November 2017 as how the railways had installed IC chips on five train engines on different routes. The test has been going on since June 2017 to check if the system is reliable. The SAC director said, “After developing the IC chip and the hooter technology, we transferred the technology to four companies for limited production of the hardware for the test. The companies and Isro worked in close coordination with the railways for the pilot project.”
+ 
+ Research Designs & Standards Organisation (RDSO), R&D wing of the railways, has submitted its report to the   after the trial concluded.  , in its report, said though the Isro technology has worked satisfactorily, it wants certain modifications before the system is implemented. Moreover, the railways has to sort out various logistical and safety issues of vandalism and theft of the system at crossings before it goes for the rollout.
+ 
+ The push for using the space technology for the railway safety system came after PM Narendra Modi, during a national meet on September 7, 2015, asked all central ministries and state governments to make the most of the Isro technology to provide good governance.
+ 
+ Safety at unmanned level crossings is a cause for concern for the railways as these crossings witness maximum accidents. The national transporter had explored various options to address the safety issue before going for the Isro system. There are about 5,792 unmanned railway crossings till date, which account for around 40% of accidents involving the railways. There are about 18,000 manned level crossings.
+ 

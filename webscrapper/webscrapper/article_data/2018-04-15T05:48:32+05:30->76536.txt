@@ -1,0 +1,30 @@
+Startups and state governments are finally recognising each other’s potential, and partnering to bring technology to governance. From the   picking apps that can display real-time election results to the Coffee Board using tech to automate coffee brewing patterns, government bodies are working with startups that have possible solutions to core problems in healthcare, sanitation, agriculture, transportation and more.
+
+  
+  
+  
+  
+ 
+ In Andhra Pradesh, for instance, Babu Munagala has used his company’s blockchain technology to digitise land records of about 1 lakh farmers. The state, which acquired land from farmers for its new capital Amravati, had to deal with fake land records. Blockchain technology came to their aid. “No one can change the data in the system. No property record can be deleted. Digital land records are impossible to tamper with,” says Munagala, founder of Zebi. The implementation took a few months and by December 2017, all land records were stored digitally.
+ 
+ The AP government was, in fact, Zebi’s first customer. Munagala was in talks with corporates and state governments but it was the AP government’s Capital Regional Development Authority (CRDA) that responded positively. “There is quicker adoption by government now. State governments are keen to explore the latest technology, but unfortunately, they are not always aware of it,” says K S Viswanathan, vice-president (industry initiatives), Nasscom. That’s where industry bodies like iSpirt and   come in. Every few months, they take startups to meet state governments and lead discussions.
+ 
+ Last year, Nasscom and  , supported by the government’s   and Invest India programmes, held a ‘Code for the Next Billion’ challenge to identify startups in the social impact stage. “Governments are quite receptive to ideas from startups if they are focussed on healthcare, citizen services, sanitation and agriculture,” Viswanathan says. One of the 10 winners of the challenge was a Jaipur-based company Right2Vote, which had an idea for an app to help users vote and get real-time notifications on results. “The Election Commission took a liking to it,” says Viswanathan.
+ 
+ The app lets users link their Aadhaar number and vote digitally. The startup has done pilots in Madhya Pradesh and Maharashtra and has now its sights set on the 2019 general election, he said.
+ 
+ Startups are stepping into rural areas with their solutions as well. Mumbai-based  , which builds diagnostic devices for chronic diseases, is working with the Maharashtra government to improve access to healthcare in tier 2 and 3 towns. They have installed their devices in all the public health centres in rural Maharashtra with the help of non-governmental organisations.
+ 
+ The partnership with Nasscom has helped startups reach more people. That’s how HackerEarth, a platform that organises hackathons for companies, started working with state governments close to two years ago. “The Karnataka government had a lot of traffic data but didn’t know how to use it. We helped them crowdsource solutions for issues like traffic jams,” says founder Sachin Agarwal. The company has since worked with the governments of Rajasthan and Andhra Pradesh, and the Bhopal administration.
+ 
+ Since the government’s reach and influence is far greater than the private sector, startups benefit. “At the hackathon we conducted for the Rajasthan government, 100-odd people turned up. When corporates organise them, we never get more than 60,” says Agarwal.
+ 
+ Bengaluru-based Eka Analytics has rolled out a pilot project in association with the Coffee Board of India to introduce blockchain technology in the coffee sector covering growers, exporters, consumers and trade, including cafes, in order to help the industry use data to tackle challenges.
+ 
+ Though the intentions are good, things do move slowly when bureaucracy is involved. Biosense Technologies’ founder Abhishek Sen says it takes six months to a year to finalise orders, and they have to deal with layers of authority. “We had to talk to the head of the department at the hospital, initiate conversation at a secretary level, then go to a different department for procurement and pricing,” says Sen. There are well-meaning bureaucrats but that doesn’t necessarily speed things up, he says.
+ 
+ However, the impact and data from large projects drives both parties. Biosense has put up 1,000 machines and screened more than 5 lakh people. It has also got access to health data that it wouldn’t have got otherwise.
+ 
+ APCRDA’s IT director Saibaba Guru says leveraging technology has helped the state prevent fraud and discrepancies in land records of farmers, who were at the mercy of the local tahsildar (collector). “Now each farmer is given a blockchain certificate with a QR code which cannot be duplicated or forged. The cost of the project is around Rs 42,000 per month, a very small sum for the security it provides,” he says.
+ 
+ 

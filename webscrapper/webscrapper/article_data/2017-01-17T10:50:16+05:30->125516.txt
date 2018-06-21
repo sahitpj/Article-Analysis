@@ -1,0 +1,24 @@
+ control strategies need to include cattle-sheds too in India, according to a new study by an international team of researchers. They found that in rural India, cattle-sheds are usually closely integrated with homes and malaria spreading mosquitoes rest in them, besides feeding on cattle. But malaria elimination strategies like spraying often do not cover these cattle sheds, turning them into a refuge for mosquitoes.
+
+ In India, about 95% of the population lives in  . There were over 1.1 million confirmed cases of malaria in 2014 but this is an underestimate since the surveillance and blood testing does not cover the whole population. In 2014, only about 10% of the population had their blood tested for malaria. 
+ 
+ "In many parts of the world, the mosquitoes responsible for transmitting malaria are specialist feeders on humans and often rest within human houses," said Matthew Thomas, professor of entomology, Penn State. "We found that in an area of India that has a high burden of malaria, most of the mosquitoes that are known to transmit malaria rest in cattle sheds and feed on both cows and humans."
+ 
+ According to Jessica Waite, postdoctoral scholar in entomology, Penn State, cattle sheds are often next to, and sometimes even connected by, a shared wall to human houses, yet current control efforts are restricted to domestic dwellings only.
+ 
+ "Given this cattle-shed 'refuge' for mosquitoes, focusing only on humans with regard to malaria control is a bit like treating the tip of an iceberg," said Waite.
+ 
+ The researchers determined the importance of cows in the malaria-control problem by capturing adult mosquitoes in different habitats within six villages in Odisha state-which has the highest number of malaria cases in the country-and noting where the mosquitoes had been resting. The team then used molecular techniques to determine which species they were and which hosts they had been feeding on.
+ 
+ The scientists collected a total of 1,774   and 169   across all study sites. They found that both species were denser in cattle sheds than in human dwellings, and both were feeding on humans and cattle.
+ 
+ Next, the researchers used their field-collected data to help build a computer model that simulated the life of an adult mosquito. They used the model to explore how best to control the mosquitoes to have maximum impact on malaria transmission in these villages.
+ 
+ "Our model analysis suggests that conventional control tools-such as insecticide-treated bed nets and indoor insecticide sprays-are less effective when mosquitoes exhibit   behaviors (having an attraction to nonhuman animals)," said Thomas. "However, extending controls to better target the zoophilic mosquitoes-for example, by broadening coverage of non-repellant insecticide sprays to include cattle sheds-could help reduce transmission dramatically."
+ 
+ Waite added that the model suggests very little cattle-based vector control effort would be required to drive malaria transmission in the region to elimination.
+ 
+ "We show that directing even modest amounts of effort to specifically increase mosquito mortality associated with zoophilic behaviour can shift the balance towards elimination," she said.
+ 
+ The findings appear in Jan. 16 edition of Scientific Reports.
+ 

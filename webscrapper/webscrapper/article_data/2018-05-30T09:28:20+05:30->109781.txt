@@ -1,0 +1,8 @@
+PARIS: A computer was better than human dermatologists at detecting skin cancer in a study that pitted human against machine in the quest for better, faster diagnostics, researchers said on Tuesday. A team from  , the US and France taught an   system to distinguish dangerous skin lesions from benign ones, showing it more than 1,00,000 images.
+
+ 
+ The machine — a deep learning convolutional neural network or   — was then tested against 58 dermatologists from 17 countries, shown photos of malignant melanomas and benign moles. Just over half the dermatologists were at “expert” level with more than five years of experience, 19 per cent had between two and five years’ experience, and 29 per cent were beginners with less than two years under their belt. “Most dermatologists were outperformed by the CNN,” the research team wrote in a paper published in the journal Annals of Oncology.
+ 
+ On average, flesh and blood dermatologists accurately detected 86.6 per cent of skin cancers from the images, compared to 95% for the CNN. “The CNN missed fewer melanomas, meaning it had a higher sensitivity than the dermatologists,” the study’s first author   of the   said in a statement. It also “misdiagnosed fewer benign moles as malignant melanoma... this would result in less unneccessary surgery.”
+ 
+ 

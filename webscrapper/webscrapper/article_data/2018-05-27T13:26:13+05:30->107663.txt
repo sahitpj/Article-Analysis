@@ -1,0 +1,33 @@
+WASHINGTON: Scientists have discovered that the chemical element ruthenium (Ru) is the fourth element to have unique magnetic properties at room temperature.
+
+ 
+ The discovery, led by researchers at the   in the US, could be used to improve sensors, devices in the computer memory and logic industry, or other devices using magnetic materials.
+ 
+ The use of ferromagnetism, or the basic mechanism by which certain materials (such as iron) form permanent magnets or are attracted to magnets, reaches back as far as ancient times when lodestone was used for navigation.
+ 
+ Since then only three elements on the periodic table have been found to be ferromagnetic at room temperature - iron (Fe), cobalt (Co), and nickel (Ni). The rare earth element gadolinium (Gd) nearly misses by only 8 degrees Celsius.
+ 
+ The study, published in the journal  , opens the door to fundamental studies of this new ferromagnetic Ru.
+ 
+ Magnetic materials are very important in industry and modern technology and have been used for fundamental studies and in many everyday applications such as sensors, electric motors, generators, hard disk media, and most recently spintronic memories.
+ 
+ As thin film growth has improved over the past few decades, so has the ability to control the structure of crystal lattices - or even force structures that are impossible in nature.
+ 
+ Researchers showed that Ru can be the fourth single element ferromagnetic material by using ultra-thin films to force the ferromagnetic phase.
+ 
+ "We are excited and grateful to be the first group to experimentally demonstrate and add the fourth ferromagnetic element at room temperature to the periodic table," said Jian-Ping  , a professor at University of Minnesota.
+ 
+ "This is an exciting but hard problem. It took us about two years to find a right way to grow this material and validate it. This work will trigger magnetic research community to look into fundamental aspects of magnetism for many well-known elements," Wang added.
+ 
+ "The ability to manipulate and characterize matter at the atomic scale is the cornerstone of modern information technology," said  , a professor at the University of Wisconsin-Madison.
+ 
+ Magnetic recording is still the dominant player in data storage technology, but magnetic based random-access memory and computing is beginning to take its place.
+ 
+ These magnetic memories and logic devices put additional constraints on the magnetic materials, where data is stored and computed, compared to traditional hard disk media magnetic materials.
+ 
+ This push for novel materials has led to renewed interest in attempts to realise predictions which show that under the right conditions, non-ferromagnetic materials, such as Ru, palladium (Pd) and osmium (Os) can become ferromagnetic.
+ 
+ Building upon the established theoretical predictions, researchers used seed layer engineering to force the tetragonal phase of Ru, which prefers to have a hexagonal configuration, and observed the first instance of ferromagnetism in a single element at room temperature.
+ 
+ From an application perspective, Ru is interesting because it is resistant to oxidation, and additional theoretical predictions claim it has a high thermal stability - a vital requirement for scaling magnetic memories.
+ 

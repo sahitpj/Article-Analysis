@@ -1,0 +1,9 @@
+LONDON: Scientists have developed an artificial intelligence ( ) system that can identify people by measuring their gait or walking pattern. The technology could be used at airport security instead of fingerprinting and eye-scanning. It can successfully verify an individual simply by analysing the footstep 3D and time-based data.
+
+ 
+ The AI system, developed by researchers at   in the UK and   in  , correctly identified an individual almost 100% of the time, with just a 0.7 error rate. Physical biometrics, such as fingerprints, facial recognition and retinal scans, are currently more commonly used for security purposes.
+ 
+ “Each human has approximately 24 different factors and movements when walking, resulting in every individual person having a unique, singular walking pattern. Therefore monitoring these movements can be used, like a fingerprint or retinal scan, to recognise and clearly identify or verify an individual,” said  , from University of Manchester.
+ 
+ One the key benefits of using footprint recognition is, unlike being filmed or scanned at an airport, the process is non-intrusive for the individual and resilient to noise environmental conditions.
+ 

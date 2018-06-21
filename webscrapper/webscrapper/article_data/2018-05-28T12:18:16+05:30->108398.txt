@@ -1,0 +1,16 @@
+For years,   mothers have questioned their nutritional habits. "Will eating more cause my baby to be overweight?" or "I'm eating for two, so it won't hurt to have an extra serving, right?" are the most common ones heard in every household with a pregnant lady.
+
+ The researchers from Oregon Health and Science University decided to explore the link and made some interesting discoveries. They surmised that while many factors such as the age of the mother, overall health, and genetics ultimately play a role, the correlation between a mother's nutrition habits and metabolism has been proved to directly impact the growth of her child, the exact reason behind such phenomenon.
+ 
+ The  , led by Jae W. Lee, demonstrated that two neurons key to growth and metabolism - GHRH and AgRP - are developmentally interconnected.
+ 
+ Located in the hypothalamus region of the brain within a grouping of neurons known as the arcuate nucleus, GHRH or growth hormone-release hormone neurons orchestrate body growth and maturation. Meanwhile, AgRP or Agouti-related peptide neurons stimulate feeding and suppress energy usage.
+ 
+ To understand how these neurons are developed, the research team cataloged various proteins expressed in the arcuate nucleus of mice and analysed their overall function. "We found that one specific protein called DLX1 is critical for GHRH neuron development. However, it also suppresses the development of the AgRP neuron," said Lee. "When DLX1 was removed, the mouse's growth was stunted, yet it appears obese."
+ 
+ Additionally, DLX1 was found to suppress the development of OTP-labeled cells that become AgRP neurons. This would suggest normal growth development, but limited blockage of energy use, resulting in a trim figure.
+ 
+ "For the first time, these findings prove the intimate relationship between GHRH and AgRP neurons in the developmental lineage. Further, the development of both neurons can be artificially preset in controlling postnatal growth," Lee said.
+ 
+ The study has appeared in the journal Nature Communications. 
+ 
