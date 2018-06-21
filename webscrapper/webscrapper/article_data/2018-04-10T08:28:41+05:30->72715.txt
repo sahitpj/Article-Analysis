@@ -1,0 +1,15 @@
+PATIALA: Researchers at the   ( ), Ropar, have developed an active infrared thermography (IRT) technique for detection of early breast cancer. It is reported to be better than the widely used mammography imaging modality for screening of human breast.
+
+ It’s a fast, painless, noncontact and noninvasive imaging method and complementary to mammography, ultrasound, and magnetic resonance imaging methods for early diagnosis of breast cancer. According to the researchers at  , IRT plays an important role in early detection of breast cancer in women of all ages, including pregnant or nursing women.
+ 
+ “IRT outperforms mammography in diagnosing breast cancer and other diseases as it is also patient friendly. Mammography, on other hand, provides discomfort to the patient besides exposure to harmful ionizing radiation that limits it’s applicability. For tumors situated in the gland region of breast due to insignificant density variations between gland and tumour regions, mammography fails to provide enough radiographic contrast between the tumour location and healthy region of the breast,” said Ravibabu Mulaveesala, an associate professor, department of electrical engineering, IIT Ropar, who along with his team of researchers has developed this technique.
+ 
+ The proposed complementary technique makes use of infrared emission emanating from the breast. The emanating radiations from the surface of breast under test or examination are detected with an infrared camera to map the thermal gradients over it, in order to reveal hidden tumors inside it.
+ 
+ One of the reliable active infrared thermographic techniques, linear frequency modulated thermal wave imaging is adopted to detect tumors inside the breast. Further, phase and amplitude images are constructed using frequency and time-domain data analysis schemes.
+ 
+ This new screening tool, IRT, is also helpful in diagnosing various diseases like diabetes, thyroid, skin cancer and others besides breast cancer at early stage. 
+ 
+ Ravibabu said their group at   (IRIL) was working towards the development of portable low-cost IRT screening system, which would provide an early detection of breast cancer irrespective of patient’s age, size and type of breast and it’s stage. His research paper ‘Applicability of active infrared thermography for screening of human breast: a numerical study’ has been published in the ‘Journal of Biomedical Optics.’
+ 
+ 

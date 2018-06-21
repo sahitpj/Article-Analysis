@@ -1,0 +1,11 @@
+KOLKATA: The first of the two state-of-the-art rakes that arrived for   from   (ICF) in Chennai, in July last year has successfully cleared thermal trials after running 10 round trips of the entire network for 20 hours over the weekend. The second rake will undergo a similar trial soon. 
+
+ "The trials began at 10pm on Saturday and continued till 6pm on Sunday. Experts from Research Designs and   (RDSO) and systems engineers from   (R&D) were present during the trials and they analysed the results," Metro Railway CPRO   said.
+ 
+ The rake was filled with sandbags to simulate a heavy dense crush load as it ran non-stop between   and Noapara. According to an engineer, such tests are required to probe the effectiveness of the major traction and braking power equipment, the rake's healthiness and stabilization of temperatures up to the optimal limit.
+ 
+ Though extremely advanced, the rakes haven't been cleared for commercial runs as yet as some systems were found incompatible with the Metro's existing infrastructure. As the rakes are totally software driven, the robustness has to be checked before they can be allowed to carry passengers in a system most of which is at least 30 years old.
+ 
+ "After being commissioned, the rakes will run continuously throughout the day. We do not withdraw rakes from service unless they suffer a technical snag. At the moment, 20 rakes are used for 300 services every day. This means that every rake has to run 15 services on an average. When rakes run continuously, they generate heat and it needs to be checked how the equipment react when the temperatures rise. We also checked how long the system takes to cool down after reaching the maximum permissible temperature. ," another official said. 
+ 
+ 

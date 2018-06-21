@@ -1,0 +1,13 @@
+PANAJI: Ahead of appointing an agency to set up the Goa intelligent city management system for the state capital, Imagine Panaji   Development Ltd has asked the four companies that qualified to demonstrate their ability to integrate and deploy the command control centre.
+
+ The companies — BSNL, L&T, Honeywell, and NEC — have been asked to set up mock command and control centres for a week, said officials. “The bidders have been asked to develop a proof of concept based on which the technical qualification will be done,” said CEO, Imagine Panaji Smart City Development Ltd, Swayandipta Pal Chaudhuri. “After the proof of concept, the financial bids will be opened and the lowest bidder will be selected,” he said. “We hope to freeze the tender by mid-June.” 
+ 
+ As part of the proof of concept, the four companies will deploy surveillance cameras, solid waste management solutions, wifi, and an integrated command and control centre at the Adil Shah palace for a week. “The managed shared service is being procured for the entire state and not just for Panaji,” Chaudhuri said. “So tomorrow, if   or Vasco wants to use the same system, all they have to do is purchase the hardware. The software will be purchased for the entire state.” 
+ 
+ Expected to be operational in the next four months, the command and control centre will cover the entire city with 400-odd surveillance cameras, and will be integrated with the Corporation of the City of Panaji’s garbage management system and the Goa police control room.
+ 
+ The intelligent city management systemwill see the integration of Internet of Things (IoT) devices, air quality sensors, radio frequency identification (RFID) tags, emergency management systems, and security systems.
+ 
+ Chaudhuri stressed that the centre’s main focus is not city surveillance through smart cameras, but efficient solid waste collection and handling through RFID tags which will be embedded on trucks, garbage bins, and at weigh bridges. As part of the system, smart parking will also be implemented across the capital, where citizens will be able to pre-book parking slots and pay for it through an app.
+ 
+ 

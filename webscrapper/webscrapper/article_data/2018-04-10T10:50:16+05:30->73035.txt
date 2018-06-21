@@ -1,0 +1,45 @@
+BENGALURU: The centre of gravity of Fortune 500 companies is shifting to India. The future strategies of these companies are being invented here,” says Lalit Ahuja, a retired Navy man who runs Ansr, a venture in Bengaluru that helps multinational companies establish engineering and research and development centres — known as global inhouse centres or GICs — in India. Among the companies it’s worked with are Target, JCPenney, AB (Anheuser-Busch) Inbev, Saks Fifth Avenue and Grant Thornton.
+
+ 
+ “Conversations are no longer about cost. It is digital technology that is bringing companies here,” says K S Viswanathan, IT industry body Nasscom’s head of industry initiatives whose responsibility includes dealing with GICs. A total of 1,150 multinationals have global in-house centres that employ more than 8 lakh people in the country.
+  
+  
+  
+ For years, India was linked with cheap processing and outsourcing work. Today, an increasing amount of the work is in big data and analytics, mobility, artificial intelligence, machine learning, internet-of-things (IoT), blockchain and robotics. These new digital technologies are becoming drivers of business, creating new sources of revenue for the MNCs, not just reducing costs or improving productivity.
+ 
+ For instance, some of Adobe’s biggest products — Acrobat, Illustrator, InDesign — are entirely developed and managed out of India. Car technology systems for Fiat Chrysler, GM, Volkswagen, Hyundai and Tata Motors were built at Harman’s India research centre, where local engineers designed a costeffective hardware and a simpler software architecture that embraced open source technology.
+ 
+ 
+ Multinationals set their sights on Bengaluru in the 1980s, after US chip design firm   set up an R&D centre in 1985, but the pace has accelerated since 2000. Corporations need engineers to re-do their technology infrastructure and build innovative solutions, and India is the only place where they can get them in the numbers and quality required. Earlier, companies would outsource technology work to IBM, Accenture, TCS or Infosys. But these technologies are new even for these specialists. Global companies figure they can do a better, quicker and more customised job if they took on the onus themselves.
+ 
+  
+  
+ 
+ Bengaluru’s long history with public sector defence undertakings and their research arms, and academic and research institutions such as IISc laid the foundation. This environment bred the IT services industry, and encouraged Texas Instruments to set up here. Since then, the city has attracted tech talent from across the country. The growing maturity of talent in IT services companies, as also those in new-age companies like Flipkart, gives GICs a ready base of talent. The city’s weather and cosmopolitan culture too have played major roles in consolidating its attractiveness.
+ 
+ Today, there’s a strong ecosystem that keeps reinforcing the city’s strength. Pari Natarajan, CEO of Zinnov, provides an example from financial services. Wells Fargo, JP Morgan and Goldman Sachs have major tech arms in Bengaluru. So do those who provide banking software — Broadridge, Fiserv and Misys — as also those who provide enterprise software, SAP and Oracle, and infrastructure platforms such as Microsoft and Dell. Natarajan says the network effects are tremendous when companies that depend on one another are in close proximity.
+ 
+ “Cost arbitrage is not a factor,” said Sonali De Sarkar, director-HR at storage and data management company NetApp India, which has had operations in India for a while, but recently opened a new campus in Bengaluru. “Our India site is the biggest in the world. We drive global charters from India. There are people in the US reporting to people here,” she says. NetApp’s techniques of using new-age flash media in a way that its cost equals that of traditional diskbased solutions were created in India.
+ 
+ Sarv Saravanan, who heads storage and data management company EMC’s centres of excellence in Asia Pacific and Japan out of Bengaluru, said tech products could earlier be built once in three years, now it needs to be done every six months. This requires critical skill sets at scale. And MNCs’ home countries don’t have that, India does.
+ 
+ Manu Saale, managing director of Mercedes-Benz R&D India, says not even China has this kind of talent. “The Chinese tend to be focused on the local market. India is focussed on global initiatives. I haven’t seen the kind of international mindset, outspoken thought and engineering capabilities that the world is looking for in China,” he says.
+ 
+ Banks are trying to digitise every process to make transactions simple and fast. Deutsche Bank COO Kim Hammonds has increased the number of engineers in the bank since she joined in 2013. “I believe engineers solve problems,” she told TOI recently. She is looking at processes run out of in India to see how automation, machine learning and AI can be applied to drive efficiency. “We had a 24-hour hackathon with 450 technologists in 12 locations, and the India team won,” she said, adding that the solution the team developed is going into the bank’s operations.
+ 
+ In retail, just about every big brand in the US is rushing to India to find digital solutions to take on Amazon’s might. In the past few years, Walmart, Lowe’s, L Brands (Victoria’s Secret), JCPenney, Saks Fifth Avenue and Ann Taylor have come in to create digital platforms that can provide an omnichannel experience to customers, make supply chains more efficient, and analyse humongous amounts of data.
+ 
+ “The India centres are now the front office,” says Ansr’s Ahuja. “We are providing insights, and increasingly, the foresight — who is going to come to my website, what is she going to buy, how much is she going to spend? We are writing the future.”
+ 
+ GE, Honeywell, Airbus, Boeing use engineers in India to design more efficient, bigger and faster aircraft. GE’s technology centre in Bengaluru has become its largest R&D centre, housing engineering teams across healthcare, aviation, transportation, power and energy. Oil and gas major Shell opened a tech centre in Bengaluru in 2006, and expanded to a new 52-acre campus last year. The campus has over 1,000 people with expertise in liquefied natural gas, subsurface modelling, data analysis and engineering design.
+ 
+ Soon after Dinesh Paliwal, who had led the establishment of ABB’s R&D centre in India, took over as Harman CEO in 2008, he decided to change Harman’s “crazy cost structure” using Indian expertise. The team here designed a more cost-effective hardware and a simpler software architecture that embraced more open source technology, and put the two together. Today, the India-built platforms run on numerous brands globally, including Fiat Chrysler, General Motors, Volkswagen, Hyundai, Subaru, Kia, and Tata Motors, Paliwal told TOI in 2016, a few months before the company was bought out by Samsung for $8 billion.
+ 
+ “If you challenge Indians and say, here’s the product, take this, reverse engineer it, bring down the cost to a third of what it is…they will do it. Indians are creative geniuses,” Paliwal had then said. The transformation has become the subject of a study by the Harvard Business School.
+ 
+ For all Mercedes car lines, the rear seat safety mandate is in India. The engineers in India compute all the parameters for seat safety, compute every load case, and provide the result. The India team then participates in the testing in a crash hall somewhere in the world. The centre here also works on certain doors and chassis, and has built numerous cutting-edge algorithms — involving over 250 patents — that help parent company Daimler simulate and test a variety of systems.
+ 
+ India has Daimler’s biggest R&D presence outside of home country Germany. Thomas Weber, adviser to Daimler AG, and a former member of the board of management of Daimler, told TOI on a visit to the centre a little over a year ago: “In every Mercedes car, there’s a huge part of India.”
+ 
+ On the same occasion, there were also journalists from Europe, and one asked Weber: “Can we say the artists are in Silicon Valley while Bangalore has the craftsmen who implement it?” Weber’s reply was striking: “That’s the process we started with, but it’s totally changed now. These guys are competitors of those in Silicon Valley. The game has changed.” 
+ 

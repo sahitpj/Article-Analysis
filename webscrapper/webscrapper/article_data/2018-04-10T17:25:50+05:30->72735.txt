@@ -1,0 +1,20 @@
+CHENNAI: As the   ( ) is making a second attempt to launch one of the backup satellites to replace NavIC navigation   constellation’s IRNSS-1A, whose three rubidium clocks failed, the space agency is taking efforts to install its signal receivers on the ground. Navigation satellite signal receivers which will give   and weather alerts to fishermen in deep sea were tested and more such devices will be fitted in boats in   and  .
+
+ On April 12,   in 43rd flight will lift off with the 1.4tonne IRNSS-1I from the first launch pad in Satish Dhawan Space Centre, Sriharikota. Once placed in orbit, it will replace IRNSS-1A and join the constellation of seven satellites. The launch will be Isro’s second attempt at sending a replacement satellite. The previous mission in August 2017 where a PSLV carried IRNSS-1H failed after the heat shield covering the satellite failed to separate.
+ 
+  
+  
+ 
+ 
+ Isro chairman Sivan said the receiver will be connected to the mobile phones of fishermen through Bluetooth. They will receive text messages on their position at sea, weather alerts and potential fishing zones. Fishermen need to download an application on their phones to decode and display the text messages. “We have demonstrated the usefulness of the receiver along with messaging services. Now, when fishermen go to sea, they are completely cut off from the shore for days. They don’t get any vital information like cyclone alerts. We have planned it in such a way, that they receive messages,” he said.
+ 
+ Isro officials said while the trials were conducted in Kerala, about 500 more fishermen in Kerala and 200 in Tamil Nadu will get the receivers.
+ 
+ The satellites’ receiver comes with three components- a chipset, a microcontroller and a Bluetooth module. The receiver, developed by Isro’s Space Applications Centre, Ahmedabad, is also being improved to save power in both mobile and the device. 
+ 
+ 
+  
+ 
+ Isro chairman said, “We are working with mobile phone manufacturers to see if they can incorporate the receiver as a component during manufacturing. Right now, these receivers are available as a separate unit and it can be used in many other applications including as a navigation device in vehicles.”
+ 
+ 

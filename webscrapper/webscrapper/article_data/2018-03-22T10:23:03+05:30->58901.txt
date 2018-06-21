@@ -1,0 +1,16 @@
+MUMBAI: Even as the government tries to push debit card use, banks continue to hit customers with unreasonable charges for incidents such as transactions declined for want of minimum balance. Each time a customer swipes a card without adequate balance in his bank account, between Rs 17 and Rs 25 is debited from him. The applicable rate of   is added too.
+
+ 
+  charges Rs 17 each time a debit card swipe is declined at either an automated teller machine ( ) or a point of sale (PoS) terminal.   and   charge Rs 25 as transaction decline charges at PoS machines. 
+ 
+  professor (mathematics) Ashish Das said, “For debit card usage for non-cash merchant transactions, these exorbitant fees make no sense and by no means incentivise the government’s wish of promoting payments through card and digital.” Das has authored several research reports on bank charges and has been instrumental in changing regulatory policies in the past.
+ 
+ The fees on declined transactions persist even as the government has capped merchant discount rate or MDR — the charges imposed by banks on merchants who accept card payments. Also, banks are running campaigns encouraging customers to use debit cards at shops for payments and not visit their branches or ATMs.
+ 
+ Das added, “The present system is highly anti-digital and unnecessarily risky (in terms of fees) for people who have no great savings but live on monthly salary. Such charges only disincentivise and create negatives for digital payments.”
+ 
+ Banks have argued that the rationale is the same as the one behind cheque decline charges, which are much higher. Charges similar to cheque bouncing are also applied on failed   (electronic clearing services) debit transactions. Das said, “Cheque/ECS returns involve third parties and create distrust in the payment mode. These should be discouraged and thus severe deterrents should be put in place in the form of penalty. However, decline of an ATM transaction due to insufficient balances is nowhere on a par with cheque/ECS returns. It does not involve any third party. Moreover, National Payments Corporation of India (NPCI) does not consider it a transaction and hence no interchange is paid by the card-issuing bank.”
+ 
+ According to Das, if there is misuse of debit cards, banks could at least set a floor of two free declined merchant transactions per month due to insufficient funds and thereafter impose a reasonable fee.
+ 
+ 
