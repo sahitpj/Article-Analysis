@@ -1,0 +1,17 @@
+For the past eight years, scientists and researchers at the Bharathiar University’s DRDO Centre for Life Sciences and the department of biotechnology have worked to develop vaccines for viral diseases by producing antigens from plants. But they could not progress to human testing as there were still widespread apprehensions about vaccines based on plant-derived antigens.
+
+ This, however, did not deter the researchers. They have now decided to use the plant-derived antigens to develop diagnostic kits to detect viral and bacterial diseases.
+ 
+ The researchers said they had been working on a technique called agro-infiltration. The technique uses recombinant DNA technology, in which the functional part of the virus’ DNA is introduced into bacteria’s genome. This is grown in a culture and then introduced into plant’s cytoplasm. The plant then produces the protein from the virus’ DNA – an antigen which causes a disease - and the disease-causing gene expresses itself in the plant. This method is transient as the virus’ characteristics wouldn’t get transmitted to the next generation.
+ 
+ Later, the plant material and the antigen are extracted by a chromatographic technique. This would be then used to produce vaccines. The plant used in the research is Nicotiana benthamiana, a variety of tobacco.
+ 
+ This method of deriving antigens from plants would bring down the cost of vaccines very much, said R Sathishkumar, associate professor in the department of biotechnology,  . "In the recombinant DNA technology, antigens are produced and derived from expensive animal cell cultures. Doing the same through plants would make it cost effective," he said.
+ 
+ Sathishkumar said they were working on the project in collaboration with universities from the UK through the UK-India Education Research Initiative (UKIERI). "We provided support in biotechnology and a university from the UK provided virology support. We had successfully proved the method for chickungunya vaccine through animal testing," he said. "But there were severe apprehensions about the long-term effects of using vaccines from antigens produced in plants. So, we couldn’t pursue the research," he added.
+ 
+ However, they have now decided to use plant-derived antigens to develop diagnostic kits to detect viral and bacterial diseases, Sathishkumar said. "A diagnostic kit would have the antigen coated on a strip. If blood sample is introduced on the strip, the specific antibody in the sample would react with the antigen and produce a stain," he said.
+ 
+ Using plant-derived antigens for the diagnostic kits would bring the cost down by almost 10 times, said Gowtham Iyappan, a research scholar working on the project. "Currently, diagnostic kits for chikungunya and dengue involve three tests which cost around `1,500 to `2,000. But we at the department of biotechnology are working on a kit which would detect both the diseases in about `100 to `200," said Gowtham.
+ 
+ 

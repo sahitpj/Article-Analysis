@@ -1,0 +1,18 @@
+A group of five 17-year-olds from class 12 of St Joseph’s Boys’ High School has proved how   can  .
+
+ Their innovation is called ‘Infrasonic Fire Extinguisher’, which won the first prize at the National Innovation Challenge for Young Minds-Teenovators 2016’, the 6th edition of the national level competition organised by the Manipal University in association with INK. The team won the ‘Teenovators of the Year’ certificate and a cash prize of Rs 5 lakh.
+ 
+ The idea of developing the Infrasonic Fire extinguisher came up after brainstorming session, that too with a handicap. “We got to know we were selected a little late but completed our device in less than three weeks,” says Shivalik Poovaiah, a team member.
+ 
+ His fellow teammates are Lloyd Lobo, Pranav KB, Aman Basawanal and Joshua Lewis.
+ 
+ Their idea is to make sound waves push away   from the fire as sound waves are mechanical waves carrying energy to push away the molecules. Fires rage due to oxygen supply, and pushing away the molecules helps put out the blaze. “Fire is made of fuel, heat, oxygen and a chain reaction. We point our phones, generating sound waves from using the application – called Function Generator – to the device. The phone is connected to an amplifier on our device by two wires.
+ 
+ These sound waves are then expelled through this subwoofer membrane at the fire to put it off. These low frequency sound waves produce a large gaps between oxygen molecules and the fuel. Since fuel is dense while oxygen is lighter, the oxygen is pushed away easily,” Shivalik explains.
+ 
+ The device resembles a cylinder with a sub-woofer membrane at one end and an amplifier connected at the other, which in turn is attached to the user’s phone with two wires.
+ Using a 60 Watt battery and generating sound waves of 40 Hz frequency, the device cost the young innovators Rs 5,000.
+ 
+ Although this prototype is hand-held, they plan to upgrade it to fit it on a drone, which costs about Rs 40,000.
+ 
+ 

@@ -1,0 +1,29 @@
+NEW DELHI: It’s not the  , but a team of   experts sitting in a corner room at the   which is scanning the post-demonetisation deposit deluge in   to identify the fraudulent ones.
+ 
+  Depending on the success of this exercise, the team may also scrutinise all bank accounts for unusual transactions after  , asenior government official said.
+  
+  Pulak Ghosh, a data analytics expert who teaches at Indian Institute of Management-Bangalore and advises a UN Big Data project, is leading the team at the Aayog, the official told ET. He is part of the government think tank’s data analytic cell, being overseen by Avik Sarkar, an officer on special duty to Aayog vice chairman Arvind Panagariya. IIM-B confirmed Ghosh’s assignment at the NITI Aayog.
+  
+  “While it is right that Professor Pulak Ghosh has been roped in by NITI Aayog, he is unavailable for comment as he is currently travelling on work,” a spokesperson said in an emailed response to ET’s queries.
+  
+  In big data, huge amounts of information are machine analysed to reveal patterns, trends and associations. Data analytics is still a very niche area in India, especially in government work.
+  
+  
+  
+  
+  “The knowledge of big data and analytic for checking fraud in banking is very relevant. For large systems, big data and analytics is needed,” TV Mohandas Pai, former board of member at Infosys, said, endorsing the move.
+  
+  The government official said the analytic cell of the NITI Aayog was seeking access to transaction networks of all banks to analyse the data and look for deposits and withdrawals which were aimed at laundering black money. Jan Dhan accounts had seen huge inflows since demonetisation.
+  
+  While Rs 646 crore had come into 32 lakh such accounts between October 2 and 30, the inflows swelled by Rs 29,000 crore to Rs 74,321crore between November 2 and 30, with most of the deposits happening after November 8. This has raised suspicion that the accounts had been used for money laundering.
+  
+  The Pradhan Mantri Jan Dhan Yojna was launched in 2014 to increase the coverage of formal banking. Accounts under it have a deposit limit of Rs 50,000.
+  
+  Sensing their misuse following demonetisation, RBI restricted withdrawals from such accounts to Rs 10,000 a month. By the end of December, the amount in these accounts fell to Rs 71,036 crore. Since scrutinising the data would be a humongous task, the work was assigned to Ghosh’s team at NITI Aayog.
+  
+  Prior to IIM, Ghosh was a professor at Georgia State University and Emory University. He is serving also in advisory group on big data at UN Global Pulse. He is a fellow at the Centre for Advanced Financial Research and Learning, promoted by RBI. “Big Data research is of great importance these days because of 'Internet of Things' applications where one is expected to collect a huge amount of data from interconnected sensors,” IIT-Delhi Director V Ramgopal Rao said.
+  
+  
+ 
+  
+  
