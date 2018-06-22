@@ -1,0 +1,24 @@
+NEW DELHI: 'Digital shoplifting' got added to the growing list of cyber crimes in the city after a group of tech students and dropouts repeatedly hacked a gifting website and stole e-vouchers worth nearly Rs 1 crore by altering the site's payment gateways.
+
+ The south Delhi-based website, Gyftr.com, approached police on December 30 and an FIR was lodged at Hauz Khas. After investigations lasting 25 days, cops arrested a hacker and three of his friends for the crime.
+ 
+ The mastermind, Sunny Nehra, a BTech dropout from Sonipat, was found to be staying at Leela Ambience, Gurgaon. Police described the mastermind as an expert in vulnerability testing of e commerce websites.
+ 
+ Joint commissioner R P Upadhyay said the other three arrested in the case were Azad Choudhary, Tejveer Sheoran and Prakhar Aggarwal. Azad is a BTech student from Churu, Rajasthan. Prakhar is also a second-year BTech student from Dehradun while Tejveer, from Bhiwani in Haryana, is pursuing BCA at a   college.
+ 
+ “These crooks hacked into the payment gateway used by the website and manipulated details including source codes to execute their con job,“ said  , DCP south.
+ 
+ The complainant had provided voluminous data on the crime procured from various emerchant firms. These revealed that e-vouchers which were digitally shoplifted belonged to companies such as Make My Trip, Amazon, Flipkart, Big Bazar, Reliance Digital, Myntra.com, Yatra.com, Dominos, Prestige, Titan, Provogue, Shoppers Stop and other online shopping firms.
+ 
+ The total financial loss to the complainant was assessed at over Rs 92 lakh. The team needed to ascertain the identity and location of the entity which was behind the crime. IP addresses, emails, associated phone numbers and bank transactions were tracked.More information was sought from PayU, Amazon, Flipkart, Reliance Digital, etc.
+ 
+ Teams led by   finally caught up with the prime accused at Leela Ambience, Gurgaon. On his disclosures, the other three were arrested. The quartet was interrogated and they revealed their modus operandi.
+ 
+ “Nehra claimed that one of his hacker friends had told him that a leading payment gateway had a vulnerability which could be exploited for data tampering,“ said additional DCP south, Chinmoy Biswal.
+ 
+ Nehra was intrigued as to how such a reputed website could have a weakness and started testing it. Soon, he discovered that the gateway was allowing “change in parameters on the processing page“ and decided to exploit it.
+ 
+ Nehra and accomplices described their expertise as “data tampering“. A number of cyber crimes can be committed using these skills. One of these is “adding cash backs“, that is, enhancing the value of cash back offers. The expertise can also be used to peddle the same gift card repeatedly without detection, place online orders without making any payment or by paying a small amount. A senior cop explained how the hackers committed their crimes. “While making an online purchase, a customer enters his or her debitcredit card details and clicks on the `make payment' icon. At this point, this message often flashes on the screen: `Your payment is being processed; please do not refresh or press the back button'. The hackers would, at this stage, press cancel or the back page icon, and save the source codes. The parameters were then edited on a `jammed' webpage,“ said a senior cop.
+ 
+ The order would then be placed by transferring money from an online e-wallet opened by the hacker using a fictitious or proxy identity.
+ 

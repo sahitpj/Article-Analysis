@@ -1,0 +1,16 @@
+What do you do when you’re a 14-year-old who wants a computer but doesn’t have one? Most of us would beg and plead with parents, the more industrious among us may attempt to save up money, but Kriti Sharma did what seemed obvious to her: she devoured tech tomes and built herself one.
+
+ The 30-year-old is essentially a problem solver. Problem No 1 on her list right now is sexism in tech. Frustrated by the reinforcement of sexist ideas by bots, she created Pegg, a gender-neutral personal finance assistant. Most virtual assistants have female personas — Siri, Alexa, Cortana are at your beck and call for boring, mundane stuff. Compare them to AI platforms such as IBM’s   and Salesforce’s Einstein, which get the more complex tasks. “This reminds me of the TV show Mad Men, the idea of this female secretary who is subservient. You’re reinforcing the same behaviour,” says Sharma.
+ 
+ As VP of artificial intelligence (AI) and ethics at Sage, a British software company, Sharma says that AI and bots are “going to be as important and prevalent in our lives as smartphones, so we need to make sure it’s done the right way”. Kids today are growing up with AI, she adds. “If they grow up in a world where they can shout orders at a female voice without saying thank you, sorry or please, that’s not right. It’s wiring them to see this stereotypical behaviour as normal.”
+ Sharma, who grew up in Jaipur and shifted to the UK at 22 for a master’s in computer science at the  , cites her mother, a journalist working in  , as her inspiration for challenging stereotypes. “I learnt a lot from the way she challenged people, did the right thing and stood up for herself.”
+ 
+ Currently, Sharma is working on an AI system to help report domestic abuse. Given the stigma surrounding abuse, she argues that the bots’ lack of “human-ness” could actually help victims open up.
+ 
+ AI, which is based on a machine learning model, learns from the data it is provided. If the data is sexist, the outcome will reflect that bias. “There was a recent study done where ads for jobs which pay more than $200,000 were more likely to be shown to men than to women.” Sharma explains why the system functions in that way. “The AI that is choosing who to show the ads to knows that historically, men have made more money than women and, therefore, showing these jobs to men, it’s more likely to be successful. We must change the metric of success from quickly finding a candidate to giving everyone a fair shot.”
+ 
+ At Sage, she focuses on how to build AI more ethically. This includes diverse hiring practices, transparency in the decision-making processes of AI and using it to create more equality. This code has been made public and other tech companies are encouraged to incorporate it into their work.
+ 
+ So when you think of the potential of AI, don’t just think of a dystopian future filled with killer robots, also think of Kriti Sharma. Think about good people using technology to do good things.
+ 
+ 

@@ -1,0 +1,9 @@
+BOSTON: Warm, pleasant weather may trigger happier posts on   and Twitter while cold, wet and humid days could lead to negative expressions, according to a study.
+
+ 
+ The study, published in ‘PLOS One’, found that weather patterns can influence how we express ourselves on social media, and people are less likely to post positive sentiments when the temperatures soar above 30 degrees Celsius.
+ 
+ Researchers from   in   and   in the US gathered 2.4 billion posts from Facebook and 1.1 billion from Twitter between 2009 and 2016. They analysed the sentiment for each post using a tool that categorises posts based on keywords as positive or negative.
+ 
+ They found that temperature, precipitation, humidity, and cloud cover were strongly associated with an expression of sentiment, whether positive or negative. Positive expressions increase up to 20 degrees Celsius and decline as the temperature goes over 30 degrees Celsius. They also found that precipitation was associated with more negative expressed sentiment. Days with a humidity level of 80% or higher were associated with negative expressions, as were days with a high amount of cloud cover. 
+ 

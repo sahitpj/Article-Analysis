@@ -1,0 +1,20 @@
+BENGALURU: Technology and sports will come together in a big way when the   begin at RN Shetty Stadium in Dharwad on February 3.
+
+ Inspired by the way information technology and digitisation have streamlined global events, the Karnataka Olympic Association, led by president  , and the state government have embarked on a project which aims at providing on-the-go information to around 5,000 athletes, officials, support staff and sports enthusiasts.The basic requirement: an Android smartphone with internet connectivity.
+ 
+ ScoreUp, a city-based sports technology startup, has created the platform which can be accessed from computers and a mobile app. Basic information about the event through text messages is another way for athletes and officials to stay in the loop.
+ 
+ The official games website and the app on Amazon Cloud will ensure consistent and high performance even if it is accessed via a 2G network.
+ 
+ The registration process, usually a cumbersome affair with a lot of paperwork, has been digitised. Eight   employees are at the   here, collating information on participating athletes and support staff and entering it into the system.Even as these profiles are being completed, participants will be classified sportwise for information -right from the games schedule to the last-minute change of plans.
+ 
+ ScoreUp co-founders Sujith Paramba, Sanjay Chaturvedi and Binoy Mathunni said participants had the option of registering online but since participation had to be endorsed by their respective associations, some paperwork was necessary .
+ 
+ Once registration is done, a participant will receive her login details via a text message. After logging in, she'll be able to see the boarding and lodging details, distance between the accommodation and venue, conveyance schedule with route numbers and emergency contacts. Each athlete will also get an ID to keep track of results. A notice board will be provid ed on the website and app for breaking news. Having been classified into groups under various sports, there's little chance of them missing out on updates.Similarly , the games website will contain information of all the 25 disciplines with brief description of the sport, dates of competition and venues, among others.
+ 
+ The system has the option of generating accreditation cards for participants. “Distribution of ID cards, food coupons and welcome kits are a challenge. Now, soon after registration, we know who is landing when in Dharwad.Once ID cards are handed over to athletes, they'll be entered into the central database. These are colourcoded and come with predefined template to differentiate between participants at the games. We picked up the colour combinations from the Olympics. An extra bit of information added is what the athletes ought to do once they land in Dharwad,“ the techies explained.
+ 
+ Sujith, Sanjay and Binoy said compiling results of events is a race against time. “We won't do live scoring. We have devised multiple methods of capturing results, depending upon the sport, and updating them. We have deployed 6-7 officials at our office at the Shetty stadium to enter data and both KOA and government assured us that results would reach us promptly .Though it won't be a real-time exercise, the results will be availa ble at the end of each day.“
+ 
+ Fans of the games can download the app and get access to results and athlete profiles, among other things. The ScoreUp team said: “We're thankful to sports minister Pramod Madhwaraj and   K Govindaraj for their foresight to bring technology to manage the games.“
+ 

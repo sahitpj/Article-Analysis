@@ -1,0 +1,21 @@
+SAN FRANCISCO:   Inc is on the hunt for other Cambridge Analytica-sized data leaks, and the company warned on Thursday that users and investors might not like what it finds.
+
+ In its quarterly report shared with the   (SEC), without mentioning  , Facebook said it expects to discover and announce more "instances of misuse of user data or other undesirable activity by third parties".
+ 
+ "We may also be notified of such incidents or activity via the media or other third parties," Facebook said on Thursday. Either way, "the discovery of the foregoing may negatively affect user trust and engagement, harm our reputation and brands, and adversely affect our business and financial results," the social-media giant said in the filing.
+ 
+ "Such incidents and activities may include the use of user data in a manner inconsistent with our terms or policies, the existence of false or undesirable user accounts, election interference, improper ad purchases, activities that threaten people's safety online or offline, or instances of spamming, scraping, or spreading misinformation," the company said.
+ 
+ This could also expose Facebook to more regulatory risk, fines and penalties, beyond the scrutiny that's already led CEO   to testify to the US Congress, when he told lawmakers that his own personal information was among the data of 87 million users which was "improperly shared" with the British political consultancy firm.
+ 
+ 
+ 
+ 
+ The data was gathered via a quiz app, "thisisyourdigitallife", developed by Aleksandr Kogan, then a psychology researcher with University of Cambridge, and his company Global Science Research, and was later passed to Cambridge Analytica without users' consent.
+ 
+ All public companies list potential risks in regulatory filings, often repeating the same ones from quarter to quarter. Facebook updated its risk section as the company audits how outside developers use its social network and cuts off some access to data. The ongoing process is testing Facebook's developer relationships.
+ 
+ The filing came a day after Facebook announced its earnings, passing expectations for sales and user growth, and showing that its advertising machine is so far unscathed. The shares soared.
+ 
+ 
+ 

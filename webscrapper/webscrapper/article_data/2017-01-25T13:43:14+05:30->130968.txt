@@ -1,0 +1,35 @@
+Mumbai: The Central Board of Direct   ( ) on Tuesday released the final guidelines for determining the   (POEM) of overseas companies and, thus, their   (I-T) incidence in India.
+
+ From financial year 2016-17 (ie, from April 1, 2016) onwards, the residential status of foreign companies (say, a subsidiary of an Indian parent company or a foreign company having a subsidiary in India) is determined based on POEM. If the foreign company, eg, XYZ Inc, based in US has its POEM in India, it will pay tax in India on its entire income. 
+ 
+ An official press release states that these provisions are not meant to target Indian MNCs having overseas business operations. The purpose is to bring within India’s I-T ambit overseas shell companies set up to retain income outside India, even as the real control and management of such companies is from India. On similar lines, the release seeks to allay fears of foreign companies doing business with India. 
+ 
+ CBDT has clarified some ambiguities prevailing in its draft guidelines issued in December 2015. For example, the final guidelines provide that if a company is engaged in active business (a term which is defined) outside India, a POEM in India will not be triggered if majority of the board meetings are held outside India. 
+ 
+ The draft guidelines had created a fear that even a one-off board meeting by an overseas parent company (say a UK company), which wanted to showcase India as an important destination would trigger POEM in India (as the board would take management decisions during this meeting held in India). This, in turn, would result in the UK parent company paying tax in India on its entire income. 
+ 
+ While the press release indicates that POEM guidelines will not apply to companies having a turnover of Rs 50 crore or less in a financial year, ironically CBDT’s circular containing the final guidelines is silent on this point. This has raised questions among tax professionals and in corporate corridors. As an added safeguard for overseas companies, a stringent approval mechanism has been put in place. 
+ 
+ The I-T officer, before initiating inquiries, has to seek approval from his superiors. He is also required to obtain approval from a three-member collegium of high ranking officials before taking a stand that an overseas company has a POEM in India and is thus liable to tax in India on its income. The collegium will give the overseas company an opportunity to be heard. 
+ 
+ “This is indeed welcome and shall help in mitigating unwarranted misuse of these POEM provisions by I-T officials,” says Jigar Saiya, tax partner, BDO India. 
+ 
+ However, lack of clarity continues on many fronts. Shefali Goradia, partner, BMR Advisors, points out, “For overseas incorporated companies, which have a POEM in India, issues arise in computing its taxable income — such as will India’s depreciation rates apply? Will accelerated R&D sops be available? Further, no clear answers are available on applicability of Minimum Alternate Tax, Dividend Distribution Tax, or even set-off claims for foreign taxes paid by the overseas company.”
+ 
+ The issue of final POEM guidelines, a week prior to Budget 2017, has put paid to hopes that the government will abolish POEM and introduce the less tedious Controlled Foreign Corporation ( ) regulations, which primarily target shell companies created to park funds overseas. 
+ 
+ Under the final POEM guidelines, this is how the scenario will pan out for large Indian groups with operations overseas. 
+ 
+ Overseas Subsidiary Of Indian Parent 
+ 
+ If an overseas company is engaged in active business outside India and holds majority of its board meetings overseas, it shall not have POEM in India. 
+ 
+ “In this context, one of the important clarifications is that even if all the directors of the overseas company are resident in India, but majority of the board meetings are outside India and the board is actually exercising its management powers, the company will not have a POEM in India. This will provide relief to large Indian group companies having overseas operations, as many directors on board the Indian parent and overseas subsidiaries are common,” explains Punit Shah, partner, Dhruva Advisors.
+ 
+ Overseas Captive Subsidiaries
+ 
+ The revised guidelines do not resolve the problem for those Indian companies that have an overseas captive subsidiary. 
+ 
+ “Overseas subsidiaries, which wholly engage in purchase or sale transactions only with group companies (referred to as captive service providers), could find themselves exposed to a POEM risk in India. This is because the active business test is dependent both on the quantum of total ‘passive income’ (less than 50% of the foreign company’s income must be passive) followed by other tests such as the quantum of assets, employees and percentage of payroll expenditure in India. The crux of the problem is that income from related party transactions (such as with the Indian parent company) is treated as passive income, thereby denying the presumption of being controlled where the board meets, which may make overseas captive companies Indian resident for tax purposes,” explains Goradia.
+ 
+ 
