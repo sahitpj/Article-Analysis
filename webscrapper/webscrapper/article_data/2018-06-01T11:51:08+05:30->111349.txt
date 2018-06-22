@@ -1,0 +1,31 @@
+BOSTON: Scientists have developed an artificial sensory nerve system that could lend a sense of touch in   limbs and give future   reflex capability.
+
+ 
+ The researchers are on a quest to mimic how skin can stretch, repair itself and act like a smart sensory network that knows not only how to transmit pleasant sensations to the brain, but also when to order the muscles to react reflexively to make prompt decisions.
+ 
+ The study, published in the journal 'Science', describes an artificial sensory nerve circuit that could be embedded in a future skin-like covering for neuro-prosthetic devices and soft robotics. This rudimentary artificial nerve circuit integrates three previously described components.
+ 
+ The first is a touch sensor that can detect even minuscule forces. This sensor sends signals through the second component - a flexible electronic neuron. The touch sensor and electronic neuron are improved versions of previous inventions.
+ 
+ Sensory signals from these components stimulate the third component, an artificial synaptic transistor modelled after human synapses.
+ 
+ "Biological synapses can relay signals, and also store information to make simple decisions. The synaptic transistor performs these functions in the artificial nerve circuits," said Lee.
+ 
+ In humans, when a sudden tap causes the knee muscles to stretch, certain sensors in those muscles send an impulse through a neuron.The neuron in turn sends a series of signals to the relevant synapses.
+ 
+ The synaptic network recognises the pattern of the sudden stretch and emits two signals simultaneously, one causing the knee muscles to contract reflexively and a second, less urgent signal to register the sensation in the brain.
+ 
+ Researchers including those from   in   developed an electronic neuron that delivered signals to the synaptic transistor, which was engineered in such a way that it learned to recognise and react to sensory inputs based on the intensity and frequency of low-power signals, just like a biological synapse.
+ 
+ They tested the ability of the system to both generate reflexes and sense touch.
+ 
+ In one test they hooked up their artificial nerve to a cockroach leg and applied tiny increments of pressure to their touch sensor.
+ 
+ The electronic neuron converted the sensor signal into digital signals and relayed them through the synaptic transistor, causing the leg to twitch more or less vigorously as the pressure on the touch sensor increased or decreased.
+ 
+ They also showed that the artificial nerve could detect various touch sensations. In one experiment the artificial nerve was able to differentiate Braille letters. In another, they rolled a cylinder over the sensor in different directions and accurately detected the direction of the motion.
+ 
+ The artificial nerve technology remains in its infancy, researchers said. Creating artificial skin coverings for prosthetic devices will require new devices to detect heat and other sensations, the ability to embed them into flexible circuits and then a way to interface all of this to the brain.
+ 
+ The group also hopes to create low power, artificial sensor nets to cover robots, the idea being to make them more agile by providing some of the same feedback that humans derive from their skin.
+ 

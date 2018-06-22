@@ -1,0 +1,32 @@
+NEW DELHI: Patanjali’s ‘homegrown’ mobile messaging app   got off to a controversial start after it was taken off the   Play Store within a day of its debut, amid allegations of security weaknesses by some of those who had downloaded it.
+
+ 
+ Patanjali spokesperson S K Tijarawala tweeted that the app was only uploaded for a single day on "trial" basis and would be back with a formal launch soon. However, a few hours earlier, a message on the app’s website had said that it was “facing extremely high traffic” and was “upgrading” its servers. 
+ 
+ Tijarawala had earlier tweeted that Sanskrit word, Kimbho, loosely translates to ‘how are you’ or ‘what’s up’.
+ 
+ “
+ (Patanjali put up the Kimbho app on the Play Store only for a day on trial. In just three hours, 1.5 lakh people downloaded it. We are grateful for this enthusiastic response),” Tijarawala tweeted from his Twitter handle @tijarawala. He added, “Technical work is in progress & #KIMBHO APP will be officially launched soon @yogrishiramdev”
+ 
+ An app called Kimbho, with developer listed as Appdios and copyright attributed to Patanjali was available on the iOS App Store on Thursday. Others with similar names and different developers were available on the Google Play Store as well. “Our Kimbho app is not available online anywhere any longer. The ones that you can see are fake and duplicate apps. It was only uploaded on the Google Play Store and is not there anymore,” Tijarawala told TOI over phone.
+ 
+ 
+ 
+ 
+ These claims were called into question by those who had downloaded the app during the brief window that it was available on the Google Play Store.
+ 
+ French security researcher who goes by the alias Elliot Alderson on Twitter, said the app was “a security disaster,” and that he could “access messages of all the users.” He also alleged that the app was making requests to 
+ .
+ 
+ Aseem Jakhar, co-founder of computer and network security firm Payatu Technologies, told TOI that his team downloaded the Android app and analysed it. “My engineers found that the app encryption was weak and could be easily bypassed. One could access others’ messages, videos and images sent over Kimbho. Even the OTP, they found, was useless as it was possible to access it and log in using other people’s credentials,” Jakhar told TOI over phone. Tijarawala responded to the security concerns and said, “Technical work is on. These issues will be taken care of.”
+ 
+ However, the link with Appdios remains unclear. Those who managed to download the app before it disappeared shared screenshots that showed OTP verification messages that they received from “IX-BOLOAP.” TOI could not find the Bolo app on any app store at the time of writing. But it was written about on app review and recommendation websites. The developer here too was Appdios, with an app description that matched Kimbho’s verbatim. Appdios’ online trail suggests it is a company based in the US, with one Aditi Kamal as founder.
+ 
+ One Aditi Kamal’s email address was provided on the Google Play Store listing of Kimbho as the developer contact. TOI wrote to Kamal on that address, but did not get a response. Jakhar says his team found references to Bolo Messenger throughout the code of Kimbho. Tijarawala told TOI that neither Kamal nor Appdios were related to Patanjali, and that those who got messages from Bolo must have downloaded a “duplicate app.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 

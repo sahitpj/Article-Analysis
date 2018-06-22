@@ -1,0 +1,16 @@
+GREATER NOIDA: The   on Tuesday   a Deep Learning and AI Skilling and Research project, which aims to impart   in   to nearly one million students in two years. The project has been funded by the Royal Academy of Engineering in London through the Indo-UK Newton-Bhabha research fund. 
+
+ 
+ While BU has partnered with international institutions like the Brunel University in London and University College London for technical expertise, it plans to work with 1,000 higher education institutions in India to train their academics and researchers. They can also take advantage of BU’s one-of-a-kind in-house supercomputing facility, which has been set up in partnership with American technology company Nvidia. Launching the programme on campus on Tuesday, All   (AICTE) chairperson professor Anil Sahasrabudhe said the programme was in line with the regulatory body’s ongoing efforts to update curricula in various varsities and institutions to include the expanding fields of artificial intelligence, machine learning and robotics.
+ 
+ As part of this research and training project, BU will partner with 10 “collaborator institutions” at the primary level, along with a hundred “zonal partners” from across the country. These are projected to reach 1,000 colleges, 10,000 teachers who will be part of formal training programmes through partnerships and workshops. Eventually, through various such channels, the project is expected to reach one million students, Dr Deepak Garg, director, Nvidia-Bennett Research Center on Artificial Intelligence told TOI. “At its full scale the project involves the resources of around Rs 100 million including cash, kind and human contributions from the partners. Further upscaling is under way,” said Garg. Sahasrabudhe called it an “excellent hub-and-spoke model” which can produce “solutions for global problems from India.”
+ 
+ More information on the project collaborations, resources and workshops can be found 
+ 
+ 
+ 
+ Some examples of AI and machine-learning include text prediction on smartphone keyboards that guess the next word one would possibly type, or even the recommendation engines on video-streaming services or e-commerce websites. Other kinds of applications include crunching data from weather patterns and other environmental factors to predict pest attacks and crop yields for farmers. In India, a project along similar lines in Andhra Pradesh’s Devanakonda calculated optimum period for crop sowing by analysing historic climate data across 30 years. “We are witnessing a dramatic opportunity to confront these problems head-on with AI technologies,” said Dr Ghanta Subba Rao, special secretary for skill development with Andhra Pradesh government. The state government has extended support to the BU project.
+ 
+ The central government too has recognised the need to encourage the development of artificial intelligence education. The Niti Aayog is expected to soon come out with a national policy on AI, with a focus on areas like agriculture and health. “Today we depend on AI tools from outside the country. This project is an opportunity to develop these tools in-house,” said Suneet Tuli, dean, School of Engineering at Bennett University. The university is part of The Times Group, which publishes the TOI.
+ 
+ 

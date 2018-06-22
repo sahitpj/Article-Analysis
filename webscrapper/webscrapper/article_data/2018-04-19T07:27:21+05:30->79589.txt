@@ -1,0 +1,15 @@
+HYDERABAD: Cyber criminals have found a new way to steal money from bank accounts. Following a new modus operandi, they hack into the private mail of firms and steal account details as well as One Time Passwords (OTPs). Two current account holders filed a complaint with the cybercrime section of the   (CCS) recently after large amounts of money were swindled. Police registered cases.
+
+  
+  
+ 
+ T Sireesh, owner of   and a resident of   in Karkhana, in his complaint with CCS said, “I hold a current account in the name of my business  , MG Road branch. On March 27, I received three OTP numbers on my phone. I immediately received three messages regarding debit of huge amounts from my current account. All together ₹4.6 lakh was siphoned off from my account. Even though I received OTP messages, I did not reveal the OTPs to anybody, and I did not receive a telephone call from anybody,” he said.
+ 
+ In the second case, one K Raghunath, proprietor of   at Boudha Nagar, Warasiguda, Secunderabad, said, “I have a current account on my company’s name Sharma Enterprises at State Bank of India, Warasiguda branch. From October 7, 2017 to March 21, 2018, I received OTPs for transactions of online purchases which I never carried out. I didn’t share my OTPs with anyone and ignored them. On March 21, I went to my bank and was surprised to see that an amount of about Rs 1.5 lakh was debited from my account towards online purchases on various ecommerce sites. I did not share my card details with anybody,” he said.
+ 
+ Inspector of police, cyber crimes, V P Tiwari told TOI, “These business firms have their emails on the websites they run. There is no security for these emails and which are easily hacked into. The accused not only get bank details from the mails, but also the OTPs,”
+ 
+ Cops have advised common man to only opt for OTPs on their mobile phone and not emails. They have also asked firms to have secure emails rather than unsecured company emails.
+ 
+ “Usually, online banking facilities allow you to opt for email or phone option or both. Some people opt for both because of which the OTP is sent to phone and email,|” said Tiwari.
+ 

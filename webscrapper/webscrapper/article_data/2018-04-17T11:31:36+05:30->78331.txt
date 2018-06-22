@@ -1,0 +1,35 @@
+WASHINGTON: The launch of a new   satellite, which will hunt for exoplanets that have the potential to harbour alien life, has been delayed to April 18.
+
+ 
+ The Transiting Exoplanet Survey Satellite ( ), was supposed to launch from Space Launch Complex 40 at Cape Canaveral Air Force Station in Florida in the early hours today.
+ 
+ "Launch teams are standing down today to conduct additional Guidance Navigation and Control analysis. The @NASA_TESS spacecraft is in excellent health and remains ready for launch on the new targeted date of Wednesday, April 18," NASA wrote in a tweet.
+ 
+ "We expect TESS will discover a number of planets whose atmospheric compositions, which hold potential clues to the presence of life, could be precisely measured by future observers," said George Ricker, TESS principal investigator.
+ 
+ With the help of a gravitational assist from the Moon, the spacecraft will settle into a 13.7-day orbit around Earth. Sixty days after launch, and following tests of its instruments, the satellite will begin its initial two-year mission.
+ 
+ The satellite, developed by scientists at Massachusetts Institute of Technology (MIT) in the US, aims to discover thousands of nearby exoplanets, including at least 50 Earth-sized ones.
+ 
+ The spacecraft, not much larger than a refrigerator, carries four cameras that will survey the nearest, brightest stars in the sky for signs of passing planets.
+ 
+ TESS will spend two years scanning nearly the entire sky - a field of view that can encompass more than 20 million stars.
+ 
+ The first year of observations will map the 13 sectors encompassing the southern sky, and the second year will map the 13 sectors of the northern sky.
+ 
+ The spacecraft will be looking for a phenomenon known as a transit, where a planet passes in front of its star, causing a periodic and regular dip in the star's brightness.
+ 
+ The TESS science team at MIT aims to measure the masses of at least 50 small planets whose radii are less than four times that of Earth.
+ 
+ Many of TESS's planets should be close enough to our own that, once they are identified by TESS, scientists can zoom in on them using other telescopes, to detect atmospheres, characterise atmospheric conditions, and even look for signs of habitability.
+ 
+ "TESS is kind of like a scout," said  , deputy manager of TESS Objects of Interest, an MIT-led effort that will catalogue objects captured in TESS data that may be potential exoplanets.
+ 
+ "We're on this scenic tour of the whole sky, and in some ways we have no idea what we will see. It's like we're making a treasure map," Guerrero said.
+ 
+ After TESS launches, the team expects that the satellite will reestablish contact within the first week, during which it will turn on all its instruments and cameras.
+ 
+ Then, there will be a 60-day commissioning phase, as engineers at NASA and MIT calibrate the instruments and monitor the satellite's trajectory and performance.
+ 
+ After that, TESS will begin to collect and downlink images of the sky. Scientists at MIT and NASA will take the raw data and convert it into light curves that indicate the changing brightness of a star over time. 
+ 

@@ -1,0 +1,8 @@
+Visakhapatnam: The department of computer engineering,  , is planning to conduct a one-day workshop on ‘Inspire to Innovate’ followed by a two-day workshop on ‘Issues Related to Web Security’ from January 19 to 21. The target audience for both the workshops are B.Tech students from engineering colleges across the   and 120 students have already signed up for the workshops.
+
+ The main aim of the workshops is to motivate students towards entrepreneurship and leadership qualities and enhance their knowledge in web application security concepts. S Ravi Shankar will address the students on the first day of the workshop. 
+ 
+ This is the second such workshop conducted at AU College of Engineering for Women where storytelling methods and group activities through model-based experiments will be used to inspite students. Hands-on training will also be given during the workshops where the students will be provided practical training related to several issues on web application security. 
+ 
+ Topics such as OWASP, Nessus UI, Android and   security issues as well as Bug Bounty will be covered. 
+ 

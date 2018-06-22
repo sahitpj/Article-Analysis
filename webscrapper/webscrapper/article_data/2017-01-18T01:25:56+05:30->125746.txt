@@ -1,0 +1,11 @@
+Lucknow: To keep track of polling activities on election day and to take action in ‘real time’ environment, office of the   of UP has come up with a Poll Day Management System software, developed by the National Informatics Centre’s UP unit.
+
+ Additional chief electoral officer   said, “PDMS enables continuous data collection of status from every polling stations through registered mobile numbers of presiding officer and first polling officer,” Garg said.
+ 
+ He added that the software will commence from the dispatch site, where electronic voting machine would be received by presiding officer on the day before the actual  . SMS would be sent to district election officer and chief electoral officer in a given format, informing when the polling party leaves from the dispatch site and when it arrives at the polling station. 
+ 
+ During polling, SMS would be sent at the start of the poll (9am, 11am, 1pm, 3pm, 5pm) and about voters in queue at the end of polling).
+ 
+ SMS would also be sent in case of interruption in polling process either due to technical snags or in case of law and order or other problems. “Once the problem is resolved, another SMS would be sent,” said Garg and added that after safe arrival of polling party at record room, an SMS would inform about the same.
+ 
+ 

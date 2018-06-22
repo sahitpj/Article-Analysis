@@ -1,0 +1,14 @@
+NEW DELHI: Disincentives worth “crores of rupees” were imposed on telecom major Airtel and Axis Bank by the Unique Identification Authority of India ( ) for breaching terms and conditions attached to   authentication, the agency told the   on Tuesday.
+
+ Explaining UIDAI’s ‘zero tolerance’ approach on Aadhaar data protection, senior advocate Rakesh Dwivedi informed a bench of Chief Justice   and Justices A K Sikri, A M Khanwilkar, D Y Chandrachud and Ashok Bhushan that “UIDAI has imposed disincentives on Airtel and Axis Bank for failing in their duties as requesting agencies” under the Aadhaar Act seeking authentication of identity.
+ 
+ Dwivedi did not clarify whether the disincentives imposed on Airtel was linked to UIDAI’s decision in December last year to temporarily bar   and Airtel Payments Bank from conducting Aadhaar-based SIM verification of mobile customers using eKYC process as well as the eKYC of Payments Bank clients. Dwivedi also did not explain the reasons for the UIDAI action. Referring to Section 57 of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016, the bench asked whether the law permitted use of Aadhaar authentication by private bodies and corporate entities and wanted to know what safeguards UIDAI had in place.
+ 
+ Dwivedi said Section 57 had two strong caveats. If a state government required authentication of identity of a person for purposes other than delivery of financial and other subsidies, the assembly concerned had to enact a law empowering it to do so. “Only after enacting a law specifying the purpose can a state approach UIDAI for access to Aadhaar data for authentication purposes,” he said.
+ 
+ On corporate entities, the UIDAI counsel said the corporate body has to first enter into an agreement with its employees for use of their Aadhaar data for identity authentication purposes. “But UIDAI has made a decision that no chaiwala, panwala, restaurant or open ended retail outlets will be allowed to become requesting entities for Aadhaar authentication,” he said.
+ 
+ Dwivedi cited incidents of impersonation in examinations conducted by CBSE and said the board could, if it fulfilled stringent conditions under the UIDAI Act, be permitted to become a requesting entity for verification of students taking the examinations through Aadhaar to prevent malpractices.
+ 
+ “But retailers, pizza shop owners or restaurants can never become authentication agency under UIDAI,” he said and clarified that Aadhaar under the Act was mandatory only for receiving financial subsidies or other benefits linked to consolidated funds. “Other linkages, like bank accounts, mobile phones etc are under separate laws which has no bearing on the operation of Aadhaar Act,” he said.
+ 

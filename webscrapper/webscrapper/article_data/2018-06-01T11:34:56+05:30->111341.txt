@@ -1,0 +1,30 @@
+WASHINGTON: The merger of two neutron stars that generated gravitational waves detected last year may have led to the birth of the lowest mass   ever found, say scientists who analysed data from NASA's Chandra X-ray Observatory.
+
+ The data was taken in the days, weeks, and months after the detection of gravitational waves by the Laser Interferometer   Observatory ( ) and gamma rays by NASA's Fermi mission on August 17, 2017.
+ 
+ While nearly every telescope observed this source, known officially as GW170817, X-rays from Chandra are critical for understanding what happened after the two neutron stars collided.
+ 
+ From the LIGO data astronomers have a good estimate that the mass of the object resulting from the   merger is about 2.7 times the mass of the Sun.
+ 
+ This puts it on a tightrope of identity, implying it is either the most massive neutron star ever found or the lowest mass black hole ever found. The previous record holders for the latter are no less than about four or five times the Sun's mass.
+ 
+ "While neutron stars and black holes are mysterious, we have studied many of them throughout the universe using telescopes like Chandra," said Dave Pooley of Trinity University in the US, who led the study.
+ 
+ "That means we have both data and theories on how we expect such objects to behave in X-rays," said Pooley.
+ 
+ If the neutron stars merged and formed a heavier neutron star, then astronomers would expect it to spin rapidly and generate a very strong magnetic field. This, in turn, would have created an expanding bubble of high-energy particles that would result in bright X-ray emission.
+ 
+ Instead, the Chandra data show levels of X-rays that are a factor of a few to several hundred times lower than expected for a rapidly spinning, merged neutron star and the associated bubble of high-energy particles, implying a black hole likely formed instead.
+ 
+ If confirmed, this result shows that a recipe for making a black hole can sometimes be complicated. In the case of GW170817, it would have required two supernova explosions that left behind two neutron stars in a sufficiently tight orbit for gravitational wave radiation to bring the neutron stars together.
+ 
+ "Astronomers have long suspected that neutron star mergers would form a black hole and produce bursts of radiation, but we lacked a strong case for it until now," said Pawan Kumar of the University of Texas at Austin in the US.
+ 
+ A Chandra observation two to three days after the event failed to detect a source, but subsequent observations 9, 15 and 16 days after the event, resulted in detections. The source went behind the Sun soon after, but further brightening was seen in Chandra observations about 110 days after the event, followed by comparable X-ray intensity after about 160 days.
+ 
+ Researchers said that the observed X-ray emission as being due entirely to the shock wave - akin to a sonic boom from a supersonic plane - from the merger smashing into surrounding gas. There is no sign of X-rays resulting from a neutron star.
+ 
+ The claims by Pooley's team can be tested by future X-ray and radio observations. If the remnant turns out to be a neutron star with a strong magnetic field, then the source should get much brighter at X-ray and radio wavelengths in about a couple of years when the bubble of high energy particles catches up with the decelerating shock wave.
+ 
+ If it is indeed a black hole, astronomers expect it to continue to become fainter that has recently been observed as the shock wave weakens.
+ 

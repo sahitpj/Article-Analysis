@@ -1,0 +1,20 @@
+HYDERABAD: With a motive to bring transparency and have complete database of encroached Waqf properties, the Telangana State   will be launching its digitisation project called   by January 2019.
+
+ 
+ Project RAABTA, which in   means to connect or to contact, is the brainchild of Shahnawaz Qasim, the CEO of Telangana State Waqf Board. “My aim is to create a centralised database with the help of Central government’s Waqf Management System of India (WAMSI), which is an IT initiative for Waqf Board to generate a unique ID for every Waqf property. We want to link this unique ID to every complaint so that the complete history of the property can be available online,” Shahnawaz said, adding that his aim is to make the entire system transparent.
+ 
+  
+  
+ 
+ 
+ The Waqf Board CEO further explained that digitisation project will mainly be divided into three levels — the  ,   and Interdepartmental Interface.
+ 
+ The Internal Interface which will be a user-based login system will have sections like rent, protection, establishment and accounts. “All these sections will be connected to one admin. This is a must because currently it takes hours to search a single file. With this Internal Interface, the Waqf board aims to document every letter which is sent or received by the Waqf board,” Shahnawaz said.
+ 
+ The Internal Interface will also have a legal section to digitise all the court cases which Waqf board is fighting in the court. There are around 2,600 cases that the Waqf board is fighting in the court. The legal section will have a live url where the court proceedings will be updated as and when it happens, Waqf officials said.
+ 
+ The Public Interface will be used to connect the public with Waqf board. This section is being designed particularly for people who approach Waqf board with petitions and grievances. “We are in the process of creating a Petitioner Management System through the Public Interface where a petitioner can give a petition and get receipt through SMS and WhatsApp with a hyperlink. The public will also be informed about the acceptance of the complaint and the action taken,” the CEO informed.
+ 
+ After making the internal system robust, the waqf board will have a system where they can coordinate with other departments such as the police, GHMC, electricity, income-tax and revenue departments. The Waqf board officials have set a target of three months to design and launch the services of Internal Interface and Public Interface. Since, Interdepartmental Interface is dependent on other organisations, we will be talking to them and take it up after three months.
+ 
+ 

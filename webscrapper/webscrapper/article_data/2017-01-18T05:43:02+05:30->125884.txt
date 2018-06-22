@@ -1,0 +1,6 @@
+LUCKNOW: To facilitate voters, an   has been developed by National Informatics Centre, UP unit. The app would provide all the necessary information of   required by the citizens at one place.
+
+ The app has following features – registration, search facility, details of candidates and locating the polling booth. As far as registration is concerned, citizens may register themselves on the app by providing their   and mobile number. After successful registration, citizens would be able to get the notifications (SMS alert on polling day and before the polling day).
+ 
+ The citizens can also search their details in electoral roll through EPIC number, name and father’s name in the district and assembly constituency. Assembly-wise details of the final contestants after finalization of nomination and withdrawal with the link of affidavit would be made available. In addition to this, the app would also help the voter to reach the polling station.
+ 

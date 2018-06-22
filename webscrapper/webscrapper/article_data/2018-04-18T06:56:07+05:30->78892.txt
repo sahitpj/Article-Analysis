@@ -1,0 +1,20 @@
+ may have to pay a real price for claims it invaded users’ privacy: billions of dollars. A federal judge ruled on Monday that millions of the social network’s users can proceed as a group with claims that its photo-scanning technology violated an   law by gathering and storing biometric data without their consent. Damages could be steep — a fact that wasn’t lost on the judge, who was unsympathetic to Facebook’s arguments for limiting its legal exposure.
+
+ The case dates back to 2015, long before Facebook became mired in controversy over revelations that millions of its users’ private information fell into the hands of British consulting firm Cambridge Analytica. It’s rare for consumers to win class-action status in privacy cases. In Facebook’s history, most such cases don’t get that far.
+ 
+  has for years encouraged users to tag people in photographs they upload in their personal posts and the social network stores the collected information. The company has used a program it calls DeepFace to match other photos of a person. Alphabet Inc’s cloud-based   Photos service uses similar technology and Google faces a lawsuit in Chicago like the one against Facebook in San Francisco federal court.
+ 
+ Both companies have insisted in court that gathering data on what you look like isn’t against the law, even without your permission.
+ 
+ But under the Illinois Biometric Information Privacy Act of 2008, the companies could be fined $1,000 to $5,000 each time a person’s image is used without consent. Shawn Williams, a lawyer for the users, said it’s not clear yet whether the lawsuit might prompt changes in the way Facebook uses biometric data.
+ 
+ Facebook said it’s reviewing the ruling. “We continue to believe the case has no merit and will defend ourselves vigorously,” spokeswoman Genevieve Grdina said in an emailed statement.
+ 
+ The company “seems to believe” that the lawsuit should be pursued by individuals, not as a group, because “damages could amount to billions of dollars,” US district judge James Donato wrote in the ruling.
+ 
+ The company argued each individual user could be “aggrieved” differently, and must prove that they suffered an actual injury beyond a privacy right. Nonetheless, the judge said “substantial damages are not a reason to decline class certification,” because he could reduce them at a later stage of the litigation.
+ 
+ The class of users approved by Donato dates back to June 2011, when Facebook had an Illinois user base of more than 6 million people, according to lawyers for the plaintiffs. “Although many individuals may not have had enough tagged photos to generate a face template in Facebook’s database, in January 2011 (i.e., before Facebook implemented tag suggestions for all users) the average user was tagged in 53 photos, far more than the 10 needed to generate a face template,” according to a December court filing.
+ 
+ Privacy advocates have said the billions of images Facebook is thought to be collecting could be even more valuable to identity thieves as biometric data for retinas, fingerprints, hands, face geometry and blood samples are unique identifiers. BLOOMBERG
+ 

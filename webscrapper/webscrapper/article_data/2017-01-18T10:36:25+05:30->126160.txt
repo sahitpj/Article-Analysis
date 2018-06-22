@@ -1,0 +1,19 @@
+KOCHI: A Kochi-based NGO, the  , has developed a mobile application that can be used by health workers to conduct local surveys, document environmental issues and also to upload real-time images and data into their servers for tracking mosquito-borne diseases. 
+
+ The project, funded by the department of science and technology ( ), is aimed at identifying factors that could trigger diseases trasnmitted by mosquitoes and also to help users get into a preventive mode. 
+ 
+ The application, Mosapp, is part of a larger project to predict and prevent dengue through community engagement, which involves experts from different countries. 
+ 
+ The project aims at developing geospatial tools using mobile technologies that can be used by both common man and field-level health workers to gather data and share information that can be used in identifying potential "hot spots" of mosquito and dengue activity.
+ 
+ "It can also be used to conduct sensor-based assessment of microclimate features such as temperature, humidity, soil moisture and ambient light. Students of St Xavier's College Aluva and Cochin College, Fort Kochi, are part of the initiative," said Ajit Babu, director of the NGO. 
+ 
+ Another app, Disapp, has also been developed for mapping any disease by health officials. The entire work will be presented at the annual meeting of the UN expert focus group on space and global health in Vienna on February 2 and 3. 
+ 
+ Babu, who is also member of the group, will present the work in the presence of officials from the space organizations of different countries. "We want to use spatial technology to develop solutions for health issues that have a bearing on the public health system," he said.
+ 
+ He said that dengue was a perennial problem in India. It is now showing resurgence in different parts of the world. 
+ 
+ "We used the grant from the national resources data management system (NRDMS), DST to develop the app," he added. Though mortality rates have lowered over time, morbidity, loss of productivity and economic impact of dengue on our society remains enormous, he said.
+ 
+ 

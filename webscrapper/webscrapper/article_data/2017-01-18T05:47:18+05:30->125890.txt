@@ -1,0 +1,16 @@
+LUCKNOW: Attempting to keep a track of the polling activities on the polling day, and take concrete action in ‘real time’ environment, the office of the chief electoral officer of UP, has come up with a software Poll Day Management System. The   has been developed by the National Informatics Centre’s UP unit.
+
+ Elaborating further on this, additional chief electoral officer  , said, “PDMS enables continuous data collection of poll status from every polling stations through registered mobile numbers of the presiding officer and first polling officer.” He further stated that the   and CEO UP have been provided with dashboards for monitoring the progress of voting.
+ 
+ “SMS is a very easy and convenient technology that can be used for a wide range of applications. It has the widest reach of all the mobile technologies,” Garg said.
+ 
+ Explaining the working of the software, the additional CEO said the SMS-based PDMS would commence its functioning from the dispatch site itself, where the electronic voting machine would be received by the presiding officer on the day before the actual polling day.
+ 
+ The SMS would be sent (to the district election officer and also to chief electoral officer) in a given format informing that the polling party has left from the dispatch site, and also after the polling party safely arrives at polling station. Subsequently, a SMS would be sent after conduct of the mock poll.
+ 
+ During the polling, SMS in the prescribed format would be sent at the start of the poll, polling percentage (9.00 am, 11.00 am, 1.00 pm, 3.00 pm, 5.00 pm and about voters in queue at end of poll.
+ 
+ SMS would also be sent in case of interruption in polling process either due to technical snags in the electronic voting machines or owing to law and order problems or any other problem. “Once the problem is resolved, a SMS would again be sent,” Garg mentioned, and added that after the safe arrival of polling party at record room, a SMS would be sent.
+ 
+ “The main reason for implementing the SMS-based system is to ensure that there is no wastage of time in communication, and communication becomes more transparent,” the additional CEO said.
+ 

@@ -1,0 +1,15 @@
+Mumbai: The   (BBPS) — an RBI-conceived tech platform that matches billers like electricity, telecom and direct-to-home TV companies with payment service providers — has seen 165% growth in transaction volumes in March 2018.   currently operates as a division of the National   Corporation of India (NPCI) and plans to increase the number of utilities on board from 75 to 96 in coming weeks.
+
+ In March, BBPS saw 75% growth in transactions to 3.15 crore as against 1.8 crore a year earlier. For the same period, value of transactions grew 165% to Rs 2,986 crore from Rs 1,125 crore. BBPS currently operates as a division of the NPCI, but could be farmed out into a separate company.
+ 
+ BBPS does not connect customers to companies directly. Companies and government undertakings such as power discoms plug into the BBPS through one of its operating units, which are akin to payment gateways. At the other end are customer operating units, which are largely  . Once a customer operating unit plugs in, any use can pay bills of an entity plugged into the system. 
+ 
+ According to A R Ramesh, head of the BBPS project at NPCI, now an account holder in Kerala can pay utility bills from an electricity distribution company in Meghalaya. Eventually what this means for utilities is that they can scale down their individual collection windows as users will be able to pay their bill either online, through apps or kirana stores that are part of BBPS. 
+ 
+ To develop trust among customers with respect to third-party entities, BBPS is promoting its brand and will start displaying the logo in kirana stores that sign up as collection agents. The BBPS logo will also be displayed in mobile apps while paying utility bills.
+ 
+ Currently, BBPS has enabled 75 billers (49 electricity, 3 DTH, 4 mobile, 2 landline, 3 broadband, 10 gas and 4 water) in 20 states and 3 Union territories in India, of which 13 billers are available across India.
+ 
+ Going forward, the   is looking at allowing other regular payments such as life insurance premiums. The consumer has the option of using Bharat BillPay-enabled internet banking, mobile   or Bharat BillPay-enabled website or mobile app or an agent-assisted collection point.
+ 
+ 

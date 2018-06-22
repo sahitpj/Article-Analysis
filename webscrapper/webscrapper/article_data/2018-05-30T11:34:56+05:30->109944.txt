@@ -1,0 +1,28 @@
+LONDON: In a first, scientists have created   that could solve the shortage of available eye donors and help millions of blind people gain sight again.
+
+ 
+ As the outermost layer of the human eye, the cornea has an important role in focusing vision.
+ 
+ Yet there is a significant shortage of corneas available to transplant, with 10 million people worldwide requiring surgery to prevent corneal blindness as a result of diseases such as trachoma, an infectious eye disorder.
+ 
+ In addition, almost 5 million people suffer total blindness due to corneal scarring caused by burns, lacerations, abrasion or disease.
+ 
+ The proof of concept research, published in the journal  , shows how stem cells from a healthy donor cornea were mixed together with alginate and collagen to create a solution that could be printed, a 'bio-ink'.
+ 
+ Using a simple low cost 3D bio printer, the bio ink was successfully extruded in concentric circles to form the shape of a human cornea. It took less than 10 minutes to print. The stem cells were then shown to grow.
+ 
+ "Many teams across the world have been chasing the ideal bio-ink to make this process feasible," said  , a professor at   in the UK, who led the research.
+ 
+ "Our unique gel, a combination of alginate and collagen keeps the stem cells alive whilst producing a material which is stiff enough to hold its shape but soft enough to be squeezed out the nozzle of a 3D printer," Connon said.
+ 
+ "This builds upon our previous work in which we kept cells alive for weeks at room temperature within a similar hydrogel. Now we have a ready to use bio ink containing stem cells allowing users to start printing tissues without having to worry about growing the cells separately," he said.
+ 
+ The scientists also demonstrated that they could build a cornea to match a patient's unique specifications.
+ 
+ The dimensions of the printed tissue were originally taken from an actual cornea. By scanning a patient's eye, they could use the data to rapidly print a cornea which matched the size and shape.
+ 
+ "Our 3D printed corneas will now have to undergo further testing and it will be several years before we could be in the position where we are using them for transplants," said Connon.
+ 
+ "However, what we have shown is that it is feasible to print corneas using coordinates taken from a patient eye and that this approach has potential to combat the world wide shortage," he said. 
+ 
+ 

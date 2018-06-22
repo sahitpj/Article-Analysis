@@ -1,0 +1,14 @@
+BENGALURU: Two years ago, the   ( ) launched a mobile app that could track buses in real time. The idea was to provide passengers with a hassle-free commute, but the app wasn’t much of a success, plagued as it was with technical glitches.
+
+ “The app was slow, especially during peak hours,” said Anil  , once a regular BMTC passenger. “It was difficult to know when a bus would arrive, so I mostly ended up using app-based taxi services.”
+ 
+  
+  
+ Like Kumar, many BMTC passengers have shifted to other transport modes, fed up of having to wait endlessly for a bus. Consequently, BMTC’s daily ridership has remained stagnant at around 50 lakh and its passenger revenue has dropped from Rs 1,994 crore in 2014-15 to 1,770 crore in 2016-17.
+ 
+ And yet, BMTC has the information at its fingertips. Thanks to its intelligent transp ort solution (ITS) and a fleet of 6,440 buses that are equipped with GPS, the corporation tracks trips on a real-time basis, but it continues to keep the data under lock and key.
+ 
+ The open transit data concept is popular in foreign cities like London, but BMTC is reluctant to share its data. This data could help software companies develop applications to help commuters plan a hasslefree journey. Instead, BMTC’s reluctance is driving app-based companies away. Startups such as Trafi, YoRide and iCommute have been forced to wind up operations.
+ 
+ Rajarshi Rakesh Sahai, Trafi’s former India director, said: "Most transport corporations, including BMTC, are reluctant to share real-time data. It's a misconception that it will affect their revenue. In fact, it will increase ridership.”
+ 

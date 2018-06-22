@@ -1,0 +1,31 @@
+In a first, an IIT-Kanpur startup, in association with a Lucknow-based food delivery firm, successfully flown in flasks of freshly brewed tea on the doorsteps of its customers in the city of nawabs.
+
+ 
+  
+  
+ 
+ TechEagle Innovations, founded and run by   graduate Vikram Singh Meena, pilot-tested delivery of two litres of hot tea with the help of battery-powered and GPS-fitted drones on May 23. It has developed the specialised   to drop-ship a consignment up to 2 kg within a 10-km-radius of its take-off station with just a single click of a mouse. TechEagle has joined hands with OnlineKaka, a Lucknow-based food delivery startup, for these test flights. “We have successfully delivered world’s first chai via drone. Now, we would provide these mean machines to other food delivery startups like Zomato, Swiggy and Foodpanda. To begin with, we plan to venture out in north India,” Meena told TOI.
+ 
+ Talking about the drone-delivery model, Bilal Arshad, who founded OnlineKaka, along with friend Ahad Arshad and Salman, said: “It's not like the customer will directly receive the order from the whirring gadget.”
+ 
+ 
+ 
+ 
+ The drones would be flown and received by our executives at different points and because they would not be commuting through the busy streets, it would cut down the delivery time drastically, " Bilal said. Although the cost implications would be known only after a full-fledged launch of the service, both Bilal and Ahad said they would try to ensure that there was no extra burden for the customer as they would be saving on commuting. At present, they charge Rs 59 per delivery.
+ 
+ Although the trial was conducted with DGCA's permission, the firs is yet to get a nod for the regular service. "The DGCA had said the norms for drone delivery would be specified in January but it hasn't come through. It is now expected sometime in July. In sync with the   ministry, the DGCA would mark zones for the drone flights and assign altitude, etc, besides issuing licence for each gadget. The pilots hired for the drones would be another factor to determine cost of operation," said Ahad.
+ 
+ Interestingly, there are no active drone-based food delivery services in the world. UberEats, the largest grub-delivery platform which has recently opened shop in India, has recently tested a similar drone-based delivery in San Diego, US. In October last year, global e-tail giant Amazon had filed patent for delivery of products via drones in India. In 2014, an unmanned drone was used to deliver a pizza to a flat in a high rise in Worli, Mumbai. Another drone startup, based out of Kanpur, called  , raised a bridge round funding In April 2016. However, many firms and startups, who are raring to begin unmanned aerial vehicles (UAV) or drone-based commercial operations (like door-to-door delivery, aerial mapping, infrastructure monitoring and product transport) across the country, have hit a regulatory roadblock as India’s sky watchdog, the Directorate General of Civil Aviation (DGCA), hasn’t yet formulated a final official policy for the same. Although, Goldman Sachs has estimated that drone industry will be worth $125 billion globally by 2020.
+ 
+ The founding members of TechEagle Innovations started designing and manufacturing since 2015 in the garage of IIT Kanpur hostel and formed the B2B tech startup only in January 2017.
+ 
+ “Our startup develops custom-made drones of both types — rotary wing and fixed wing — which can carry 500gm to 5kg payload. The wingspan ranges between 60cm and five-meter, flight time varies between 30 min and two hours,” added Meena.
+ 
+ “The drone-based delivery system came to our minds when we saw real-life problems like traffic jams affecting delivery services, especially food transportation. Then, we partnered with Online Kaka,” the TechEagle CEO said.
+ 
+ TechEagle plans to expand its services across the country based on need and resources. “We have analyzed that around 10-15 drones can be deployed in one city. Our drones can traverse 10 metres in one second and one single trip can last up to 20 minutes. So, it can fly up to 6km to deliver tea and come back to its take-off spot. We are doing research on batteries to increase the payload capacity and flight time,” Meena added. On the likely cost of food or tea to be delivered via drones, Meena signed off by saying, “Quality and price of tea or any food items will be handled and decided by the food delivery firms, who will use our drones, instead of a bike or a motor van. We can’t disclose the exact selling prices of the drones at present. But when the service becomes fully functional, our drone delivery will definitely be cheaper than the current modes of transportation. We are in talks with quite a few food delivery startups.”
+ 
+ There was a time in the city when one could order little from home other than pizza. It was 2016 and while big names like food panda and zomato were foraying into the Lucknow market, a startup with just two delivery boys caught the fancy of locals, whose staple feast is the kabab-biryani fare. “Our shoestring budget did not allow a lavish ad campaign, so we relied more on word of mouth,” said Ahad Arshad, who founded OnlineKaka, along with friend Bilal Arshad, adding, Founded in 2016, Oneline-Kaka is a popular service in Lucknow for delivery and is preferred for delivery from iconic joints from crowded  . "It saves people the trouble of commuting to the crowded, jammed areas and they could enjoy kabab-paratha, biryani, kulcha-nihari in the comfort of home,” Bilal says. Today, they have a 125-strong army of delivery boys and an equal number of vendors on their panel, with over 500 new joints in queue. From a turnover of Rs 20 lakh in their first year, they have notched Rs 5 crore and recorded a 15% growth per month, said the founders.
+ 
+ “There was a minimumorder rider earlier but now we deliver the smallest of orders,” said Ahad, adding that their latest offering was delivery of the city’s favourite chai and bun-makhan. “The packing ensures you get your cuppa steaming hot but with a successful run of delivery by drone, we hope to pick up more orders,” he said.
+ 

@@ -1,0 +1,18 @@
+MUMBAI: To appeal for votes on the basis of religion, caste or community has been declared a corrupt practice by the  , but politicians may have found a way around it.
+
+ A   developed by a Mumbai-based entrepreneur has started using information from the state election commission’s website to provide a community-wise breakup of registered   ahead of the  .
+ 
+ Around 300 aspirants including 80 sitting BMC   have purchased the software to get their hands on demographic data arranged along community lines in various wards. The software is in demand as delimitation or redrawing of constituencies has altered boundaries of all 227   electoral wards going to polls in February. Contestants, faced with changes on the ground, hope to study the caste, community or religious affiliations in the newly demarcated wards to devise their campaign strategies and calibrate their messages better.
+ 
+ When asked about the use of technology in this manner, state chief election commissioner J S Sahariya said, “There is a Supreme Court guideline on the issue. We have no idea about the software but we will inquire about it.”
+ 
+ The software uses the updated voter list from the EC website and converts it into a searchable database using different parameters. For instance, it can do a global search for the ward for a particular surname or an address.
+ 
+ As of now, candidates are using it to classify voters into various community categories such as Maharashtrian, South Indian, North Indian, Gujarati-Rajasthani and Muslims. This allows the candidate to assess the composition of the ward and decide how he should frame his slogans or make his pitch.
+ 
+ The software developer told TOI on condition of anonymity that they were helping candidates study the profile of voters in an easy-to-follow format. They claimed that the program could even narrow down the total number of voters in a family or a particular building.
+ 
+ They said they have bagged clients in Uttar Pradesh and Punjab who are keen to similarly analyse voter data ahead of elections. “We have been in this business for the last 15 years. We have helped many candidates in previous assembly elections in different states,” said a senior company executive.
+ 
+ However, the issue of helping poll candidates devise a strategy that is community or religion-specific remains a troublesome one. On January 2, the Supreme Court had ruled that seeking votes in the name of religion, caste, race, community or language by a candidate or his agent would be a corrupt electoral practice rendering the person open to disqualification. The order widened the scope of section 123 (3) of the Representation of People Act to “maintain the purity of the electoral process” and to avoid “mixing religion with state power”.
+ 

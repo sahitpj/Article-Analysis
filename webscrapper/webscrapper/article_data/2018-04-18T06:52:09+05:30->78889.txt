@@ -1,0 +1,10 @@
+BENGALURU:   has started a pilot with BOOM, an independent digital-journalism initiative founded by  , in pollbound   to check the spread of false news from its platform.
+
+ BOOM, certified through the International Fact-Checking Network, a non-partisan   at Poynter, will review news stories posted on social media, check facts and rate the stories for accuracy.
+ 
+ Facebook, in a blogpost, said once a story is declared false, its distribution is reduced by 80%. This improves accuracy of information and prevents mass circulation of fake posts. “We (must) listen to our community. We continue to update ways for people to understand what might be false news in their news feed,” the blogpost read.
+ 
+ This is Facebook’s first third-party fact-check programme ahead of the May 12 Karnataka polls. Pages and domains which repeatedly share false news will see their distribution reduced and their ability to monetize and advertise removed.
+ 
+ Ethiraj said the company has two staffers in Bengaluru to monitor fake news on Facebook and WhatsApp. In the case of pictures, it will use Google’s reverse image search to decipher whether the image is old, manipulated or used out of context. The US, France, Netherlands, Germany and Philippines are the other countries where Facebook runs fact-check projects.
+ 

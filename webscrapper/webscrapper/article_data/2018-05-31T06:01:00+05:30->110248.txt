@@ -1,0 +1,29 @@
+Kolkata: In a first, an IIT-Kanpur startup has successfully flown in flasks of freshly brewed   on the doorsteps of its customers in Lucknow. 
+
+  Innovations, founded and run by   graduate  , pilot-tested delivery of two litres of hot chai with the help of battery-powered and GPS-fitted drones on May 23. It developed the specialised   to drop-ship the morning cuppa to Lucknowites within a 10-km-radius of its take-off station with just a single click of a mouse. TechEagle has joined hands with  , a Lucknow-based food delivery startup, for these test flights. 
+ 
+ “We have successfully delivered world’s first chai via drone. Now, we would provide these mean machines to other food delivery startups like Zomato, Swiggy and Foodpanda. To begin with, we plan to venture out in north India,” Meena told TOI.
+ 
+ Interestingly, there are no active drone-based food delivery services in the world. UberEats, the largest grub-delivery platform which has recently begun operations in India, has tested a similar drone-based delivery in San Diego, US.
+ 
+ In 2014, an unmanned drone was used to deliver a pizza to a flat in a high rise in Worli, Mumbai. In October last year, global e-tail giant Amazon had filed patent for delivery of products via drones in India. Another drone startup, based out of Kanpur, called Aarav Unmanned Systems, raised a bridge round funding In April 2016.
+ 
+ However, many firms and startups, who are raring to begin unmanned aerial vehicles (UAV) or drone-based commercial operations (like door-to-door delivery, aerial mapping, infrastructure monitoring and product transport) across the country, have hit a regulatory roadblock as India’s sky watchdog, the Directorate General of Civil Aviation (DGCA), hasn’t yet formulated a final official policy for the same.
+ 
+ Although, Goldman Sachs has estimated that drone industry will be worth $125 billion globally by 2020.
+ 
+ The founding members of   started designing and manufacturing since 2015 in the garage of IIT Kanpur hostel and formed the B2B tech startup only in January 2017.
+ 
+ “Our startup develops custom-made drones of both types — rotary wing and fixed wing — which can carry 500gm to 5kg payload. The wingspan ranges between 60cm and five-meter, flight time varies between 30 min and two hours,” added Meena.
+ 
+ “The drone-based delivery system came to our minds when we saw real-life problems like traffic jams affecting delivery services, especially food transportation. Then, we partnered with Online Kaka,” the TechEagle CEO said.
+ 
+ TechEagle plans to expand its services across the country based on need and resources. “We have analyzed that around 10-15 drones can be deployed in one city. Our drones can traverse 10 metres in one second and one single trip can last up to 20 minutes. We are doing research on batteries to increase the payload capacity and flight time,” Meena added. 
+ 
+ It has partnered with RI Innovations (an Uttarakhand-based company) to develop disaster management drones for forest fire control and medicine delivery. 
+ 
+ Funding and test-flights, however, remained a hurdle for Meena and company, as designing prototypes and testing them are costly affairs. The founder of the bootstrapped startup, however, refused to disclose the initial investment figure.
+ 
+ On the likely cost of food or tea to be delivered via drones, Meena signed off by saying, “Quality and price of tea or any food items will be handled and decided by the food delivery firms, who will use our drones, instead of a bike or a motor van. When the service becomes fully functional, our drone delivery will definitely be cheaper than the current modes of transportation. We are in talks with quite a few food delivery startups.” 
+ 
+ 

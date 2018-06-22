@@ -1,0 +1,23 @@
+WASHINGTON: Scientists have created an enzyme which can digest some of the most commonly polluting plastics, providing a potential solution to one of the world's biggest environmental problems.
+
+ 
+ The discovery could result in a recycling solution for millions of tonnes of   bottles, made of polyethylene terephthalate (PET) which currently persists for hundreds of years in the environment.
+ 
+ Researchers at   and the Department of Energy's National Renewable Energy Laboratory (NREL) in the US decoded the crystal structure of PETase - a recently discovered enzyme that digests PET - and used this 3D information to understand how it works.
+ 
+ They inadvertently engineered an enzyme that is even better at degrading the plastic than the one that evolved in nature.
+ 
+ The researchers are now working on improving the enzyme further to allow it to be used industrially to break down plastics in a fraction of the time.
+ 
+ "Few could have predicted that since plastics became popular in the 1960s huge plastic waste patches would be found floating in oceans, or washed up on once pristine beaches all over the world," said John McGeehan from University of Portsmouth.
+ 
+ "We can all play a significant part in dealing with the plastic problem, but the scientific community who ultimately created these 'wonder-materials', must now use all the technology at their disposal to develop real solutions," said McGeehan.
+ 
+ The researchers made the breakthrough when they were examining the structure of a natural enzyme which is thought to have evolved in a waste recycling centre in  , allowing a bacterium to degrade plastic as a food source.
+ 
+ PET, patented as a plastic in the 1940s, has not existed in nature for very long, so the team set out to determine how the enzyme evolved and if it might be possible to improve it.
+ 
+ The goal was to determine its structure, but they ended up going a step further and accidentally engineered an enzyme which was even better at breaking down PET plastics.
+ 
+ The enzyme can also degrade polyethylene furandicarboxylate (PEF) a bio-based substitute for PET plastics that is being hailed as a replacement for glass beer bottles
+ 

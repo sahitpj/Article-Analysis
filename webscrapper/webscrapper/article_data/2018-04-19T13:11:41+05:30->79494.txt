@@ -1,0 +1,13 @@
+NEW DELHI: Strengthening privacy measures in usage of  , Unique Identification Authority of India ( ) has introduced an updated ‘QR code’ which will reveal only non-sensitive details such as name, address, photo, and date of birth, and can be used for offline user verification without disclosing the  . 
+
+ 
+ The move is aimed at adding an extra layer of privacy to Aadhaar after UIDAI introduced the concept of virtual identification. As Aadhaar increasingly becoming the nationallyaccepted identification for all kinds of services, the new QR code, that now comes with photo, can be used in offline mode in a way that will safeguard against any tampering of documents. 
+ 
+ This would be especially handy for establishing the identity with non-statutory entities, such as private hotels or the likes of online shopping portals when delivering goods. Aadhaar holders can download and print their biometric ID with the QR code from the UIDAI website or its mobile app. Users can manually blacken the Aadhaar number and use the printout with the new QR code for establishing their identity, offline too. 
+ 
+ For example, when a receptionist at a hotel ask for asks for ID proof, Aadhaar holder can show her the printed QR code which when scanned (through an updated QR code reader on Aadhaar site) would read non-sensitive information. This includes name, address, date of birth and photo, thus establishing the bonafide identity, sources said. 
+ 
+ It will also ensure that Aadhaar holder is genuine and not using any tampered ID documents. Aadhaar number is not given out in entire process, nor are biometrics, thus ensuring that privacy is maintained throughout the verification process. This new feature is available through Aadhaar downloads. Sensitive information would include details like bank accounts or biometrics, among others. 
+ 
+ UIDAI CEO   said, “The offline QR code will allow everyone to establish their identity through offline verification without giving out Aadhaar number. Only in those places where Aadhaar number is required under the law including banks, telecom companies, or for availing subsidies, one will have to go through the authentication process.”
+ 
