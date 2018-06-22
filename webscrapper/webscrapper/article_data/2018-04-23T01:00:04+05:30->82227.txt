@@ -1,0 +1,21 @@
+NEW DELHI: Profiling an   user is near impossible even if authentication record is known as information revealed is minimal as compared to a person’s credit card history, an analysis carried out by   has shown.
+
+ 
+ An authentication history can lead to some guesswork but is short of profiling as the record only mentions ‘KUA’ (KYC User Agency, which could be bank, mobile company) or AUA ( ) where authentication was done, modality of authentication (  or biometric) and date and timing of the authentication.
+ 
+  (UIDAI) sources said profiling was not possible from the authentication history. UIDAI CEO   submitted his transaction log to   and officials said the submission was to demonstrate what a transaction log looked like.
+ 
+ The UIDAI analysis using content willingly shared by some users showed that data could not be accessed without the consent of the person concerned. Trying to access data without authorisation is a criminal offence punishable under the Aadhaar Act.
+ 
+ The analysis showed that a bank statement could reveal much more, right from purchasing history, purchasing power, stay in hotels, eating habits, mobiles phones, electricity bills, TV channel, liabilities on a monthly basis, credit worthiness and children’s school or college.
+ 
+ In case of Aadhaar authentication history, the log has details of who authenticated and when and on what device but not details or location or type of transaction.
+ 
+ UIDAI can know about the AUA which in this case was a bank. UIDAI will also know date and time of authentication and also if it succeeded or failed.
+ 
+ From the record, it can probably be inferred that the user did the authentication to link bank account to Aadhaar or for e-KYC at the bank. But UIDAI can’t know location of bank account, details and balance.
+ 
+ As per record, another authentication with a mobile services provider shows AUA name, date and time of authentication and success. One could make a guess by studying the history that authentication was done for SIM purchase or KYC or SIM port from prepaid to postpaid or vice versa.
+ 
+ However, the record didn’t tell anything about the SIM card or number. It also didn’t reflect the location of the transaction. In an earlier transaction AUA was directorate of income tax. It could be guessed that this was for filing of income tax return but history shows nothing about tax amount or salary details.
+ 

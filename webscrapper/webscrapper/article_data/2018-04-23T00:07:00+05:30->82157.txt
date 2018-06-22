@@ -1,0 +1,23 @@
+Pune: The Union health ministry’s draft bill — Digital Health Information in Healthcare Security Act (DISHA) mandates creation of digital health data for every citizen. Any breach of this data can draw a fine of Rs 5 lakh and imprisonment up to five years.
+
+ The city chapter of the Indian Medical Association (IMA) has opposed its provisions in a letter to the ministry, paediatrician Rajeev Joshi, chairman e-Communication Cell,  , Pune branch, said. 
+ 
+ The draft envisages Health Information Exchange (HIE), a centralised data collection system to which all clinical establishments and healthcare providers will have to send digitised data of their patients.
+ 
+ “The government should take responsibility of data security as the HIEs will be operated mostly by government machinery rather than clinical establishments or healthcare providers,” Joshi said.
+ 
+ HIE hopes to create lifelong health records of patients and to create cross-sectional health database for public health decisions, he added. 
+ 
+ Collective data on HIE can help generate early warning signals of epidemics and facilitate actions to contain the disease, he added. 
+ 
+ “Clinical establishments or healthcare providers will not benefit. Hence, imposing any penalty on them and punishing them with imprisonment is not justifiable,” Joshi said.
+ 
+ At present, IT is used in clinical establishments for administrative purposes and billing. To encourage digitization of health data, the government should recommend tax benefits to clinical establishments and healthcare providers, Joshi said.
+ 
+ Physician Aniket Joshi, IMA’s health-informatics expert, said, “Healthcare professionals are duty bound to ensure confidentiality of information. Hackers can access digital health data. Holding clinical establishments and medical professionals responsible for leaks is not correct.”
+ 
+ Since there is no clarity on the use of Aadhaar for indexing digital health data of patients, bringing the draft document of this act is premature, paediatrician Jayant Navarange, chairman of IMA’s Medico-Legal Cell, said.
+ 
+ Only Aadhaar issued to more than 90% population can be used as secondary index in electronic health records. Aadhaar can be used as primary index for HIE. Electronic health record standards also recommend its use, Navarange said.
+ 
+ 

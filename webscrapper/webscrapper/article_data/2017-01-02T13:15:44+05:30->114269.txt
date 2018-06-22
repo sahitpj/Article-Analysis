@@ -1,0 +1,20 @@
+A  , which has a   of less than Rs 1, has been developed by a team of   to rapidly detect the  ,   routinely examined for the diagnosis of several cardiac and liver related diseases.
+
+ Prof Uday Maitra and his student fabricated a paper biosensor that detects the presence of lipase
+ 
+ The overall aim of the project is the development of user-friendly biosensors, which play an important role in the field of biological and medical sciences and in the diagnosis of different diseases, especially in resource limited areas.
+ 
+ This first-of-its-kind sensor can be envisaged as a portable and disposable analytical device, said the research team, comprising Prof Uday Maitra and his student Tumpa Gorai from the Indian Institute of Science (IISc), Bengaluru, in their findings.
+ 
+ According to experts, biosensors are devices used to detect biological elements like tissues, microorganisms, and enzymes by measuring the interaction of a chemical substance with the biological element. The interaction is quantified by converting it into an electrical or a light signal.
+ 
+ Experts further said that among the different classes of biosensors, paper-based biosensors have drawn much interest in recent years because of their easy availability, low cost of fabrication, biocompatibility and biodegradability.
+ 
+ “Enzymes are one of the important target of bioanalytes in the field of biosensors as they play crucial roles in the regulation of metabolic functions in living systems. The detection of enzyme activity through an efficient and simple design is, therefore, of utmost importance. Our lab has fabricated a low-cost paper biosensor that rapidly detects the presence of lipase, a pancreatic enzyme, which breaks down fats into smaller molecules called fatty acids and glycerol during the process of digestion. While a certain amount of lipase is important for maintaining normal digestive function, an abnormally high level of lipase indicates damage to the pancreas,” said the researchers. “The paper-based sensor is inexpensive, user-friendly and needs low volumes of biological sample for analysis. This strategy has the potential to be useful for possible clinical applications,” they added.
+ 
+ The biosensor comprises a paper disc, embedded within which is a gel, made with terbium — a rare earth metal — and doped with a synthetic enzyme substrate. As the disc comes in contact with lipase, it turns green when illuminated under UV light. The change in intensity of the colour indicates the amount of the enzyme present in the sample.
+ 
+ “The advantage with this system is that the entire sensing material is integrated on the paper surface in a single step. The material cost for the disc fabrication was calculated to be less than Rs 1, so it is a low-cost luminescent assay system. This simple paper-based sensor is useful for detecting the presence of enzymes in real samples, and for rapid screening of an inhibitor. We are currently expanding the scope of this enzyme assay,” said the findings, published in ACS Sensors.
+ 
+ Maitra’s lab has developed many such gels that make use of metals, which emit light upon ‘photoexcitation’.
+ 

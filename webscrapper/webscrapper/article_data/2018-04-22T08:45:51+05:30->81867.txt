@@ -1,0 +1,13 @@
+LUCKNOW: Rail fractures have been causing   derailments and accidents for long and railways has been grappling with how to detect them in time to prevent loss of life and property.
+
+  ( ) is currently working on three technologies to detect rail fractures. All the three are being tested and are likely to be operational by the year-end following which control room and loco pilots would be alerted about fractures in tracks before the train reaches the hazardous spot.
+ 
+ 
+ A senior official of northern railways said, “A single fracture in track can derail a 22-coach train. RDSO is working on technologies and devising devices which can detect rail fractures.”
+ 
+ Executive director of research wing, RDSO, SK Singh said that three projects are under way to detect rail fractures. The first device is the advanced ultrasonic machine which is being tested in Allahabad and   divisions.
+ 
+ The second device is a detection monitor which will be placed under the engine of every train with a sensing technology. If the monitor detects a defect it will send a report directly to control room and the loco pilot will be directed to apply emergency brakes. The third project involves the laying of optical fibre along the tracks which will measure the sound frequency on tracks and automatically send report to the server and control room. The control room system will have a sound recognition machine which will identify the sound frequency. It will also send the report to electronic interlocking system control room.
+ 
+ If a fracture is detected, the loco pilot will be alerted 500 metre before the spot to apply brakes. RDSO officials said that all the three devices may get operational this year after final testing.
+ 

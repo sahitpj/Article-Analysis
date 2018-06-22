@@ -1,0 +1,11 @@
+CHENNAI: The demonetisation has been particularly hard on the differently-abled who have to tackle more than just endless queues at ATM kiosks. On Monday, a special hackathon at IIT-Madras showcased a new version of the ‘Talking ATM India’ app which eases the process of locating speech-enabled ATMs for the visually challenged. 
+
+ The app’s founder, visually challenged social-entrepreneur  , says locating ATMs is very hard for people like him. “One has to call customer care and connect to city representatives of different banks and hope to find details of talking ATMs. Withdrawing money while commuting becomes even harder,” he said, presenting his updated portal www.talkingatmindia.org and mobile app, at the hackathon, one of the highlights of ‘Shaastra 2017’. IIT-M’s techno-cultural festival has been running several events and workshops under its annual theme ‘Augment’.
+ 
+ “Data on 11,132 ATM machines of 10 different banks, situated across the country is presently available,” he said, adding that the website has been made lighter in view of easier access even in areas with glitchy data connectivity. Since 2014, Bagath had been actively campaigning for more talking ATMs which come with a headphone jack. “From 4,000 back in 2014 it has grown to 11,132 ATMs now,” he added. 
+ 
+ But Bagath was not the only of his community at the hackathon who was an expert at programming and coding. Participants from across the country, from school students to entrepreneurs, exhibited their skills.
+ 
+ Python, java and C# (‘see sharp’) were some of the languages used by the students who exhibited various projects like games, and calculation tools they had programmed themselves.
+ 
+ 

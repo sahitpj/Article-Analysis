@@ -1,0 +1,17 @@
+Visakhapatnam: The Andhra Pradesh government, based on machine learning and analytics, has identified about 19,500 probable dropouts from government schools in Visakhapatnam district in the next academic year (2018-19). 
+
+ The AP government making conserted efforts to bring down the dropout   in the state. It has tied up with Microsoft to address this complex challenge. 
+ 
+ Based on specific parameters, such as gender, socio-economic demographics, academic performance, school infrastructure and teacher skills, an applications powered by Azure Machine Learning processes the data pertaining to all students to find predictive patterns. 
+ 
+ With these data clues the district education officials can intervene and help those students most likely to drop-out. A variety of programmes and counselling sessions will be conducted for these students and their parents. 
+ 
+ Andhra Pradesh Sarva Shiksha Abhiyan state project director G Srinivas, in an official communique, asked the project directors of all the districts and mandal education officers to use the results of the analysis to take appropriate steps to reduce the number of dropouts. 
+ 
+ There are about 2,800 government schools in the district that have a student strength of about 2 lakh. As per the analysis of Azure, some of the factors leading to students dropping out are insufficient furniture, inadequate toilet infrastructure, etc. 
+ 
+ Visakhapatnam district education officials revealed that an enrolment drive will be conducted from April 23 to 30 to not only admit new students into schools, but also encourage dropouts to join schools again. 
+ 
+ “The drive is also aimed at increasing enrolments at government schools by raising awareness about the advantages of public schools. We will use the predictive data to track, counsel and address the issues of the students, who are likely to   next academic year,” said the officials.
+ 
+ 

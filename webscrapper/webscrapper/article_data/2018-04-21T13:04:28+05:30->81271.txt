@@ -1,0 +1,17 @@
+HYDERABAD: Providing access to those who can manipulate vital data to influence election outcome, the   had kept in public domain key parameters of a database related to Smart Pulse Survey for almost two years. The survey started in July 2016.
+
+ 
+  
+  
+ 
+ Uploading the survey results began towards the end of 2016 and the findings remained in public domain until it was pointed out by a security researcher on Wednesday. Finally, realizing that such sensitive information should not be kept in public domain, AP authorities took the survey down from the government website.
+ 
+ Researchers said that the data available on government sites could be used for microanalysis of voters by analytics companies, including at cluster/booth level using family details, housing location by merging them with the voters’ list.
+ 
+  told 
+ , “After I tweeted, the government pulled down the cluster map link. The government has been doing the door to door survey using tabs and smartphones and geo-tagged the locations of people as part of the e-governance project. The issue is all the data was collected from citizens using eKYC at family level including their house GPS locations. And this data was published publicly. Parties can use this info to micro-targeting for elections.”
+ 
+ He added, “Many firms are looking for election-related data like voters list and other information like caste, community, social status to provide analytics to political parties. Firms like   may buy this data from third parties. So any citizen data in public domain can be used like the way   data was used by Cambridge Analytica. Through this citizen data of smart pulse survey and also Aadhaar data available in third-party databases like Resident data hub and websites, interested parties will know who your voters are and where they live and their problems.”
+ 
+ He added, “Government is saying they are doing it for transparency, but there is a thin line between transparency and privacy. It can’t be misused. If someone wants to know where all Kapus live, they can retrieve the information.” A former AP IAS officer, who was the key man behind the smart pulse survey, said: “The data was collected to help in disbursing benefits under various schemes but, security is paramount. They should not have put it online.”
+ 

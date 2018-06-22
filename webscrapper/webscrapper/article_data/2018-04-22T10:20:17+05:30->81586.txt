@@ -1,0 +1,30 @@
+Recently, someone claiming to represent an Indian political party approached an artificial intelligence engineer with a special request: Create “deepfakes” for propaganda.
+
+ 
+ Deepfake is the new frontier in 
+  where artificial intelligence is used to make anyone say or do anything on video. Last week, the usually quiet   popped up in an online video calling US president   “a total and complete dips**t”.
+ 
+  
+  
+ Well, Obama never said those things, and the video turned out to be what is called a deep fake, a type of video featuring realistic face swapping. It was created by director   in partnership with Buzzfeed as a warning about not automatically trusting anything on the internet.
+ 
+ Digital fakery is not new — we know photos can be morphed, videos can be edited. Face swapping tech is not new either. But now, with deep learning by machines, these tricks can be automated, and the tools are accessible to many more people, says Rishabh Srivastava of Loki Technologies, a machine learning startup.
+ 
+ 
+ 
+ Subodh Kumar, a professor at IIT Delhi who specialises in computer graphics and visualisation, explains that the idea is for a neural network to learn the points of the face, then find and learn the function that will describe each image. “It creates a succinct representation of the face — mathematically, not geometrically — and then a symmetric function that gives you back the image. So you do that for person X from the many images in a video, and reverse map it for person Y,” he says. By finding points of correspondence, you can overlay one face on another, then blend it to look smooth.
+ 
+ The big problem is that current forensic tools will not be able to detect this fakery, explains cybersecurity expert Akash Mahajan. “With deep learning, when you have recurrent multiple steps, it is hard to trace back the trail the machine took to reach the output,” he says. So the hoaxslayers and fact-checkers we now have, or even forensics experts who look for audio glitches, shadows and visual discrepancies to spot fakes, won’t be able to help.
+ 
+ Desktop tools like FakeApp make deepfakes absurdly easy, a matter of hours to make. And it has already resulted in a spurt of AI porn. Late last year, a Reddit user called Deepfakes showed how you could transpose a celebrity’s face onto someone else’s body, while keeping the expressions of the original.
+ 
+ Even a few Bollywood actresses like Priyanka Chopra have been deepfaked, in violation of their rights and dignity. Crude splice and dice videos are already commonplace — Arvind Kejriwal’s speech was allegedly faked during the Punjab election to suggest he wanted people to vote for the   — but AI could bring a new sophistication to these attempts. “We are vigilant to the danger of deepfakes, but the media and the public are not,” says Ankit Lal, social media head of the Aam Aadmi Party. “Some media organisation could get a deepfaked video of Arvind (Kejriwal) or any other politician and run it as the truth: that is the danger we anticipate,” he adds.
+ 
+ Of course, right now it doesn’t take deepfakery to dupe people, points out Pankaj Jain of SM Hoax Slayer.
+ 
+ “People will believe even a celebrity picture with a fake quote, as recently happened with  ,” he says. While this gullibility is generally true, and people tend to believe what we want to believe, realistic video footage is usually taken as documentary proof. It could be hugely destabilising if phony videos are passed off as truth on social media.
+ 
+ “While we have not seen deepfakes of Indian politicians on open platforms like   and   yet, it’s hard to know if they have been spread on closed platforms like WhatsApp,” says Srivastava. It’s entirely likely to happen soon, given the flood of misinformation that already exists.
+ 
+ In today’s world, when machines can recombine audio and video to create an alternative reality, seeing is not believing.
+ 

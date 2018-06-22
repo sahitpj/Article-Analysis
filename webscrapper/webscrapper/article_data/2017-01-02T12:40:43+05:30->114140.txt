@@ -1,0 +1,19 @@
+CHENNAI: If only one could soar with the birds on a whim or dive into the deep blue sea with the fish. Man has always looked to nature for inspiration to do things distinctly unlike humans. So we’ve had the Icarus [late, of tragic legend] and the Wright brothers [of more recent and well documented success].
+
+ The Wright brothers were the first to learn everything they needed to know from birds, how to be able to fly and carry objects that are heavier than   — slats, wingtips, tailwings, empennage, horizontal and vertical stabilisers, updrafts and downdrafts and thermals.
+ 
+ We’ve also reproduced vessels that can sail the high seas from the lessons that waterborne creatures have taught us. Well, almost. Evolution, you see, has had a jump on us of a few thousand years during which people developed the skills and tools required. And imitating nature has on occasion had devastating consequences. One of the theories regarding the sinking of British liner Titanic in 1912 was that its rudder was not efficient enough to prevent what was then the largest ship in the world from the striking the iceberg and claiming the lives of more than 1,500 people.
+ 
+  
+  
+ 
+ With a less conventional rudder, scientists at   hope to develop fin-like blades, inspired by animals like penguins, turtles and fish, which can be super-efficient propellers and whiplash-like rudders. These blades respond faster to commands and their dual functions mean they can turn on a dime and save on fuel consumption. The bio-inspired propulsion systems can be used in ships remotely, underwater and in aerial vehicles as well.
+ 
+  
+  
+ Just like aquatic animals that navigate without a ripple on the water’s surface, these systems can steer a vessel underwater without creating a disturbance — making them hard to detect. Vehicles with these systems are stealthy — the current buzzword in military hardware.
+ 
+ IIT-M’s department of ocean engineering P Krishnankutty says aquatic animals make use of a variety of propulsion systems but the IIT-M team focused particularly on penguins and fish, which have better hydrodynamics and cause less disturbance.
+ 
+ Research scholar M N Praveen Babu said the penguin-inspired system has two fins that use the pressure difference between the upper and the lower surface of the fins to generate propulsion, rotating and swinging to move forward. “The other system inspired by fish has two side fins near to the fore end (where the pectoral fins of a fish are) and a tail fin,” Babu said. “Both the pectoral and tail fins help propel and manoeuvre but the tailfins give larger thrust.” The researchers tested propulsion and rudder systems on ship models in two different sizes at varying speeds. “We tested several parameters including selfpropulsion, thrust force, flapping amplitude, flapping frequency, forward speed, lift and drag,” Babu said. “Certain devices, we found, had an efficiency of 80% when compared to an average of 65%. Countries like the US, Japan and China are involved in research of bio-inspired propulsion systems.
+ 

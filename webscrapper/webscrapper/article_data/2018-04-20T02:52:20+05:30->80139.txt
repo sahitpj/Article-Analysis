@@ -1,0 +1,32 @@
+GURUGRAM: Technology has evolved a great deal, allowing us to stay in touch with each other in myriad ways. Unfortunately, tech couldn’t come to the aid of the deafblind. Till now.
+
+ “They had nothing really to communicate with each other. The only way for them to talk to each other was by being physically connected — they had to touch each other to communicate,” revealed Vijay Simha, executive creative director at  .
+ 
+ 
+  
+ 
+ But today, the deafblind (of whom there are around 6,00,000 — by rough estimates — in the world) have ‘Good Vibes’ to help them.
+ 
+ Simha is part of the team that has conceptualised and developed ‘Good Vibes’, an   for the deafblind which enables two-way communication for members of this community — wherever they may be. A blend of tech and creativity, this app has been designed in such a way as to help eliminate their dependence on caregivers and immediate family.
+ 
+ The challenge was to find a language that was tactile, one capable of mimicking touch and feel. 
+ 
+ Since the deafblind can neither see nor hear,   has an ‘invisible’ user interface which works mostly through hand gestures and taps. It takes ‘tactile input’ and transmits it as ‘tactile output’.
+ 
+ “Someone suggested, ‘Why not create something that converts text into a readable format for them?’” explained Simha, who alongside Vinod Sivan — group creative director — led the design and development of the app.
+ 
+ “We knew the only way to pursue anything is through haptic (relating to the sense of touch) feedback. And we figured it’s fairly easy to convert text into vibrations that can be received by the deafblind,” he continued.
+ 
+ Text to vibrations is well and good, but how do two deafblind people talk to each other? “How do we create a two-way communication tool? And we thought, what about the smartphone? Everybody has a smartphone today — can we make that useful to the deafblind?”
+ 
+ That’s when things started falling into place. “And we found that Morse Code can work as a translator for input as well as output,” Simha added.
+ 
+  Incidentally, to develop the app, Cheil worked closely with Sense International (India), a not-for-profit that seeks to provide access to support and services for the deafblind community. The app was launched in February this year.
+ 
+ Available on Google Play store (the app can be downloaded and used for free), Good Vibes was recognised at the recent GoaFest 2018, winning four Abby awards, including a gold Abby for technology (utility/tool). 
+ 
+ “It works like magic,” says a proud Simha. Indeed, the app has the potential to be a transformational discovery.
+ 
+ “Very seldom do you get a chance to touch people’s lives in a way ‘Good Vibes’ does. We are really lucky to have this chance to put technology to good use, (and) hope to move forward on this journey and continue to make a difference to people’s lives,” said Sanjeev Jasani, chief digital officer, Cheil WW India.
+ 
+ 

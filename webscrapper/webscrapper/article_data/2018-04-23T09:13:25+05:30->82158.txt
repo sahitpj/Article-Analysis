@@ -1,0 +1,19 @@
+PUNE: Students from the   in Pune have created a hybrid   that runs on both electric and engine motors.
+
+ The go-kart was unveiled at a state level competition organized by the   in March.
+ 
+ The nine-member team comprised Shubham Thorat, Shubham Takawale, Kartik Tikhe, Durgesh Wagh, Atharva Naik, Amar Shelar, Aditya Pingle, Omkar Umadi and  .
+ 
+ “This project raises awareness on saving fuel by switching to electric motors. The starting torque is provided by the engine and is manually switched to the electric drive system. This automatically decreases the rate of emission,” Thorat said. “A simple switch is used to shift from petrol to electric mode and vice versa,” he added. 
+ 
+ Per the students, said the most innovative part of the project was a hydrogen kit that could be directly connected to the carburettor as an alternative to fossil fuel.
+ 
+ The students used second-hand spare parts to construct the go-kart — a 110cc scooter engine, mufflers, fuel tanks and tyres. The students were guided by R R  , a professor at the institute.
+ 
+ “The main challenge for students during this project was obtaining a brushless D C motor and its controller. They are expensive, and only a few stores across the country sell these,” Saraf said. 
+ 
+ Saraf said, “We visited the Automotive Research Association of India to study the implementation of hydrogen kits. Due to safety concerns, the go-kart cannot directly run on hydrogen as most components were second-hand,” Saraf said. 
+ 
+ The project cost Rs62,500. The students had started working on it towards the end of 2017 and completed it in mid-February. The team then conducted trials. 
+ 
+ 

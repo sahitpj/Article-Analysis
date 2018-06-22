@@ -1,0 +1,26 @@
+BENGALURU: If the nature of cyber attacks is any indication, experts say India is a facing an increasing threat from ‘supari attackers’, who provide cybercrime-as-a-service (CAAS). The lack of a strong law/policy to deter this is likely to hurt the country, which is moving towards a  .
+
+ In the past few years, India has witnessed a series of hacks and other cybercrimes, especially by those claiming allegiance to Pakistan. Around 56% of the cases from January 2013 to May 2016 have been those of website defacement, which experts put in the harmless category, something which even amateurs can carry out.
+ 
+ However, pointing to an increasing number of network scanning/probing cases — the first step towards detecting vulnerability in systems so that sensitive data can be stolen — experts say India should not be lax, especially since it aims to turn into a cashless economy. 
+ 
+ Also, the number of malware propagation cases and virus/malicious codes being inserted indicate the increasing prevalence of CAAS. According to data from the ministry of home affairs (MHA) and the Indian Computer Emergency Response Team (CERT-In), there were 1.57 lakh cybercrimes in the said period — 87,412 were cases of website defacement, including the hacking of the NSG website on Sunday.
+ 
+ But the 6.7% (10,454) cases of network probing/scanning, 8.5% (13,364) of website intrusion and malware propagation and 17.2% of virus or malicious codes insertions (see box), point to various tools that are offered by hackers for a price, say experts. 
+ 
+  expert and Supreme Court advocate Pavan Duggal said: “The figures from the government, though only representative, confirm the ground reality. The security concerns need to be addressed on a war footing. In India, CAAS came to the forefront in 2015, but the lack of awareness among probing agencies means there is no specific classification.”
+ 
+ “Last year, I remember a case where a known terror group had sought hackers and many Indians had joined the group. Our police don’t categorize these as CAAS cases and book them under various sections. While we don’t have the correct figure, I am sure CAAS has increased in the past one year,” he added.
+ 
+ While no professional study has been conducted in India, according to a CIO insight report, 2016 saw a global spike in CAAS. “There has been a seismic shift in the ransomware threat, expanding from a few actors pulling off limited, smaller-dollar heists targeting consumers to industrial-scale, big-money attacks on all sizes and manner of organizations, including major enterprises,” the report said quoting Rod Rasmussen, vice-president.
+ 
+ Cyber expert Mirza Faizan Asad explained: “Network probing is people looking for vulnerabilities in systems which will eventually be breached to steal data. Amateurs don’t do it; these are professionals. Also, malware propagation and web intrusion are indicators of hired tools if not services”.
+ 
+ While hiring of hackers from other countries is one thing, many Indians are being provided ethical hacking skills by trainers, which both Duggal and Faizan say is a bigger concern. “There are such institutes in every major city. They are not regulated, charge between Rs 10,000 and Rs 40,000 for certificates and promise jobs which don’t actually exist. Armed with the required skills and with no strong law in place, the candidates may stray,” Duggal said.
+ 
+ Faizan said there are at least 25-30 such training centres in Bengaluru alone. There are many in Pune too, he said.
+ 
+ WHAT IS IT
+ 
+ Cybercrime-as-a-service (CAAS) refers to organized crime rings offering services like on-demand distributed denial-of-service (DDos) attacks and bulletproof hosting to support malware attacks among other things. The criminals are are gaining a better understanding of product positioning, and with whom they need to collaborate more effectively.
+ 

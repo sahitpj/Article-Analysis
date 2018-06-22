@@ -1,0 +1,64 @@
+ Excerpts:
+
+ 
+ 
+ 
+ 
+ 
+ It’s a combination of all of that. Digital is at the core of it, we see increasing traction in digital. Enterprises are moving from experimenting with digital on the periphery to adopting digital in the core. And that is a totally different ball game compared to early adoption of digital, and TCS is uniquely positioned to offer a combination of services from core tech transformation all the way to front-end digital technologies. The full spectrum of services is what is positioning us beautifully in this space.
+ 
+ 
+  Over the period of the last 18 months or so, we have invested in developing a series of offerings around digital. Digital is not one single tech, it is a series of technologies and they all have to be stitched together and when they are stitched together, that’s when exponential value is created and that’s when the experience that you see in the front is worthy of talking about. We also created a framework called Business 4.0 to make things simple for clients. Today, a number of jargons are thrown around – analytics, blockchain, data, industry 4.0. The customers were confused as to which one they should go for first. Business 4.0 is a framework of thought leadership which helps our customers in their digital transformation journeys. It has four pillars – mass personalization, creating exponential value, creating a partnering ecosystem, and embracing risk. We can create solutions around each of these using the same digital technologies. So it’s the investments we have done in the digital technologies, combined with the thought leadership framework, that is driving our digital revenues and growth. 
+ 
+ 
+ 
+ 
+ 
+ Full services is a stated pillar of our strategy. We went from IT to business operations and infrastructure services and products. And now we have the new service practice architecture. The   deal or the Diligenta deals (Scottish Widows and others) are examples of offering everything together as one integrated stack. I think we have by far the broadest spectrum of services in the industry. Most importantly, it’s organically grown and therefore deeply integrated. Not a shortcut stitched together through multiple inorganic acquisitions.
+ 
+ 
+ Digital previously involved smaller deals. But these smaller deals were not because clients wanted to do them in small sizes, but because someone told them that digital involves co-located agile (a method of software development that allows for delivery of applications and the improvement of products at high velocity), and agile means smaller deliveries. So people became comfortable in conceptualizing the deals in smaller chunks. But then, when we took a step back, we felt this is flawed. The customer talent is distributed. If they have to bring everybody together and do things in a co-located manner, cost will go through the roof. So we came up with an approach that is called location-independent agile. By employing this method, and combined with the Business 4.0 framework, we have been successfully able to convert smaller deal sizes into larger ones. Be it the Transamerica or Prudential deal. Initially, everybody went for mobile apps, omni-channel adoption. But if you want to give an experience that is interactive, instantaneous and intuitive, the digital core, the backend, gets affected. This kind of digital transformation requires the 4.0 framework and consequently the deal sizes become large, and we are able to deliver these rapidly using location-independent agile.
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ We are not saying that. We are very selective in acquisitions and when we acquire we integrate them deeply in the organization. When we do acquisitions, we will not keep them as standalone pieces.
+ 
+ 
+ 
+ 
+ 
+ The commentary on captives seems to be unidimensional. The opportunity is not about the captives. The actual opportunity is much more rich and multi-coloured. For a big bank, in its   operations, we have helped them rearchitect their tech payment solution in a manner in which they can offer payment as a service to other partners. In this case, the integration was with a hospitality and travel partner. Then we increased their options on payments to see if payments could be made using their bonus points together with using their credit limit. These kinds of solutions require not just banking knowledge but also knowledge about what is going on in the hospitality side, how their systems are architected, and how can we integrate them. We are using e-commerce solutions in airlines applications. So we are able to provide solutions that require cross-industry knowledge, solutions that liberate clients from the fear of intellectual property (violations). Clients cannot do this because they don’t have the ability to attract that kind of people because the utilization would be limited.
+ 
+ If you look at ATMs, there is huge complexity because of the diversity of ATMs. Every time you want to introduce a new feature set – say, personal loan disbursement through ATMs -- you have 50 different ATM interfaces. We do a lot of work in providing engineering solutions into these kinds of scenarios. That’s not something the bank wants to do inhouse. That’s a one off expertise, after the work is done, it’s no longer valuable to them. So they come to service providers like us. For us, it’s a replicable solution, we do for multiple clients. So banks will keep those things inhouse that are of long term value to them. Those which are of one-time use, it’s much better to give to providers like us. 
+ 
+ So there are very different scenarios where we come in, and the beauty is there is enough business.
+ 
+ 
+ 
+ 
+ : Digital was held hostage to the e-commerce space, where the primary value proposition to the customer was price. And retail went through a period where it was caught unawares. But over the previous year, we have seen retail coming back very strongly. They realised the way to do this is to take away the game from being only price and focus on customer experience.
+ 
+ One of the biggest electronics retailers in the US had become the place where people would come to look at the product and then they would go back and buy on Amazon, 20% cheaper. The company went close to bankruptcy. Now the company is one of the fastest growing retailers. We worked with them to ensure persistence in the customer experience. We created an app with multiple features. If you want a wi-fi solution for your house, the app will measure the wi-fi strength and tell you where to locate the router, and whether you need a hub and a repeater. It allowed the customer to have a real-time conversation with an expert. The app can advice on the appropriate TV size to buy, depending on the room size, and how to integrate it into your home theatre system. And it’s not just about the app, but also about integrating it with everything that you have, with the contact centre, the supply chain.
+ 
+ We have seen this kind of change across big global retailers. It’s the resurgence of retail. They are going back to the customer relationship and using that as a differentiator, and saying e-commerce is a one-trick pony. It has price, it has nothing else. They are turning the tables on e-commerce, and we are participating very strongly in this.
+ 
+ 
+ 
+ 
+ 
+ You won’t find us going up and down dramatically. We have been quite steady in our approach. Our reliance on visas has come down significantly over the years, and we are on the same trajectory. In absolute terms, we are somewhere close to where we were last year, but in relative terms, it is lower than it has ever been in our history. Our approach to this is much more holistic than transactional. The issue is the supply side problem in our core market (US). And to address the opportunity there, we need to fix the supply side issue. So we are participating very deeply in building out that supply chain. We are going into multiple colleges, going into the school system, the objective of the outreach programme is to touch a million students by 2020 to get them into STEM (science, tech, engineering, math) education. We have been on it for the past 3-4 years. It’s a long term play. The current skill gap in the US is upwards of a million. We are among the top hirers of technology talent in the US, but that’s not going to solve the problem, we need a lot more supply. We have hired from the first crop of those who came out of our programme. We have the appetite and staying power to invest ahead of the curve, and reap the benefits as we expand. 
+ 
+ 
+ 
+ 
+ 
+  If you want to execute a project, you need two kinds of information. You need information about the new technology, and you need to know how to make that technology work in that client environment. Of these two, we underestimate the knowledge of the client environment, the contextual knowledge. We think the new technology knowledge is the more difficult one. But by definition, that is explicit knowledge which you are starting at the same place as everybody else. Since it’s new technology, nobody knows it, except maybe, say, the first 500. It is by definition learnable, and everybody is learning it. The knowledge about the customer is experiential knowledge. It is much more difficult for somebody else to acquire it. Between the two, this is the more valuable knowledge. The other is just a matter of making the content available to learn. We have hugely invested in our learning infrastructure, and made this available in a manner that people can use it conveniently. And the bigger point is, this is not going to stop today. Because today it is this technology, tomorrow it will be some other technology. 
+ 

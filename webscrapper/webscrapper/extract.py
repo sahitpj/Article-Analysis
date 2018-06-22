@@ -95,8 +95,7 @@ for filepath in editFiles:
     entry['keywords'] = keywords
     data.append(entry)
     t += 1
-    if t == 100000:
-        break
+    
 
 article_df = pd.DataFrame(data)
 #print article_df

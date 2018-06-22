@@ -1,0 +1,20 @@
+COIMBATORE:   through video conferencing are becoming popular. But, the feeling of involvement in a live classroom and participation is always amiss.  's centre for wireless networks and applications department has invented a technology where students from different remote locations can interact, not only with the professor, but with each other too. 
+
+ The technology is called tele-immersive gaze alignment technology, and the professors from Amrita University were awarded a US patent for this in July 2016. The inventors include the vice-chancellor of the university, P  , Balaji Hariharan, Ramkumar Narayanankutty, Sreedevi Ambili Gopakumar and  . 
+ 
+ "A common problem that is faced in virtual classrooms through video conferencing is lack of participation from the students in the remote locations," said professor of the wireless networks and applications department, Balaji Hairharan.
+ 
+ "There are some options through which students can interact with the teacher. Like for instance, they have to press the button on the computer at their side, and then the teacher will receive a visual or an audio signal that alerts the student," Hariharan added. 
+ 
+ The project lead, P Venkat Rangan, said, "We conducted several experiments by participating in classrooms conducted via current e-learning platforms. Our observations showed that distant participants often find it difficult to interact with the teacher and almost impossible with their remote peers." "We analysed the reasons for this experiential divide and as an outcome we proposed to make an automatic system capable of enriching the interaction experience. A major factor impeding interactions is lack of proper gaze alignment." he further said
+ 
+ Amrita's professors have designed a technology that will capture the gestures of the student and alert the teacher that there is a question. "We have worked out a comprehensive system to enable a live classroom environment for the students sitting in remote locations. We set up back to back televisions. One set for the students and one for the teacher," Hariharan said. "This way both the teacher and the students of the live classroom are able to see those in the remote locations," he added. 
+ 
+ Venkat Rangan, said, "We have developed a vector geometry based, tele-immersive automatic gaze correction technology for live e-learning classroom environments that virtually brings all the participants together to make a global classroom. A three classroom test-bed was constructed for evaluating the efficacy of the system during all the interaction states. User study results indicate a 78.72% improved experience during the classroom session." To understand the gestures of the teachers and the students, the researchers observed the classroom sessions of nearly 60 professors. 
+ 
+ The research was funded jointly by Amrita University and   (NKN), and it commenced in 2012. 
+ 
+ "This technology is primarily built to enhance the eLearning classroom experience by making it more interactive and natural. This technology can also be adapted to be used in multipartite video conferencing, and any situation requiring gaze alignment," said Venkat Rangan. 
+ 
+ Having identified and patented the technology, Amrita's centre for wireless networks and applications is looking forward to scale up the technology. "This technology is primarily built to enhance the eLearning classroom experience by making it more interactive and natural" said Venkat Rangan.
+ 

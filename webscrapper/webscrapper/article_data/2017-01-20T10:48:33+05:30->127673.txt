@@ -1,0 +1,34 @@
+Bengaluru: He calls himself the “son of Bengaluru”. And indeed he is.  , chief executive officer and president of the $5.5-billion NetApp, grew up in Bengaluru, studied at the St Joseph’s Boys High School. He is one of four brothers, all of who grew up here and became hugely successful in their fields. His twin brother Thomas Kurian is president at Oracle. George and Thomas both got into IIT Madras, and both left it within six months when they got admission into Princeton University. George had stints at McKinsey & Co, Akamai Technologies and Cisco, and joined   in 2011. He was appointed CEO in mid-2015. He was in Bengaluru this week for the inauguration of a massive new campus of NetApp and spoke to TOI. Edited excerpts: 
+
+ Success sometimes comes in twos. In your case it came in fours (four successful brothers).
+ 
+ We are blessed to have wonderful parents and great mentors and wonderful school that shaped us into who we are. The ecosystem that we were raised in made us who we are. I met my brother (Jacob, who is partner in New Silk Route Advisors and lives in Bengaluru) yesterday. We had an old boys’ day in school (St Joseph’s). I happened to be here when they were having it.
+ 
+ You’re about the only major standalone storage company now, after   acquired  .
+ 
+ We think it’s an enormous opportunity. We have been demonstrating that through our results — if you look at the share of the market in the newer forms of storage like scale-out and solid state storage, there is no question we are taking market share from them. We are gaining share at the expense of vertically-integrated companies. It gives us an opportunity to partner not only with providers of mature technologies to the enterprise like the others are doing, but also to be the creators of the next generation of technologies, like Amazon, creators of solid state storage, like Samsung. It’s a proof that success is beating scale.
+ 
+ Are you saying EMC will regret it?
+ 
+ Technology combinations are not easy to pull off. Especially to do it at that scale in a market that is highly dynamic is like putting lead weights on rather than unencumbering yourself so that you can be focused on the customer. And we intend to take advantage of it every hour of every day.
+ 
+ What went through your minds when EMC sold itself off?
+ 
+ We thought it was the best opportunity for NetApp and you know we have a lot of ideas on how to progress our business and you’ll see us execute those. And the results are starting to show.
+ 
+ The enterprise storage market continues to decline. Your hardware revenue has been under pressure and you’ve lost market share to competition.
+ 
+ We gain in some quarters and lose share in some others. We are focused on the markets that will be storage systems of the future and we are winning in those. In the next 3-4 years, all of storage will be solid state storage. In a few years, as the market transitions from disk-based systems to solid state systems, we are going to be in a fantastic place. Our share in solid state is about 20% and in India, it's 28%, and we are growing three times the market. The price of solid state storage replace is better than price of performance-based disk drives. I think over the next few years, the total cost of ownership of solid state storage will be lower than of cheap disk-based systems. In the mainstream, the crossover has already happened.
+ 
+ How has the India centre played a role in this?
+ 
+ Many of our innovations are built out of here. The techniques of using expensive flash media in a way that its cost equals that of disk-based solutions were created in India. The ability to optimize our file systems and operating systems for extreme performance, much of that innovation came from India. I think our recognition that the Asia-Pacific region is a dynamic market and our interest to be intimate with the customers that are building the institutions of the future causes us to rethink Bengaluru from being an R&D centre to a global centre of excellence. Asia-Pacific is growing faster than any other part of the storage market because digitization of the IT architecture is in the growth phase here.
+ 
+ You mentioned how data fabric being centerpiece to your strategy. How does that tie into your new business model?
+ 
+ What we see with customers is they want to build a hybrid architecture for IT. They own and operate some of their environment and they rent some of them from a cloud provider. The idea that we have about data fabric is to allow people to build an integrated hybrid multi cloud architecture that is integrated at the data layer. In terms of changes to business models—one is to enable our tech to be available as a software in cloud providers. Second is to have joint go-to solutions with cloud providers.
+ 
+ You have a new leadership on board.
+ 
+ If we were to summarize our strategic plan for last year, we have pivoted our business to the growth areas of the storage and data management market to change the way we solve customer problems, as well as address a broader range of customers. We have five new leaders at the top of the company – a new leader for go-to-market (Henri Richard), CTO (Mark Bregman), CFO (Ron Pasek), chief marketing officer (Jean English) and a new CIO. I need to have experienced leaders with the knowledge of how to transform the company.
+ 

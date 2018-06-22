@@ -1,0 +1,7 @@
+Scientists are developing   with hairy   that can “feel" its surroundings, an advance that may give people with prosthetic limbs a better sense of touch.
+ 
+  “We are interested in integrating the sensor into robotic arms for people with disabilities to give them the capability to feel a complex environment and handle things more easily," said  , a researcher at the  .
+  
+    relies on hair for its sense of touch. To mimic this, researchers built artificial hairs using magnetic cobalt-based microwires.
+  
+  

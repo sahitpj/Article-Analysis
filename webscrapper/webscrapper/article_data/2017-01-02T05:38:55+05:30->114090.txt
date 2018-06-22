@@ -1,0 +1,11 @@
+NEW DELHI: The Union   ministry has issued new standards and guidelines for implementation of interoperable electronic health records (EHR), a move seen as the foundation for digitalisation of healthcare data in the country.
+
+ The standards, notified by the ministry , aim to set uniform norms for capturing, storage, retrieval, exchange, and analytics of healthcare data and information, including images and clinical codes. It also puts forth guidelines for maintaining privacy and confidentiality of such information.
+ 
+ An EHR is a collection of various medical records that get generated during any clinical encounter or events. EHR, in line with PM Na rendra Modi's   initiative, will build a cloudbased hospital application where real-time health data will be fed from all hospitals.This will enable the government to streamline data, better analyse health indica tors and formulate strategies accordingly .
+ 
+ With rise of self-care and homecare devices and systems, meaningful healthcare data is constantly getting generated. Such data also have long-term clinical relevance and helps the government and healthcare agencies establish public health trends in specific areas.
+ 
+ The move is also expected to help patients as they would not be required to repeat diagnosis and similar procedures, which will translate into faster treatment at lower cost.
+ 
+ 

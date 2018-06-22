@@ -1,0 +1,18 @@
+NEW DELHI: Indian power equipment manufacturers have raised alarm over vulnerability of the country's   to   as Chinese companies make steady inroads into SCADA (supervisory control and data acquisition) systems being added to smarten up city grids.
+
+ SCADA is a computer-based industrial automation control system that practically makes factories and utilities run on their own. In an electrical system, SCADA maintains balance between demand and supply in the grid.
+ 
+ "In the connected systems, intelligent equipment talk to each other and exchange data and information, making the system more efficient but at the same time increasing the vulnerability if exposed to suspect individuals, companies and nations which may use such access to their advantage," Indian Electrical Equipment Manufacturers Association director-general Sunil Misra says in a letter to power minister Piyush Goyal.
+ 
+ This is not the first time that domestic power gear makers are opposing Chinese equipment. But unlike in the past, when boilers, turbines and generators for power stations were in the line of fire, this time round the concerns are strategic and not about protecting turf.
+ 
+ Contracts in the transmission sector have long tenures. SCADA contracts include maintenance of equipment, while transmission lines are given on build, own, operate, transfer basis spanning upto 35 years. This allows contractors to place their personnel on site in case of SCADA projects and control operations in transmission lines, allowing ample scope of planting computer bugs at a later stage.
+ 
+ Chinese companies have recently bagged SCADA contracts for 18 cities spanning Rajasthan, Madhya Pradesh, Tamil Nadu and Puducherry. More such contracts are on anvil. Besides, Chinese companies have also qualified to bid for three transmission links being laid by the Centre to strengthen the national grid.
+ 
+ Pointing out the possibility of embedded malware and spyware in SCADA equipment supplied by Chinese companies, a common perception across the world, Misra says these "can be activated even by remote, have the potential to damage, cause failure or collapse of the grid".
+ 
+ IEEMA had earlier written to NSA Ajit Doval to seek a ban on Chinese equipment in transmission, equating grid security to national security as hacked networks could bring down military establishments and hit railways, hospitals or operations in the oil sector.
+ 
+ But banning Chinese equipment is easier said than done. For one, domestic manufacturing capacity is limited and the price offered by the Chinese may be difficult to beat by other Western MNCs, even with 'Make in India'. A ban will invariably spark a battle at WTO and cast a shadow over bilateral ties.
+ 

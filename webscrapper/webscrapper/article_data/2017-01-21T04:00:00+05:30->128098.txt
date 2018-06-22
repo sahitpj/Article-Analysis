@@ -1,0 +1,15 @@
+Mumbai: In an about-turn, the National Payments Corporation of India (NPCI) has now backed   in the tussle between the private bank and Flipkart-owned   application, which enables account-to-account transfers on behalf of  . The corporation, which manages payment networks in India, has now said that PhonePe needs to first adhere to NPCI’s guidelines before ICICI Bank allows its customers to register on the app.
+
+ In a statement issued on Friday, NPCI said, “Based on a review of ICICI Bank’s action to block Unified Payments Interface (UPI) transactions made through PhonePe app, NPCI has noted that PhonePe and   apps are in contravention of the   guidelines on  . Hence, NPCI has directed PhonePe and Flipkart to comply with UPI guidelines, and allow payments from UPI handles of all banks on their apps,” said the corporation. 
+ 
+ “Simultaneously, ICICI Bank has been requested to allow UPI transactions from PhonePe app as soon as PhonePe and Flipkart start complying with UPI guidelines on interoperability” the statement added.
+ 
+ The dispute between the two institutions is in focus because Flipkart is one of the biggest online merchants in the country and has been the first off the block to start accepting payments directly from customer accounts using UPI — a platform which enables accountholders to transfer and request funds from other accountholders without account details. 
+ 
+ Also, accountholders can use any bank app to access their bank accounts. Flipkart has been offering discounts to customers who use the PhonePe app.
+ 
+ ICICI Bank has disallowed its customers from registering on PhonePe stating that the app does not support other UPI users registered with other apps.
+ 
+ According to PhonePe over 20,000 UPI transactions worth over Rs 5 crore have failed because of ICICI Bank’s action.
+ 
+ 
