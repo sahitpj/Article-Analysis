@@ -1,0 +1,21 @@
+BENGALURU: Little did Ankit G, a techie, know that even a   would fail to fetch him a dinner at a time when ATMs were running dry due to demonetization. 
+
+ A few weeks ago, Ankit, 26, tried to buy a meal online using his digital wallet, Paytm. While an amount of Rs 650 was deducted from his bank account and   wallet, the order wasn’t placed successfully. The page showed some technical error leading to a failed transaction. While Ankit immediately got a text notification from the bank stating that the amount has been returned to his Paytm wallet, the wallet showed zero balance.
+ 
+ “I tried a lot to get back the money, but in vain. While my bank statement showed the money was returned to my Paytm wallet, I didn’t receive any acknowledgement from Paytm’s side,” said Ankit, who then wrote to Paytm detailing the failed transaction. However, it’s been over a month now, but neither has Ankit received a reply nor the money. 
+ 
+ “Not all banks operate Unified Payment Interface ( ) that allows instant money transfer from one bank account to merchants, both online and offline. Only some of them like the SBI provide it. Soon after SBI launched its UPI-SBI Buddy, it disabled ‘transfer money to Paytm’ option from net banking. All banks should come up with their individual UPIs which should be more secured and trustworthy. Also, not many users are aware of bank UPIs and continue losing money over online transactions. Efforts should be made to create awareness about the existing UPIs,” added Ankit. 
+ 
+ Akriti (name changed), a 24-year-old media professional, too had a similar experience. Akriti who wanted to recharge her phone using Paytm, ended up losing Rs 500 in the process. While the amount was deducted from her bank account, her phone wasn’t recharged. “In such cases, the amount is usually reverted to the digital wallet. But I did not get back a single penny. I have been writing to Paytm, but they haven’t responded,” she said.
+ 
+ Not everyone though is waiting for Paytm to respond. Rakesh, a senior techie, is planning to knock on the doors of a consumer court for a refund. “On December 3, I tried to place an order worth Rs 300 through my Paytm wallet. An OTP was raised and the money was deducted from my account. However, my order wasn’t placed. The moment I pressed the ‘submit’ button on my HDFC bank online secure page, it threw up an error stating the page cannot be found. What’s worse is that Paytm didn’t even have any proof of the transaction. The order number or the transaction ID hadn’t been recorded on my Paytm profile. I have sent several emails to Paytm, but in vain. As proof I just have my bank statement reflecting that the amount was deducted towards Paytm,” said Rakesh (name changed).
+ 
+ Rakesh, in fact, found that many of his friends too faced similar issues. “A recent study by Qualcomm clearly indicated how unsafe Indian websites are for online transactions. It cannot be the fault of a website alone when it starts affecting so many users. There is definitely a hacker intervention amid the  . Every detail of the user is being tracked, including the One Time Password (OTP) that pops up on our phone. There’s a set of codes running at the hacker’s end, revealing sensitive data in seconds, and the money is lost,” said the techie.
+ 
+ --Paytm’s explanation
+ 
+ Refund to wallet, in case of a failed transaction, is happening immediately and we aren’t seeing anything out of the ordinary there. However, some people are experiencing delays while transferring money from Paytm wallet to their bank account. This is because money in the Paytm wallet is kept in an escrow bank account and the   (CBS) creates a logical delay when taking large number of bank transfer requests at the same time. Owing to this, some transactions are in the queue and are processed only at night. We have explained the process to users and asked them to check their bank account after 24 hours. While some mistake the delay as a system failure, in reality this is how the banking architecture has been built so as to avoid large volumes of queries on the bank’s CBS. 
+ 
+ --Paytm spokesperson
+ 
+ 

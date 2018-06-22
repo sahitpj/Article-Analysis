@@ -1,0 +1,21 @@
+NEW DELHI: Allaying the Supreme Court’s apprehensions about possible privacy violations through Aadhaar, UIDAI’s counsel Rakesh Dwivedi made a startling disclosure on Wednesday that secretive foreign websites were amassing a huge amount of intimate data on individuals, but were unable to hack the   database.
+
+ 
+ Arguing before a bench of CJI Dipak Misra and Justices A K Sikri, A M Khanwilkar, D Y Chandrachud and   on April 17, the senior advocate had thrown an open challenge to the petitioners to hack his personal data from the Aadhaar database while claiming that it was stored in the safest manner possible with no connection to the internet. The petitioners have alleged that Aadhaar data was prone to misuse and posed a threat to citizens’ privacy.
+ 
+ On Wednesday, Dwivedi, assisted by advocate  , told the SC that an anonymous person took up the challenge and dug out his personal details “using the website Pastebin”. He handed over two pages listing 77 counts of personal information about him, his wife, daughters and son, brothers and sister.
+ 
+ The details included the legal fee he had charged the Akhilesh Singh Yadav government, his family members’ voter ID card numbers, that he played Ranji Trophy in 1972 when his father was an SC judge, as also the name and nationality of the woman his son intends to marry.
+ 
+ However, the data sheet did not contain any information he had given for Aadhaar, not even the Aadhaar numbers of his family members.
+ 
+ The anonymous sender of the private details about Dwivedi and his family also left him a message, “A humble response to the open challenge by Rakesh Dwivedi in the   on April 17, 2018. This is a little bit I know of you with a few searches on   (didn’t check your Facebook profile, which sure will have a lot more ‘private’ information, or any other website that requires a log in).”
+ 
+ If the court had peppered the Centre and the   (UIDAI) for two weeks with questions relating to possible privacy violations because of Aadhaar, it was Dwivedi’s turn on the day he concluded his arguments to make the five judges sit back and take note.
+ 
+ “Petitioners have made a mountain out of a molehill by constantly harping on privacy violations. Have a look at these sheets of paper listing most private information about me and my family collated by a person by merely searching on Google, which has ‘big data’ and software to analyse it.
+ 
+ Aadhaar does not have processing or analysing software to make the data unsafe. On the other hand, it provides punishment to any one sharing data. The Aadhaar system is unconnected to the internet and hence immune from hacking. It does not violate right to privacy,” he said.
+ 
+ “The architecture and design of Aadhaar is such that it can neither be used for surveillance purposes nor its data can be analysed for commercial exploitation. The data available with the requesting agencies, where authentication takes place, could at best be used to prepare a directory of individuals. All these demographic data is anyway in public domain,” Dwivedi said.
+ 

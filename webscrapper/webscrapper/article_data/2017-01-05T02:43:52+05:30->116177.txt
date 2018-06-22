@@ -1,0 +1,15 @@
+NEW DELHI: Throughout 2016, Delhi Police had a tough time tracking vehicles used in several high-profile kidnappings, including the one in which Rs 50 crore was demanded as ransom. Finding their hideouts also turned out to be a harrowing task. All these might change for better in 2017 with the police procuring an advanced vehicle tracking technology.
+
+ Under this technology, police personnel will not only be able to track suspect vehicles but also watch movements of a ‘lead’ or his associate. The system will have a central command and monitoring system, as well as mobile stations. 
+ 
+ The tracking device will be in the form of a medallion that can be put covertly on any vehicle. “The vehicle tracking device (VTD) will be small in size so that it is rigid, energy saving and impervious to extreme climatic conditions, and can be easily installed. The device will be kept in a tough and waterproof casing equipped with powerful magnets for fast, covert and swift installation on target vehicles,” a senior officer said.
+ 
+ The centralised monitoring system ( ) will have a detailed digital map display and a standard communication server letting “the system’s operator manage the tracking mission by monitoring the location of tracking units and sending over-the-air commands”. The mobile command station, the police said, will be an Android-based tablet or a smartphone that will command and control the behaviour of a tracking unit by sending over-the-air commands.
+ 
+ The system will collect real-time location data from the remote tracking device (VTD) based on its GPS location through a two-way communication method. Information will be sent via text messages or data using a 3G and 4G SIM card. The real-time location of the device on the target vehicle will be visible on a coloured digital map. There will be no limitation on the number of tracking devices that can be monitored simultaneously.
+ 
+ “The device will supply information about a location’s GPS coordinates, its time stamp, and a vehicle’s direction and velocity. It will also have an alarm system to alert the operator if the device is tampered with or shifted,” the officer said. 
+ 
+ A geo-fence alarm on the device will alert the operator whenever the device goes in or out of a defined geographical area. “It will also have a motion-and-halt alarm to inform the operator whenever the vehicle starts to move or stops moving,” he added.
+ 
+ 
