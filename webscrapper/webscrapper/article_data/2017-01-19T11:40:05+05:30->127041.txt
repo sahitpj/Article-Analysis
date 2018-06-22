@@ -1,0 +1,13 @@
+CHENNAI: The second edition of the Introduction to Modern Application Development (IMAD), jointly offered by startup   and   is set to be launched on January 23. Registrations are open till the same day.
+
+ Knowing how to   is one of the most coveted skills in today’s world - from the perspective of well-paying jobs to starting up. IMAD tackles this head on via the format of a MOOC. Hasura & IIT Madras will bring together a combination of theory and practice to convey the principles of building applications on the cloud. By the end of this 8 week course, you would have learnt about the internet & the fundamentals of app-development while actually building your own application.
+ 
+ In the previous offering of IMAD, there were more than 57,000 registrations for the course, and this was the largest ever MOOC in India.
+ 
+ The free 8 week course will have a blend of theory and practice with short 20 minute course videos that will be available online and can be watched anytime. The course will have graded assignments, and a final test. Internship interview opportunities will be provided to the course toppers (top 5% of the cohort). The previous edition of the course saw over 25 companies including Mastercard, Swiggy, HackerEarth, Furlenco offer interviews to students who completed the course.
+ 
+ On writing the official final exam, students are eligible for a certificate from IIT Madras. Completing the course also gives students the opportunity to build apps using Hasura.
+ 
+ Tanmai Gopal, cofounder, Hasura said, “In this new space of application/web development almost everyone is self-taught because the technical underpinnings are not taught anywhere, and universities are yet to catch up. Our motivation is to address this gap. In the true spirit of education we want to address the hardest challenges that people face in this field - getting started on a solid foundation.”
+ Those interested can register for the course here.
+ 

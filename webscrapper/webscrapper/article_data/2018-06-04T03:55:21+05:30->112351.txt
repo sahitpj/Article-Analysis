@@ -1,0 +1,22 @@
+Shortly after Einstein proposed his groundbreaking   in 1916, he rescinded it, thinking that he had made a mistake. And it was only months later that he verified a few other things and confirmed his theory. Fast forward 100 years, and here we are, celebrating Einstein’s triumph with the detection of  .  , an elected member of the  , a highly cited astronomer, and recipient of numerous prizes for his research including the Nobel Prize, delivered a keynote speech on the same lines, titled Einstein Triumph’s: The magnificent detection of gravitational waves.
+
+ 
+ But before we delve into this topic, let’s go back to the drawing board: How do we know anything about the Universe? Short answer: Light. Long answer: Almost everything that we know about the Universe comes from light. “When we view the same object at different wavelengths and different temperatures, we see some fundamentally distinct things,” said Filippenko, who specializes in spectroscopy. 
+ 
+ That said, imagine how much more we would learn if we find a different way for studying Universe. Enter gravitational waves — waves associated with gravity. Now, at the bottomline, a gravitational wave is produced when two objects orbiting one another end up “producing ripples in the actual fabric of space and time.” 
+ 
+ To understand this in detail, we first need to understand what the “fabric of space and time” actually means.   says that an object produces a dimple (or warping) in the shape of space and the passage of time. To illustrate, think of a heavy ball (Ball A) placed on a sheet a rubber. Now, if you flick Ball A, it goes straight. However, if you station a heavy ball (Ball B) in the center of the sheet and then flick Ball A, it (Ball A) will follow its intrinsically curved path. Simply put, General Relativity is best described by John Archibald Wheeler, who said, “Matter tells spacetime how to curve. Spacetime tells matter how to move.”
+ 
+ So we’ve explained what the “actual fabric of space and time” is. Now, over to what a “ripple” is. At its core, a ripple in the fabric of spacetime is a wave that carries energy. For example, when two objects orbiting each other merge, they send a wave (read ‘ripple’) through spacetime. This ripple is the gravitational wave. 
+ 
+ On 14 September, 2015, scientists at LIGO in Louisiana & Washington noticed an anomaly -- space was squeezed and stretched at the same time, a fundamental property of gravitational waves. They exchanged data to verify whether this peculiar occurrence was actually true or whether it was just a result of some cosmic pandemonium. It was the former. That day, everyone and everything -- you, me, your pet, your iPhone -- was squeezed and stretched. So too were the laser beams in LIGO’s two 4-kilometer long arms. 
+ 
+ What happened was historical. Two black holes, 1.3 billion light years away, had merged to form a single black hole. They emitted these gravitational waves which only reached us 1.3 billion (that’s billion with a ‘b’) years later. Filippenko continued by talking about the magnificence of such an event. He mentioned that the light emitted from this black-hole merger was more than all the stars in the Universe, combined. 
+ 
+ But there was something more unique about the way these waves were discovered. Filippenko drew an analogy: Imagine the star that’s closest to the Sun (that’s 40 million million kilometers away), shift its position by the width of a human hair, and try to measure that shift. Now, as bizarre and impossible as this measurement sounds, it’s precisely what LIGO did on 14 September, 2015. 
+ 
+ That day, such a precise measurement validated the way we thought about our Universe. That day, Einstein triumphed. That day, we actually communicated with the Universe in a way we’d never done before. 
+ 
+ Alex Filippenko is a Professor at UC Berkeley. He taught ‘Astro C10: An introductory course in Astronomy,’ which I thoroughly enjoyed. Thank you, Alex.
+ 
+ 

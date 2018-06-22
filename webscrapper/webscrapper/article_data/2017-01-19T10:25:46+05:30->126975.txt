@@ -1,0 +1,28 @@
+BENGALURU: On November 30, 2016, a day after the Samba attack, the Border Security Force (BSF) said it had discovered a cross-border tunnel, which it believed terrorists used to infiltrate. 
+
+ In July 2012, four years before the Pathankot attacks, the army had discovered a 20-ft deep tunnel with a complete ventilation and breathing system 340 metres inside India from the International Border (IB) in Samba sector, only 58-km from the Pathankot air base. 
+ 
+ In fact, between 2001 and 2016, India has discovered at least eight tunnels originating from across the border along Pakistan, at an average of one every two years. And, only one of these is suspected to have been dug for drug running, while the others are linked to possible or successful infiltrations.
+ 
+ With increasing infiltrations and multiple attacks including on armed forces’ bases such as Pathankot and Uri, the Centre is looking to expedite its hunt for two key technologies— tunnel detection and   systems— that it hopes will help prevent such activity.
+ 
+ 
+ 
+ 
+ The National Centre for Excellence in Technology for Internal Security (NCETIS) at IIT-B, which also has people working with other IITs, has developed a Ground Penetrating Radar (GPR) at 920MHz, which can not only detect tunnels but also landmines buried in soil.
+ 
+ “Right now, we testing the equipment for ruggedness. We have a mandate that it needs to work in all terrains and conditions and once the ruggedness test is complete, we will begin the field trials in February,” Seema Periwal, project manager, NCETIS told TOI from Mumbai.
+ 
+ She said, that while the initial project was to detect landmines, the Border Security Force (BSF) made additional requirements of tunnel detection. In fact, documents with TOI show that it was in November 2016 that MHA finalised the qualitative requirements (QRs) for ground penetration radar.
+ 
+ The MHA, even as the technology from the IITs is ready for trials, has issued a notice earlier this month inviting vendors, manufacturers, distributors and experts to share their views, suggestions and even product details with it. Sources in the MHA also said that India is looking at a technology from Israel.
+ 
+ 
+ 
+ 
+ While tunnel detection is one aspect, the BSF is also looking at equipping itself with a three-tier gunshot detection system—which can provide an alert 1 second after a enemy shot has been fired in the range of 300 metres to 1,200 metres.
+ 
+ The BSF, which has been considering this technology from 2010, has late last year finalised the QRs for three systems: Standalone detection system, vehicle mounted system and weapon mounted system, which can be deployed to protect buildings or camps, used during patrolling and on-ground fighting scenario.
+ 
+ It is looking for a system that can detect different types of weapons. For a 5.56mm weapon, BSF has asked for a detection range of at least 300, while the same is 400m for a 7.62x39mm weapon, 500m for a 7.62x5.1mm weapon and 1,200m for a 12.7mm weapon. Sources said that the MHA is likely to look outside of India for this technology, although no final decision on it has been taken.
+ 

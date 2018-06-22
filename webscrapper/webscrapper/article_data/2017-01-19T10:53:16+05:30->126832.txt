@@ -1,0 +1,16 @@
+CHENNAI: In the latest round of banks, telecom providers verses e-wallets, the former say it is about "security concerns," even as the latter allege it is to kill "competition." After   blocked  's PhonePe it has come to light that   has over more than four months stopped allowing its customers to recharge using some wallets, including PhonePe. 
+
+ Customers of State Bank of India,   and   have also voiced concerns that they have been unable to top up their PhonePe wallets using their parent bank's netbanking facility. 
+ 
+ However, PhonePe said this was a temporary phenomenon for a few days due to 'service issues' and customers of Bank of Baroda and Kotak Mahindra can now use PhonePe.   clarified that its net banking facility has not been supporting any wallet, including that of PayTM, Freecharge, Citrus Pay , Mobikwik since last June due to "security concerns."
+ 
+ ICICI Bank also pointed out security concerns. It recently blocked customers from accessing their accounts using PhonePe UPI's application -as the app discriminates against users of UPI apps of other banks.
+ 
+ Airtel did not respond to request for comment. An Airtel executive said, "We are concerned about security risks for our customers using e-wallets. When there is a transaction failure during phone bill payment (with a bank), there is a streamlined redressal mechanism, customer care service, 247 call centre and immediate reversal of paid amounts. But with wallets that is not the case. We are finding it difficult to deal with wallets and might have to re-think our digital strategy ."
+ 
+ PhonePe CEO   said, " Airtel has communicated to us that they are re-thinking their digital distribution network. We have expressed our concerns to them."
+ 
+ This anti-competitive spirit will not help large-scale implementation of UPI, said industry experts. "The whole point of UPI is to allow all customers of all banks to have access to all services, including that of merchants/e-commerce players such as Flipkart. If banks have concerns then let them list it out and ask the e-wallet players to comply. If they don't comply or address the concerns then they can block customer access. But, currently such actions don't promote the larger aim of interoperability," said V Balasubramanian, president - transaction processing and ATM service, FSS.
+ 
+ 
+ 

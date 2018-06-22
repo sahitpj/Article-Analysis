@@ -1,0 +1,19 @@
+MUMBAI:   has upped the ante in its tussle with Flipkart-owned payments app PhonePe by defying a directive of National Payments Corporation of India (NPCI) to allow customers to access the e-tailer’s app. ICICI Bank had blocked its customers from accessing or making payments to the PhonePe app citing security concerns. 
+
+ On Thursday, NPCI — the entity promoted by the RBI to manage payment networks — directed ICICI Bank to enable accountholders register and make payments on the   (UPI) using the PhonePe app. 
+ 
+ ICICI Bank refused to comply with the NPCI directive as it wanted PhonePe to first adhere to the guidelines on interoperability under which users of any bank’s application would be allowed to make payments to merchants on board the PhonePe app. NPCI had asked ICICI Bank to provide customers access to PhonePe immediately while giving the payment company until month-end to adhere to interoperability guidelines.
+ 
+ The UPI is a platform managed by NPCI which enables bank accountholders to send and request money instantly from customers of any other bank without account details. A key feature of UPI, which can be accessed only through mobile apps, is that it can be accessed by an accountholder through any bank’s UPI app.
+ 
+ ICICI Bank, in a late evening statement, said that “a certain non-banking application is following a restrictive practice of allowing only users of its own UPI handle to make payments on its App. This is a clear violation of UPI guidelines which mandate interoperability, wherein users enjoy the freedom to choose any UPI handle to make payments. NPCI has assured us in writing that this will get corrected very soon and the concerned App will allow interoperability. As soon as this is corrected, ICICI Bank will start allowing UPI transactions to resume on this App”.
+ 
+ Access to the UPI platform is available only to banks. Flipkart-owned PhonePe has been able to get UPI access for its app by partnering with Yes Bank. Flipkart has also been offering discounts to bank customers who pay for their purchases by linking their bank accounts to the PhonePe app. The PhonePe app was also accused of not following the principles of interoperability by restricting payments to merchants onboarded on its app to PhonePe customers.
+ 
+ NPCI said that the decision followed a discussion with ICICI Bank and Yes Bank. “We have also advised banks to adhere to merchant on-boarding guidelines meticulously from the angle of interoperability of merchant App so that such disputes are avoided,” NPCI said in a statement.
+ 
+ In a statement issued before ICICI Bank’s release, PhonePe CEO Sameer Nigam said his company looks forward to ICICI Bank unblocking transactions for PhonePe customers with immediate effect. His statement, however, did not respond to a query on interoperability. Earlier in an open letter to users, Nigam had said that PhonePe is currently not compliant with the latest “Android Intent calls” guidelines, which allow a merchant to open a UPI application to complete the transaction but added, “to be clear, none of the other UPI enabled apps including BHIM have been updated to meet these new guidelines yet.”
+ 
+ Yes Bank, in a statement, said that the PhonePe application has complied with all the prerequisites as mandated by the network association. The bank added that the app has undergone the same security testing that apps of other banks have gone through.
+ 
+ 

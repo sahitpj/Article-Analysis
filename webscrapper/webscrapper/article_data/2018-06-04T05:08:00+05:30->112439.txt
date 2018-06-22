@@ -1,0 +1,17 @@
+BENGALURU: With the   (EU) implementing General Data Protection Regulation ( ) from May 25, awareness of individual information security has increased among those active on social media. According to industry players and experts, deleting customer data is not possible under current laws for   players. The RBI and income tax (I-T) regulations mandate that all financial institutions maintain customers’ records for a period of seven-10 years. The mandated period goes up to 15 years or more for suspicious financial transactions.
+
+ 
+ Recently, fresh fuel was added to the social media battle when Flipkart-owned fintech startup PhonePe’s official Twitter handle posted, “Please note that you can unlink your bank account and log out of the app. Your account can be blocked upon your request. However, we will not be able to delete your account.” 
+ 
+ 
+  
+ 
+  fintech payments head Suresh Rajagopal said, “They all operate under licences from the RBI. So, while customers might want to permanently disassociate with an e-wallet or bank they are unhappy with — it is not possible for them to do so.”
+ 
+ Citrus Pay founder Jitendra Gupta said, “For instance, at the back-end, we must retain the financial transaction data as per the Information Technology Act, 2000 and RBI rules.” 
+ 
+ According to EY partner Jaspreet Singh, even under GDPR, entities need to follow laws when it comes to retaining data. PhonePe CEO Sameer Nigam has said it is possible to delete PhonePe’s wallet and the linked bank accounts via the app, any time and permanently. “But PhonePe login can currently be blocked, not deleted entirely. This is a miss on our end. No excuses!”
+ 
+ Although activists have alleged that “GDPR rules also mandate that companies be compliant with local/regional laws of the countries they operate in”.
+ 
+ 

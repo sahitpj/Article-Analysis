@@ -1,0 +1,13 @@
+HYDERABAD: City police has launched several applications for the citizens, however, not all the application are being welcomed by the residents. An application introduced by the police - 'Lost Report - Hyderabad Police' - to make it easy for residents to report to police about loss of documents and articles, has been receiving huge criticism as people have pointed out technical faults in the application. 
+
+ 
+ Most of the users get an error saying 'Aadhar id invalid' when they try to register complaints about lost items. "When I tried to report a lost item, it showed me invalid   ID error. If they do not correct this issue, this app will be useless," said  , one of the users of the application.
+ 
+ "I registered a complaint of lost RC in the app and after it was approved, I got a mail saying that a digital copy of the complaint will be sent in 3 days. Its been 15 days and I have not received the digital copy yet. I visited the local police station. They said that this app request has not been accepted and I have to manually file a report," said Sunil K, another user.
+ 
+ Hardly 50,000 people are using the application. Several users said the application needs 'major improvements', as most of the users are receiving 'invalid Aadhar ID' error.
+ 
+ Though the police department has launched several such applications, experts say the authorities do not upgrade or rectify errors, which pose as a trouble for users.
+ 
+ "Quality comes with a cost, while most of the applications are developed by the third party, it becomes hard for the police department to maintain it and manage the cost of maintenance. While the citizens also get confused as the moment one types Hyderabad police, several options come up. There should be one app which can be used for all kind of services, rather than making numerous apps for each service or department," said Sai Krishna, vice president for Cognore, a cyber security company
+ 

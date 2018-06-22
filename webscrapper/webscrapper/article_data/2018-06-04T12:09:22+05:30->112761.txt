@@ -1,0 +1,33 @@
+CHENNAI: Soon,   will be using laser-based timing devices designed by the   in their recruitment process to digitally record the time taken by candidates to finish the running tests.
+
+ These automatic devices which costs up to Rs 1.5-2 lakh each not only limits human interference but also brings in more transparency as records can’t be tampered, say researchers.
+ 
+ 
+  
+ 
+ The research was funded by the Tamil Nadu Uniform Services Recruitment Board (TNUSRB), an agency functioning under the state home department Every time TNUSRB conducts a recruitment drive to fill vacant   constable, sub-inspector, jail warden or firemen posts, tens of thousands apply. Earlier this year, nearly 3.26 lakh applied for 6,140 constable posts.
+ 
+ All these applicants have to go through a physical and a written test. Applicants are expected to complete 100-1,500 metre circuit races within the stipulated time as a part of the physical test.
+ 
+ At present, a manual operator is employed for the purpose of measuring the time taken by each applicant to complete the running tests.
+ 
+ Hence, it consumes a lot of time and constant human intervention makes the system error-prone.
+ 
+ Given the magnitude and sheer scale of tests to the conducted, TNUSRB decided to automate this system and sought help from Anna University.
+ 
+ A three-member team — S Thamarai Selvi, director of Centre for Technology Development & Transfer (CTDT), K Senthil Kumar, director of Centre for Aerospace Research and P Karthikeyan, a research scholar at Madras Institute of Technology, Chrompet — with the help of computer technology students came up with a working model recently.
+ 
+ Explaining this, Thamarai Selvi said a laser source and a light dependent resistor (LDR) are fixed on both the ends of all the tracks at ground level.
+ 
+ The position of athlete should be such a way that they block the laser from falling on the LDR, a component used to measure light intensity.
+ 
+ As soon as the candidates start to run, laser from the source falls on the LDR.
+ 
+ A computer program, which monitors LDR readings, would start the timer as soon as the readings change.
+ 
+ At the finish line, a similar set up is installed at a horizontal pole fixed at a height of seven feet above. Corresponding changes in LDR are recorded and timer is stopped.
+ 
+ These readings are sent to an ‘Arduino’ microcontroller which is connected to a desktop or laptop. After processing this data, the software will provide the final results (finish time of each applicant) in a PDF format.
+ 
+ Besides this, if the applicant starts to run before the gun shot, then laser will affect the LDR readings. So it is inferred as a false start. Trial runs were successfully completed and is all set for implementation, she added.
+ 

@@ -1,0 +1,19 @@
+NEW DELHI: All services offered by the transport department, including applying for a driving  , finding out timings of inter-state bus services, lodging complaints about errant auto rickshaw drivers and bidding for a fancy number plate, will now be available at a swipe on a smartphone.
+
+ 
+ 
+  
+ 
+ The department has launched a host of mobile applications that have put all online services at your  . Officials said the department has incorporated feedback from users on beta versions of the mobile apps to make them better.
+ 
+ Users can apply for a learner’s or permanent   licence on ‘Delhi Transport’, the primary mobile application available on iOS and Android platforms. The app directs users to the Parivahan website of the ministry of road transport and highways. Other services include transfer of vehicle ownership, change of address, duplicate registration certificate, etc.
+ 
+ “The mobile app is the front-end interface for citizens, while the back-end is integrated to   and Vaahan software. The application has add-ons, such as finding the location of RTO as per an address, training material for learning licence, etc. There are also links to Delhi specific services, such as online bidding for fancy registration numbers,” a transport department official said.
+ 
+ For making a complaint about overcharging or misbehaviour by an autorickshaw or taxi driver, a separate application — Auto-Taxi Safety App — will need to be downloaded. Users can provide the registration number of the errant vehicle and also upload photographs on the app. One can also find out if the autorickshaw or taxi has a functional GPS through this application.
+ 
+ Another useful feature in the app is ‘Local Trip Planner’. This provides information about public transport buses available between a user’s location and destination, along with the distance, expected travel time and bus fare. The app also provides information about interstate bus journeys. For instance, for a bus trip from Delhi to Dehradun, the app will provide information about all state roadways buses plying on that route along with the departure time and fare. Users can also book seats through his app.
+ 
+ The app is a step towards providing services to people under a single window. “We don’t want people to visit RTOs, apart from appearing for driving tests. About 45,000 to 50,000 people visit the RTOs daily. If we are able to provide all services online, not only would it make the experience of people hassle-free but also ease the burden at RTOs,” the official said.
+ 
+ 

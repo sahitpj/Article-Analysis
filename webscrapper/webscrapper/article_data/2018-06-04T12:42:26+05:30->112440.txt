@@ -1,0 +1,16 @@
+BENGALURU: If you’re a programming ace in Clojure, Erlang and Haskell, then you would be earning top dollars in India, according to the latest developer survey by Stack Overflow, an online community for developers.
+
+ 
+ This small, exclusive club of developers currently gets fat pay cheques because of the demand-supply gap and a steep learning curve. Undergrads in India are still not exposed to these languages. Most are still largely in the   and C++ environments, though many are also now beginning to use languages like Ruby, R and Python.
+ 
+ Stack Overflow did not call out salaries of Indian developers separately. But in the 2017 report, it said survey respondents using Python received an average $8,809 (Rs 5.8 lakh) annually, those using Java got $7,341 (Rs 4.8 lakh) and JavaScript $7,047 (Rs 4.6 lakh).
+ 
+ In the US, Erlang and Scala developers are the highest paid, at $115,000. Globally, respondents who use F#, Ocaml, Clojure and Groovy earn the most, with median salaries above $70,000. Python respondents get $56,000. F# is an open-source, cross-platform   that runs on Linux, Mac OS, Android, Windows and iOS.
+ 
+ Erlang, Haskell and Clojure are a smaller community in India, for several reasons. These are called functional languages and follow a different coding paradigm. A Quora post two years ago by Tikhon Jelvis, a professional Haskeller, said that Haskell is increasingly used in the financial sector. He gave examples of how Haskell is used by JP Morgan for projects in the new product development group, and Barclays in their equity derivatives quality assurance group.
+ 
+ Viral Shah, CEO of Julia Computing and co-creator of the Julia programming language, said that most Indian developers are still focused on Java and C++ that power a majority of the world’s infrastructure. “Languages like Erlang, Scala, Haskell and Clojure are not mainstream. I believe that the number of programmers is naturally small compared to the popular and widely used tools. The kinds of systems implemented in these also tend to be special-purpose and mission-critical,” he said.
+ 
+ Vivek Prakash, co-founder of HackerEarth, a hub for 1.5 million developers, said these specialised languages are not taught to undergraduates in engineering colleges. “These languages are still new to the Indian developer ecosystem,” he said. Prakash said that India has 5 million developers, out of which less than 5% know these functional languages.
+ 
+ 

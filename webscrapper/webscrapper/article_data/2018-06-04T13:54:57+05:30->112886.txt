@@ -1,0 +1,26 @@
+SEOUL: Scientists have developed a skin-like electronic system that is soft, thin, lightweight and can wirelessly activate soft robots through a simple lamination process.
+
+ 
+ The researchers from   in   developed an electronic skin (e-skin) pair as a two-part, wireless soft driving system based on fully printable, stretchable hybrid electronics.
+ 
+ "Soft robots have great advantages in organically integrating every robot components without rigid boundaries, but current soft robotic designs still rely on rigid components mostly in driving parts," the researchers wrote in the journal  .
+ 
+ "This e-skin opens a new avenue for soft robotic assembly. It is soft, thin, and light enough for a robot not to be perceptible, but it can activate the robot as a driving skin," they said.
+ 
+ One part is the e-skin for input sensing at a human side, and the other for activating soft robots.
+ 
+ The e-skins are soft (same material for the target robot body), thin (less than 1 mm), and lightweight (about 0.8 g) and also feature the spatially fragmented circuit configuration with a slew of miniature integrated circuit (IC) components.
+ 
+ They can be stretched and conformed onto the dynamic surface like human skin or soft robots, researchers said.
+ 
+ The electronic functionality of this system is based on wireless  .
+ 
+ The e-skin pair can perform   of the four-state control signal at a distance of more than five metres, and the embedded encoding mechanism makes the inter-skin communication noise-tolerant.
+ 
+ The proposed e-skins can be softly, compactly, and reversibly assembled into soft robot frames to activate muscle-like soft actuators without interfering with their soft motions.
+ 
+ Benefits of this e-skin-mediated soft robotic assembly include co-adaptive movement that helps the robot pass through and/or operate in highly confined spaces, whose cross section is even smaller than the robot size.
+ 
+ The proposed e-skin pair and corresponding wireless inter-skin communication concept can wirelessly activate multiple types of soft robots through reversible assembly of the e-skins. 
+ 
+ 

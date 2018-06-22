@@ -1,0 +1,15 @@
+ALLAHABAD: Following a tepid response from teachers because of downloading and scanning problems last year, the   will roll out an improved version of the ‘UPMSP attendance’ app to keep a check on impersonators and unfair means in the upcoming class 10 and 12 board exams. 
+
+ Th quick response (QR) app was introduced last year on an experimental basis but was unable to impress teachers because of scanning and downloading problems.   officials said the app has been modified to make it more user-friendly. 
+ 
+ Superintendents at an examination centre would scan the QR code given on examinees’ admit cards. After scanning all QR codes, the superintendent would upload the data to a specific database server, thereby creating a digital pool of records.
+ 
+ In the board exams, scheduled to be held in 2017, QR codes would also display additional details of students like father’s name and date of birth. Earlier, the code used to display only the student’s name, roll number and a student’s class. It would directly link the registration forms submitted by the students online on UP Board’s official website. 
+ 
+ Secretary UP Board, Shail Yadav told TOI, “New features have been designed so as to that the centre coordinators can access the examinees’ details easily. Thus, the app will not only serve as a digital attendance sheet but as a tool to keep an eye on students.”
+ 
+ The app is compatible only with an Android phone, which will have an internet connection and a separate SIM slot. 
+ 
+ Yadav said, “Now the app will be a permanent feature in exams, as there are complaints of impersonations and manipulations in the attendance sheet. The app would send real time data of absentees to national informatics centre (NIC) server.”
+ 
+ 

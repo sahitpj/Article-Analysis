@@ -1,0 +1,34 @@
+WASHINGTON DC: A blood test has offered hope of finding cancers before symptoms develop.
+
+ 
+ The test that analyses free floating DNA in blood may be able to detect early stage  , a preliminary report from the ongoing Circulating Cell-Free Genome Atlas (CCGA) study suggests.
+ 
+ The findings are from one of the first studies to explore whether sequencing blood borne DNA is a feasible approach to early cancer detection.
+ 
+ "We're excited that the initial results from the CCGA study show it is possible to detect early stage lung cancer from blood samples using genome sequencing," said the study's lead author, Geoffrey R.  .
+ 
+ "There is an unmet need globally for early-detection tests for lung cancer that can be easily implemented by health care systems. These are promising early results and the next steps are to further optimise the assays and validate the results in a larger group of people," he added.
+ 
+ Early diagnosis is essential to improve survival rates for lung cancer. A blood test that could be done through a simple blood draw at the doctor's office could potentially have a major impact on survival, but before such a test could be widely used, additional validation in larger data sets and in studies involving people who have not been diagnosed with cancer would be needed, researchers say.
+ 
+ Tests that analyse cell free DNA in blood, known as "liquid biopsies," are already used to help choose targeted therapies for people already diagnosed with lung cancer. Until recently, there has been limited evidence to indicate that cell-free DNA analysis may be feasible for early detection of the disease.
+ 
+ The CCGA study has enrolled more than 12,000 of the planned 15,000 participants (70 percent with cancer, 30 percent without cancer) across 141 sites in the United States and Canada.
+ 
+ The new report is from the first sub study from the CCGA, in which three prototype sequencing assays were performed on blood samples from approximately 1,700 participants.
+ 
+ In this initial analysis, researchers explored the ability of the three assays to detect cancer in 127 people with stage I-IV lung cancer. The assays were designed to detect cancer-defining signals (mutations and other genomic changes) that could be used in an early cancer detection test: 
+ -Targeted sequencing to detect non-inherited (somatic) mutations, such as single nucleotide variants and small insertions and/or deletions;
+ -Whole-genome sequencing (WGS) to detect somatic gene copy number changes;
+ -Whole-genome bisulfite sequencing (WGBS) of cell-free DNA to detect epigenetic changes.
+ -At 98 percent specificity, the WGBS assay detected 41 percent of early-stage (stage I-IIIA) lung cancers and 89 percent of late-stage (stage IIIB-IV) lung cancers. The WGS assay was similarly effective, detecting 38 percent of early-stage cancers and 87 percent of late-stage cancers,
+ -the targeted assay detected 51 percent of early-stage cancers and 89 percent of late-stage cancers.
+ 
+ The initial results showed that all three assays could detect lung cancer with a low rate of false positives (in which a test indicates a person has cancer when there is no cancer). Of the 580 samples from people without cancer at the time of enrollment in the sub-study, five (less than 1 percent) had a cancer-like signal across all three assays. Of those five participants, two were subsequently diagnosed with cancer (one with stage III ovarian cancer and one with stage II endometrial cancer) highlighting the potential for such tests to identify early-stage cancers.
+ 
+ Among participants with lung cancer, the study found that more than 54 percent of the somatic (non-inherited) mutations detected in blood samples were derived from white blood cells and not from tumors. These mutations are likely the result of natural aging processes (so-called clonal hematopoiesis of indeterminate potential, or CHIP) and will need to be taken into account when developing blood tests for early detection of blood cancers, noted Oxnard.
+ 
+ The researchers are verifying these results in an independent group of approximately 1,000 participants from CCGA as part of the same sub-study. Following this, they will continue to optimise the assays, and then validate them in an even larger data set from CCGA. With increased sample sizes, machine learning approaches are expected to improve assay performance, Oxnard noted.
+ 
+ The study was presented at the 2018 American   (ASCO) Annual Meeting.
+ 

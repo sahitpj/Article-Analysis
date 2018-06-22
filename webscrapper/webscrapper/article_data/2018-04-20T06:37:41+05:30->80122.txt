@@ -1,0 +1,17 @@
+NEW DELHI: Commuters will soon have multiple options of paying user charges on national highways, including through their mobile phones linked to prepaid wallets, credit cards or bank accounts. 
+
+ This will ensure automatic deduction of the toll amount from their bank accounts to allow seamless travel through toll plazas and provide an option to those either not using smart tags (FASTags) or not recharging them. 
+ 
+ The   (NHAI) has selected five innovations which are being tested on five stretches, including Delhi-Mumbai, Delhi-Chandigarh, Delhi-Kolkata and  , sources said. In the next few months,   will unveil a mobile application which will have all these options.
+ 
+  
+  
+ 
+ NHAI officials said commuters will need to download the mobile app and provide all vehicle details, which will be verified from Vahan (national vehicle database) to authenticate the owner and validity of registration. “One option is to make upfront payment for all toll plazas on the way before starting any journey from a prepaid wallet through the app. Before the vehicle reaches a toll plaza, the system will generate a QR code which the driver will have to scan at the plaza to cross it,” said an official. 
+ 
+ The other option will be for commuters to link the mobile app with the unified payment interface (UPI) to pay the toll amount directly from their bank accounts. Two technologies being tested — mobile-based Wi-Fi/Bluetooth and mobile-based ultrasound technologies — can be used to make such a payment. “As soon as the vehicle reaches the toll plaza, the system will identify the toll lane, vehicle category and the exact toll amount will be deducted from the wallet or the bank account through the   gateway,” said an NHAI official. 
+ 
+ One more way of paying toll being tried is the free-flow or gantry-based tolling, which is implemented across highways in  . In this system there will be no toll gate at all. Overhead electronic gantries will use RFID technology to track vehicles with FASTags which will automatically deduct the toll amount. But it will take more time considering the difficulty in recovering the toll amount from violators because of our poor data system,” said an official. 
+ 
+ “There is no proposal to scrap the toll collection on highways. We need to build more highways, which require investment, and the budgetary allocation is not enoughto undertake such massive work. We have undertaken works of more than Rs 5 lakh crore while our annual budgetary allocation is Rs 60,000 to Rs 65,000 crore. People will have to pay for better service,” highways minister   had said at a TOI event in Gurgaon early this week.
+ 

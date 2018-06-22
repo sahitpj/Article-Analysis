@@ -1,0 +1,25 @@
+COIMBATORE: A team of scientists from the   (IISc), Bengaluru, has received a patent for a technology that uses near-infrared light to detect  . 
+
+ Prof K Rajan, of the department of physics at IISc, K Rajan, Manab Jyoti Saikia and R M Vasu, have developed the technology, near-infrared optical tomography, which they will soon use in human tests.
+ 
+ While not exactly new - scientists have experimented with near-infrared optical tomography systems to detect breast cancer since at least 2004 - the IISc team's technology, which received a patent on December 23, 2016, is a potentially less harmful than X-ray-based mammography.
+ 
+ Rajan explains that current X-ray tests can be damaging to human tissue. "X-ray mammography damages a large number of tissues and repeated exposure can be dangerous," he said. "It also inhibits frequent exposure to detect various stages of the disease."
+ 
+ "Near-infrared light allows for multiple exposures, so doctors can detect the stages of the disease too," Rajan said.
+ 
+ Near   therapy or photobiomodulation uses invisible, near infrared wavelengths between 700 nanometer (nm) and 1,200 nm to deliver energy to cells, stimulating healing and relieving pain.
+ 
+ The scientists said they commenced their research around 10 years ago. "Researchers have extensively studied light transport through turbid media," Rajan said.
+ 
+ The scientists use near-infrared light of wavelengths between 600 nm and 900 nm in their tests.
+ 
+ "When the light is passed through tissue, it scatters multiple times before it exits," Rajan said. "Some light is absorbed by the tissue. This reduces the intensity of exiting light. So it is difficult to collect the rays for imaging."
+ 
+ He said the scientists had identified a model that records the way light travels through breast tissue, and measures the intensity of light entering and exiting the tissue. "This helps us reconstruct images of cross-sections of breast cells," Rajan said.
+ 
+ How do researchers detect cancer with the technique? Cells normally absorb light. "But cancer cells absorb more light than the normal light," he said. "With the absorption coefficient being higher, scientists can differentiate between images of normal tissue and cancerous tissue."
+ 
+ The   department of science and technology funded the research. The All India Institute of Medical Sciences, Delhi, has agreed to carry out the clinical trials.
+ 
+ 
