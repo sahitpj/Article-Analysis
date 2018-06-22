@@ -1,0 +1,23 @@
+Had the graded response action plan been in place in 2016, the city would have seen the odd-even scheme just five times over 19 days. Similarly , other “emergency“ interventions, including a blanket ban on construction activities, would have scarcely been implemented.In contrast, if Beijing's system were to be implemented in Delhi, the red alert (most severe) would have covered 78 days in the year. This is because the Chinese city's system is far more stringent and mainly relies on smog forecasts, instead of actual recorded concentrations. This, according to some experts, helps Beijing prevent, or quickly tide over, very  .
+
+  campaigners recently analysed how Beijing and Delhi's alert systems would play out in 2016 using R Studio -an open source data analytics software. They sourced daily average PM2.5 (fine, respirable pollution particles) and PM10 (coarse pollution particles) data from CPCB for 2016.Delhi would have had 67 “severe“ and 110 “very poor“ days, as specified in the graded response action plan.
+ 
+ While experts welcomed the graded response action plan, being enforced by the SC mandated Environment Pollution Control Authority in Delhi NCR, a lag of 48 hours in declaring “emergency“ could reduce its impact and might allow the worst to pass before it came into force, they said.
+ 
+ Lauri Myllyvirta, senior air pollution campaigner, said: “A delay of 48 hours to initiate the response and, presumably at least 24 hours more before the measures start to have a significant impact, is an issue. As severe smog events take at least 48 hours to build up, the measures should be in effect at least two days before, not two days after the pollution levels peak.“ On three out of five occasions, the response would only have been initiated after the worst peak had already passed, added Myllyvirta.
+ 
+ In fact, based on the analysis, he suggested that emergency response could be maintained over the winter months continuously when pollution levels were high. “If measures are relaxed as soon as PM levels fall from emergency to, say , severe, this can render the interventions ineffective.“
+ 
+ Unlike Delhi where the high pollution months are clearly identifiable, in Beijing the levels are variable through the year. Beijing revised its alert system recently based on its experience of previous winters.
+ 
+ Its system is entirely based on forecast or smog predictions now -for example, a red alert is issued as soon as air pollution forecasts show four continuous days of heavy pollution, of which two days may have severe pollution. The same method was followed last December when Beijing had a red alert for seven days. “Most of China's city-level response plans use forecast or predicted pollution scenarios as criteria. To make a forecast reliable, China's ministry of environment protection and bureau of meteorology have been advancing the technical mechanism, including an emission inventory ,“ said Linsai Dong, climate and energy campaigner in Beijing.
+ 
+ Beijing issued two red alerts each in 2015 and 2016, which according to its environmental bureau's analysis, reduced 30% of local emissions, added Linsai. “Red alerts in 2016 have been sent in a more organised way -when the ministry of environment protection predicted that the re will be an severe and longlasting smog episodes in December, it sent pre-warnings to the municipalities, including Beijing, notifying the predicted air pollution episodes and encouraging red alerts,“ she said.
+ 
+ A CPCB official told TOI, “As of now, the plan is to introduce emergency response only when we have 48-hour emergency levels. People are worried about a November 2016-like smog episode when levels shoot through the roof. But we feel that was a one-off. We are also working on forecasts and have partnered   to make predictions robust.“
+ 
+ He also said that the graded response action plan meant to prevent an emergency episode altogether.
+ 
+ Delhi's action plan for “severe“ air days involves closing brick kilns and hot-mix plants, intensifying use of public transport, introducing differential rates during off-peak hours and mechanised cleaning of roads. In “very poor“ days, it mandates a ban on the use of diesel generator sets and imposing a hike in parking fee by three to four times.
+ 
+ 

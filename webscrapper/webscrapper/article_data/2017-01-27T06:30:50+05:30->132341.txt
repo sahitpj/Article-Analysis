@@ -1,0 +1,22 @@
+
+
+ 
+ 
+ 
+ I would put that in the context of fourth industrial revolution that all of us are seeing across the world at present. Just to put that into perspective, the fourth industrial revolution is when data and digital interplay with the physical world on an ongoing basis, continuously. So, that is something that all of humanity has entered… It’s a fact that in many parts of India, even the 2nd and 3rd industrial revolutions have not reached, if you go deep down. But in the same parts of India, the 4th industrial revolution is already reaching… it may help India leapfrog all the barriers that existed.
+ 
+ But there will be pain, and it may not be an absolute smooth ride as we have seen in many of the big changes across the world.
+ 
+ 
+ 
+ 
+ I have seen in the digital world that the companies who win and do well are those who adapt very quickly. They can’t plan for every situation that they might encounter in their ecosystem. Their competition is changing; they’re dealing with a lot of startups, a lot of newer players, who are trying to disrupt value chains. So, if you look at that, then they naturally need to be prepared for a lot of new things. They need to continuously evolve. Speaking about cyber security and focus on security, that’s a real capability everyone needs to build.
+ 
+ Now everyone realizes that it can’t be the traditional concept of “I’ll put a lock and save myself from security threats.” That whole bolt-on mindset needs to go away and one has to think about security being built-in, into all platforms that anybody is putting in place. Second, you have to be very flexible because today you may be putting in some platforms but in future you will put in a lot many platforms, where data will interplay. So, you can’t predict everything that your architecture will look like even after 12–24 months. So, the whole built-in aspect, and the flexible aspect is very important.
+ 
+ 
+ 
+ 
+ I don’t think there is a uniform answer for vulnerability. In the past, there used to be this security paradigm of prevent, then detect and then respond. Prevent is important, but you need to work with the assumption that there is some sort of intrusion or malware that you need to deal with in your ecosystem. So, your focus needs to change from being prevent first, to detect as early as you can and then respond even faster. 
+ 
+ 

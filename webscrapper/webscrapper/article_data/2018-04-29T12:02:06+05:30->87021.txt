@@ -1,0 +1,6 @@
+HYDERABAD: The Andhra Pradesh Commissionerate of School Education department on Saturday removed Aadhaar data of 70 lakh children that was available on its website until Friday. The contents were removed following a TOI report on Saturday.
+
+ Aadhaar numbers and other data was displayed on the website by the department. The same was discovered by cyber security researcher  , who informed  . To track school dropouts, the school education department website had put Aadhaar details of 70 lakh kids, including whether they belonged to private or government schools, in public domain.
+ 
+  told TOI on Saturday: “Now, the data is not available on the site. The leak was followed up by   and has now been fixed. The website that published the info was of   of school education.”
+ 

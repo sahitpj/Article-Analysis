@@ -1,0 +1,22 @@
+LOS ANGELES: 'Twilight' actor   has co-authored a research, along with an Indian-origin engineer, describing a new artificial intelligence system that can make movie shots look as though they were painted.
+
+ The process relies on machine learning, a type of artificial intelligence. It gave a look of an impressionistic painting to certain shots in the film short, which uses allusive images to follow a man through his day.
+ 
+ The shot is about 15 seconds long, and the painting is by Stewart herself.
+ 
+ The technique described in the paper, called neural style transfer, differs from   or   filters.
+ 
+ "What current filters do is, they work with the information in the image. A global operation like Instagram is just a colour lookup," said lead author  , a research engineer at   in the US.
+ 
+ To create effects, Snapchat and Instagram use filters that are based on rules created by a human being. "If you come across this condition, do that to the image," Joshi told the Live Science.
+ 
+ For example, in Snapchat, the software is 'trained' to recognise eyes in a photo, so if you want to make a person's eyes look like a cartoon character's, it can do that.
+ 
+ In contrast, style transfer, in this context, works by taking an image and breaking it down into blocks to identify its components and then comparing it to a reference image.
+ 
+ For example, if a user wants to make an image look as though it were painted in the style of Van Gogh's "Starry Night", the software would look for corresponding features in the image that you want to alter, using a technique based on so-called neural networks.
+ 
+ Sometimes, the results can be unpredictable, because unlike with the Snapchat filters, the computer is learning as it goes through the images, Joshi said.
+ 
+ The study was published in the journal ArXiv.
+ 

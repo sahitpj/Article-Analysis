@@ -1,0 +1,11 @@
+Mumbai: Shoppers within 30ft radius of tiny, nondescript shops in   will soon be able to browse through products available there on their smartphones, thanks to a ‘physical web’ technology developed by students of Industrial Design Centre (IDC) at IIT-Bombay in collaboration with UK’s  .
+
+ The project is part of Google’s   to bridge the gap between emerging tec-hnology and emergent users —in this case Dharavi business owners. The award gives researchers access to Google’s various technologies for the pilot project. In this case,   got access to Google’s ‘physical web’ technology that uses a beacon to connect shops to the physical world to help them promote their business. 
+ 
+ About 100 BLE (bluetooth low energy) beacons provided by   will be set in shops for the month-long research project. The beacons can run up to four years after installati-on. A pilot project is being implemented in 30 leather shops.
+ 
+ “We work with people who have started using Android phones with internet in the last one or two years. Professors Matt Jones from Swansea and Anirudha Joshi from IDC have been working in the domain of emergent users for quite some time,” said Chinmay Parab, a student. “Most new technologies, at inception, are exclusive and cater to only those who can afford it. We asked, ‘Can we use technologies that cater to the wealthy for those who really need it?’ The Internet of Thin-gs technology will provide people in the resource-constrained environment of Dharavi an exposure to vast possibilities.”
+ 
+ Convincing shop owners to use the technology was also a task. “Some were hesitant to get new designs photographed. I would visit them every week and convince them to be part of the project. If something subst-antial comes out from the project, the technology can be developed for largescale use,” said Parab, adding they are publicizing it using social media.
+ 
+ 

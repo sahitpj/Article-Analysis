@@ -1,0 +1,17 @@
+BENGALURU: From a case such as Mumbai terror attack (Kasab video) to Bengaluru's New Year Eve fiasco or the Nira Radia tapes, changing investigation techniques and increasing prevalence of technology has seen electronic evidence (e-Evidence) become a crucial part of prosecution. But probe agencies have for long had to battle defence arguments against veracity of such evidence, which has proved costly in many cases.
+ 
+  In a move that will aid investigators and prosecutors, the Centre has finally decided to appoint “Examiners of Electronic Evidence“ who will be the only ones authorized to tell courts if an e-evidence is authentic.
+  
+  The decision comes 17 years after the Information Technology (IT) Act, 2000 came into existence and nine years after it was amended to mandate appointment of such examiners, in 2008. And notwithstanding the delay , experts say such examiners will aid in prosecution as it will now become easier to convince the court of the veracity of evidence.
+  
+  “If you look at cybercrimes for example, the number of incidents are in five digits and convictions in two digits. One of the main reasons for this is lack of acceptable evidence.Such evidence are also part of conventional crimes today and it is good that we are trying to plug the gap in the system,“  , senior   advocate and a leading cyber law expert, says.
+  
+  The   (MeitY) has now put in place a scheme for notifying “Examiners of Electronic Evidence“. “...For identification and selection of such examiners, the ministry's scheme will initially assess and notify ex aminers on a pilot basis with three to five labs,“  , group coordinator (Cyber Laws and E-Security) and in charge of IT Act enforcement at MeitY, has said.
+  
+  Only Central government or state government agencies competent in the field of forensics can apply to be assessed and certified and the Centre will appoint these examiners after a three-stage assessment.No individual will be certified as an examiner.
+  
+  According to documents with TOI, the agencies will adhere to international standards such as ISOIEC 1705 (a standard on general requirements for competence in testing and calibration) and ISO IEC 27037 (a standard on ITsecurity techniques, guidelines for identification, collection, acquisition and preservation of digital evidence).
+  
+  Akshat Jain, co-founder of Cyware, a cybersecurity awareness firm, says: “It is key that we have the best standards as tampering of digital data or evidence, especially if it is a video or image, as detecting that it is not original is very difficult.“
+  
+  A senior IPS officer, while pointing out to several cases of e-Evidence not being accepted, says: “The first line of argument from the defence is that the footage or voice is doctored. Presently, material is sent to forensic labs based on court direction on a case-tocase basis. But we need one or more authenticators to who we can straight away go even before taking it to the court.Their seal and sign must qualify as concrete attestation before any court.“
