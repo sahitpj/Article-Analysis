@@ -1,0 +1,22 @@
+NEW DELHI: Keen to push digital payments among the poor and illiterate in rural areas of the country, the government is pushing to popularise   which ensures financial transactions by just using fingerprint. 
+
+ Aadhaar Pay, which is merchant version of the already in use Aadhaar-enabled payment system (AEPS), will become an alternative for all online and card transactions which require password and PIN. 
+ 
+ The app facilitates merchants to take cashless payments from a customer who is only required to give his Aadhaar number, name of the bank (from where the money is to be deducted) and finger print for authentication.   (UIDAI) CEO AB Pandey said Aadhaar Pay works on any android-based phone, even a low cost one, with an attached finger  .
+ 
+  
+  
+ 
+ “This ensures   which are cardless, PINless... There is no need of smartphone for the customers,” he added. In order to popularise the use of Aadhaar Pay among merchants, the government has asked banks to enrol 30-40 merchants per branch so that they are able to take cashless payments from customers. 
+ 
+ At present five banks — Andhra Bank, IDFC Bank, IndusInd Bank, State Bank of India and Syndicate Bank — have gone live over Aadhaar Pay and several banks are in the process of launching pilots on the app. 
+ 
+ A senior official said the plan is to identify Aadhaar Pay transactions separately and to incentivise merchants for long-term sustainability and scalability of the system. As it needs a biometric device costing about Rs 2,000, the government is also working on an incentive model so that cost of the device is amortised over time and the merchants are encouraged to use it.
+ 
+  
+  
+ 
+ Rejecting security concerns over AEPS, the UIDAI CEO said transactions using Aadhaar Pay are much more secure than any other digital mode of transaction, both in terms of technology and process. Besides the merchant using the app being enrolled in the bank and the customer’s bank account linked to Aadhaar, he said the biometric data get encrypted leaving little scope for any misuse. “Fingerprints can't be copied as it get encrypted. Even if any merchant or customer tries to misuse the fingerprints, he will be caught immediately as the location of merchants using the app is known to the bank,” he explained. 
+ 
+ The AEPS platform, launched in December 2012, enabled people to carry out banking transactions over hand-held devices (micro ATM) using the Aadhaar number and fingerprints. The Andhra Pradesh government has launched cashless payments at most of the fair price shops (FPS) and Gujarat, in partnership with CSC e-governance, has launched cashless payments using AEPS platform at over 3,000 fair price shops.
+ 

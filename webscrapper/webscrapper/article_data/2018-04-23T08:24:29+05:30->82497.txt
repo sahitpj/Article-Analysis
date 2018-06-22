@@ -1,0 +1,17 @@
+WASHINGTON:   and the sharing economy have created new opportunities by leveraging online networks to build trust and remove marketplace barriers. However, a growing body of research suggests that old gender and racial biases persist, from men's greater popularity on   to African Americans' lower acceptance rates on  .
+
+ 
+ Using the photo-sharing site   as a test case, researchers from   in the US showed how two common recommendation algorithms amplify a network effect known as homophily in which similar or like-minded people cluster together.
+ 
+ They further show how algorithms turned loose on a network with homophily effectively make women less visible; they found that the women in their dataset, whose photos were slightly less likely to be 'liked' or commented on, became even less popular once recommendation algorithms were introduced. By working out the math, the researchers hope that their work can pave the way for algorithms that correct for homophily.
+ 
+ "We are simply showing how certain algorithms pick up patterns in the data," said Ana-Andreea Stoica, a graduate student at Columbia University.
+ 
+ "This becomes a problem when information spreading through the network is a job ad or other opportunity. Algorithms may put women at an even greater disadvantage," Stoica said.
+ 
+ The researchers scraped their data from Instagram in 2014, after   bought the company but before automated prompts made it easier to connect with friends-of-friends. Though women outnumbered men in their sample of 5,50,000 Instagram users, the researchers found that men's photos tended to be better received: 52% of men received at least 10 'likes' or comments compared to 48% of women.
+ 
+ As expected, homophily played a role. The researchers found that men were 1.2 times more likely to 'like' or comment on other men's photos rather than women's, while women were just 1.1 times more likely to engage with other women.
+ 
+ "We're not asking that algorithms be blind to the data, just that they correct their own tendency to magnify the bias already there," said Augustin Chaintreau, a computer scientist at Columbia University.
+ 

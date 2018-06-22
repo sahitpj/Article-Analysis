@@ -1,0 +1,97 @@
+
+
+ 
+ 
+ 
+ This should be viewed in two separate compartments. One is the transition and one of the long-term effect. Transition of such a big activity is bound to create some disruption, some change and some pain. That is largely behind us – haanthi nikal gaya poonch rah gayee. Demonetisation has brought lot of money into the banking system, which otherwise would have been idle saving. This has resulted in a reduction in interest rates and also made more funds available to banks for lending, as and when demand picks up. Second, is if the money was destroyed, it would have been destruction of wealth. With the deposit, it doesn’t mean it becomes white. Everybody (banks) was asked to take the deposit with a PAN card and report suspicious transactions. This will help the government collect a lot of tax and the tax base will increase. This will help boost spending.
+ 
+ Digitisation is integrally linked with this as it will increase transparency, reduce rent-seeking, result in substantial financial inclusion, convenience and help reduce costs, which is very high when it comes to handling cash. The speed at which this has been created has helped us speed up the process by three-five years because it is not easy to change the mind-set. You can do everything on your phone, tablet or even your feature phone. Cash will never be eliminated, but it will reduce cash usage. Suppliers are getting paid by the net. The government now has to upgrade to a digital system. Like Indonesia, applications should to filed online, along with all receipts and payments. If it is not approved in 14 days it is deemed to have been approved. It leaves a complete trail and no one can sit on a file.
+ 
+ Adaptation has been phenomenal and it is wrong to say that rural and semi-urban areas are logging. In Madhya Pradesh, adhatiyas told me that they don’t want to carry bundles of cash. Even farmers don’t need want to carry cash back to the village as everyone knows he is carrying cash.
+ 
+ 
+ 
+ 
+ Now, we have almost 4 lakh merchant terminals, compared 2.9 lakh pre-demonetisation. Swipes have gone up 300%. Between November and now, debit card base has more than doubled, there is a 50% rise in credit cards, 60% for prepaid cards and wallet is around 50% higher, and growing.
+ 
+ 
+ 
+ 
+ It will be unfair to say that RBI's independence has been compromised. The steps were all taken by the earlier RBI dispensations over a period of time. In fact, I would like to give the current RBI regime credit for managing the FCNR redemption, yield curve when the system was flush with money, and the transparent decision making on interest rate.
+ 
+ 
+ 
+ 
+ I am not aware of any such instruction from the government. Interest rates are based on a formula and once the cost came down we cut rates.
+ 
+ 
+ 
+ 
+ Performance during the demonetisation period was affected. We spoke to top executives across industry – from Reliance and Mahindra Finance to Birla Finance, ITC, HUL, Pidilite, Marico and even Jaguar, which is in the luxury segment. The recovery has been far more V-shaped than they expected. Activity is close to normal and there is general expectation of recovery in this quarter. We are seeing an uptick in consumer loans and some amount of working capital. There is a lag in cement and people are looking forward to a recovery in the rural economy. The same fellows had said that the impact (on sales) was 20-30% in November and it came down to 10% in December. We will reach the target rate for this quarter. There will be some make-up of (business lost in) November-December but there cannot be complete makeup in one quarter. Excessive pessimism is not warranted because it affects investor and the overall sentiment.
+  
+ 
+ 
+ 
+ People have put a huge amount with the banking system. Half the surplus will go away once restrictions on withdrawals are removed. With a pickup in demand, we will lend the surplus by April.
+ 
+ So far the cloud of impropriety was on public sector banks but the role of private bank employees has come under the scanner, post demonetisation.
+ 
+ Our people worked 24 hours a day without any obligation. There are one million plus employees in the banking sector, if a fraction turns out to be black sheep then the entire system cannot be painted with the same brush. As per regulations if depositor submit all required documents banks cannot refuse cash deposits.
+ 
+ Even when the staff were reluctant to accept, they had no choice. In such cases all we can do is to submit a suspicious transaction report, which we have done in significant number. If this information is analysed, with equal integrity by the enforcement agencies, without harassment and result based then you will get tax. All that needs to be done is de-duplicate information on deposits against the PAN details with the income tax department and freeze the account if there is no matching tax.
+ 
+ There is a feeling that regulatory action has led to fear among even honest employees.
+ 
+ If you see the messages that I and our board sent out, it was very clear. We said; ‘you follow the rules and regulations and you do not have be worried about anybody. But if you deviate, we will persecute you again with the authorities’. I don’t think there is any scare in our bank.
+ 
+ The push for digital has come at a time when there are security concerns over transactions through electronic channels ...
+ 
+ The security issue needs to be put in correct perspective. Neither is the physical world 100% safe, nor is the digital world. The question is have you put in adequate safeguards. In cards, our (Indian) safeguards are higher than most other countries because of two-factor authentication and PIN. There is an inherent security built into the design of each digital instruments. For UPI app to run, every app fingerprints the mobile device. This involves usage of values such as the mobile OS version, mobile number, and IMEI number. The information is encrypted and validated with NPCI. Similarly, the payment card industry has adopted the strongest data security framework for credit and debit cards.
+ 
+ When it comes to apps, unlike banks, some non-banks are permanently switched on. It is important to have common international standards for all new payment applications. Otherwise, in a digital environment you are only as strong as your weakest link. At the same time, it is not something that we should be paranoid about and avoid using digital channels. Net banking has been under use for many years and cards have been used for longer. There is nothing new that is being introduced that is so radical. Besides, most of the new kinds of transactions will be of a much smaller size.
+ 
+ 
+ 
+ 
+ You must discourage cash use. You must recognise that there is a natural lethargy to move to electronic. Ultimately only when the consumer sees some benefit does he move to electronic. So if we want fast transactions than cash transactions should be discouraged because they cause lot of problems in the economy.
+ 
+ Ultimately if everyone goes digital, how many times does a customer need to withdraw from ATMs? I am not particularly concerned whether it is three or five. I don’t have a view on this.
+ 
+ Some of the card companies have been saying that the government move to cap merchant discount rate on debit cards at 25 paise and 50 paise could backfire.
+ 
+ When you are creating a payment infrastructure, somebody is investing, who must get a reasonable return. If you overlay this with what is required, charges on small transactions do not make a difference to banks. If a small Kirana store the MDR is reduced to 0.25% we do not have a problem, just like in petrol pumps where we have accepted 0.25%, 0.5% and 0.75% MDR. But there is no need to transfer money from us to a major retailer like   which has high margins. Do not make it a thing whereby you make it totally unprofitable. Even the government has agreed to pay MDR.
+ 
+  
+ 
+ 
+ I am alright with the charges for debit cards, in certain outlets. I do not see why I should give Louis Vuitton or Jaguar a concession. I don’t see why I should give Pantaloons a concession, a concession where the bank loses money and they gain. But if there is a kirana store which does not have margins or if it is something like petrol, where the government is subsiding some and we are partly subsidizing, I do not have a problem. The charges should be based on size.
+ 
+ Ideally, then the market will decide that these transactions should not be done on cards but UPI or apps like Chillr. The merchant will push for it. Consumer behaviour is managed on self-interest of each party. If the merchant sees that the amount is very small they will end up asking customers to pay using UPI. You cannot go to an Oberoi Hotel and expect the pricing of an Udupi Restaurant. If the merchant feels that credit cards are too expensive he can use UPI as an option. The infrastructure that has been created gives merchants a wide range of options. Someone has to bear the cost. Even the government is willing to bear MDR.
+ 
+ 
+ 
+ 
+ This is a wrong perception. Like there is a perception that we are an Elite bank. We have the highest lending to consumers. Every product that we have is available in semi urban and rural branches and 25% of our business is coming from these branches. What I am giving in Mumbai I am giving in Jhumritaliya and Umairya in Madhya Pradesh. As a proportion to balance sheet we have the highest retail lending and the highest penetration of widest suite of products, including digital products.
+ 
+ 
+ 
+ 
+ We have a new system based on the use of artificial intelligence using different data points which is on computing capacity where we are ahead. Anyone applying to us will go through an automated process and will get a reply in 15 minutes. Even non-salaried account holders can get a loan in 10 seconds. You can apply to us through any channel including mobile phone apps. Now, we are even moving towards using document images. Shortly, we will move to paperless account opening.
+ 
+ 
+ 
+ 
+ We view ourselves as the largest payment bank in the country. Most of our payment and remittance services are free. So what can a payment bank do to me? In terms of delivery I am superior to any payment bank that exists today or will exist in the future. Also payment banks that are only in the payment side of the business cannot be profitable. They will have to come up with a defined model. We are not able to understand their model now. If a model emerges, there are multiple options open to us. In my view the opportunity for financial services in India is the best in the world. It is an under-penetrated market where two of our initiatives are; one, substitute the money lender and two, become the largest and best bank in semi-urban and rural India where 60% of the population lives.
+ 
+ So anyone who cracks it, - and we have three-fourths cracked it, is in for gravy.
+ 
+ 
+ 
+ 
+ My guess is that it should come down by 30-40%. We are looking at reintroduction of between 50% and 70% of deposits that came to us during demonetisation. These funds were probably lying idle. Some of it may have been kept aside for cash payments. That is why the other point is very important. In line with payments you also have to change the procedure. Make application processes digital and put time limits on response. This is not a problem that will go away overnight.
+ 
+ 
+ 
+ 
+ There is still a little unutilised capacity in the private sector. As far as the budget is concerned, in my view there are only three important aspects; One, substantial increase in tax base, two promoting financial inclusion and lastly encouraging private investment. The last one will take time and the catalyst will have to be public investment.
+ 

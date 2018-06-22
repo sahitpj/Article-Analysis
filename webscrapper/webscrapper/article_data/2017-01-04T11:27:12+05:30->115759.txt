@@ -1,0 +1,17 @@
+CHANDIGARH: Reading is set to become easier and faster for the visually challenged in India, with the   (CSIO), Chandigarh, developing a portable device which will enable them to read non Braille documents in Hindi and three other vernacular languages. The device named “Divya Nayan” scans any script and reads it aloud to the visually challenged. This device can also be used by the illiterate as well as elderly people with declining sight.
+
+ A prototype of “Divya Nayan” was showcased at the platinum jubilee function at Vigyan Bhavan recently, inaugurated by Prime Minister  . 
+ 
+ The portable device is based on the principle of contact scanning of a printed document and converting it into speech. “The device is standalone, portable, completely wireless and uses open source hardware and software. The device can analyse a multicolumn document and provide seamless reading,” said  , scientist at CSIO who has developed the device. “It is capable of page, text and word level navigation while reading and is faster than Braille-based reading. It is difficult for any software to read a newspaper as it cannot distinguish between column and row, but we have overcome this limitation,” he said. 
+ 
+ Its trial was done at the Institute for the Blind, Sector 26, in Chandigarh. “We have taken feedback from the visually challenged and made the device according to their needs,” said Ashish. Existing devices can can read in English and other foreign language, but need a computer and are expensive. “Our device costs around Rs 10,000 compared to a foreign language reader cost of around Rs 1.5 lakh,” said Ashish. 
+ 
+ “Divya Nayan” currently supports Hindi and English languages, but will be programmed for other vernacular languages. “We could achieve this within a year. We can also program the speed of reading as per requirement,” said Dr RK Sinha, director CSIO. 
+ 
+ The device has an internal computer and has been interfaced with online news that can be played as an audio for the user. ‘Divya Nayan’ has an internal storage of 32 GB with run time of up to 3 hours and weighs 410 gram. The device is equipped with WiFi and Bluetooth interface that helps to connect with Internet. It also can be connected to a monitor and used as a mini computer with screen reader utility. 
+ 
+  Bridging the tech gap
+ 
+ India has 15 million of the world’s 39 million visually challenged population. Braille is their primary method of reading, but converting text into Braille is time consuming and limits access. Divya Nayan will bridge this technology gap. 
+ 
+ 

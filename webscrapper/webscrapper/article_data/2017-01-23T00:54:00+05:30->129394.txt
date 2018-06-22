@@ -1,0 +1,11 @@
+Hyderabad: If developments are any indication, the Aadhaar-enabled payments using Bharat Interface for Money (BHIM) will take more time to be launched. Currently Unique Identification Authority of India (UIDAI) is updating its back-end server capacity to handle the huge load on its server to deal with crores of transactions every day before the transactions with the app begins. 
+
+ UIDAI has so far tested the app in limited pockets. Tata Consultancy Services (TCS) has tested the app for technical reasons and gave green signal this week. 
+ 
+ “The current capacity of the UIDAI is to handle just two crore transactions a day, but this has to be enhanced to 200 crore transactions. It will take a little time before we finally put it in public domain,” a senior UIDAI official said. “We have to carry out the transactions, both payment to vendor’s bank and sending the message to payees, on their mobile within seconds ,” an official said. Another hitch for the BHIM app is many banks and e-commerce sites have not yet agreed to join the UIDAI platform as they lose their service charge on debit and credit card transactions. 
+ 
+ With BHIM transactions, the customer will be charged just four to five paisa per transaction, whereas in other transactions like cards and wallets, the service charge is much higher. “They will lose their margins, but unless they also join the platform of UIDAI, Aadhaar-enabled payments cannot move forward,” a highly-placed source said. Officials say that it will take at least another 10 days before BHIM delivers payments across the country.
+ 
+  UIDAI is also planning to build independent data centre-cum server for the Hyderabad unit, which caters to Telangana, AP and Odisha. The central server is currently located at Bangalore, where all the Aadhaar-related data is stored. Nearly 40 crore people across the country have linked their   with their bank accounts and so have nearly 70 percent of the people in AP and Telangana.
+ 
+ 

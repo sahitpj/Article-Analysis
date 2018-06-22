@@ -1,0 +1,31 @@
+Post  , city-based ‘Payworld’ – the country’s largest ‘assisted wallet’ platform for rural India – has been increasing its mobile points of sale (PoS) at small and medium merchant outlets, outside the metros. It currently has a presence in nearly 630 towns and cities across India – and in all states – through 100,000 active retail points. Praveen Dhabhai, the COO, is upbeat, as he told Sharad Kohli, “We have almost 10,000 small merchants across India, especially in Tier 2 and Tier 3 cities. We plan to acquire about 1 lakh merchants by March.”
+
+ What is   all about? 
+ 
+ Payworld ‘platform’ is about make day-to-day transactions simple. We have developed technology to help small retailers and merchants transact services like railway reservation, domestic money remittance, bill payments, mobile/DTH recharge and insurance. Now, the technology is helping retailers accept debit and credit card payments. This they can do by using the Payworld app on a mobile phone or computer, to get transactions done for consumers who are not well versed with paying online, but who can walk into their neighbourhood retailer to get assistance on transacting any of the above services.
+ 
+ Payworld started out in 2007, but demonetisation has given it a push to the next level. 
+ 
+ For the past many years, we’ve been trying to educate people in the use of   and financial inclusion. With the cash crunch after November 8, people have realised a   economy is the way to go — it has become a necessity now. With demonetisation, volume of digital payments has increased almost 20 times, and acquisition of small merchants has increased manifold. This move has given a boost to ‘mobile wallet’ and ‘assisted wallet’ companies like ours. However, what is required is educating people on its uses and advantages, especially in smaller cities, and semi-urban and rural areas.
+ 
+ What challenges do you face moving away from metros to smaller cities ?
+ 
+ Educating people on use of the app, and acceptance of ‘digital’ money by merchants, can only be done through physical interactions and training. Acquiring small merchants in small cities and towns requires manpower, so Payworld is increasing its field force to almost 2,000.
+ 
+ How realistic is going digital and cashless, considering the lack of infrastructure and scanty connectivity in the country’s hinterlands?
+ 
+ The biggest challenge is providing training and awareness on digital payments to merchants and consumers. But Payworld is not hardware ‘agnostic’, and can work even on low data bandwidth, like 2G.
+ 
+ What are Payworld’s goals for 2017?
+ 
+ We plan to acquire 100,000 small merchants in the next three months. Currently, we have debit and credit card acceptance through the Payworld app, and in the pipeline are Aadhaar-based payments (via Aadhaar Enabled Payment System) and UPI (Unified Payment Interface), which are expected to be integrated soon.
+ 
+ What safeguards has Payworld taken to ensure that security in transactions is not compromised?
+ 
+ The transaction through Payworld mobile PoS is ‘card present secure’, with second-level authentication by MPIN entered in a secure, Payment Card Industry (PCI) compliant device. The PCI has a Data Security Standard (DSS) that any business which processes, stores or transmits payment card data, has to adhere.
+ 
+ What, if any, legal challenges do you see ahead?
+ 
+ There aren’t any as acquiring banks are SBI and HDFC. It’s a challenge for banks to acquire small merchants in small cities, so Payworld is helping them in this. We have to smoothen the process by doing technology implementation, thereby reducing the cost by half or more, compared to a conventional PoS device.
+ 
+ 

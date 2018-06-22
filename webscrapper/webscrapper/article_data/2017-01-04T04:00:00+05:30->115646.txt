@@ -1,0 +1,21 @@
+CHENNAI: Startups, who had bet big on vegetable and fruit retail — like RainCan, DailyNinja and Ninjacart have seen an uptick in their orders even as management of their supply chain got tough with demonetisation. 
+
+ Online retailers said the length of the supply chain has been affected — from farmers to truckers to vendors — the cash crunch has led to a major drop in prices and outright losses for some.
+ 
+ “First 20 days were a bloodbath. Despite a bumper harvest in Karnataka, farmers could not hire labourers. By the time they could borrow and pay workers, crops wilted and prices crashed. We are working on IOUs and letters of credit, because there is no cash in circulation at the retail or farmer end,” said Thirukumaran, founder, Ninjacart.
+ 
+ And technology doesn’t come to everyone’s help say truck and logistics companies. “It’s a massive undertaking. Where is the infrastructure? Network? Telecom towers? PoS machines?” asks truck operator Ranjaswamy. 
+ 
+ Even if they were to go digital, hyper-local startups said that the margins vendors operates on were too small for them to digitise. “They operate on slim margins so paying an MDR (Merchant Discount Rate) of 2.5% is out of the question. We are looking to develop a UPI-based payment solution and have tied up with developers,” said Thirukumaran.
+ 
+ At DailyNinja, which supplies milk, bread, groceries and other staples, the startup saw higher orders from customers even as they faced major supply disruption after demonetisation. “In our milk supply chain, all payments were made with cash. Procurement was a huge hassle. Though many vendors had bank accounts, us electronically transferring their payments did not solve the problem as they could not withdraw the amount for nearly 6-7 days from the banks,” said Sagar Yarnalkar, CEO and co-founder, DailyNinja.
+ 
+ The Bengaluru-based startup spent the first two weeks running around opening new bank accounts for their vendors and suppliers. “It took a long time for dairies to agree to online payments. We have now issued co-branded DailyNinja debit cards in partnership with Happay,” said Yarnalkar. “For bread and eggs, suppliers agreed to issuance of cheques,” he added.
+ 
+ Startups also said that they saw a higher migration to cashless. At Pune-based RainCan co-founder Munendra Singh said, 
+ 
+ “From 70-30, digital vs cash; we have now gone to 90% digital. Our fruits and vegetables vendors had problems paying farmers. But in the FMCG category on personal care products, there was very little disruption.”
+ 
+ Non-disruption in FMCG category, was something that bigger players like BigBasket and Grofers also witnessed. “We have an inventory model and are not hyper-local. Large FMCG players like Nestle, Hindustan Unilever deliver to our warehouses directly. So we did not have the problem of paying truckers or vendors. BigBasket and Grofers also benefited as they had ensured all the farmers in their supply chain had gone digital long before demonetisation. “Early last January, we had got our community of 5,000 plus farmers online. So there were no hiccups for us with demonetisation,” said Meera Iyer, head, marketing, BigBasket.
+ 
+ 

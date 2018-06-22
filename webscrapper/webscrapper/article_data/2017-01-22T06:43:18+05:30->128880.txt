@@ -1,0 +1,14 @@
+HYDERABAD: If robots taking over jobs reserved for humans seemed like a far-fetched idea earlier, that's not the case anymore. Walt, a 9-foot-tall robot has just undertaken a painting job at Hyderabad's   (IIIT-H) and is giving traditional painters a run for their money.
+
+ Designed as an interior wall painting robot, Walt can spray-paint walls 30 times faster than a human. While a labourer might take 18 days to paint a space of 20,000 sq ft, Walt can do it in one day, its creators say.
+ 
+ “All one has to do is open the android app that controls the robot and click photos of the wall that needs to be painted.After this, users have to demarcate the non-paintable ele ments, such as windows, in the photo. This output is then converted into a map with coordi nates, which is fed into the robot via Bluetooth. The efficiency is far greater than that of a physical labourer and it also eliminates mistakes," said Srikar Reddy, co-founder of Endless Robotics, one of the three startups selected to be part of Avishkar, IIIT-H's deep tech accelerator programme.
+ 
+ The first-generation robot has completed three painting jobs in Hyderabad and has just closed a painting contract with the   in Warangal.
+ 
+ “I recently added an addi tional floor to my house and was scouting for painters. It was then that I came to know that a robot is also in the business. The robot finished painting the interiors of the first flo or in less than two days. Since it uses spray paint, the end result was better, with a smooth, error-free finish,“ said Laxmana Murthy, who employed Walt nearly three months ago.
+ 
+ According to Vasudeva Varma, dean of R&D at IIIT-H, the combined use of robotics and artificial intelligence has the potential to revolutionize many other industries as well.
+ 
+ “There are several startups that are combining robotics with machine cognition to revolutionize industries. A startup,  , has developed robotic arms that can mimic the various functions of a human hand. Indian companies like   are trying to develop robots that can cook Indian dishes,“ said Varma.
+ 
