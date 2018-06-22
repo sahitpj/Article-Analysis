@@ -1,0 +1,8 @@
+HYDERABAD: A device to detect deep vein thrombosis has evoked much interest from medical companies. The ‘Venous clot preventer’, developed as a student project, detects deep vein thrombosis before it becomes acute, say experts.
+
+ The device can be useful for professionals who spend long hours sitting at work, and for the elderly. “Formation of blood clots in deep vein thrombosis can travel to the brain and lungs, causing strokes, pulmonary embolism and other urgent health conditions. If you tend to spend long periods sitting at a desk, regularly stand up for a short break—at least every hour or so. Even a quick walk to the bathroom or water fountain can get your blood flowing and prevent clots,” said Dr  , senior consultant  ,  .
+ 
+ Experts say it is important to prevent the disease as treatment is not always useful. “We use sensors to detect the problem before it occurs and warn the patient so that he/she can take preventive measures. The problem starts with stagnation in blood flow in the lower limbs, which results in higher concentrations of carbon dioxide rich blood in lower limbs, that can be identified by sensors,” said D  , a student of biomedical engineering at   (GIE), and inventor of the device.
+ 
+ The project recently won a state-level competition among 1,258 projects and was selected for national-level innovation summit. Manoj developed the device under the guidance of Prof K Sujatha from GIE and Prof Venkateshwarlu, from  . Mentors at T-hub helped him redesign the product so that it can be scaled up and marketed easily.
+ 
