@@ -1,0 +1,29 @@
+NEW DELHI: In a first, three firms are being probed for attempting unauthorised authentication and impersonation by using stored   in what the   (UIDAI) has said is a clear violation of the law.
+
+ UIDAI has lodged a criminal complaint with the cyber cell of Delhi Police. The entities under the scanner are  ,   and   and they have been served a “notice for action” under Aadhaar regulations.
+ 
+ It is understood that Delhi Police is in the process of registering an FIR after preliminary investigations into the UIDAI complaint. The complaint was filed after UIDAI detected an exact biometric match in multiple consecutive transactions which the authority said was not possible without the biometrics being stored and their unauthorised use.
+ 
+ UIDAI officials noticed that one individual performed 397 biometric transactions between July 14, 2016 and February 19, 2017. Out of this, 194 transactions were performed through Axis Bank, 112 through eMudhra and 91 through Suvidhaa Infoserve.
+ 
+ What stood out was that multiple transactions were performed concurrently with different user agencies — Axis, eMudhra and Suvidhaa — which suggested a common element attempting the illegal operations.
+ 
+ Suvidhaa Infoserve CEO Paresh Rajde told TOI, “While testing the application, the developer had sent four transactions concurrently which is not allowed. There was no financial loss. It was a test transaction.” He said his company was a business correspondent of Axis Bank and distributed Aadhaar-linked products on behalf of the bank and they were testing the application for the Axis Suvidhaa pre-paid card.
+ 
+ Axis Bank’s spokesperson said, "We have received a query from UIDAI. This pertains to testing done by Suvidhaa, one of our business correspondent, on some of their clients on the UIDAI server. We would like to state that there is no financial loss caused by the testing done by Suvidhaa. Needless to add that we are in touch with UIDAI on this and would be sharing detailed responses on their queries soon."
+ 
+ The third firm, eMudhra, could not be contacted. TOI did not receive any response to email queries sent to the company.
+ 
+ Sources were sceptical of claims that operations were part of testing under controlled circumstances as use of stored biometrics is a violation of the Aadhaar law and can attract a jail term of three years. Pending a probe, the authentication operation of the firms concerned has been suspended, a UIDAI source said.
+ 
+ UIDAI discovered that the profile of the individual whose biometrics were used showed an address which matched the demographic records of Aadhaar. The authority speeded up its actions after the notices it had served appeared in social media along with allegations that potential risks of Aadhaar were surfacing.
+ 
+ The move came after a notice was served to these firms for action under Regulation 25 of Aadhaar (Authentication) Regulations, 2016 when UIDAI found serious irregularities in transactions performed during January 11 to January 17, 2017.
+ 
+ On internal audit, UIDAI found the three entities responsible for attempts by an individual to make several Aadhaar-enabled transactions by using "stored" biometrics. The modus operandi suggested that the biometric details were being stored and then used for other transactions. The attempts failed as the UIDAI system detected the bogus attempts.
+ 
+ An UIDAI official said, “The performance of simultaneous multiple successful transactions and exact biometric match score (fingerprints in same direction and angle) in several successive transactions is not possible without use of ‘stored’ biometrics.”
+ 
+ UIDAI also found that a single device was used by one agency, suggesting that only one person was performing the authentication. 
+ 
+ 

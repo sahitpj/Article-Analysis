@@ -1,0 +1,13 @@
+CHENNAI: Freshdesk has launched ‘The Freshdesk Customer Support Marketplace,’ a platform where developers can build apps and get access to customers. This comes after Sridhar Vembu led Zoho Corp launched Zoho Marketplace, an online store where users can buy extensions and custom-built applications and developers can sell them commission-free. The marketplace route has been adopted by several corporates including infrastructure providers like Amazon Web Services (AWS), Google, IBM and Microsoft and product companies like Salesforce. With google Playstore like platform for developers, these marketplaces are offering easy integrations with third party tools/application programming interface — APIs or building blocks for creation of apps). 
+
+ In July 2016, Zoho launched Zoho Marketplace which has multiple vendors such as SMS Magic offering their apps. The SMS Magic extension enables you to send and receive SMS messages from clients through Zoho CRM. 
+ 
+ “Each of our 80,000+ customers use Freshdesk in different ways, customized to their needs with integrations and third-party apps.” says Girish Mathrubootham, Founder and CEO of Freshdesk on the launch . “We want to enable any customization that our customers need, while simultaneously incentivizing developers into building high-quality, useful integrations in customer engagement.”
+ 
+ For companies like Zoho and Microsoft that host the marketplace, their offerings become more complete, and it becomes easier to sell (for example, Zoho probably does not have the domain expertise to build a restaurant management solution, but someone has and put it up on their marketplace,” said Anand Rajkumar, CFO, Hasura, a startup that works with developer teams in corporates. Hasura is in the process of becoming a part of the Microsoft Azure marketplace.
+ 
+ For developers, it increases discoverability and for the company using the marketplace, it serves as a one stop shop for their software product needs. 
+ 
+ Rajkumar points out that marketplaces can also drive innovation. “The app store made app development extremely popular as a vocation because distribution/marketing problems become surmountable. Because of companies like Freshdesk and Zoho launching marketplaces, and with India becoming the country with the maximum number of developers, this effect will hopefully lead to more and more Indian software coming out.”
+ 
+ 

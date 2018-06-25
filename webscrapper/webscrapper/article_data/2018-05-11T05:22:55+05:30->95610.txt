@@ -1,0 +1,11 @@
+NEW DELHI: You may soon be able to send encrypted "direct messages" or DMs on Twitter's Android app.   is reportedly testing a feature called "secret conversation", according to leaked screenshots shared on the microblogging network last week. A Boston-based developer, Jane Manchun Wong claims to have spotted the feature in its testing stage. She tweeted screenshots which showed a black button that said "secret conversation" under the tab "conversation info". 
+
+  "Twitter is working on End-to-End Encrypted Secret DM!" she tweeted from her handle @wongmjane last week. 
+ 
+  Twitter has not yet responded to TOI's emailed request for confirmation. Encrypted chats are less vulnerable to snooping as they depend on unique codes. 
+ 
+  exchanged between the recipient and the sender. 
+ 
+ Messaging apps like  , Signal and   already use end-to-end encryption, that is, a setup where messages are encrypted and decrypted both at the sending and receiving .
+ 
+ 

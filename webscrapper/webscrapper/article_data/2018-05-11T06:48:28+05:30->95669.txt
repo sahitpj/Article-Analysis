@@ -1,0 +1,17 @@
+HYDERABAD: Telangana health department has decided to link   with the Universal Eye Screening scheme under the   for citizens. The eye screening medical records proformas that were distributed to the district health authorities mentioned Aadhaar numbers.
+
+ The programme to be launched tentatively on May 28 will screen eyes of the entire Telangana population and authorities will make a database of eye health profile of citizens linked to Aadhaar. Security researchers though welcomed the government’s health initiative, but said that the   is yet to decide on Aadhaar linking and thus cautioned state government while linking eye screening documents to Aadhaar.
+ 
+ 
+  
+ Hyderabad District Immunisation Officer Dr Nagarjuna Rao, who has been appointed as in-charge officer for the   programme told TOI,”Around 30 to 40% of the population suffer from eye problems. The programme is aimed at making Telangana free of blindness and eye diseases. We have been given May 28 as a tentative date and in each of the 85 wards under  , one centre will be set up. Each centre will have two tabs, one at the registration and one after screening to enter the data.”
+ 
+ GHMC, self-help groups and revenue officials will distribute the slips for eye screening like voter slips during elections.
+ 
+ Dr Nagarjuna Rao said, “As per the guidelines given by IT department, Aadhaar number of the patient will be collected and in case there is no Aadhaar, instant authentication with biometrics like fingerprinting will be done. Special software has been made for data entry.”
+ 
+ “This is not a mandatory screening, but we want to target all the citizens like in the case of immunisation. GHMC is mobilising patients. Irrespective of socio-economic statutes, any one can avail. Depending on the eye problems surgery will be done. Even a 30-day-old baby can be screened for Retinoblastoma,” added Rao.
+ 
+ Data Security Researcher Kodali Srinivas told TOI, “The eye screening initiative has to be much appreciated. The complexity lies only with the linking of Aadhaar. Neighbouring AP recently displayed Aadhaar number of pregnant women. To track women, this is good, but when the data is out due to any other reason, it will pose safety issues. Without the consent of the patient, the data shall not be used for any other purpose. On the other hand, Aadhaar linking shouldn’t have been done as Supreme Court judgement on the issue is yet to come out.”
+ 
+ 
