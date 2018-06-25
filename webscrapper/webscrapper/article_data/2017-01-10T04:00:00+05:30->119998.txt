@@ -1,0 +1,33 @@
+Mumbai: Markets regulator   wants the National Stock Exchange (NSE) to fix responsibility for the systems breach on its trading servers that had happened for 18 months starting December 2012. Sebi wants the bourse to name those who were responsible for this breach that led to substantial illegal profits for a select few brokers. The regulator also wants   to disgorge all the ill-gotten profits of those brokers and take appropriate remedial actions, sources said.
+
+ In its IPO prospectus filed last week, NSE disclosed that a system audit by a consulting firm (Deloitte) had found that its trading system was compromised that had allowed certain brokers to get preferential treatment over all others. It also found that some of the bourse’s employees had helped these brokers gain preferential access to NSE’s trading system. After initial reluctance by the bourse, the audit was conducted on orders from Sebi. On December 23, NSE had sent the audit report to the regulator.
+ 
+ “We are not satisfied with the response given by NSE. We are going to ask them to fix responsibility for the breach of system,” said a regulatory official. “We want to see them fixing responsibility on individuals,” the official said. The regulator also wants that the illegal benefits that accrued to the brokers involved in the breach taken back, and also action is initiated against those entities.
+ 
+ Earlier, Sebi had ordered NSE to deposit the revenue generated from its server co-location facility, where the breach had taken place, in a separate bank account. NSE has already set aside nearly Rs 146 crore for this.
+ 
+ The systems breach had started when Ravi Narain, currently vice chairman of NSE, was its managing director (MD) and ended in May 2014, when Chitra Ramkrishna had already taken over from Narain as the bourse’s MD.
+ 
+  Last month Ramkrishna resigned from the bourse for personal reasons.
+ 
+  NSE declined to disclose the names of its employees who were named in the Deloitte report. Under Sebi rules, a company going public is not authorised to communicate anything that is not in the IPO prospectus.
+ 
+ Mumbai: Markets regulator Sebi wants the National Stock Exchange (NSE) to fix responsibility for the systems breach on its trading servers that had happened for 18 months starting December 2012. Sebi wants the bourse to name those who were responsible for this breach that led to substantial illegal profits for a select few brokers. The regulator also wants NSE to disgorge all the ill-gotten profits of those brokers and take appropriate remedial actions, sources said.
+ 
+ In its IPO prospectus filed last week, NSE disclosed that a system audit by a consulting firm (Deloitte) had found that its trading system was compromised that had allowed certain brokers to get preferential treatment over all others. It also found that some of the bourse’s employees had helped these brokers gain such preferential access to NSE’s trading system. After initial reluctance by the bourse, the audit was conducted on orders from Sebi. On December 23, NSE had sent the audit report to the regulator.
+ 
+ “We are not satisfied with the response given by NSE. We are going to ask them to fix responsibility for the breach of system,” said a regulatory official. “We want to see them fixing responsibility on individuals,” the official said. The regulator also wants that the illegal benefits that accrued to the brokers involved in the breach taken back, and also action is initiated against those entities.
+ 
+ Earlier, Sebi had ordered NSE to deposit the revenue generated from its server co-location facility, where the breach had taken place, in a separate bank account. NSE has already set aside nearly Rs 146 crore for this.
+ 
+ The systems breach had started when Ravi Narain, currently vice chairman of NSE, was its managing director (MD) and ended in May 2014, when Chitra Ramkrishna had already taken over from Narain as the bourse’s MD.
+ 
+  Last month Ramkrishna resigned from the bourse for personal reasons.
+ 
+ Acting on a letter from a whistleblower to Sebi in early 2015, that alleged some brokers had manipulated NSE’s trading system for illegal gains, the regulator had asked the exchange to appoint an independent auditor to look into the system and present its finding to it. The bourse had mandated Deloitte to examine its systems and place its report by December 31, 2016. NSE declined to disclose the names of its employees who were named in the Deloitte report for the systems breach and also if it has already fixed responsibility. Under Sebi rules, a company going public is not authorised to communicate anything that is not in the IPO prospectus.
+ 
+ In its draft IPO prospectus, NSE admitted that its system was prone to manipulation and the audit had found “trends for certain periods where a few stock brokers appear to be the first to connect to specific servers significantly more often than others”. The forensic audit by Deloitte (not named in the prospectus) had found that between December 10, 2012 and May 30, 2014, market data was disseminated in a manner that allowed the broker who connected first to the server to receive market data before the broker who connected later. In high-frequency trading (HFT) environment where data is analysed and trades executed by high-speed computers in microseconds, this is an advantage for which brokers would be ready to pay substantial amount of money.
+ 
+ The Deloitte report said there were indications of preferential treatment by NSE to a few stock brokers. “Different stock brokers were treated differently and there was no uniform approach applied across stock brokers” when NSE was allocating new IPs across ports on its servers and also moving the members from one server to another. “Ticks were disseminated faster to members connected to less crowded servers, thereby giving an advantage to such stock brokers,” the report said.
+ 
+ 

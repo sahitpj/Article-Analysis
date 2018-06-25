@@ -1,0 +1,19 @@
+When   was 7, he built his first app to help him learn multiplication tables. When he turned 9, his work caught the eye of tech giant IBM. Now, all of 14, Bakshi is a neural network architect and   in  . All of this stemmed from building a simple app. 
+
+ In today’s world where almost everyone has a smartphone, apps are a must-have and those who develop them are in great demand. 
+ 
+ Application development or the process of building mobile applications for smartphones has been steadily growing as a career option over the past few years. The advantage of getting into this space is that the barriers to entry are low, says Gaurav Raina, professor,  . Basic knowledge of coding like Java is enough for one to learn more in app development. 
+ 
+ While app development may not figure in a college curriculum, there are several courses available online such as IMAD, offered by IIT Madras and startup Hasura. Students pursuing app development see the course as a value add. Souvik Haldar from Kolkata pursued the two-month IMAD course. “Even as my syllabus for BE computer science did not provide sufficient coaching in app development, the two-month course helped me grasp the basics and set out developing an app from the scratch. Also, it is easier for those with a non-programming background to acquire the knowledge and skills, as the languages involved are easy,” Haldar said, who is now pursuing his internship with startup Kartbites.
+ 
+ E-learning company Udacity’s foundation nanodegree programme in app development has learners from diverse backgrounds including school students and non-tech professionals who want to make a career-shift. 
+ 
+ “Our favourite example is that of Jimit Jayswal, who came in from an economically challenging background. Today, Jayswal supports his family with the salary he is earning as a developer,” said Ishan Gupta, MD India, Udacity.
+ 
+ App development can act as a stepping stone for developers to enter into other areas like deep tech or full stack development. “Anyone who is in school today should make sure that in the next few years, they know elements of mobile app development. Eventually, the solution has to be delivered through an app and knowing app development can ease their entry,” said Raina of IIT Madras.
+ 
+ Industry observers said app development doesn’t involve just coding. “Contrary to IT services, app developers get all-round knowledge – infrastructure management, user design, development and testing. One also needs soft skills to communicate and capture requirements,” said Aditya Mishra, CEO, CIEL HR services. He adds the growth, however, is similar to the IT industry and with close to 3-4 years of experience, one can aspire to be a team lead.
+ 
+ What is exciting about the space is the pace of change one has to keep up with. “The developer has to constantly keep adapting based on the users. And as the users and use cases have increased multi-fold, this opens up a lot more cases to solve and brings about new challenges. All this again result in a lot more opportunity, said Atishe Chordia, cofounder and CEO, doodleblue, a Chennai-based app development company.
+ 
+ 

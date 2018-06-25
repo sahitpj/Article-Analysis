@@ -1,0 +1,9 @@
+Growing up in the nineties, I got to see companies like Microsoft, Google and Amazon transform industries. Seeing them go from small garage bands to transforming the way the world worked was irresistible. After seeing the impact software development had on the world, there was no going back. I was determined to put my own dent in this universe. 
+
+ I benefited from an extremely low barrier to entry for programming - I only had to ensure I put in the hours. I devoured programming books, and I had access to computers (via my school lab initially, and then later on my own computer) where I could practice what I had learned. I eventually became a good programmer that spent a year teaching programming at the Meltwater Entrepreneurial School of Technology in Ghana. During this stint, I became particularly interested in product and application development and went onto start a product development agency (34 Cross) and a company that makes tools for application developers (Hasura). 
+ 
+ Today, web and mobile apps have taken over the world and you will find an app for almost anything. Application development has become an extremely prized skill. And we are just seeing the beginning of what’s possible. With more than half of the world’s population set to come online over the next decade, the future looks extremely bright. 
+ 
+ The barriers to entry have also reduced even further from when I was starting out and it’s easier than ever to become an app developer. You can learn everything you need online, via resources such as Codecademy, Khan Academy, IMAD and many more. All you need is commitment. However, this commitment to learning must extend over your entire career as the field evolves extremely rapidly and you need to constantly learn and stay up to date. If you are interested enough to make this commitment, a career in application development will offer both intellectual challenge and amazing rewards.
+ 
+ 

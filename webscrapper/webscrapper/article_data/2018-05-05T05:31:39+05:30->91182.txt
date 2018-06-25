@@ -1,0 +1,22 @@
+
+
+ Twitter urged its over 330 million users to change their passwords after a glitch caused some of them to be stored in plain text on its internal computer system.
+ 
+ The social network said it had fixed the glitch and that an internal investigation had found no indication passwords were stolen or misused by insiders, but it urged all users to consider changing their passwords “out of an abundance of caution”.
+ 
+ The blog did not say how many passwords were affected. But a person familiar with the company’s response said the number was “substantial” and that they were exposed for “several months”.
+ 
+ The disclosure comes as lawmakers and regulators around the world scrutinise the way firms store and secure user data, after a string of security incidents that have come to light at firms, including Equifax,   and Uber.
+ 
+ The glitch was related to Twitter’s use of a technology known as “hashing” that masks passwords as a user enters them by replacing them with numbers and letters, according to the blog.  
+ 
+ 
+ 
+ Facebook has been conducting market research in recent weeks to determine whether an ad-free version paid by subscriptions would spur more people to join the network, said people familiar with the matter.
+ 
+ The company has studied such an option in the past, but now there’s more internal momentum to pursue it in light of Facebook’s recent data scandal. The plans aren’t solid and may not go forward, according to the people, who asked not to be identified. Facebook declined to comment.
+ 
+ CEO   has long considered such an alternative — not to replace the social network’s business model, but to remove a common reason people give for leaving the service. The firm generated virtually all its $41 billion in revenue last year by selling ads targeted with user data. Internal company research in past years concluded consumers wouldn’t be receptive to a subscription option.
+ 
+ Now, it thinks consumer sentiment may be changing, with the firm facing a crisis of public trust amid the privacy breach scandal. 
+ 

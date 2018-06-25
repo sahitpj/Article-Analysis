@@ -1,0 +1,9 @@
+LUCKNOW :The official website of UP cabinet minister   was   on Thursday. Maurya's personal secretary Manoj Chaudhary lodged a complaint against unidentified persons with Gautampalli police station. He stated that hackers had posted indecent photographs and comments against the minister on the website. However, the FIR (TOI has a copy of it) stated that "gmail-id of the minister swamiprasadmaurya.com has been hacked". 
+
+ Chaudhary failed to clarify whether the minister's personal email id or his official website was hacked. 
+ 
+ CO Hazratganj Abhay   said a case under Section 66(c) of the Information and Technology Act was lodged. Mishra, too, could not clarify what was hacked. He said no changes are made in the written complaint and the same is mentioned in the FIR. 
+ 
+ Cyber cell expert Prateek Dubey said the webpage has nothing to do with the email-id. The webpage can only be hacked by going into the control-panel which has a username and a password or by hacking a separate database of the webpage which is created to add contents in the webpage.
+ 
+ 

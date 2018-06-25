@@ -1,0 +1,17 @@
+BENGALURU:   Technologies’ share price crashed by nearly 8% on Thursday following investor concern that much of the revenue guidance for the ongoing fiscal that it provided will come from its acquisitions and not from organic growth.
+
+ On Wednesday, HCL gave a robust 9.5-11.5% guidance in constant currency (which discounts the impact of currency fluctuations). But executives subsequently said that 4.25-6.25% of this will come from its acquisitions. In other words, organically it will grow by just about 5%. Last month it announced two major acquisitions: Palo Alto-based Actian — which counts Citi, Deutsche Bank and   as customers — for $330 million, and life sciences company C3i Solutions for $60 million.
+ 
+ HCL CEO C   told TOI on Wednesday that inorganic was an integral part of its strategy and the guidance is a mix of both. “On a ballpark, half of it is organic and half of it is inorganic and the trend is going to continue because some services we acquire, we keep them as independent services. But we integrate the common ones into HCL,” he said.
+ 
+ Brokerage firm Edelweiss said the key disappointment was muted organic growth guidance of 4.25-6.25% (constant currency) versus the expectation of 6-9%. It said the weak organic guidance despite robust growth in Mode 2 & 3 services (next gen services and products & platforms) “implies a leaking bucket of traditional services which has not been fixed and will leak further going forward”.
+ 
+ “The above, in spite of global recovery, expected turnaround in IMS (infrastructure management services) and sustenance of momentum in product engineering space implies big dent in either large clients or legacy services,” Edelweiss said in a research note. Axis Capital noted that the constant currency revenue growth guidance (organic) of about 5% is the lowest in the history of  .
+ 
+ “The management cited challenges due to pricing pressure on deal renewal across the offerings; fragmentation of deals, automation and cloud continue to disrupt application maintenance and lack of large enterprise implementation programmes,” it said.
+ 
+ HCL’s Vijayakumar admitted that cloudification and smaller deals in the infrastructure business has resulted in lower growth in the business. But HCL has invested over $1 billion in IP-based partnerships with IBM. “We have acquired over 50 products and most of them are very important for enterprises in running their business and IT operations. There’s a lot of requirement to innovate and modernize these products – cloudify and SAASify them and improve user experience. We have created new business models around products and offerings,” he said.
+ 
+ Brokerage firm Sharekhan said it sees positive setups for organic revenue growth in the 2020 fiscal on account of anticipated turnaround in IMS, healthy deal pipelines and strong momentum in digital revenue. “However, we restrict ourselves from any upward revision of target multiple, given slower organic revenue growth (similar to Infosys) in 2019 fiscal and aggressive capital allocation toward inorganic growth (IP investments),” it said.
+ 
+ 
