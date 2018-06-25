@@ -1,0 +1,27 @@
+NAGPUR: Students of St Vincent Palloti College of Engineering and Technology,   displayed their engineering capabilities at the   of the college ‘Technex’17’ where robot developed by them were put on display. The visitors could also operate the robots and experience their workings. 
+
+ The two day festival was inaugurated on Friday at the college campus in the presence of  , chief scientist, Tata Consultancy Services Ltd and director of Intel Technology India Pvt Ltd, Vaibhav Natu. Director of the college, Father George Madeikkal was also present.
+ 
+ Kulkarni asked students to focus on understanding a subject better than just getting good grades. He said, “I only concentrated on clearing engineering without failing, and as a result, when I joined IIT, I realized I knew nothing.”
+ 
+ Not only did students design robots, but they also set them in a competitive environment which could be enjoyed by visitors and students. Basic design of all robits were similar. Components like microprocessors, direct current (DC) motors and lithium-ion batteries were basics of each prototype. Robots differed from each other by their use and medium of control.
+ 
+ Chaitanya Tiwari and Sanket Kuhikar, third year students of mechanical and electrical engineering respectively, built ‘Cranebot’. The machine boasted six DC motors, three 12 volt, and 1 amp batteries. It could move left, right, forward and backward with four motors powering each wheel. 
+ 
+ The crane mechanism used two motors — one used for lifting the crane arm while the other powered a grappling claw through a set of gears. It was controlled using a wired console where a set of switches controlled each movement. Transporting an object from points A to B via an obstacle course was the challenge.
+ 
+ ‘Aqua Combat’ used robot technology in aquatic vehicles. The project was developed by third year electrical and telecommunication student Tushar Thote and his team. They built two boats which were powered by the same motors. However, one was controlled with a radio frequency (RF) controller while the other was controlled by an application on an android phone. 
+ 
+ Thote informed that operating the boat with the application cost him approximately Rs 1,500 whereas the RF controlled one cost him over Rs 5,000. Competitors had to navigate through a set course in a small pond.
+ 
+ The event had about five to six robots on display which kept the visitors and students quite engaged and excited. 
+ 
+ Overdrive:
+ 
+ Developed by Pratik Kusre, Nagraj Bongirwar and team (third year electrical engineering). One had to manaveour the four wheel drive robotic vehicle through an obstacle course
+ 
+ Robosoccer 2.0: 
+ 
+ Developed by Ravi Pandey, Justin Castelino and team (third year electrical engineering). One could  
+ 
+ 

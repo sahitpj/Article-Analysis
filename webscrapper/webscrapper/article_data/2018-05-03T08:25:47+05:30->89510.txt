@@ -1,0 +1,33 @@
+NEW YORK:  , the Trump-affiliated data firm at the center of  's worst privacy scandal in history, is declaring bankruptcy and shutting down.
+
+ 
+ The London firm blamed "unfairly negative media coverage'' and said it has been "vilified'' for actions it says are both legal and widely accepted as part of online advertising.
+ 
+ Cambridge Analytica said it has filed papers to begin insolvency proceedings in the UK and will seek bankruptcy protection in a federal court in New York.
+ 
+ "The siege of media coverage has driven away virtually all of the company's customers and suppliers,'' Cambridge Analytica said in a statement. "As a result, it has been determined that it is no longer viable to continue operating the business.''
+ 
+ Facebook said it will keep looking into data misuse by Cambridge Analytica even though the firm is closing down. And Jeff Chester of the Center for Digital Democracy, a digital advocacy group in Washington, said criticisms of Facebook's privacy practices won't go away just because Cambridge Analytica has.
+ 
+ "Cambridge Analytica's practices, although it crossed ethical boundaries, is really emblematic of how data-driven digital marketing occurs worldwide,'' Chester said. ``Rather than rejoicing that a bad actor has met its just reward, we should recognize that many more Cambridge Analytica-like companies are operating in the conjoined commercial and political marketplace.''
+ 
+ Cambridge Analytica, whose clients included  's 2016 presidential campaign, sought information on Facebook users to build psychological profiles on a large portion of the US electorate.
+ 
+ The company was able to amass the database quickly with the help of an app that purported to be a personality test. The app collected data on tens of millions of people and their Facebook friends, even those who did not download the app themselves.
+ 
+ Facebook has since tightened its privacy restrictions, and CEO Mark Zuckerberg testified before Congress for the first time in two days of hearings. Facebook also has suspended other companies for using similar tactics. One is Cubeyou, which makes personality quizzes. That company has said it did nothing wrong and is seeking reinstatement.
+ 
+ Cambridge Analytica suspended CEO Alexander Nix in March pending an investigation after Nix boasted of various unsavoury services to an undercover reporter for Britain's Channel 4 News. Channel 4 News broadcast clips that showed Nix saying his data-mining firm played a major role in securing Trump's victory in the 2016 presidential elections.
+ 
+ Acting CEO Alexander Tayler also stepped down in April and returned to his previous post as chief data officer.
+ 
+ Cambridge has denied wrongdoing, and Trump's campaign has said it didn't use Cambridge's data. On Wednesday, Cambridge Analytica said an outside investigation it commissioned concluded the allegations were not "borne out by the facts.''
+ 
+ Facebook's audit of the firm has been suspended while U.K. regulators conduct their own probe. But Facebook says Cambridge Analytica's decision to close ``doesn't change our commitment and determination to understand exactly what happened and make sure it doesn't happen again.''
+ 
+ Cambridge Analytica has said it is committed to helping the UK investigation. But the office of UK Information Commissioner Elizabeth Denham said in March that the firm failed to meet a deadline to produce the information requested.
+ 
+ Denham said the prime allegation against Cambridge Analytica is that it acquired personal data in an unauthorized way, adding that the data provisions act requires services like Facebook to have strong safeguards against misuse of data.
+ 
+ 
+ 

@@ -1,0 +1,14 @@
+JAIPUR: The much-maligned Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGA), the ambitious social security scheme to provide employment and livelihood to rural labourers in the country, is receiving a tech boost.
+
+ As part of its effort to plug the loopholes in the system, the government will adopt various technology options, including the latest, 'geo tagging,' a process of adding geographical information to various media in the form of metadata (a text document contains information about the document).
+ 
+ The data usually consists of coordinates like latitude and longitude, but may even include bearing, altitude, distance and place names.
+ 
+ Commissioner EGS Rajasthan   said the Central government had introduced geotagging in December to authenticate works carried out under the   scheme. This eliminates the chances of village officials duping government by duplicating works. This will not be possible now as the latitude and longitude of works are recorded under geotagging, he said, adding that works cannot be carried out in the same latitude and longitude.
+ 
+ Explaining the system, he said each village would have a trained 'rozgar sahayak'.These sahayaks would take pictures of each work done in a village under NREGA, including the notice board of the work with details. They had to upload these pics on a special platform called 'Bhuban' using software developed by the National Remote Sensing Centre. This is a password-protected application.This is also registered with the government of India.
+ 
+ They can upload the pics either from the village itself using smart phones or using internet from Atal Sewa Kendra, E-mitra or   centres. This uploaded data are subject to verification by respective BDOs before they are finally uploaded on the official website. These can be verified by any officer or members of the public as these would be put under public domain.
+ 
+ As against the target of geotagging 89,091 works in the two months of December and January, Rajasthan has achieved over 200% of the target by geotagging 1,86,140 works till now, he said. The work is still in progress.
+ 

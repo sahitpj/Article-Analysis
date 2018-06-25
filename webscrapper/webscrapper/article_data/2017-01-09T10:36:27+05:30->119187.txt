@@ -1,0 +1,13 @@
+NAGPUR: From Monday onwards the state education is ushering in a major change as part of its overall plan to   in schools. Attendance for all students from Std I-X will now be taken through an Android mobile application which will be synched with the state’s server, and in near future will be advanced to provide real-time data to authorities.
+
+ Dipendra Lokhande, primary education officer (Nagpur district) said, “All class teachers have to download the app from our site and login using the credentials of schools, which they already have. Once the teacher logs in the app will display data of all students enrolled in the school according to their class and section. The teacher will then just have to tick in front of names of students that are absent and click submit.”
+ 
+ Even if there is no network at that particular time, teachers can take attendance and the app will synch with the database automatically later. Digitalization of student records and linking them with Aadhar numbers had begun couple of years ago and now armed with entire state’s student data, the education department has started streamlining operations. 
+ 
+ The database on whose wings the education department is flying on is called SARAL (Systematic Administrative Reforms for Achievement of Learning by Students). Developed by the central government's National Informatics Centre, SARAL is unique because it goes beyond collecting statistics and moves into unchartered territory of tracking a student's academic performance. Detailed databases will also help schools save countless man-hours in compiling statistical reports that were required by the education department almost every quarter.
+ 
+ The current system of digital data collection was limited to  , an online database maintained by the central government. The new database has a very statistical approach and can spit out traditional reports like number of schools/teachers/students along with a few filters.
+ 
+ Lokhande said, “In Narkhed taluka we had been running the attendance app as a pilot project and it has been working fine. Now our department is taking it across the state and we will see that it will reap major benefits in the long run.” For now the traditional method of taking attendance will also continue till the digital initiative stabilizes and runs without a glitch.
+ 
+ 

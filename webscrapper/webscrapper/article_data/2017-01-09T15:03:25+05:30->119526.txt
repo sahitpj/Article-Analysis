@@ -1,0 +1,23 @@
+KOLKATA: An IIT Kharagpur alumnus has won the prestigious Technical Achievement Award (the Scientific & Technical Awards prize), popularly called the `Technical Oscar', awarded by the   and Sciences.
+
+ Parag Havaldar, who graduated from   in 1991 with a degree in computer science and engineering, has been awarded for “the development of expression-based facial performance-capture technology at Sony Pictures Imageworks“.
+ 
+ A software supervisor at Sony Pictures Imageworks, Havaldar leads the team in the area of performance capture. The technology developed by him and his team has been used to create stylized character animations.
+ 
+ The Academy webpage reads, “This pioneering system has enabled large-scale use of animation rig-based facial performance-capture for motion pictures, combining solutions for tracking, stabilization, solving and animator controllable curve editing.“
+ 
+ Havaldar's popular works include `Watchmen', 'Green Lantern', 'The Amazing Spider-Man', 'Beowulf ' and 'Hancock'. He will be awarded a certificate from the Academy at Beverly Hills on Feb 11. His busy corporate schedule doesn't deter Havaldar from continuing his research. He is also a part-time teacher of multimedia at the University of Southern California, from where he pursued his PhD in computer vision and graphics.
+ 
+ Experts at the computer science department of IITKgp explained that 3D animation is at the heart of the animation movie industry. This requires creating a skeleton for a 3D model, so it can move.This process is called rigging.
+ 
+ Elated by his student's win, IIT-Kgp director and Havaldar's first programming teacher, P P Chakraborty said, “It is heartening to see how Parag's interest in image processing, which germinated from his project work at IIT-Kgp, has flowered into a technical art which has now been recognised by the prestigious award.“
+ 
+ Havaldar's project guide for his BTech degree, Partha Pratim Das, said, “He was a sincere student, who struck me with his unique ideas of experimentation. He had the seeds of an original product developer.“
+ 
+ Remembering him as jovial and fun-loving, Havaldar's hostel mates have taken to congratulate him on Facebook, and even uploaded pictures from their undergraduate days to celebrate the occasion.
+ 
+ The Scientific & Technical Awards were first presented at the 4th Academy Awards ceremony in November 1931. The Academy's webpage says they are “conferred in recognition of original developments that result in significant improvements in motion picture production and exhibition“.
+ 
+ 
+ 
+ 

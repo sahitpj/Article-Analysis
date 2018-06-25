@@ -1,0 +1,4 @@
+VISAKHAPATNAM:   has signed an agreement with   for implementation of the Spoken Tutorial project to provide ICT-based software training to students from the varsity as well as from over 340 colleges affiliated to AU. The agreement was signed by AU registrar professor   and Mohammed Kasim Khan, project manager, Spoken Tutorial, IIT Bombay, here on Sunday.
+
+ The spoke tutorial team has trained over 25 lakh students in the country and 1.2 lakh students in Andhra alone. They provide training in skill-based software through distance mode in various applications such as C, C++, Java, Python, Drupal, PHP, MYSQL, LINUX, LIBRE office, Open Foam, Latex and more. The courses are designed in such a way that they are meant for self learning without the need for a domain expert.
+ 
