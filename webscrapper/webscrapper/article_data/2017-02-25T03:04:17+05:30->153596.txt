@@ -1,0 +1,104 @@
+
+ 
+It is our eighth birthday. I am excited to be in India specifically as it has passed a big milestone for us – 200 million monthly active users making it the largest population of WhatsApp users and also one of our most important markets. We love working with the people of India and building great features. My trip here is really to play a role as an ambassador to India and say hello.
+  
+ 
+ 
+ 
+ As you already know, in 2009, the product started with status (text status updates ). It was the original founding of the product. WhatsApp was a pun on What’s up. Status was part of that. Over the last several years as we built the messaging capability, Jan and I asked each other, should we work on Status this year? We kept putting it off, primarily to focus on other things. We wanted to add end to end encryption, voice calling, video calling. So finally, this past summer we decided that we could start to build Status.
+ 
+ The initial reaction to it has not been entirely positive. People have compared it with Snapchat and   stories, wondering why there is another clone.
+ 
+ There is always going to be a comparison. People are aware of and familiar with other products. I think it is too early to make judgments of the quality of the product. I view it as this is just one step. We will continue to iterate on this feature. It is not like we are done. We will continue to improve it, we will take feedback from users.
+ 
+ 
+ 
+ 
+ Commercial messaging is untapped for us. We could address that. Especially in a country like India where so many existing users are businesses, but they don’t necessarily have a product that’s built for them.
+  
+ 
+ 
+ 
+ Maybe they want to manage a customer contact list that’s independent of their phone address book. Maybe they want multiple people to answer on a phone number, because they have multiple employees. The needs of a business are unique and different from the needs of a consumer. Typically, large enterprises want APIs and some sort of technological integration. Small businesses typically want something that is pre-built. Maybe a mobile client. We’re still in the early stages of exploring this space but I think we have really started to get a little more concrete in what we’re building.
+  
+ 
+ 
+ 
+ I mentally separate ID-based messengers from phone number-based messengers. Cognitively, their usages and the models they build their networks on are slightly different. An ID-based messenger like Facebook Messenger or   have a different cohort of people that you talk to, than a phone number based messenger. A phone number based messenger, believe it or not, immediately models the telephone network. A lot of people talk to businesses through phone number-based systems. Because of different ID bases I find it hard to do any kind of bridging. So I think you will continue to see them exist in a complementary fashion. We will push each other in product directions. Facebook Messenger has a lot of similar features. I think Facebook Messenger has an aggressive stance on experimentation, and we have a conservative one. But what’s interesting is that they’ve both been successful. Both have built audiences of a billion users. Differently, and successfully.
+  
+ 
+ 
+ 
+ After the acquisition we have seen more investment from Facebook that has enabled us to grow faster. We have seen investment in the form of head count, resources and people. We are able to leverage backend Facebook technologies. That has enabled us to fight spam or deliver voice calls, or deliver multimedia. All the changes have been positively framed as the benefit of being acquired.
+  
+ 
+ 
+ 
+ We’re very aware of the challenge of fake news. We are beginning to understand its role and how people deal with it. Our stance is really about building the tools and capabilities for people to manage this and understand it so that they can report it or potentially ban users, or things that are perpetuating this type of information. We’re still in the early stages of trying to understand it. We have a stance of not looking at content. And in that we don’t have a great way to understand content in the same way. Instead we take a stance of giving people the tools to manage it themselves.
+  
+ 
+ 
+ 
+ I think we take a stance of privacy, and Facebook takes a stance of ‘you control your privacy’. It’s a tricky thing to try to compare and contrast. I think we’ve both been successful at building privacy enabled products.
+  
+ 
+ 
+ About 80.
+  
+ 
+ 
+ 
+ We like it that way. We focus on hiring really smart, capable engineers. We also try to keep ourselves disciplined and focused on what we build and how we build it. We try to build for the world, good performance, reliability and scale. We want to make sure we scale well, because that is the only way you can provide a product that will service seven billion people.
+  
+ 
+ 
+  
+ The privacy policy was long overdue. The original was cobbled together by Jan (Koum, the co-founder) and was woefully out of date. In general, we have gone through the process of updating the privacy policy and gave people the tools and controls to opt out. We have seen very little to no attrition due to the privacy policy. So, we are trying our best to put it past us and move forward.
+  
+ 
+ 
+ 
+ There is always the question of what role you want regulation to play and what role you want regulation to achieve. I am not super familiar with Indian phone regulations but in general with a product like WhatsApp we can build a better consumer experience, lower costs, which is ultimately beneficial to users.
+  
+ 
+ 
+ 
+ I quit Yahoo on October 31, 2007, and ironically, Jan also quit on that day but we did not know. I ended up being part of WhatsApp two years later to the day -- November 1, 2009. I went through a lot of life changes during those two years, one of which was playing Ultimate Frisbee and travelling with one of the highlights being going to Antarctica. After a year, I started going crazy and I wanted to re-enter the industry. At the beginning of 2009, I started talking to companies and thinking about what I could do.
+  
+ 
+ 
+ 
+ What we are seeing is the final chapter of Yahoo. A lot of us who were early employees were somewhat sad to see how Yahoo’s story unfolded. If you look back in time you could point to various steps and mis-steps. But I don’t think I’m here to do that. Yahoo was a tremendous amount of learning and opportunity. Rod Solmon talked about Yahoo being the GE of the industry and turning out this great talent – that’s the best of Yahoo. Its international strategy was never the greatest and it often tried to straddle media and technology, which was often a challenge for Yahoo.
+  
+ 
+ 
+  
+ Both enjoying a period of economic prosperity. Facebook is yet to see a strong economic downturn, not that I want one to happen. That’s the real test of mettle for a company. It is maximising its potential during this upturn. Every company will go through this reality check and every company will be tested by economic conditions and that will be the real test for FB.
+  
+ 
+ 
+ 
+ It was a very positive experience. I was interviewed at FB in 2009 and I was very clear about what I wanted to do and FB was very clear about what they wanted and there was no match. That’s okay – sometimes timing is not right and sometimes people’s goals and objectives are different.
+  
+ 
+ 
+ 
+ She founded an air freight forwarding company. During the early years of WhatsApp I used call her every weekend. She and I would have some great conversations. For her it was very important to meet the salary needs of employees and we found a business model that helped us pay salaries and grow. My grandmother built a golf course in Michigan – which is hard work. There is a degree of entrepreneurism and risk taking in my family. I was lucky to be an older founder, at 35, which is a little atypical but it gave us a chance to be a little mature about how we build the company.
+  
+ 
+ 
+ 
+ I have one investment in Track N Tell, a telematics company for cars, which is completely un-related to WhatsApp. It’s in my buddy Pranshu (Gupta’s) company, who is a friend from Yahoo days. We look at India as a place from where we can learn and make our products better. We are, of course, looking to collaborate with all the companies we work with and build messaging capabilities.
+  
+ 
+ 
+ 
+ I wholeheartedly endorse Digital India Building digital capability is great for India and that’s something that Prime Minister Modi and the Minister are trying to do. We discussed how you could use digital services for civic engagement and promote democracy. We talked about electronic payments and other areas.
+  
+ 
+ 
+ 
+ It’s something where we are in early stages of investigating.
+ 
+ 
+ 

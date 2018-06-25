@@ -1,0 +1,38 @@
+Four days, four cities — Bengaluru, Delhi, Mumbai, Hyderabad — a meeting with Prime Minister Narendra Modi, meetings with at least two chief ministers, interactions with a number of leading startups, companies and partners, and a spate of new announcements for India.   CEO Satya Nadella’s India visit suggests the company is intensely energising its efforts here. Nadella, who grew up in Hyderabad and studied engineering at Manipal University, is being hailed by many as having turned around a company that was seen as losing its way, particularly through his cloud initiatives. Cloud is what excites him about India too, because of its ability to put advanced computing resources in the hands of ordinary people and small ventures. In an interaction with TOI, Nadella uses the word ‘amazing’ multiple times to describe the India context. Excerpts:
+
+ 
+ 
+ I have a slightly broader aperture through which I look at what is happening in India. If you look at our mission statement of empowering every person and organisation, we take that seriously. Even our commercial model is very dependent on others being able to do something with our digital technology to impact their own success. Here is   competing against a real multinational behemoth, doing a great job, and it sort of says, ‘Let’s now get a technology edge by partnering with Microsoft so that we can outrun even an MNC’. So the ambition level of the entrepreneurial class of India is great to see. As for small businesses, they were not equipped to even consume a lot of what we were producing a few years ago. Now, it’s pay per use. So they can use the best technology that the largest of companies use. That’s transformational for the lifeblood of any economy — the small- and medium-sized businesses.
+ 
+ Take large businesses. I had meetings today with a lot of the financial sector folks. They all want to make sure that the IT promise that they have is not being spent on buying servers, putting IT. They might as well use our cloud infrastructure and focus instead on financial inclusion services or credit services that will keep them competitive.
+ 
+ Public sector — it’s stunning. I look at the example of poll monitoring in India, whether it is in the Tamil Nadu or UP elections, they just put these cameras, collect all the streaming data, monitor it using the cloud, and then when the election is done, they bring the entire estate down, saving tax payer money. That’s an enlightened use.
+ 
+ Now let’s go to the place where you started. Take Harisal. The local university put in the courses that are relevant for animal husbandry, for carpentry, auto mechanics and other skills so that people there could get trained. It was the cloud infrastructures that made this possible. Then we are helping measure the impact it has had on human development index, local economic activity. Then we are saying, ‘Let us scale it’. It is happening. It is the most amazing thing to see — how technology is being marshalled. It’s
+ not just about the social projects. But the social projects, small business, large business, public sector.
+ 
+ 
+ 
+ To me, overall, we and India are very excited about the amazing growth. If you think about the worldwide growth we have in the cloud which we last reported, it’s over 94%; there are very few multi-billion-dollar businesses that are doubling every quarter. If you think about the capital investment I made putting three data centres in India, if we hadn’t done it, we wouldn’t be having these rich case studies I have been talking about. The quality of the stories we are telling of people using our technology — that’s the leading indicator of revenue. So I’m very happy to see the growth (in India), except in our case, the rest of the world is also growing.
+ 
+ 
+ 
+ India’s   growth is undeniable. It’s all correlated to that. But overall, our cloud growth rate is a fantastic growth rate. It’s in the same ballpark as the world average. And in tech, if you are celebrating the old growth, that is not at all the way to measure it. In fact, the key for anyone who has had success in the past is to be very mindful of what they are celebrating versus what they are not. If I sit here and celebrate licence revenue growth, that will be like forecasting our death.
+ 
+ 
+ 
+ 
+ In software and digital products, you never try to pigeonhole yourself like that. If you say it’s ‘Made in India’ or ‘Made for India’, all you are doing is the local maxima, versus the global maxima. But that said, the key thing here is that the insights of the products came because of the use cases that are emerging in India. Even the one pilot we did in Andhra, to manage a festival, is what taught us how we should build a messaging app. So we built this chat-oriented productivity tool (Kaizala) and now every conversation I’m having, whether it’s a bank or retailer or government, they all want to use these tools.
+ 
+ Same thing with Sangam. We saw we were getting great traction with LinkedIn and we even built three products specific to the India market. LinkedIn Placements is a big interesting case study. There are many colleges in India, but the brands of those colleges are not exactly such that people get jobs. So how do you democratise it? After all, people are smart everywhere, except that they may not come with a brand. LinkedIn Placements solves that problem. Those product insights are the key.
+ 
+ 
+ 
+ A huge role. But it’s boundary-less. One of the big cultural changes in Microsoft is not to say, ‘I’m in this location, I’m in this product group, I’m in this P&L (profit & loss)’. Innovation happens when people in Hyderabad can go to Beijing and see the amazing bot work we are doing there. Go to Africa and see what things we have done here are relevant there. The Sangam project is set to go to the Middle East. That ability of the human capital of this country to be exposed to others, that’s the role of a multinational — we can create that opportunity.
+ 
+ 
+ 
+ Any time new technology takes away existing jobs, it’s a huge challenge. I would go back to history on this. It’s not the first time that we’ve faced these challenges. In the industrial revolution, when the rate of return on capital and labour diverged, that is when the labour movement, the minimum wage, the social security systems were born, and so also taxation to support all of that. There is a way for liberal democracies to be able to address issues where surplus is still being created, but it’s not evenly distributed. So to me, what Bill’s saying, others are saying, is, ‘Let us address the real issues here. How should we think about the surplus that gets created?’ No one’s saying the world’s in great shape so we don’t need any new technology. We need new technology to solve for our climate, for the pressing problems of the world. So now that we have the new technology that might displace people, let’s do our very best in skilling. In India, I think the services industry will still be a huge source of employment. How do we skill people for all of these jobs? As a society, as an economy, we have to work together.
+ 
+ 
+ 

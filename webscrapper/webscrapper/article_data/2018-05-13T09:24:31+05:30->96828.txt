@@ -1,0 +1,17 @@
+CHENNAI: A mobile app will soon ensure all electrical and electronic systems and amenities for commuters in metro stations and tunnels are in operational condition.   plans to centralise maintenance of 10 underground stations including those along   by developing a   and digitising periodic checks and repair work.   has floated tender inviting companies to develop and implement the smartphone app.
+
+ Officials said digitising maintenance work in the stations and the tunnels linking them will ensure that the staff conduct regular inspections and fix faulty systems without causing interruptions to daily operations and submit reports. Both electrical and mechanical maintenance will be recorded in the app. The centralised maintenance is planned for stations from Washermenpet to  , except Central Metro, and associated tunnels.
+ 
+ “The app will work like the one used by   where a maintenance staffer cleans a coach and logs it in by scanning a quick response or QR code stuck on the wall of the compartment. With our app, staff cannot log in without doing the maintenance work as our GPS linked to the app will track them,” a metro rail official said. “Maintaining electronic record will reduce our manual record keeping and also help us on asset management. It will work both online and offline.” 
+ 
+ The app will maintain a centralised database on preventive, periodic and breakdown maintenance conducted for critical systems including tunnel ventilation system, air-conditioning system, lifts and escalators and mechanical, electrical and plumbing system. 
+ 
+ So, when a maintenance staff attends to fault or conducts a periodic check, he will be expected to log on to the app, scan a QR code stuck on the equipment to be serviced. He will then have to follow a checklist for conducting periodic maintenance. “The station manager can alert maintenance staff in case of emergencies through the app,” the official said.
+ 
+ Once the fault is fixed or periodic servicing is complete, the staffer must update the details of his servicing and the status of the equipment in the app. Pictures of a particular system before and after a fault is fixed could also be shared through the application.
+ 
+ The app will also store other details like station name, equipment name, manufacture name, serial number, station location, month and year of installation, model number, OEM contact number and email, warranty period etc.
+ 
+ All the information will get stored in a cloud server from where the history of servicing a system can be retrieved. The same history will also be stored by the staff on his smart phone. CMRL officials can monitor all servicing work through a computer in their desk and can also get periodic short reports through sms and emails.
+ 
+ 

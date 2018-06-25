@@ -1,0 +1,18 @@
+Bengaluru: In a setback to   India, the Income   Appellate Tribunal on Friday said the payments made by   to its parent firm Google Ireland constitute royalty under the Indian law, as well as under the India-Ireland Double Tax Avoidance Treaty (DTAA), and therefore is subject to withholding tax.
+
+ Some tax experts estimate that Google may have to pay a tax of around Rs 400 crore following the order.
+ 
+ A Google spokesperson said the company would file an appeal in the High Court “as this ruling is an inaccurate representation of our business operations in India.” The company said it complies with all tax laws in India and pays all applicable taxes. “The order is also a clear departure from previous judgments on the issues and is not in line with India’s double taxation avoidance agreement,” it said.
+ 
+ The latest ruling came on an appeal by Google India against the decision of the Bengaluru bench of the ITAT.
+ 
+ KR Girish, founder of tax advisory firm   & Associates, described it as a “very interesting judgement”, with implications for other companies too. He said adjudicators around the world are beginning to distinguish between mere form and going into the substance of a product or service being offered.
+ 
+ The ruling relates to the Google   program. Under a distribution agreement in 2005, Google India was granted the marketing and distribution rights of the Adwords program to advertisers in India. This program enables advertisers to provide a relevant keyword. When this term is searched on the Google search engine, the ad also gets displayed. The advertiser pays if the surfers click on their ads.
+ 
+ Google India argued before the tribunal that as reseller of ad space, it only performs market-related activities to promote ad space sales. No rights in the intellectual property, it said, are transferred to it by Google Ireland.
+ 
+ The ITAT has rejected these contentions by holding that the advertising module works only with the help of various patented tools and software. The ruling says that Google Adwords enables advertisers to do focused and targeted campaigns because of the company’s access to a wealth of data about users – including their eating habits, wearing preferences, photographs, sex, phone number, religion – and its analytics tools. It said all of this involves a huge amount of intellectual property (IP) and so Google India could not be described as just a reseller of ad space. 
+ 
+ The ITAT has held that payments aggregating to Rs 1,457 crore made by Google India to Google Ireland between 2007-08 and 2012-13 are taxable as royalty.
+ 

@@ -1,0 +1,24 @@
+New Delhi, May 13 ()   has filed complaint against   with the DoT, alleging that the telecom major is offering eSim service on   Watch Series 3 in violation of licence norms and demanded immediate closure of the service. 
+
+ "Apple Watch Series 3 service is being offered by   in deliberate and gross violation to the terms and conditions of Unified License," Jio said in a letter to the Department of Telecom. 
+ 
+ Email sent to Bharti Airtel elicited no immediate reply. 
+ 
+ Both, Reliance Jio and Bharti Airtel are selling Apple Watch Series 3 from May 11 through their sales channels. 
+ 
+ Apple Watch and iPhone of a subscriber share the same number and subscribers can use both iPhone and Apple Watch with eSIM to make or receive calls independent of the call status of the other devices. 
+ 
+ The eSIM is paired with the SIM in iPhone wirelessly through a dedicated network node. The node used for eSIM profile allocation contains network and user information such as operator identifier, SIM details, PIN, remote file management for managing SIM files remotely etc. 
+ 
+ Jio alleged that Airtel has not set-up the eSIM provisioning node within India and the node being used to provide Apple Watch Series 3 service is currently located out of India in "gross violation to the license terms". 
+ 
+ The Mukesh Ambani led firm also alleged that   led telecom firm should have carried out lawful interception and monitoring, but it is not aware of any demonstration carried out by Airtel prior to service launch "so that important national security interests are not compromised". 
+ 
+ Jio also alleged that Airtel has deliberately chosen to install a critical network element outside India. 
+ 
+ "...we request your good office to take severe action against M/s   and impose the strictest of penalties under the License. Furthermore, we request you to direct Airtel to immediately stop this service and start this service only upon complying with the requirements of national security and addressing the violations of the license terms and conditions," Jio said.
+ 
+ 
+  - “This is yet another frivolous complaint by a desperate operator, whose sole aim appears to have a monopoly over everything that they do. Bharti Airtel is a law abiding and responsible operator. The DoT was duly notified prior to the launch of Apple watch including product features, network architecture and lawful interception and we have also requested them to carry out a demonstration of the same. All information relating to customers, network nodes etc. is hosted in a fully secure manner by Airtel India along with provision for lawful interception. We will be happy to share more details with the DoT as and when required.”
+ 
+ 

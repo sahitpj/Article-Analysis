@@ -1,0 +1,32 @@
+BENGALURU: The landscape of the $150 billion Indian   industry is changing, 
+  , as companies hire fewer freshers due to   of entry-level jobs.
+
+ Most large IT services companies have been investing in automation of processes in their traditional businesses like business process outsourcing (BPO) and application and infrastructure management, which means fewer engineers will be required at the lower end of the pyramid. And with US President Donald Trump insisting that IT service providers to hire more US citizens at home, the need to send Indian experts abroad may reduce.
+ 
+ At the turn of the century, a boom in the IT sector led by companies such as TCS, Infosys and Wipro translated into the creation of thousands of white collar jobs in the country, and a relatively easy opportunity to work onsite in the mature markets of US and Europe.
+ 
+ Since these companies were involved in mundane jobs such as infrastructure management, server maintenance and client support, they hired in huge numbers from engineering colleges across the country. Not anymore, perhaps.
+ 
+ Peter Bendor-Samuel of consulting firm Everest Group estimates that 80% of offshore IT jobs and 30%-40% of finance and accounting jobs in India will be eliminated by robotic process automation, which is the application of technology to process a transaction and carry out other tasks.
+ 
+ "Across almost every service, we see the impact as eliminating between 30% and 80% of the full time equivalent working in the Indian services industry. We believe that it will take at least 10 years for the industry to reach the upper bounds of this range, and this adoption will shrink existing legacy book of business 3% or more this year," said Bendor-Samuel.
+ 
+ According to a recent World Bank report, automation threatens seven out of 10 jobs in India. IT biggies are open about the fact that recruitment of the hundreds of graduates from Indian engineering colleges has reduced as they automate.
+ 
+ "The focus the industry had on hiring will shift into re-skilling. The entire industry is hiring fewer freshers. Given the macro environment, people are hiring more onsite. Jobs at the bottom of the pyramid are getting automated," Wipro HR head Saurabh Govil said.
+ 
+ Automation has been changing every sector and putting the squeeze on people, and it’s now the turn of IT. "If you consider the various jobs that any industry has, it is likely that repetitive tasks that can be performed better by systems with artificial intelligence are the jobs that will go away," said Richard Lobo, executive vice-president and head of HR at Infosys.
+ 
+ Infosys, India’s second largest software services exporter by revenue, hired 5,719 people in the first nine months of this fiscal, down from 17,196 in the same period a year earlier.
+ 
+ "We continue our relentless focus on introducing automation across our projects in the backdrop of pricing pressure in traditional services and we expect this to reflect in our future hiring," Infosys chief executive Vishal Sikka said in a recent conference call with analysts.
+ 
+ Automation will help companies improve operating margins. In the third quarter, Infosys ‘released’ about 2,650 full-time employees’ worth of effort in application maintenance, package system maintenance, BPO, and infrastructure management, taking the total number to 9,000 in a year. Wipro’s target is about 4,500 by April. The employees, who are released, are trained to work on more advanced projects.
+ 
+ "Now every position that is flagged off for hiring, we first look internally. We try to re-skill and help people move into newer areas rather than hiring externally," said Wipro’s Govil.
+ 
+ It’s not an entirely gloomy picture, but it will force the employee to adapt. "Automation will not eliminate jobs. It will bring people to focus their attention on different kinds of jobs, those that are high on thinking, creativity and require human interaction. So while some jobs get eliminated, many more will be created," said Infosys’ Lobo. Infosys recently trained about 490 people in machine learning and artificial intelligence.
+ 
+ "Re-skilling is a challenge. People who cannot re-skill will be under personal pressure and it will be a matter of survival for them," said Wipro’s Govil.
+ 
+ 

@@ -1,0 +1,39 @@
+The 80,000 EVMs used in the May 12   all had a paper trail, the demand for which is growing. India's among a handful of countries that use EVMs, which have faced criticism over fears of rigging. A look at how we vote...
+
+ 
+ 
+ These were first used in 1982 in 50 polling stations in the byelection to Kerala's Parur assembly seat. In 1998, it was used in 16 assembly seats in MP, Rajasthan and Delhi. The 2004 Lok Sabha election was conducted entirely on EVMs.
+ 
+ 
+ 
+ The control unit is key: it stores data and contains the programme that controls the EVM's functioning. This programme is fused into a micro-chip that can be neither altered nor overwritten. After voting, the close button is pressed and the machine disabled so it can't accept any new data. Votes are matched with total votes polled as recorded in booth register. India's EVM is a standalone device not connected to any network.
+ 
+  
+  
+ 
+ 
+ To transfer votes to a particular candidate, it is necessary for the EVM's programme to identify the favoured candidate's serial number. Now, the order in which candidates appear on the ballot paper depends upon nominations filed and found valid and this cannot be predicted in advance before the list of contesting candidates is actually drawn up. So, highly improbable.
+ 
+  
+  
+ 
+ 
+ Precautions are taken in a two-stage randomisation process before EVMs are put to use.
+ 
+ The idea is to ensure nobody knows in advance which EVMs will be allotted to a constituency/polling station.
+ 
+ For this, serial numbers of all EVMs under the jurisdiction of a district election officer are listed. EVMs for a given constituency are then randomly selected through a computerised process known as first-level randomisation.
+ 
+ A second-level randomisation by the returning officer later selects the EVMs at a given polling station.
+ 
+ 
+ 
+ In 2010, the   considered introducing the Voter Verifiable Paper Audit Trail (VVPAT) to enhance transparency. In this, a paper slip is generated bearing the name and symbol of the candidate for whom the elector has voted, thus enabling the voter to verify the vote. VVPATs were first used in Nagaland bypolls in 2013. In June 2014, EC proposed VVPAT at every polling station for the  .
+ 
+ 
+  The Electoral Knowledge Network, The National Democratic Institute and International Foundation for Electoral Systems
+ 
+ 
+ 
+ 
+ 

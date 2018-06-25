@@ -1,0 +1,10 @@
+SAN FRANCISCO: In a bid to deliver transparency in technology and stay ahead of ethical pitfalls,   has said that its Artificial Intelligence (AI) calling system “Duplex” would now identify itself while making appointments.
+
+ 
+ Following the launch of the “Duplex” system, which lets AI mimic a human voice to make appointments and book tables, among other functions, a widespread outcry over the ethical dilemmas were raised by tech critics. 
+ 
+ Google clarified to The Verge that the experimental system would have a “disclosure built-in” that means that whenever   gets involved in some type of verbal communication with a human at the other end, it would identify that the human is talking to an AI.
+ 
+ “We understand and value the discussion around  , as we have said from the beginning, transparency in the technology is important,” a Google spokesperson was quoted as saying. 
+ 
+ 

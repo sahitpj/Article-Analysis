@@ -1,0 +1,18 @@
+THIRUVANANTHAPURAM: In a first, the state   department is attempting to form an exclusive unit of certified ethical hackers titled ‘Khaki Hats’.
+
+ State police chief   said that a decision was taken to form the exclusive unit to tackle the exponential rise in cybercrimes and cyber warfare. The new unit will act as a frontline defence and thwart the cyber security threats faced by the government. As per the decision,   unit will have a strength of 300 personnel.
+ 
+ This strength will be achieved over a period of two years by choosing officers with aptitude in information and technology and ethical hacking within the force. They will be given more training at the Police Training College.
+ 
+ The selected officers will undergo the training programme, Certified Ethical Hacking (CEH) course organized by  , a global leader in cyber security certification programmes. Trainers from Hack IT Technology and Services, an accredited training partner of EC Council, will handle the training sessions. The skills that will be developed through this training programme include techniques of footprinting, scanning, enumeration, system hacking, backdoors and rootkit and web and SQL attacks.
+ 
+ The training of first three batches will be held in the months of February and March.
+ 
+ IG Manoj Abraham, who is spearheading the project, said that the aim of the department is to have at least two ethical hackers in each police station in the state. At present, the police seek the service of ethical hackers under Cyberdome, a private-public partnership initiative, when there is a need. However, a situation has arisen in which the service of Cyberdome experts have become insufficient. That is when the department thought of forming its own permanent unit of experts.
+ 
+ The department gave it a serious thought after a series of cyber frauds were reported last year, in which foreign culprits managed to copy debit card details of ATM users and transfer money from their accounts. With the Union government itself pushing for digital transactions, the police expect an exponential rise in similar complaints.
+ 
+  “According to cyber security firm Kaspersky Lab, India is ranked seventh among top 10 countries attacked by mobile malware,” said Abraham.
+ 
+ Besides this, government websites are also frequently being targeted by alleged Pakistani hackers as part of their cyber war with hackers in the country. This cyber warfare peaked over the past one year, with hackers on both sides targeting important websites.
+ 

@@ -1,0 +1,13 @@
+NEW DELHI: Indian Space Research Organisation ( ) is currently doing a series of tests on its heaviest communication satellite   weighing over 5.7 tonne after recalling the same from the European spaceport to look for any "potential anomaly".
+
+ 
+ Talking to TOI, Isro chairman   said, "We are currently doing tests on Gsat-11 at our Bengaluru's   (ISAC). All tests, including test on its electrical circuits, are going to be over by May 17."
+ 
+ He said, "If we find no anomaly, then we'll proceed further and start discussions with officials of Arianespace for the next launch date. They have their own busy schedule and we have to start talks to fix a date for our satellite launch."
+ 
+ Isro postponed the launch of Gsat-11 initially planned on May 25 from the European spaceport as it did not want to take chances with its heaviest satellite especially after the signal failure episode with Gsat-6A. Communication satellite Gsat-6A, which was successfully launched from   on March 29, got out of control during the third orbit-raising manoeuvre in space when the signal with the satellite got abruptly snapped because of suspected power failure. The space agency since then has been trying to restore the communication link with Gsat-6A though it knows its exact location through the satellite-tracking system.
+ 
+ High-throughput satellite Gsat-11, which carries 40 transponders in Ku-band and Ka-band frequencies, is capable of "providing high bandwidth connectivity" with up to 14 gigabit per second (GBPS) data transfer speed. The heavy-duty satellite is so massive that each solar panel is over four metres long, equivalent to the size of a room. The satellite will usher in high-speed internet connectivity, especially in rural India.
+ 
+ The chairman said, "Isro is simultaneously working on its next communication satellite Gsat-29. Its launch is due in June or July." Gsat-29, which carries Ka x Ku multi-beam and optical communication payloads for the first time, will be launched by second developmental flight of Isro's 'fat boy' GSLV-MkIII. The satellite mission targets for village resource centres in rural areas to bridge the digital divide.
+ 

@@ -1,0 +1,11 @@
+PATNA:   will be installed in houses and organizations in the state capital under the area based development (ABD) scheme for free, announced Patna divisional commissioner-cum-chairperson of the Patna   project, Anand Kishor, on Friday.
+
+ Luis Frauca, the director of Spanish firm   SL, which is the management consultant for the Smart City project and also the director of cities and innovation and technology, discussed about the water supply smart solution at a meeting held with Kishor and others here on Friday.
+ 
+ Under the ABD plan, smart meters will be installed in every household and organization of the city. The smart meter distribution network will consist of GPS-enabled sensors that will monitor the water supply. The GPS sensors would provide real-time status of the distribution that would be monitored through an   and Control System ( ). Not only the supply of water will be monitored, but the system will also analyse the quality of water, like the pH value, dissolvent, chlorine content and purity of water, depending on which the related problems could be resolved easily.
+ 
+ The benefits of this smart metering system includes optimization of billing of water use, detection of quantification of leaks and efficient water management. The data would be available to SCADA (supervisory control and data acquisition) Control Centre. “The deployed team can take proactive measures and decisions on the basis of real-time data available on a single dashboard,” said Kishor. He added that this system would also help in detecting various waterborne diseases that are harmful for the people consuming it.
+ 
+ Frauca and Kishor also discussed about the other ongoing schemes under smart city project such as riverfront development project, command and control centre and railway network development. Frauca said the additional manpower required would be provided by the company for pacing up the work.
+ 
+ 

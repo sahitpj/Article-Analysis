@@ -1,0 +1,93 @@
+1. Assessment of groundwater quality in landfill area of Nagpur city, Central India
+
+ Authors: Deepali Marghade, DB Malpe and AB Zade, published in the Journal of Environmental Hydrology in 2010
+ 
+ About the study: To assess the quality of groundwater near   dumping site
+ 
+ Methodology: Water from specific dugwells and borewells which were continuously used by residents was selected for sampling. The pH and electrical conductivity of water was measured on site
+ 
+ Observations
+ 
+ * Waste generated: About 30% of the city’s municipal waste is organic compostable material. The remaining waste constitutes of paper (11.9%), rubber, leather and synthetics (3.02%), glass (0.98%), metals (0.33%) and other inert material (53%)
+ 
+ * Not one water sample safe for drinking
+ 
+ - Value of Total Dissolved Solids (TDS) in all samples was more than the safe limit of 500 milligrams per litre
+ 
+ - Alkalinity of water was   which can be harmful to human health 
+ 
+ - Total hardness of water varied from 55 to 1490 mg/l. The maximum allowable limit for drinking purpose is 500 mg/l and most desirable limit is 100 mg/l as per the World Health Organisation. Groundwater exceeding the limit of 300 mg/l is considered to be very hard and may cause calcification of arteries, urinary concretions and other diseases related to kidney, bladder or stomach 
+ 
+ - As the distance of sampling sites from landfill increased, the value of Total Dissolved Solids (TDS) decreased 
+ 
+ Conclusion:
+ 
+ - Strong evidence of groundwater contamination
+ 
+ - About 77% of groundwater samples have high nitrate values and are unsuitable for drinking
+ 
+ - Chloride concentrations very high
+ 
+ - In 38.5% of samples, manganese above the safe limit
+ 
+ - In almost half of the samples, iron concentration above the permissible value suggested by  
+ 
+ - To protect groundwater quality of the area, monitoring programme around the vicinity of landfill should be done
+ 
+ - Before setting-up a new landfill site, a buffer zone of 2-3 miles in the direction of groundwater flow should be maintained
+ 
+ 2. Study of Effect of Bhandewadi Dumpyard on groundwater
+ 
+ Authors: Shubham Gillurkar, Chiranjeev Mohota, Vicky Baraskar, Nilesh Pal (dept of civil engineering, JD College of Engineering and Management). Published in the   for Scientific research and Development, 2017 
+ 
+ About the study: To find out the adverse effect of solid waste disposal on residential locality
+ 
+ Observations: 
+ 
+ - When rainwater falls on the dumping site, it first percolates through the waste and gets contaminated layer-by-layer
+ 
+ - By the time rainwater finally reaches the ground, it gets highly contaminated and is called ‘leachate’
+ 
+ - The leachate then gets mixed up with groundwater, making it impure
+ 
+ - Approximately 3,000 families live within a proximity of 500 meters from the dumping yard
+ 
+ - Most of the residents are dependent on groundwater sources like wells and borewells for drinking, bathing and cooking
+ 
+ - As the leachate has contaminated groundwater of the area, their health is at a high risk
+ 
+ Toxicities seeping inside water:
+ 
+ - Solid waste contains many hazardous materials like chemicals extracted from hospitals and industries
+ 
+ - Due to poor waste management, these hazardous elements are penetrating in the groundwater
+ 
+ - When rainfall occurs, the intensity of groundwater contamination is more 
+ 
+ Suggestions:
+ 
+ - As health of thousands of people is at risk, it is important to frequently analyse the quality of groundwater
+ 
+ - Proper disposal of waste should be done urgently
+ 
+ - Preventive measures should be taken to minimize the effect of contaminated groundwater on the residents
+ 
+ 3. Analysis of contamination of groundwater due to dump yard
+ 
+ About the study: To find the impact of water pollution
+ 
+ Methodology: Five settlements near the dumping site were chosen, one groundwater source was selected and water samples were analysed for physical and chemical characteristics. Mainly, three parameters were analysed: pH, nitrate and biochemical oxygen demand (BOD).
+ 
+ Authors: Shubham Gillurkar, Chiranjeev Mohota, Akshay Dharmik, Swapnil Ramteke, Nilesh Pal (dept of civil engineering, JD College of Engineering and Management). Published in the International Journal for Research in applied science and engineering technology, 2017 
+ 
+ Findings:
+ 
+ 1. pH: Were within permissible limits but very close to it; Was highest at Abbumiya Nagar and was only less than the permissible value by 0.1 unit; Indicates that the region is highly susceptible to contamination; Drinking water with high pH can cause skin, eye and mucous membrane irritation
+ 
+ 2. Nitrate: Was high, though less than the permissible limit, it was still quite close; Value increases during rains; At Antuji Nagar, which is 100 meters away from the dumping site, value was 37.21 mg/l, which is very high; Decreased as one moves away from the dumping site; High levels can cause ‘blue baby’ disease
+ 
+ 3. BOD: High levels indicates water pollution; As per the Bureau of Indian Standards (BIS), the value should be 0; In all five samples, BOD was higher than the safe limit — 2.8 to 3.8 mg/l.
+ 
+ Conclusion: Water samples fail to meet the standard parameters for drinking specified by the Indian government. Groundwater is highly contaminating day-by-day due to leachate percolation and necessary action needs to be take to stop water pollution
+ 
+ 

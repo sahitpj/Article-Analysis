@@ -1,0 +1,25 @@
+MUMBAI: The possibility of a capital gains   of 40% can dampen any investor’s enthusiasm to sell. If   were to sell its 22.3% stake in   to   now or any time before August 2019 (at the earliest), it may have to hand over a massive $600 million to the Indian taxman out of its profit of $1.5 billion.
+
+ 
+ TOI in its edition of May 11 cited the adverse tax implication of a stake sale as a possible reason for Flipkart’s largest   taking a closer look at exiting India’s most valuable startup at this juncture. (This was based on conversations with people close to the deal.)
+ 
+ It was nine months ago, in August 2017, that SoftBank announced its investment of $2.5 billion in   Singapore via   (Jersey) LP, an entity in Jersey. More than 500 funds have been set up in this jurisdiction thanks to a favourable investment ecosystem. The fact that Singapore and   have a tax treaty may have also been a factor in SoftBank’s decision to invest in Flipkart Singapore via Jersey. Incidentally, India does not have a tax treaty with Jersey.
+ 
+ According to SoftBank’s founder and CEO  , the Japanese telecom and internet company’s stake is now worth $4 billion, representing a capital gain of $1.5 billion. In this mega deal, the shares of a foreign company (Flipkart Singapore) are to be sold by a foreign entity (SVF, the Jersey-based investment arm of SoftBank) to another foreign company (Walmart).
+ 
+  
+  
+ 
+ But since Flipkart Singapore holds a significant stake in the operating company Flipkart India, a substantial value of the Singapore entity’s shares is considered to be derived from assets in India — and sale of Flipkart Singapore shares would be treated as sale of shares of a capital asset in India. This would trigger the provisions of tax on capital gains on indirect transfer of shares (a provision notorious for its retrospective introduction dating back to April 1, 1962 and the prolonged litigation in Vodafone’s case). It would result in a huge tax liability in India on shareholders who sell their stakes — including on   Holdings.
+ 
+ There is a higher tax on capital gains arising on sale of listed shares, if it is within a year of allotment — this is referred to as short-term capital gains. The rate of tax is at the slab rate, which for non-resident entities would be as high as 40% (in the absence of any favourable treaty provisions).
+ 
+ Long-term capital gains is much lower at 10% (without indexation benefits) on listed shares held for over a year. But unlisted shares have to be held for 24 months before they are entitled to the 10% rate.)
+ 
+ Flipkart shares are unlisted, and if SoftBank sells them now or any time within two years of their allotment, it would need to pay a steep 40% in tax. To lower its tax liability to 10%, it would need to hold the shares till August 2019 at the very least, and maybe longer if the actual allotment was made sometime after the August 2017 announcement.
+ 
+ Tax experts point out that infusion of funds into Flipkart Singapore via a Mauritius or Singapore entity — as opposed to a Jersey entity (SVF Holdings) — may have lowered SoftBank’s liability. While India now has the right to tax capital gains in the hands of a Mauritius or Singapore resident, investments made up to March 31, 2017 are grandfathered, which means India cannot impose tax on capital gains on sale of shares that were acquired prior to that date.
+ 
+ For shares acquired post March 31, 2017, but sold before April 1, 2019, the protocol to the amended treaty with both Singapore and Mauritius provides for a concessional rate of tax (which is half of the applicable tax rate in India). Thus, short-term capital gains tax in this instance could have been 20%. But again, SVF Holdings — through which SoftBank invested in Flipkart — would not be able to avail of this concessional tax rate because of its Jersey roots.
+ 
+ 

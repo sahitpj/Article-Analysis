@@ -1,0 +1,16 @@
+Kolkata: The city-wide blackout on Thursday was sparked by a spike in a cable carrying power from   at Budge Budge to Taratala sub-station. The damage to the extra high voltage (EHV) 132kV cable at a spot on   was caused during shifting of a drain line to facilitate construction of the  .
+
+ “Excavation by a machine caused a fault in the cable that had been laid nearly 5.5ft below the surface. Protective tiles had been laid over the cable, but the insulation was still damaged. The moment a surge was detected in the transmission line, the protection system installed at the Budge Budge plant got activated and shut down the plant,” a CESC source said. 
+ 
+ Officials of the urban development department, the flyover executing agency, however, said they were not aware of the incident. 
+ 
+ The outage during the morning rush hour affected large parts of north, central and south Kolkata, leaving thousands of office-goers stranded in the Metro, blanked out traffic lights at major intersections and caused anxiety in hospitals. At Kolkata airport, the ATC could have lost all radar signals had they been connected only by BSNL, whose link snapped due to the power failure. Fortunately, a backup supply from RailTel was installed only a few months ago.
+ 
+ Help from state utility WBSEDCL led to gradual restoration of power. While Metro services resumed in 15 minutes, the rest of the supply was restored around 40 minutes later. 
+ 
+ Damage to high-tension cables due to digging activities of various utilities is not uncommon in Kolkata. But EHV cable fault is less frequent. “We identify the repetitive spike-prone cable routes and shift to alternative routes to minimize the chances of spiking. We also try to put people on the ground when work involving digging is carried out in an area where major cables are laid. But we were not intimated about the work on Thursday,” an official said. 
+ 
+ Power industry experts explained that the snap in transmission corridor causes a power back surge or over-voltage spike that can cripple a generating station unless it is isolated and shut down instantly. 
+ 
+ “It was good that the Budge Budge plant shut down. Otherwise, restoration would have taken longer,” said a CESC official. The redundancy in the CESC network also helped. Since an additional evacuation cable was present in the network, power was diverted through it when the three Budge Budge units resumed generation on Thursday evening.
+ 

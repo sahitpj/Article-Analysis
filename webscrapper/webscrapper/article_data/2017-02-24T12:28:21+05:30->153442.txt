@@ -1,0 +1,12 @@
+HYDERABAD: Andhra Pradesh is all set to emerge as the hub for testing of various applications developed by different  . After successfully using the Kaizala software application of Microsoft for various government activities, the   is now gearing up to use Azure Stack, the US IT major's most recent application, for transferring data from the   (SDC) located in Hyderabad.
+
+ “The state government has entered into an agreement with Microsoft for use of this application. We are keen on taking the support from them for the data centre and the modalities for the same are currently being discussed,“ IT minister Palle Raghunath Reddy told TOI. The agreement was signed during the “Microsoft Future Decoded“ summit held in Mumbai on Wednesday making AP the first client for this application of Microsoft.
+ 
+ The SDC hosts server, applications as well as acts as storage. It stores all the government and citizens' data in the State Resident Data Hub (SRDH). It has data of about 100 applications like Mee Seva which are meant for online payments. Post-bifurcation of the state, both AP and Te langana are using the SRDH which still remains at the SDC in Hyderabad which was built at a cost of ` 400 crore when the state was united.
+ 
+ Officials say that applications like Azure Stack ensure safety while transferring data and are superior to cloud technology. “We are planning to transfer the data first to the data centre in Visakhapatnam and later to the data centre in Vijayawada,“ an IT official said.
+ 
+ While transferring the data using Azure Stack, it will be Microsoft's respon sibility to ensure its security. However, Microsoft will not have access to the data.To make sure of the safety of the data, the AP government will set up a disaster recovery centre in Vijayawada for the data stored in Visakhapatnam.
+ 
+ Apart from Microsoft, IT giants like IBM and AWS also sell such type of applications.
+ 

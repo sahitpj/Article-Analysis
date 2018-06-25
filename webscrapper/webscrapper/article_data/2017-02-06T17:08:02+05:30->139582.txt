@@ -1,0 +1,17 @@
+The information technology industry is in a state of metamorphosis. The industry is rebooting. The old   for IT used to be people or cheaper people-based service. The system reached a saturation point on the efficiency it could drive in cost and quality. Innate human tendencies put a limiting factor on resolution times and on consistency in outcomes. Now emerging, is a radically more efficient operating system for delivery — digital labour-based IT services.
+
+ This seismic shift is typical in any industry undergoing morphological changes as it achieves maturity. From automotive to power generation, hasn’t every industry seen similar evolution from manual-based delivery to automated production? IT has just reached that pubescent stage.
+ 
+ The new IT will look very different. Large segments of today’s classic IT operations, such as service desks, will be disintermediated. Old IT had never managed to cross the chasm from IT backend to achieve a direct connection with the business users. In the new IT world, the business users will be able to talk directly to their applications without the need for the middle layer of IT operations people. Through cognitive enablement, IT would finally be able to understand and directly service its business executives, resulting in significantly improved resolution times. As a result, many tech workers will no longer have to devote time to managing rote or routine tasks. These brilliant minds will be unshackled from the ordinary to fix more complex problems and develop creative solutions that truly enhance the performance of a business. Cognitive IT will achieve the thus far unachievable goal of optimization in the conflicting targets of cost, quality and performance.
+ 
+ Recently, AIG announced that just five virtual engineers absorbed more than 15,000 hours of labour in a single year and managed end-to-end resolution of more than 145,000 critical events. In one specific example, resolution time for memory events on Windows servers was cut from 20 hours to just under 6 minutes. Why would any other
+ 
+ insurer would compromise their operations by
+ 
+ accepting a lower level of IT performance level
+ 
+ than AIG?
+ 
+ Such tectonic shifts are putting Indian IT at the crossroads. Should it try and hold onto the $100 billion old IT industry, where the clock is ticking? Or should it try and take a big stance in the $6,700 billion (as estimated by McKinsey)   of knowledge work industry that is emerging? The choices companies make will have a dramatic bearing on their futures and that of their employees.
+ 
+ 

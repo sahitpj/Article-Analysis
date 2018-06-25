@@ -1,0 +1,10 @@
+HYDERABAD:To curb heat wave  , the information technology department has launched a disaster management portal to notify residents about  . The portal, which will be active soon, will use a Global Forecasting System to predict heat waves and alert residents of affected areas. 
+
+ The portal will procure data on weather conditions through 885 Automatic Weather Station sensors across the state, which will be maintained by the   (IMD) and the Telangana State Development and Planning Society. The sensors will continuously update info on maximum, minimum and average temperatures, humidity and wind speed. If there is a hint of a heat weave, mobile service providers associated with the programme will send out SMS warnings to the people of the region.
+ 
+ “The idea is to use technology in a way that it helps people. While this portal was launched as a pilot last year, we are expanding its reach this year and bringing into its fold local bodies such as gram panchayats to ensure that information is disbursed accurately and to the right people,” said state IT secretary Jayesh Ranjan. “We are aiming to issue warnings at least 15 days in advance so that residents can take the required precautionary measures,” he added.
+ 
+ Ranjan said that a group of scientists and other experts are working on the portal, incessantly mapping the gradual changes in atmospheric parameters. “Though the integration of information is likely to come with its own set of challenges, the result is sure to benefit the public. Apart from curbing human deaths, it can also check loss of animal lives,” said Y K Reddy, director of IMD Hyderabad. He warned of extreme weather conditions across the state this season, with the northern belt of Telangana particularly affected.
+ 
+ After summer, the services of the portal is likely to be extended to addressing floods-during the monsoon.
+ 

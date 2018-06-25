@@ -1,0 +1,6 @@
+LOS ANGELES: Researchers have created the world's tiniest hammer to precisely measure how force affects brain cells, an advance that might pave the way for better treatments against traumatic brain injuries and Alzheimer's.
+
+ Researchers at University of California have built a tiny machine called microHammer. “Mechanical forces have been shown to impact cells a lot,“ said   from UC.
+ 
+ Far from being isolated units of life, cells stem cells in particular take cues from their environment that, for example, direct them to differentiate into one type of cell or another, or to start healing processes. However, a major limitation to understanding the reactions of individual cells to forces has been the inability to reliably apply impact or pressure to them. MicroHammer, a cellular-scale machine built to tap, strike, squeeze and poke individual neural progenitors elicits responses that will then be studied and recorded to add to a body of knowledge that can help unlock the mysteries of the brain.
+ 
