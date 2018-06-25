@@ -1,0 +1,11 @@
+Mumbai: A proposal to widen card acceptance across the country through the launch of  , which would enable payment by scanning QR codes with a smartphone, has got delayed. IndiaQR, which was to be launched around Republic Day, will take longer as the government wants a host of details including Aadhaar number, Unified Payment Interface (UPI) and bank account details in addition to enabling card payment.
+
+ Banking sources said that IndiaQR appears to be on the back burner as the government has also moved into election mode and, with the election code of conduct kicking in, no new ‘schemes’ can be launched.
+ 
+ When it was conceptualised last month, IndiaQR was expected to be a way out for small kirana stores to accept card payments as capital investments in a credit card swipe machine — which costs around Rs 7,000 — was not viable. The idea was that the information relating to the card would be dematerialised and stored in an app on the customer’s phone and the payment would be made by scanning a   in the shop. While Visa and MasterCard had their own QR code, what the government wanted was that, just as a card swipe machine accepts all cards, there should be one QR code for all cards.
+ 
+ However, even as the banks and payment companies were working on getting a common QR code, the government announced a change of plan. Instead of enabling QR only for card payments the government now wants a QR code that will facilitate UPI, Aadhaar-enabled payments and even interbank money transfers.
+ 
+ Banks see four problems in adding multiple options. Firstly, it will increase load on the payment application. Second, cards and UPI are designed for consumer-to-business payments, while account transfers and Aadhaar are peer-to-peer payments where the charges are borne by the initiator of the transaction. Third, card-based payments have an evolved dispute resolution mechanism already in place and a similar mechanism is being worked for UPI, but not for account transfers. Finally, incorporating Aadhaar number would mean that this option would be available for individual proprietorship firms.
+ 
+ 

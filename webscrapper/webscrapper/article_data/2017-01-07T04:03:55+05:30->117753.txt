@@ -1,0 +1,19 @@
+GURUGRAM: The city-based National Institute of Solar Energy ( ) on Friday launched Asia’s first real-time monitoring system to keep tabs on the output of   generated on the campus, adding another green feather to India’s cap.
+
+ NISE can now meet all its energy requirements through   and produce surplus that it can send back to the grid. The premier campus, the apex institute for research and development in the field of solar energy technologies, has also come up with a grid-connected net metering system, which sends the surplus power to the grid.
+ 
+ The twin systems — unveiled in the presence of Ankur Gupta, additional chief secretary, renewable energy, Haryana — pave the way for a green revolution that will help monitor energy consumption as well as efficiency of power generating units. 
+ 
+ NISE had taken its place at the heart of a 120-nation bloc on January 25 last year, when Prime Minister Narendra Modi and French President Francois Hollande visited its campus in Gurgaon’s Gwalpahari to lay the foundation stone for the interim secretariat of the International Solar Alliance (ISA). NISE was assigned to study the solar energy resources of the 120 countries. 
+ 
+ In keeping with its endeavour to achieve green tools, the team at NISE has developed the real-time monitoring software, which connects three different solar power generation panels on the campus and displays the data online. The system has been developed in association with a start-up, Soreva.“We have multiple small photovoltaic solar power systems on the campus. The software takes the real-time data from these systems, puts them together and gives us the net units generated every two minutes,” said SK Singh, director, NISE. 
+ 
+ The software not only displays power units generated but also gives data on carbon emissions on the campus. Besides, it provides details of the atmospheric conditions such as humidity and solar radiations at a given time.
+ 
+ He said the system would tell them how ‘green’ the campus was at any given time. “The data from the software will be used for assessing the effectiveness of different technologies in terms of power generation,” Singh added.
+ 
+ Moreover, the institute situated on Gurgaon-Faridabad Road has also become a net positive energy campus, which means that the power generation is more than the consumption on its premises. The solar power units at the institute is producing 870kW of energy as against its total power requirement of around 770kW. And the grid-connected net metering system will send the surplus energy back to DHBVN network. 
+ 
+ Under state government’s solar policy, the institute is eligible for an incentive of 25 paise per unit generated on the campus.Sources said this was the first project of its kind in Haryana to promote solar power generation with provision of net metering and real-time monitoring. The government had taken policy measures to push renewable energy in the state, especially after NISE joined the premier league.
+ 
+ 

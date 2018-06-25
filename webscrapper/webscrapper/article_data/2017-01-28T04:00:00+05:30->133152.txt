@@ -1,0 +1,15 @@
+Tokyo:   Research & Development Centre in India is offering a fresh impetus to the government’s flagship ‘Make in India’ initiative, leveraging the Bengaluru centre for developing newer technologies, redefining the tech landscape, including those related to the Internet of things (IOT).
+
+ “India has the skill set and a process-oriented approach. This is not only used in our projects outside of India, but within India as well,” said Ryuichi Otsuki, chief executive officer of   ( ), on the sidelines of the Hitachi Social Innovation Forum in Tokyo recently.
+ 
+ The highlight of the forum was Hitachi president and CEO Toshiaki Higashihara talking about how the Japanese firm can create value by resolving the issues being faced by society and improving the quality of people’s lives through social innovation business and leveraging digital technologies.
+ 
+ The Bengaluru development centre is an integral part of Hitachi’s global R&D footprint with labs in countries like Japan, UK, France, Germany, US, China, Singapore and Brazil. Hitachi invests over $2.8 billion into R&D to come up with solutions for customer challenges.
+ 
+ HDS offers a slew of services and solutions to enable digital transformation through data management, governance, mobility and analytics. Kevin Eggleston, general manager (Americas) in Hitachi Insight Group, said the company continues to invest in the country in areas including financial services and telecommunications. “We are driving a lot more initiative around how we work with some of the big global system integrators headquartered out of India. We have partnered with companies like Infosys and we are investing big time in terms of resources and infrastructure. As a growth vehicle, India is certainly one of the key markets for us in the coming years,” he said.
+ 
+ HDS has been working to reduce storage complexities for some time now. It has addressed these challenges by creating Hitachi Unified Compute Platform (UCP)solutions for all workloads that allows compute, network and storage to be managed as a shared pool of resources optimized to support a variety of applications.
+ 
+ (The writer was in Japan at the invitation of Hitachi Data Systems)
+ 
+ 

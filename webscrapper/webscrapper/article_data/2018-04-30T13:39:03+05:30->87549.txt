@@ -1,0 +1,16 @@
+HYDERABAD: In another data leak of sorts, the   woman and child welfare department put up the   numbers of 4.8 lakh   enrolled by the department of nutrition and health tracking system on its dashboard. After STOI enquired about the issue, the department disabled the column showing the Aadhaar numbers on Sunday. 
+
+ 
+  
+  
+ 
+ Cybersecurity researchers, who notified the Aadhaar leak to   (CERT-In) and the   (UIDAI), said that the Aadhaar details of around 20 lakh mothers and pregnant women, including the current 4.8 lakh, has been leaked since 2015.
+ 
+ The dashboard of the women and child welfare department is linked to the AP chief minister's core dashboard. It made public details such as name, husband's name, Aadhaar number, dare of enrolment with anganwadi centres, high-risk grading and status of follow-ups. Mandal-wise data of pregnant women in 13 districts up to Feb 2018 were displayed.
+ 
+ "I notified the CERT-In, UIDAI and the AP Core Digital Data Authority regarding the Aadhaar numbers put up openly on the website. There was no response. Perhaps, they are closed on Sunday. Collecting data of pregnant women is a good initiative so that the government can follow-up with them to decrease the maternal mortality and infant mortality rates, prevent anaemia in mothers and malnutrition in kids. But the problem is linking it with Aadhaar. The violation of rules is in making this data public," Kodali Srinivas, cybersecurity researcher, told STOI. 
+ 
+ "The e -commerce websites selling baby products and merchandise for new mothers may try to use this data as it is openly available on net," he added. 
+ 
+ When contacted, the women and child welfare department's IT coordinator, Ratnakar, told STOI: "After the Supreme Court directions in 2017, we removed all Aadhaar details put up in the public domain. Even for intra-department purposes, we use only the last four digits to identify beneficiaries. But due to unknown reasons, the Aadhaar numbers were displayed openly on the dashboard. We are disabling it instantly." Security researchers alleged, the government is not doing an audit. "AP has an Act which protects officials from prosecution for data revealed 'in good faith," Srinivas said. 
+ 

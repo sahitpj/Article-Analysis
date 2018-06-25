@@ -1,0 +1,21 @@
+NAGPUR: Though aquariums are popular in the country, many are imported at high prices and are hard to maintain. Inspired by Prime Minister’s   campaign, a group of city’s young professionals have developed a ‘predetermined digital aquarium’, probably the first of its kind.
+
+ The  , which was recently inaugurated by Union minister  , has been developed by ‘Designitezy.com’ — a firm set-up by Nagpur and Pune-based engineering graduates. 
+ 
+ “When Digital India was launched, we decided to invent a simple digital service keeping in mind the convenience of people. In today’s busy lifestyle, people do not get time to maintain their aquariums as a result of which fishes end up dying most of the times. So we started working on developing a fully automatic aquarium,” said 25-year-old Prateek Malhotra, a graduate in electronics and telecommunications.
+ 
+ The group is a mix of engineers from different fields — IT, electronics and telecommunications, mechanical and computer science who used their expertise in developing different features of the aquarium. It took them a year to finally come up with a functional product in which basic requirements like food, oxygen pump, water filtering and others are predetermined and fully-automated. 
+ 
+ “The aquarium has a dispenser unit and container that can store fish food till 30 days. The system has a clock that gives signals at predetermined times. Once the signal is given, the system gets activated for a second and releases food in the aquarium,” said 22-year-old Ritu Malhotra, who has completed her studies in computer science.
+ 
+ Unlike normal aquariums, this one has an activated carbon filter along with the usual sponge filter. “Usually, the water gets dirty in two-three days due to fish waste. But the activated carbon filter purifies it by killing germs and bacteria,” said Prateek.
+ 
+ To meet the constant oxygen requirement, an automatic oxygen pump has been installed. “Depending on the number of fishes, the oxygen pump can be activated for specific number of hours. The aquarium has an inbuilt software and predetermined time settings can be modified anytime by connecting it with a laptop,” said Ritu.
+ 
+ To ensure that the aquarium works even during power-cuts, an auto-back-up system has been incorporated with which the system can maintain itself for about 30 hours. The group is now planning to launch their innovation in market. 
+ 
+ “We are looking for distributors and clients. Despite such advanced features, the cost of the aquarium will be around Rs6,000. A normal aquarium of the same size costs Rs15,000,” said Prateek.
+ 
+ The group will be developing further aquariums at the company’s manufacturing unit in Pune.
+ 
+ 

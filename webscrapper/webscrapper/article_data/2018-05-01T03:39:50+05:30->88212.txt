@@ -1,0 +1,43 @@
+LONDON/NEW DELHI: After the massive   data scandal, a report in the Sunday Telegraph claimed that micro-blogging platform   had also sold users' data to a   (CA) researcher who collected the data of 87 million Facebook users without their knowledge — a charge that Twitter denied on Monday.
+
+ 
+ According to the report, Twitter sold public data access "for one day" in 2015 to  , then a psychology researcher with  , and his company Global Science Research (GSR). Kogan created tools for CA that allowed the political consultancy to psychologically profile and target voters.
+ 
+ Kogan bought tweets, usernames, photos, profile pictures and location data from Twitter over a five-month period between December 2014 and April 2015 through GSR, the report said. Kogan said the Twitter data had only been used to create "brand reports" and "survey extender tools" and that he had not violated Twitter's policies.
+ 
+ "GSR paid for one day of access in 2015, Twitter said, and scooped up a 'random sample' of public tweets covering a period between December 2014 and April 2015. Twitter added that it 'did not find any access' to private information," the report noted.
+ 
+ In a statement given to IANS, Twitter said that based on the recent reports, they conducted their own internal review and did not find any access to private data about people who use Twitter.
+ 
+ "Unlike many other services, Twitter is public by its nature. People come to Twitter to speak publicly, and public tweets are viewable and searchable by anyone," a Twitter spokesperson told IANS.
+ 
+ "In 2015, GSR did have one-time API access to a random sample of public tweets from a five-month period from December 2014 to April 2015," he added.
+ 
+ The API access was for one day to pull a random sample from five months of "public" tweets. According to sources, this is an important distinction from the way CA used other platforms like Facebook to improperly share users' data, including that of its CEO  .
+ 
+ According to the report, while most tweets are public, Twitter charges companies and organisations to collect them en masse. Large data sets are particularly useful for building a pattern of public opinion or receptiveness to certain topics and ideas, although Twitter bans companies from using the data to derive sensitive political information or matching it with personal information obtained elsewhere, it said.
+ 
+ "The most immediate concern is that GSR could theoretically have correlated Facebook and Twitter data. Still, this shows just how comprehensive the data collection was," technology portal Engadget reported.
+ 
+ A Cambridge Analytica spokesperson said the company used Twitter for political advertising but insisted that it had never "undertaken a project with GSR focusing on Twitter data and Cambridge Analytica has never received Twitter data from GSR".
+ 
+ It added that "Cambridge Analytica is a data-driven marketing agency and does not manipulate political views".
+ 
+ The quiz app "thisisyourdigitallife" developed by Kogan and GSR collected data from millions of Facebook users without their consent in 2014-15 which was later shared with Cambridge Analytica.
+ 
+ The leaked data was said to be inappropriately used by Cambridge Analytica in activities connected with US President Donald Trump's election campaign in 2016.
+ 
+ Twitter said it had banned GSR and Cambridge Analytica from buying data or running adverts on the website and that no private data had been accessed. "Twitter has also made the policy decision to off-board advertising from all accounts owned and operated by Cambridge Analytica. This decision is based on our determination that Cambridge Analytica operates using a business model that inherently conflicts with acceptable Twitter Ads business practices," the Telegraph reported, citing a Twitter spokesperson. "Cambridge Analytica may remain an organic user on our platform, in accordance with the Twitter Rules," the spokesperson added.
+ 
+ In a first interview after the Facebook data scandal broke out, Kogan told CBS News earlier this month that he was not sure whether he ever read Facebook's developers' policy.
+ 
+ "The idea that we stole the data, I think, is technically incorrect. I mean, they created these great tools for developers to collect the data. And they made it very easy. I mean, this was not a hack. This was, 'Here's the door. It's open. We're giving away the groceries. Please collect them'," Kogan told the TV show host.
+ 
+ Kogan said he believes his assumptions were misguided and that what he did in 2014 "was not right and was not wise".
+ 
+ Kogan told the House of Commons' digital, culture, media & sport committee last week that GSR was created in 2014 purely to create datasets for SCL — the parent group of Cambridge Analytica. He accused Cambridge Analytica's now-suspended CEO Alexander Nix of "total fabrication" when it came to denying the links between CA and GSR's data.
+ 
+ Facebook CEO Zuckerberg has testified in front of the US Congress about the misuse of data, and lawmakers have called on Twitter CEO Jack Dorsey and Google's India-born CEO Sundar Pichai to testify as well.
+ 
+  
+ 

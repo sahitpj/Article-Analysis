@@ -1,0 +1,39 @@
+NEW YORK:   is adding a "sleep" mode to its Messenger Kids service to let parents limit when their kids can use it.
+
+ It's the latest concession that tech companies are making as critics question whether they should be targeting kids at all. Among their chief concerns: The effects on kids are not yet known, and companies might not have children's best interests at heart when tech for kids is such a lucrative market.
+ 
+ Rather than kill the services completely, as some critics want, Facebook, Amazon and   are mostly tinkering at the edges. That leaves open the underlying questions of whether their products truly serve a need for the youngest set and if they are good for them.
+ 
+ Here's a look at the changes announced this week:
+ 
+ 
+ 
+ 
+ In December, Facebook created a kids-friendly version of its Messenger app. It has no ads and gives parents plenty of controls over whom their children can chat with. The thinking was that while the regular apps are designed for people 13 or over, younger kids were on it anyway. Facebook saw Messenger Kids as a way to give the younger set a safer option.
+ 
+ The changes: Parents can now specify the times kids aren't allowed on — either as a one-time restriction or something recurring, such as after 9pm every school night. While the app is in sleep mode, kids will get a message when they open it telling them so, and they won't be able to use it.
+ 
+ The shortcomings: Critics say that Messenger Kids isn't responding to a need, but rather creating one. "It appeals primarily to children who otherwise would not have their own social media accounts," states a letter signed by 100 child development experts and advocates. Merely offering time controls falls short of killing the app completely.
+ 
+ 
+ 
+ Since 2015, the Google-owned service has had a child-oriented app, YouTube Kids, described as a "safer" experience for finding "Peppa Pig" episodes or user-generated videos of people unboxing toys.
+ 
+ Nonetheless, the company has been under fire for not vetting out computer-generated, sometimes-disturbing video, such as your favorite cartoon characters having painful dental surgery — or worse.
+ 
+ The nonprofit Campaign for a Commercial-Free Childhood has also asked the Federal Trade Commission to investigate whether YouTube's data collection and advertising practices violate federal child privacy rules.
+ 
+ The changes: YouTube said this week that it is overhauling its kids app so parents can limit video to those vetted by humans, rather than computers. With this option, kids can watch only a selection of children's programming such as "Sesame Street" and PBS Kids.
+ 
+ The shortcomings: The old automated system is on by default, meaning parents need to actively choose the human-only option. And YouTube is continuing to show ads on its kid-focused service.
+ 
+ It also doesn't help that many kids (with or without their parents) use the main YouTube site for video, meaning they miss out on both human and automated controls for kids.
+ 
+ 
+ 
+ 
+ Sure, it's fun to ask Amazon's Alexa voice assistant to fart — as many kids have discovered after parents buy an Alexa-enabled Echo speaker. But parents and childhood experts have been wondering what effects smart speakers may have on young kids, who may not quite understand whether Alexa is human and maybe learn from barking orders at her that barking orders is OK.
+ 
+ The changes: Alexa will soon thank kids for shouting out questions "nicely" if they say "please," the online retail giant announced Wednesday . The new response is part of a kid-friendly update that's coming next month, giving parents more control over the voice assistant. Adults can also set Alexa to go silent at bedtime or block music with explicit lyrics.
+ 
+ 

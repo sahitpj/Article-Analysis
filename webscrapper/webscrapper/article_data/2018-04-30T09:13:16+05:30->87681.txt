@@ -1,0 +1,17 @@
+VADODARA: Although e-challans have made it mandatory for citizens to wear helmets while riding their two-wheelers, many still prefer to not wear helmets. But, four   of   have made an eco-smart helmet which may attract the riders to protect their heads.
+
+ As a part of their project in the final year of engineering course,  , Yash Patel, Rutvik Darji and Vatsal Rana decided to make a helmet which will not only attract the riders, but also help them to communicate in the time of distress. 
+ 
+ The students have made the use of a GPS device, Global System for Mobile Communication (GSM) and solar panel to create the distress system, besides installing LED lights and camera to comply with the BSIV standards in vehicles set by the central government.
+ 
+ “The mechanism of the distress system is such that when the helmet gets an external impact like that of an accident, the GSM will immediately send an sms to pre-set mobile numbers asking for help. And with the help of GPS device, the location of the place will also be mentioned in the sms,” said Yash. His friend Jainesh said that the system of external impact was like that of air bag in cars. “When a car collides, the system in the car immediately inflates the air bag to save the passenger. Similarly, when the helmet gets an impact, the system will send an sms,” Jainesh added.
+ 
+ They have also installed LED lights on the rear side of the helmet which will be connected to a circuit in the bike through Bluetooth. “When the brakes are applied, red light will blow and when a signal for turning is given, the indicators will blow,” Darji said. The students have also installed camera in the front side of the helmet so that the rider can have proof of the accident while claiming insurance money.
+ 
+ For the source of power, the students have also installed a small solar panel on the helmet and have also made provision of attaching a small-sized battery.
+ 
+ “Right now for exhibiting our work we have put the circuit outside, but in the final model the circuit will be inside the helmet’s body and only the solar panel and camera will be outside,” said Rana.
+ 
+ The students incurred a cost of Rs 15,000 for making the system including the cost of the helmet. But they claim that if the mass production of the helmet is undertaken, the cost can come down by at least 50%.
+ 
+ 

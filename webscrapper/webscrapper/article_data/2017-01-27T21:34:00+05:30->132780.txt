@@ -1,0 +1,15 @@
+CHENNAI: Chennai-based Energyly has launched  , which expects to help a household reduce its power bill. 
+
+ Electricity distribution companies charge different rates per unit for domestic consumers. In  , if a home user consumes 500 units, he pays Rs 1,200 at Rs 2.40 per unit. However, if he consumes 501 units, he pays Rs 2,100 at a rate of Rs 4.10 per unit. 
+ 
+ “Around 70% of domestic consumers come within the 450 to 520 units consumption slab. The problem is most of them do not know when they cross from 500 to 501 and end up paying Rs 800 extra,” said Dayal Nathan, founder, Energyly.
+ 
+  TariffAlarm aims at solving this problem by fixing this gadget between the meter and main switch. The home user can set the number of units say 450 or 470 units. When the consumption reaches the set value, an alarm is raised. 
+ 
+ The consumer is alerted that he may soon reach 501 units and can switch off unwanted appliances, keep the bill below 500 and end up saving Rs 800 per billing cycle. 
+ 
+ Energyly launched TariffAlarm on January 26 in collaboration with Tamil Nadu Electricians Welfare Association (TEWA). TariffAlarm is priced at Rs 999 and is available only for single phase domestic users.
+ 
+ It is a patent pending product and has bagged the runner-up prize in the Make-in-India hackathon conducted by IIT Bombay last year.
+ 
+ 

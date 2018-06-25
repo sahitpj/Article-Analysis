@@ -1,0 +1,15 @@
+NEW DELHI: The students of   Roorkee have developed a mobile application —Dhadkan — for monitoring the vitals of people suffering from heart failure and provide them with medical assistance in case of an emergency.
+
+ The app, developed by computational biology group in consultation with experts from the All India Institute of Medical Sciences ( ), can automatically send notification to both the doctor and the patient in case of any drastic changes in patient’s health data, which could indicate the possibility of an imminent heart attack.
+ 
+ “Dhadkan will benefit India which has about 10 million patients at risk of heart failure. It is available for free and no charges are involved to avail the benefits,” Deepak Sharma, assistant professor, department of biotechnology, who led the group, said. 
+ 
+ Explaining how the app works, Sharma said it collects patient’s data (at any desired interval), including blood pressure, heart rate, weight, and transmits it to the authorised care-giver (a doctor, nurse or paramedic) who is linked to the patient during initial registration.
+ 
+ “It also provides for a two-way communication between doctors and patients. In addition, patients can send ECG reports to the doctor (if needed). The app not only eliminates the need for manual monitoring of each patient, but also helps in recommending precautionary action during the treatment period,” he said. 
+ 
+ Dr Sandeep Seth, professor cardiology at AIIMS, said the first version of Dhadkan was developed two years ago to record patient’s data and it helped significantly in medical management of heart failure patients at the institute.
+ 
+  Heart failure means that the heart isn’t pumping as well as it should. It is a serious condition, and usually there’s no cure. But many with heart failure lead a full, enjoyable life when the condition is managed with medication and healthy lifestyle changes, said American Heart Association. 
+ 
+ 

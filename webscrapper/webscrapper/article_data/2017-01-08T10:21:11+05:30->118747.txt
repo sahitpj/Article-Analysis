@@ -1,0 +1,16 @@
+KOCHI: In an attempt to revamp  , the CBSE is planning to implement CSpathashala, an alternative   for the new academic year. Under the new programme, the focus will be more on computing solutions rather than on technological skills. 
+
+ "When the education is centred around computing solutions, the students will learn how MS Excel does its calculations, rather than memorising how to make MS Excel perform these calculations without any clear understanding," said  , a member of the   expert group. Over 85 teachers from schools across Kochi had come to attend a workshop, which introduced the new teaching model. CBSE schools in Kochi now have the option to opt between the regular computer course, which is currently being offered at schools or the course modelled by CSpathashala.
+ 
+ CSpathashala was mooted by the   (ACM) India (a non-profit organisation of technological professionals) in order to inculcate problem-solving skills in school children.
+ 
+ Vipul Shah, head of ACM India's CSpathshala initiative said that teaching computing as a collection of "facts and jargon" is irrelevant and that students must be taught to ask the right questions. 
+ 
+ "Computer science, as a school subject, is gaining more relevance. Some engineering colleges are now looking at the marks scored by students in mathematics, physics and chemistry or computer science as opposed to chemistry alone," added Premlata Shaji.
+ 
+ "Several different computing languages are taught in schools, like C++ and Java. But all these different languages have something in common, the problem-solving skill that is applied to them, such as step-wise thinking and decision making. This will be the primary focus of CSpathshala," she said.
+ 
+ Some of the teachers present at the event expressed apprehensions over the syllabus change. "I understand that this is a much-needed change but I am not sure if the children will be able to understand the subject," said Pradeep Balakrishnan, a computer science teacher at the Cochin Refineries School. 
+ 
+ Premlata Shaji said that the CBSE expert group also had such concerns but they were put to rest following their pilot project in Pune. "We had run a test project in Pune consisting of 15 schools, and they had produced excellent results. Multiple schools around the city are now looking to implement the same system," she said. 
+ 

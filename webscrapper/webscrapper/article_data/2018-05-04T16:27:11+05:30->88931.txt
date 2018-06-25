@@ -1,0 +1,16 @@
+Chennai: Even as   ( ) finds new applications every day, organisations continue to struggle with implementation.
+
+ A survey commissioned by global data   player   amongst IT professionals from six Asia Pacific markets shows that most respondents struggle to know where and how to start their organisation’s development and implementation of AI (75%). 
+ 
+ On a positive note, 96% in APAC believe AI applications will drive productivity and business performance and an almost equal number of respondents (95%) believe further investments in their   are required to enable them to support their use of AI. 
+ 
+ In India, 90% respondents have implemented AI in one or more areas of their business, much higher than 74% reported in APAC. “The opportunities to reap AI are tremendous. Building robust infrastructure is key to gaining competitive advantage as AI applications are driving an explosion in storage requirement,” said BS Teh, senior vice president of global sales and sales operations, Seagate Technology.
+ 
+ Teh adds that the explosion of data is only expanding markets for several sectors. "We see a trend of edge devices emerging which throws open opportunities for Seagate as a storage company to offer services to this new trend," he said. 
+ 
+ Teh adds that with AI, the pressure on innovation and technology is higher than before. “Strategy is a challenge. The task of deploying increasing capacity within cost constraints and maintaining performance is a common thread across companies,” said Teh. Close to 97% Indian respondents said they could do more in AI if they had the right talent. P K Viswanathan, professor — analytics, Great Lakes Institute of Management, Chennai said, “While India produces a substantial engineering graduates every year, the talent focuses mainly on IT and not research, and innovation that are the bedrock of AI. To work on AI, you need people who not only have a strong technology background, but also have analytical thinking, puzzle-solving skills, and they should not be scared of numbers.” 
+ 
+ Some corporates have taken to partnering with academic institutions to drive researc hand build the ecosystem. For instance, GAVS Technologies has partnered with several academic institutitions such as IIT-M. “AI is a relatively new technology. Hence, the familiarity with languages like Python, R, etc. is low. We also need data scientists to build algorithms and that is a rare skill,” said Sumit Ganguli, CEO, GAVS Technologies.
+ 
+  
+  

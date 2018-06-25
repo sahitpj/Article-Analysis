@@ -1,0 +1,16 @@
+MUMBAI: The government has not yet managed to come up with a mechanism for transferring charges for card payments at   from oil companies to banks. 
+
+  Earlier this month, petrol pumps had threatened to stop accepting card payments after banks said that card charges, which had been waived until December 31 in view of demonetisation, would henceforth be billed to petrol dealers. Union oil minister   stepped in to resolve the issue, and said that, by January 16, the government would fix a mechanism to have the oil companies transfer card charges to banks. 
+ 
+  The government called a hasty meeting with banks, and announced that card charges would not be passed on to dealers. Following this, petrol pumps were no longer charged the card fee, with banks reimbursing the full value of each credit/debit card transaction without deducting what is called the 'merchant discount rate (MDR)'. 
+ 
+ MDR, the rate a merchant is charged by a bank for providing debit and credit card services, is split among the card-issuing bank, the bank that installs the point-of-sale (POS) machine, and the payment network (Visa, MasterCard and Rupay). 
+ 
+  While the card-issuing bank bears the costs of sending the OTP and authenticating the transaction, the acquiring bank (the one that installs the POS machine) incurs a capital expenditure and the operational costs of sending the payment instruction. 
+ 
+ According to bankers, as of now, they are not receiving any fees from the government or the oil companies, but they have an assurance that charges for transactions made after January 16 will be reimbursed. In a recent interview with TOI, Aditya Puri, MD, HDFC Bank said that banks had decided to accept lower MDR of 0.25%, 0.5% and 0.75% from petrol pumps, with charges depending on the value of transaction. 
+ 
+ However, the government has not yet finalised how the costs would be split between the oil marketing companies like IndianOil, Hindustan Petroleum and Bharat Petroleum, and the banks. 
+ 
+ As of now banks are not getting any revenue from card transactions at petrol pumps. Speaking to TOI, a senior bank official said if the revenue model was not clear, banks would find it difficult to install new PoS machines at petrol pumps.
+ 

@@ -1,0 +1,9 @@
+CHENNAI: Saas based CRM software firm Freshdesk on Thursday announced acquisition of Bengaluru-based Pipemonk, a data integration platform that allows companies to synchronize and move data amongst multiple cloud apps. 
+
+ This acquisition, Freshdesk’s seventh in the last 16 months, is part of the overall strategy to create an ecosystem of interlinked Freshdesk and third-party products for businesses. 
+ 
+ The Pipemonk team will work on strengthening the integrations between the Freshdesk suite of products as well as expand third party integrations for each of the acquiring company’s products. This will cut down the need for multiple logins, redudancy in data entry, and allows instant and seamless access to dynamic data across products. 
+ 
+ "Having your apps talk to each other and enabling data flow plays an important role in any business today, and we at Freshdesk are focused on making that process simple for our customers," said Girish Mathrubootham, founder and CEO of Freshdesk.
+ 
+ 
