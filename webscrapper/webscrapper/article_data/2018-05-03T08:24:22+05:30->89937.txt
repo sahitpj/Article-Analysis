@@ -1,0 +1,22 @@
+HYDERABAD: Several agencies and individuals have been selling ‘Aadhaar PVC card printing software’ online, in a possible threat to data security. This, despite the   ( ) saying that plastic and PVC printing of Aadhaar cards is unnecessary.
+
+ 
+ The biometric devices, referred to as ‘Aadhaar enrolment kits’ are being sold online on ecommerce websites and by companies based in Delhi, Mumbai and other cities.
+ 
+ 
+ 
+  
+ 
+ 
+ Security researchers say this is of grave concern because once the software is made available, more people will print the cards, and while printing them, they can collect card details and store the same.
+ 
+ Data security researcher   told TOI, “Initially, Aadhaar enrolment was outsourced to private companies. They purchased biometric scanners for fingerprint authentication. Now, only government-run enrolment centres like post offices are carrying out enrolments. Private firms may be selling used Aadhaar enrolment kits. The threat here is if the kits have data storage capacity, they may have stored details of people and this may be misused. However, UIDAI is saying the data is encrypted, and there is no possibility of misuse.”
+ 
+ Advance Network Solutions, aNew Delhi-based company, is offering the Aadhaar card printing software at a cost of Rs 5,000 on many e-trading sites like India Mart and also on the company’s website. The Aaadhar enrolment kits are also available for sale on a few other sites.
+ 
+ In February 2018, UIDAI asked the public not to reveal their Aadhaar number or personal details to unauthorised agencies for getting the card laminated or printed. UIDAI also warned unauthorised agencies not to collect Aadhaar information for printing of the card as it is a criminal offence punishable with imprisonment under IPC and Aadhaar Act, 2016.
+ 
+ UIDAI earlier said, “Plastic or PVC Aadhaar smart cards are often not usable as the QR code becomes dysfunctional during unauthorised printing. But, there could be a possibility of sharing Aadhaar details (personal sensitive demographic information) without informed consent with some devious elements.” It added that downloaded version of Aadhaar or ordinary paper of Aadhaar is valid, and people need not print ‘PVC or smart card’.
+ 
+ When contacted by mail and phone repeatedly, UIDAI chief   and UIDAI national spokesperson Dr Vikas Shukla chose not to respond. Emails sent to them were left unanswered.
+ 

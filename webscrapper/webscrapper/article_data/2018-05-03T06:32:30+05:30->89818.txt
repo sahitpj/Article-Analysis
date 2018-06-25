@@ -1,0 +1,15 @@
+BENGALURU: With blistering heat in the day and thundershowers in the evening, Bengalureans have recently been at the receiving end of fluctuating  . 
+
+ Last week, the   by   that accesses information from 11 automatic weather stations (AWS) in the city showed a difference of 14 degrees between the temperature measured at   (IISc), Malleswaram and the Public Affairs Centre, Jigani, approximately 30km, during the same time. According to scientists at Yuktix, a city-based agriIoT/agritech startup, these kinds of variations have become more common in the recent years.
+ 
+ The Bangalore Open Weather Network was initiated by Yuktix in 2014 to facilitate open access to real-time weather information, particularly micro-climate data. It is the first citizen-run network of weather stations and the only such open weather project in the country.Yuktix provides stations to those who want to monitor the micro-climate around them and it’s up to the customers whether they want to make data public. 
+ 
+ The stations function from IISc campus, Indian Institute of Human Settlements campus, GKVK campus and from private properties in Indiranagar, Sarjapura Road, Electronics City, HSR Layout, Jigani, Girinagar, Uttarahalli and Vidyaranyapura. 
+ 
+  “We are approached by self-proclaimed weathermen, people interested in observing trends, data scientists with a focus on environment, research centres and environmental wing of corporates. Researchers can collect data and do their own analysis,” Shailendra Singh of Yuktix said.
+ 
+ Each AWS has sensors to measure temperature, pressure, humidity and rainfall. All these are connected to a main circuit board that logs the data, which is updated and uploaded to the cloud using Internet of Things (IoT). For every reading generated, over 10 samples of data are taken. The cost of each AWS ranges from Rs 40,000 to over a lakh and is powered by solar power and battery.
+ 
+ M B Rajegowda, professor of agrometeorology, stressed the importance of micro-climate information being available to the public. “Sudden thundershowers are likely to happen post 2pm on any day given the increase in temperature till that time. The formation of low pressure zones increases concentration of clouds and water density, resulting in precipitation and a fall in temperature. The vegetation in the city also has an impact on micro-climate data. This kind of extreme weather is becoming common.The city has grown so much that it is more accurate to comment on the temperature of a single locality, than say it for the whole city,” he said.
+ 
+ 

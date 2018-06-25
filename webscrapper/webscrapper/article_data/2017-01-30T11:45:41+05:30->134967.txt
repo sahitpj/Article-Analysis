@@ -1,0 +1,28 @@
+MUMBAI: Researchers have shown that they could efficiently capture and simultaneously filter out the circulating tumor cells (CTCs) permanently from cancer patients' whole blood, which otherwise could gain access into the blood and invariably cause metastasis.
+
+ "Thousands of cancer cells are loosely attached to primary tumor and are known to continuously detach and travel to other organs through peripheral blood flow. This process is the primary cause of spread of cancer into other organs and is called as 'metastasis', and is the actual cause of 90 per cent of deaths in cancer patients," lead scientists   and   said.
+ 
+ "CTCs are known as predictive biomarker and their count in blood is indicative of prediction of overall survival. Cancer is one of the fastest growing disease and 14.9 million new cases were recorded with 8.2 million deaths in 2013," they said.
+ 
+ According to the   (ICMR), in India there will be more than 17 lakh new cases of cancer and over 8.8 lakh deaths are predicted in 2020, the duo told PTI.
+ 
+ "Conventional diagnostic approaches such as tumor biopsy are performed to determine the disease status. However, such invasive procedures are difficult and painful," Khandare said.
+ 
+ "In contrast, CTCs isolated are performed by non invasive procedure (liquid biopsy) and can help to predict the disease progression, response to treatment, relapse, and overall survival," he said.
+ 
+ However, the detection and genetic characterisation of CTCs has been technically challenging due to their extremely low occurrence among billions of other blood cells, he said.
+ 
+ "In recent years, diverse diagnostic technologies have been evolving to meet the challenge of counting and isolating CTCs from patient blood samples," Khandare said.
+ 
+ Researchers from   (MIP), Actorius Innovations and Research Pvt. Ltd. and Maharashtra Institute of Medical Education and Research Medical College, Pune designed 3-Dimensional microchannel system which can detect CTCs within a small blood sample, he said.
+ 
+ They also investigated the ability to remove cancer cells from the patient's blood altogether.
+ 
+ Their microfluidic system can detect, capture and remove the tumor cells from blood, making it potentially useful for both diagnosis and cancer treatment, Khandare said.
+ 
+ "There are plenty of clinical challenges to filter out CTCs from blood permanently thereby to reduce their burden in metastasis process and enhance cancer patient survival," Khandare and Banerjee said.
+ 
+ The duo's research has been published in international journal 'Advanced Materials Interface' as a cover page story, the first time AMI accorded the honour to a group of Indian researchers.
+ 
+ "This work is aimed at increasing cancer patients survival time by filtering out cancer cells that spread into secondary cancer by use of patient blood as in dialysis process," they said.
+ 

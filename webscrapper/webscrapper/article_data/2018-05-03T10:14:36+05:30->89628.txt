@@ -1,0 +1,11 @@
+NEW DELHI: The Employees Provident Fund Organisation ( ) on Wednesday said it has discontinued services provided through   “pending vulnerability checks”, but ruled out any data leak. 
+
+ 
+ “There is no need to panic. Data is absolutely secure,” said a senior official, adding the problem was noticed in March and the service discontinued on March 22. Officials also suggested that services related to Aadhaar, which were being undertaken through  , may not be resumed as data entry was no longer an issue given that employers were seeding data and it could be done directly on the   portal.
+ 
+ EPFO’s statements come amid reports suggesting theft of data of subscribers by hackers from ‘aadhaar.epfoservices. com’, a website operated by CSC that comes under the ministry of electronics and IT. 
+ 
+ The reports were based on a letter by EPFO Central Provident Fund Commissioner V P Joy to CEO of CSC, Dinesh Tyagi. EPFO said that warnings related to vulnerabilities in data or software was a “routine administrative process”. Separately,   said that there was no data breach from its servers. “No confirmed data leakage has been established or observed so far. 
+ 
+ As part of the data security and protection, EPFO has taken advance action by closing the server and host service through CSC pending vulnerability checks,” EPFO said.
+ 

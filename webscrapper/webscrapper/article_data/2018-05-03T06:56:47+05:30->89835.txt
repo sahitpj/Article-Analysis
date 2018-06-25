@@ -1,0 +1,19 @@
+CHANDIGARH: Central Scientific Instruments Organisation ( ) here has developed first-of-its-kind indigenous self-monitoring, analysis & reporting technology (Smart) electricity meter.
+
+ 
+ The new meter costs five times less than the existing meter and is best suitable for Indian climate. This meter gives a real-time hourly reading as well.
+ 
+ 
+  
+  
+ 
+ The technology is believed to serve as a revolution in the Indian grid industry. It uses state-of-the-art technology for simultaneous scanning of three-phase power. It also has provisions to record, import and export (bi-directional) energy using sophisticated industrial protocols.
+ 
+ CSIO’s   has recently transferred the technology recently to  , which is an Indian startup R&D firm based in Mumbai. The company specialises in cloud and analytics.
+ 
+ “The existing electricity meter is for industrial application in cold storages. However, if there is a demand, we can use the same for household meters. Other smart meters are available in the market between the cost of Rs 15,000 and Rs 20,000. But thishome-grown indigenous meter would cost not more than Rs 3,000,” said G S  , senior scientist at CSIO,Chennai.
+ 
+ Meanwhile, CSIO also plans to add more features to its new meter. “These new feature would allow the users to know exactly which electrical appliances consume more power. Moreover, if you forget to switch off your appliance at home, you can send an SMS to the meter, which would do the job for you.
+ 
+ CSIO’s Chennai Centre is currently focused in the field of energy instrumentation. It has developed, transferred technology for many industrial solutions like energy management system, pump and motor efficiency monitoring system, power quality analyser, portable energy audit tool in last couple of years.
+ 
