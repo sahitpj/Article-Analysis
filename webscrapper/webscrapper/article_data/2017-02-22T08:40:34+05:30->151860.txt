@@ -1,0 +1,13 @@
+MANGALURU: A research student of NIT-K, Surathkal has developed a technology that can light houses by using a bicycle.
+
+ Named ‘simple low-cost human muscle energy-based battery charging scheme for rural household lighting’, this technology uses a bicycle to generate power. “By fixing a permanent magnet direct current (PMDC) generator to the rear wheel of the bicycle, energy can be generated and stored in batteries to use it for lighting the houses,” explains  , a   and the man behind the project.
+ 
+ He undertook this research under the guidance of U Sripati Acharya, head of department, electronics & communication (E&C) and Laxminidhi T, a faculty member, NIT-K, Surathkal.
+ 
+ He said that the plight of the rural people who live in dark either due to no electrification or long power outages made him come out with such a technology. He took two years to complete the project.
+ 
+ Explaining the working of this technology, Shenoy, said one needs to put the bicycle on a specially designed platform where the rear is coupled with the PMDC generator and pedal it to generate power. “The quantum of power generation depends on the speed and duration of pedalling. The unregulated DC voltage from the PMDC generator is regulated through the power management circuit (PMC) for storing the energy in a battery for later use. 
+ 
+ The PMC can be implemented using a linear or switching regulator to obtain the desired voltage to charge the battery,” he said adding that he will apply for patent for his technology soon. 
+ 
+ 

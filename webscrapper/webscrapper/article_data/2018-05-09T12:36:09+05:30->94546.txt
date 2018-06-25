@@ -1,0 +1,11 @@
+Avaamo, a cognitive platform for enterprises, has raised $14.2 million (Rs 95 crore) in series A funding led by  , with participation from   Ventures,  ,   and WI Harper. 
+
+  had raised $9.3 million in a seed round, including $2.2 million from Wipro Ventures in March. The latest funding brings the company's total investment to $23.5 million.
+ 
+ The Avaamo platform equips large enterprises to deploy intelligent virtual assistants, both through voice and chatbots, to mine their datasets and draw insights. “Natural language conversation is the easiest way to interact and it’s a secular trend happening in computing. Avaamo can extract information from legacy systems. We have 150 pre-configured adapters to a variety of info and we can quickly extract the information,” said Ram Menon, founder and CEO of Avaamo. Menon and Sriram Chakravarthy founded Avaamo some three years ago. They previously worked together at TIBCO.
+ 
+ At the heart of Avaamo's cognitive platform is deep domain machine learning capabilities. It provides measurable ROI to enterprises. “We have assembled a dream team from the ecosystem and we got them to validate the tech and fund it. Customers of large firms want that reassurance that many have already validated the tech,” Menon said. The company hascustomers in finance, mutual fund, telcos, retail and healthcare industries.
+ 
+ Fiaz Mohamed, head of industry solutions, artificial intelligence products group, at Intel Corporation, said intelligent agents are an emerging area that’s already impacting how consumers interact with enterprises, while reducing costs and improving workforce productivity. Intel director Arun Chetty will join Avaamo’s board.
+ 
+ 

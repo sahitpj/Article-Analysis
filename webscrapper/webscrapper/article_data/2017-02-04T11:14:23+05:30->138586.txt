@@ -1,0 +1,33 @@
+NAGPUR: As things are progressing towards the digital world, so is devotion. In a bid to promote spiritual tourism, 16 youngsters have put together information — pictures, address, history, videos and more — about Vidarbha’s Ashta Ganesh temples in one single app whose final version was posted in Google Playstore for all android users on January 31.
+
+ “Temples require donations. And once they become famous, the surrounding area too gets developed. On the other side, a student’s creativity often doesn’t reach the public. This initiative helped both fronts,” said Manish Karandikar, who runs Jigyasa Research Centre, under whose guidance the youngsters created the app. The centre tries to find innovative solutions in technology. “Paper is increasingly becoming outmoded, and app is the latest platform for all information. Several engineering students come to us for internships. We thought, instead of building dummy apps, why not give them a real project,” Karandikar added.
+ 
+ Titled as ‘Ashta Ganesh Vidarbha’, the app size is 9.9 MB. On opening the app, there are eight links for the temples, and clicking one link will direct the user to install the related app through the Playstore. The master app is in Marathi, whereas the linking apps have options which vary depending on the app. Students started making the app in December first week. Of the sixteen youngsters, 11 are second year MCA students of Shri Ramdeobaba College of Engineering and Management, and the rest belong to other colleges.
+ 
+ Speaking about how the idea struck,  , a researcher at the centre who helmed the initiative, said, “We started with a single app on Adasa temple, launched in March last year. The response was great. So we encouraged the student interns at the centre to make apps of Ganesh temples of  , in a series titled EBOM (Electronic bhakti on mobile). They themselves collected data — historical, mythological, geographical — and coordinated with temple trustees. Their apps were then combined into one master app, ‘Ashta Ganesh Vidarbha’.
+ 
+ Pooja Chakole, one of the creators, said, “It took us 10 days to make it. We’re only in our second year, and it feels great to have your app on Playstore. We didn’t think it was possible.”
+ 
+ Pawan Tarani, another creator said, “We were meeting the trustees. We clicked pictures, gathered interesting theoretical data and learnt how to implement our learning. The high moment was when our college principal also appreciated it.” Another creator Nidhi Khandelwal said, “After four years of engineering, this is the first time we got the opportunity to work on a real project. We studied C, C++ and Java but hadn’t used it before. The result of our efforts is now in our phones.”
+ 
+ Box
+ 
+ Temples included in the app
+ 
+ * Adasa, Shani Vignesh temple
+ 
+ * Tekdi, Siddhi Vinayaka temple
+ 
+ * Bhandara, Brushundi Ganesh Mandir, Mendha
+ 
+ * Ramtek, Athra Bhuja Ganesh Mandir
+ 
+ * Pauni, Dhundiraj Panchamukhi Ganesh Mandir
+ 
+ * Kelzar, Shree Siddhi Vinayaka Ganpati
+ 
+ * Yavatmal, Shree Chintamani Devasthan
+ 
+ * Chandrapur, Shree Varadvinayaka
+ 
+ 

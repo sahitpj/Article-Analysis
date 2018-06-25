@@ -1,0 +1,25 @@
+CHENNAI: As the Egyptian civilisation flourished and its calligraphers documented the rise and fall of one of man’s greatest cultures in the period circa 3,500BC-1,300BC, another great civilisation arose in the Indus Valley in the northwest of the Indian subcontinent.
+
+ Much less is known about the   than its Egyptian equivalent, however — about its development, governance, activities, discoveries and daily life — because historians are comparatively short on information and yet to fully interpret the script of these ancient people.
+ 
+ To the common man, however, the limited corpus of hieroglyphs and other symbols that historians have uncovered from the Indus Valley bear an uncanny resemblance to those found along River Nile. Scientists linked the script to ancient Dravidian languages and an early form of Sanskrit but its meaning remains an enigma.
+ 
+ Here’s a discovery, however, that could help change that.
+ 
+  that mimics the functions of the human brain that are involved in innovations like self-driving cars may now aid researchers to develop a computerised database for   that will eventually help decipher the texts. Scientists are also working on a mobile application of the  .
+ 
+ The technology will allow archeologists and amateur history buffs alike to, say, capture images of seals on pottery and share it online via the app to assist experts devoted to the recognition and transcription of the script. It will also provide an approximate date by recognition of the iconography and its style.
+ 
+ The app will filter the text from the image and identify the presence or absence of individual characters in an existing database. If it is a known symbol, the app will display a number representing each character in the texts in the database; if not, it will include the symbol in the database. The output will be a string of graphemes (characters) and a corresponding number in the database, suitable for inclusion in a standard corpus.
+ 
+ A professor from Institute of Mathematical Sciences (IMSc), Chennai, and an engineer developed the app. Satish Palaniappan, an   graduate who worked on the app, said the sequence of numbers may help in the search for similar sequences in script, giving researchers a chance to draw inferences like origins or link between regions of the Indus Valley.
+ 
+ “That will be our next stage of research,” Palaniappan said. “This app is for data accumulation and to learn new symbols. Automating corpus preparation will speed up research to decipher the script.”
+ 
+ IMSc professor Ronojoy Adhikari said the app will augment the available corpus of Indus texts by automatically transcribing writing on artefacts. “There will be more texts to study,” he said.
+ 
+ Researchers used ‘deep learning’ to develop the technology. “Deep learning is basically an artificial neural network-based learning technique, inspired by layers of interconnected neurons in the brain that interacts and makes decisions,” Palaniappan said. “Deep learning has never been used before in epigraphic research.”
+ 
+ The app is crucial to make big leaps in epigraphic research, “A researcher has to know the history and sequence of symbols,” Palaniappan said. “It takes years to compile texts from artefacts and put them in a form that a computer will understand. We wanted to bridge that gap.”
+ 
+ 

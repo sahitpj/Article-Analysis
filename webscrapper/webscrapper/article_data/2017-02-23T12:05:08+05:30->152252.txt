@@ -1,0 +1,10 @@
+PANAJI: Goan start-up   recently launched the second version of the   platform in Bengaluru. It helps enterprises and makers to connect their devices to the Internet. 
+
+ Since the launch of Bolt 1, last year, more than 1,000 developers in Goa are using the system. Bolt 2 WiFi module is 40% smaller and 3 times faster than its earlier version. 
+ 
+ Inventrom CEO  , said, “We want to offer a complete development experience, from interfacing of sensors to data analytics.”
+ 
+ Bolt 2 comes with a WiFi/GSM Chip to connect sensors to the Internet. One can configure this system over the Bolt cloud to receive, store and visualise the data. The platform reduces the time and effort to build IoT products. While Bolt 1 had only line graphs as a data visualization tool, Bolt 2 has six to seven different graphs to analyse data trends.
+ 
+ Dheeraj Gadkar, business analyst at Bolt IoT, said, “We have received huge pre-orders for the new version, especially from enterprises. The developer community is also growing at a pace faster than ever.”
+ 

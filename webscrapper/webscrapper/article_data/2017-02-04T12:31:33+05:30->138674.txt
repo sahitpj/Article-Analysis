@@ -1,0 +1,22 @@
+BENGALURU: A unique digital numbering system, based on the geo-spatial location of each house, could soon become a reality in the city. The state government proposes to include the system under the  .
+
+ Conceived along the lines of the Aadhaar card, the system will make it easy to accurately pinpoint addresses.“Each address in the city will be assigned an eight-digit alphanumeric code called the `standardized digital address number'. Later, a centralized repository containing all the addresses will be made public,“ said  , nodal officer for the smart city project. With the digital numbering system, each house will automatically be tagged on the global positioning system (GPS), allowing them to be traced on Google Maps. However, for the project to be implemented, Bengaluru has to first qualify for the Smart City competition, the last round of which will be held in March. The digital address system is among the five proposals the state government is mooting, to make the cut.
+ 
+ “The digital system will also be extended to land parcels, where there is no property yet. The survey and subdivision numbers will be linked to the cadastral maps -maps that contain information about the owner, taxation, etc, besides geographical details -maintained by the Bruhat Bengaluru Mahanagara Palike and   (BDA). This will enable quick identification of all addresses,“ Turuvekere added.
+ 
+ The project will initially cover 2 lakh houses in the city, under a pilot programme, and will subsequently be extended to other areas. The government plans to eventually bring tier-2 cities under the project's ambit. Given that the system will help integrate services pertaining to a whole range of facilities, including power and water supply , it will help civic agencies monitor the efficiency of these services.“The authorities concerned will be able to access details of those who've defaulted on property tax, have unpaid traffic dues etc, at their fingertips,“ said Turuvekere.
+ 
+ If the project receives ap proval under the Smart City Mission, BBMP will undertake a survey of 25 lakh houses to work towards compiling the required information for the system. All houses and streets will be assigned numbers in the same manner that numbers are given to vehicles during registration, and a digital referencing system for all locations will be put in place.
+ 
+ A BBMP official said, “Given the scope of the project, we are looking to set up a cloudbased system for easy access to information collected in the survey . Besides acting as a navigational tool, the project will help create a base map for the entire urban area, and will contain details of all roads within BBMP limits. We'll use latest satellite images.“
+ 
+ 
+ 
+ 
+ “The haphazard growth of the city has made it difficult to navigate its streets and locate specific addresses. Many big cities such as New York and London use such a system, mainly to ensure quick response in emergencies. It could work marvels if implemented. But I doubt it, considering the mindset of the people here, and BBMP's sluggishness,“ said Ravi N Kumar, urban expert.
+ 
+ 
+ 
+ 
+ Rampant tax evasion by property owners has been the bane of BBMP, and repeated efforts to fix it have failed. The digital identification number for each and every property offers the promise of geo-spatially tagging all properties, thereby making it easier to track the payment history. It now remains to be seen how quickly this project can be rolled out. Once all properties are trackable, the Palike should go all out to ensure 100% compliance in tax payment. For too long, have a few property owners paid their taxes diligently while the others only cribbed about lack of services.
+ 

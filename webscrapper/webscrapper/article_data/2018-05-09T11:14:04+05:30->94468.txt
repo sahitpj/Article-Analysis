@@ -1,0 +1,13 @@
+CHENNAI:   on Wednesday said it will open a new   in Mumbai. The Chennai-based company said that the data centre would provide additional security for its Indian customers. 
+
+ “India is our third largest market and we are committed to growth on our home ground. When we started scaling in the mid-market industry, we realised that the data centre is an important requirement for customers especially in the health and financial industries,” said S T S Prasad, senior vice-president of engineering, Freshworks. 
+ 
+ “The release will help local users have faster data transfers, lower latencies, and faster business performance,” he added.
+ 
+ This is the company’s fifth data centre globally and the second in the Asia-Pacific region. The other locations are Virginia in the United States, Dublin in Ireland, Frankfurt in Germany, and Sydney in Australia.
+ 
+ Freshworks CEO Girish Mathrubootham said the new Mumbai data centre is testament to India’s growth potential. “The time when everyone believed that Indian customers won’t pay for good business software is long gone. Indian businesses are now adopting software on a par with other global companies, and SaaS spend is a good chunk of it. With the new data centre, we are well placed to serve our Indian customers, especially in the enterprise space,” he said.
+ 
+ Freshdesk’s customers in India include Saavn, Decathlon, Grofers, Lenskart, Oyo Rooms, Byju's, and Goibibo.
+ 
+ 

@@ -1,0 +1,19 @@
+Mumbai: Microsoft CEO Satya Nadella on Wednesday laid out a vision of democratising access to advanced technology and said the emerging digital technologies had the power to significantly empower ordinary Indians, and small and medium businesses in the country.
+
+ Nadella also announced several new solutions designed by Microsoft with this purpose. They are solutions for India, and, to a significant degree, ‘Made in India’, and points to a company that is trying to go beyond its traditional   and   and build a substantially broader audience in the country. 
+ 
+ “I was a product of Microsoft technology reaching me where I was growing up, and my entire story is an outgrowth of that. So that’s always front and centre for me,” he said at a Microsoft conference-cum-tech exhibition here. Nadella, who was appointed CEO of Microsoft three years ago, grew up in Hyderabad, did a Bachelor’s in electrical engineering from Manipal University between 1984 and 1988, and then went to the US, where he did a Masters in computer science and an MBA.
+ 
+ Among Microsoft’s new offerings are a lighter version of its   video and voice calling app to cater to the mass of Indians who own mid-range and low-end smartphones, and a skilling-cum-job search/hiring platform for low-skilled people. The new solutions also work with   authentication, enabling simple and extensive reach. “It all started with the investment we made 17 months ago in bringing world class   infrastructure to India,” Nadella said. Cloud allows use of computing resources on a pay-per-use model, obviating the need to expend huge amount of capital on buying hardware and software licences.
+ 
+ The new Skype, called Skype Lite and built with the help of Microsoft’s development centre in Hyderabad, occupies just over a third of the storage space of the original Skype, consumes far less data and has features that are not available yet on the original version — it integrates, for instance, your Skype calls, messages and contacts with your mobile calls, SMSs and contacts, so you can do everything from the one app. 
+ 
+ With this, Skype — once the go-to app for international video-calling on PCs, especially for parents calling their children living overseas, and which lost out in the mobile era — carries the potential to challenge the popular WhatsApp and Facebook Messenger apps.
+ 
+ The skilling-cum-job-search/hiring platform combines Microsoft’s cloud, video, machine learning and other technologies with LinkedIn’s assets. Called  , it is an open platform that will allow any vocational training content provider to offer courses over the cloud. A training aspirant can go through all the options available and choose the one she wants.
+ 
+ When the candidate joins, the system will create a LinkedIn-like profile of her, and this profile will be updated appropriately as the candidate enhances her skills. At the other end, companies wanting to hire, say, hospitality, retail or construction staff, can upload their requirements. Sangam will match these requirements with those of the trained personnel and offer options to both sides.
+ 
+ “It gives every person in India the opportunity to skill themselves and find jobs,” Nadella said.
+ 
+ 

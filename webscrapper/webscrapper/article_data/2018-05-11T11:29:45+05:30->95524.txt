@@ -1,0 +1,13 @@
+NAGPUR: Final year mechanical engineering students of Priyadarshini Bhagwati College of Engineering have successfully modified a Maruti 800 car to run on acetylene gas produced by mixing water with limestone. The gas is produced by combining calcium carbide (limestone) with water in a cylinder placed inside the trunk. The car can also run on petrol if desired.
+
+ The researchers claim using acetylene almost doubles the mileage, minimizes exhaust gases and reduces fuel cost by increasing the distance run per kg of carbide. It replaces fossil fuel and hence is more environment friendly. “Though a litre of petrol is slightly more expensive than a kilo of calcium carbide (difference of just Rs3 to 4) a car running an average of 12km on a litre of petrol runs 21-22 km on acetylene produced from a kilo of calcium carbide,” said Rishikesh Lanjudkar, a team member.
+ 
+ Since acetylene is a highly flammable gas used for welding, care must be taken that pressure in cylinder doesn’t cross a particular limit. The students have provided two valves to release gas if pressure exceeds the limit. The pressure can be read on a gauge fixed on the cylinder. “We need to shift pressure regulator to the front so the driver can control the pressure. We are working on it,” said Lanjudkar.
+ 
+ Other members of the project team are Rajat Bhoj, Prasad Padade, Suraj Salve, Rupesh Nikhade, Sachin Paunikar, Shubham Mungale, Shrinidhi Taksale and  . The project was guided by Prof  .
+ 
+ Students are also working towards controlling temperature within the cylinder. They have plans of putting tubes over the cylinder to carry a coolant to regulate the temperature. A temperature gauge will also be fixed in the later version. They are also trying to dveelop a process to clean the limetone slurry produced as waste. 
+ 
+  said there was no big change in the engine except the fuel inlet has been tilted by just two degrees. College principal N K Choudhari said the system needed many modifications to improve the working and remove deficiencies. There is plan to reduce cylinder size and improve the average. The students will also patent the process. 
+ 
+ 

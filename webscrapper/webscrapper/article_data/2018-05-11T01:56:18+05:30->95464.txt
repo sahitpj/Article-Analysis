@@ -1,0 +1,27 @@
+GURUGRAM: A massive exercise to overhaul Gurugram’s outdated power infrastructure and build a modern grid that minimises the possibility of outages caused by breakdowns began on Thursday with a completion   of June 2019.
+
+ The project, estimated at Rs 1,300 crore, was long overdue — it began three years after it was announced by former   Piyush Goyal. 
+ 
+ But when the new grid is completed, the city’s dependence on high-capacity gensets is expected to reduce substantially.
+ 
+ Called the ‘smart grid’ project, work on building it was jointly kicked off by power discom   and   Project. To begin with, all overhead lines will be shifted underground. 
+ 
+ The grid will be designed as a ring main system that helps eliminate power cuts. The existing grid is a radial   that takes much longer to restore in case of a breakdown. 
+ 
+ Work to take the lines underground started at Palam Vihar and will expand across the Maruti and IDC subdivisions as part of the Rs 239-crore first tender that was assigned to Tata last September. The second tender has been assigned to Vindhya Telelinks. 
+ 
+ The shifting of lines underground will be done using a method called trenchless boring where machines insert 600mm cables encased in a protective polyvinyl pipe underground. 
+ 
+ As the lines are laid, areas where work gets completed, will start receiving power through the new network. By June 2019, they are expected to cover   sectors 1-57.
+ 
+ Officials said the new boring technique would simply send the lines into the ground from one point from where they would be projected across to join other lines before eventually forming a ring main system of 11 kV  . As the underground system builds up, around 2,500 11-metre-high poles supporting overhead infrastructure across the city would be knocked down. The underground system will also make the grid immune from storms and rain. 
+ 
+ “Tata is using state-of-the-art technology in this drilling,” said Sanjeev Chopra, chief engineer of DHBVN and the  . “The project costs Rs 1,300 crore but we are going to implement in in various small tenders. The first two tenders worth around Rs 250 crore each have been assigned. The third one is in allotment stage,” he said. 
+ 
+ The 11kV feeder line that forms the backbone of a power distribution network will go entirely underground. The secondary infrastructure, like step-down transformers that send power to homes, will remain above the surface.
+ 
+ The four phases in which the project would be executed involve moving all 11kV lines underground, establishing a Supervisory Control and Data Acquisition System (Scada), installation of new meters at all homes and strengthening the low-tension wire system. 
+ 
+ A total of 2,820 km of cable would be laid as part of the project.
+ 
+ 

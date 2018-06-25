@@ -1,0 +1,15 @@
+RAIPUR: In a unique experiment, a government district hospital in   in   has introduced e-services by introducing   (UHID) for the online appointments of the patients and uploading their case history on the district hospital's portal. 
+
+ Talking to TOI, e-hospital's nodal officer Dr   said, "In the first phase, the software is uploading patient's case history on the hospital's portal and the feature of online appointment is inbuilt in the software, which will be introduced in coming months. The e-services are functional in OPD, IPD, blood bank and at billing counter."
+ 
+  District hospital's superintendent Dr   said, "The district hospital is rendering e-services through UHID since last one month and so far 4,000 patients are issued UHID by registering their Aadhar number and contact number for the registration." 
+ 
+ By rendering e-hospital services, Dhamtari's district hospital aims to save the time and energy of patients and once the unique ID is issued, the patient skips the formalities of enrolling their details while switching from OPD to IPD. The case history of the patient can be referred by any private or government hospital equipped with e-hospital services and even if the patient visits a private clinic, the doctor can retrieve patient's case history by referring district hospital's web portal.According to the nodal officer, the UHID will ease the documentation of the influx of the patients registering for treatment in district hospital and UHID registration assist doing the registration process as it will generate a unique health identification number for the patient and guide the patient. 
+ 
+ The administrative authorities added that e-hospital is an open source health information management system. 
+ 
+ It is a generic application, which addresses all major functional areas of a hospital and end-to-end solution software for hospital management which covers complete treatment cycle of OPD/IPD as well integrates clinical, administrative, billing and insurance activities.
+ 
+ In the first phase, the software is uploading patient's case history on the hospital's portal and the feature of online appointment, which is inbuilt in the software, will be introduced in coming months. The e-services are functional in OPD, IPD, blood bank and at billing counter
+ 
+ 

@@ -1,0 +1,10 @@
+KOLKATA: The government will soon introduce a   to help them access and avail  . The plan is to provide and deliver prompt and   through a single platform. This will help them avoid visiting   and downloading multiple mobile applications.
+
+ The estimated project cost, including one-time development charges and recurring charges, to develop the mobile platform has been pegged at Rs 6.94 crore. The state information and technology department is working on building up the platform.
+ 
+ The state wants to take full benefit of the increasing progress of mobile technology by bringing various e-governance services pertaining to citizens, investors and businesses on a single mobile platform. A mobile device provides the flexibility to a person to avail of services in real time. Since the penetration of mobile phones in the state is increasing, providing e-services to citizens through a single platform is expected to improve the ease with which services can be delivered to citizens.
+ 
+ Presently, a person has to visit multiple websites, log in multiple times, remember multiple user names and passwords to avail e-services. A citizen also often has to download multiple mobile applications and log in individually for each service. Besides, integration of mobile app with   and payment gateway has to be done individually. All these multiple online services will be brought under a single platform for the convenience of the users and to deliver services fast.
+ 
+ Users, who do not have smart phones, can access the service through mobile delivery channels like SMS, outbound dialler, interactive voice response system, unstructured supplementary service data and missed call services.
+ 

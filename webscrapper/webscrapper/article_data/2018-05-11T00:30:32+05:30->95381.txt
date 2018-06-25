@@ -1,0 +1,20 @@
+NEW DELHI: In the season of thunderstorms that are putting human lives at risk, the country's eyes in the sky are helping warn citizens about extreme weather events.
+ 
+ 
+  ( ) plays a significant role in weather prediction as it provides satellite data to   ( ) and processes weather data for public consumption.
+ 
+ Besides, the space agency helps states and disaster management bodies such as NDMA gear up to deal with any natural calamity.
+ 
+ Isro’s two key centres, Ahmedabad-based Space Applications Centre (SAC) and Hyderabad-based National Remote Sensing Centre (NRSC), are engaged in satellite data collection and processing related to weather, respectively.
+ 
+ Tapan Misra, director of SAC, told TOI, “We first collect data from different meteorological satellites like Insat-3D, 3DR and Scatsat. We then make correction in this data, which usually gets distorted due to atmospheric disturbances and other factors. We then send data to IMD. We also write software, which are then used by IMD and NRSC. Though day-to-day processing of satellite data are done directly by IMD and NRSC, some experimental atmospheric data is uploaded by our Ahmedabad centre on our website MOSDAC, which can be used by users for scientific research and study related to climatic condition.”
+ 
+ Isro from time to time also does some post-calamity damage assessment. It had put maps on its website related to heavy rains in Tamil Nadu taken from its satellite RADARSAT-2 in 2015 and flash floods in Gujarat and Rajasthan in 2017 showing affected areas. The maps and data were used by respective state governments to assess the extent of damage caused by floods and plan relief and rehabilitation operation.
+ 
+ Santanu Chowdhury, director of Hyderabad-based NRSC, told TOI, “We process data of other satellites like Resourcesat-2A. The data relating to weather, land and forest are processed and then put on our portal Bhuvan. We also do ocean-colouring monitoring.”
+ 
+ Senior Isro scientist and former NRSC director YVN Krishnamurthy told TOI, “Insat-3D has a sounder with which we can make a profile of clouds, just as we measure cloud cover, water vapour and humidity. Scatsat-1 satellite provides wind vector data products for weather forecasting, cyclone detection and tracking services to users. Krishnamurthy said, “Technically, India is strong but we need to strengthen our response mechanism. In some areas where freak weather conditions do not appear frequently, the state’s response mechanism is poor.”
+ 
+ “But gradually things are improving. Like, Telangana recently took an initiative to update its population about hot weather conditions so as to reduce casualties due to heat wave condition. Working on the initiative, Isro allowed state cable operators directly connect to Gsat transponders and made doctors speak on TV channels to update the masses about heatwave conditions. Because of the smooth information flow and timely advisory, casualties due to heatwave has reduced drastically in the last three years,” he said.
+ 
+ 

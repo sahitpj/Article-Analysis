@@ -1,0 +1,13 @@
+NAGPUR: An online racket, which operates by deactivating   cards, has duped two city-based mobile   users of Rs1.69 lakh by posing as representatives of mobile phone service providers, like  . After Pune, such frauds surfacing in the city have left city police, and Cyber Complaint Cell (C3) concerned, with probes launched into both frauds.
+
+ Sources in C3 said the racketeers trap their targets by calling them up on their cell phones, and informing them that either their SIM card is close to expiry of it’s validity period, or is being deactivated due to non-linking with Aadhaar card, or some such trick. Subsequently, the callers send a 20-digit number on the cell phone of their victim, and ask them to press the option of ‘yes’ and send it back to ‘121’, which is the customer care number for Airtel, with the assurance that this action would keep the SIM card operational.
+ 
+ A C3 official said the targets, without reading the SMS properly, which categorically says that accepting it would deactivate their SIM, would go for ‘Yes’ option, as per the insistence of the racketeers. Opting for ‘Yes’ by the original owner of the SIM paves the way for it’s deactivation. For quite some time, the SIM owner fails to realize that his or her SIM has been blocked or deactivated while another SIM of the same number has been issued to the racketeers.
+ 
+ Senior officials from C3 cell said that it is still not known how the racketeers manage to have access to other vital information of the victims’ financial details, including debit and credit card numbers and so on. “Once the racketeers manage to get the original owner’s SIM issued in their name, they start generating One-Time Passwords (OTP) for their various personal use, including cash transfers. They use the information on financial details of the victims, which they have already procured in the past,” said an officer.
+ 
+ “It seems that getting the SIM of the original owner de-activated is the last process in the entire fraudulent exercise, which begins with data theft of the victim, especially pertaining to the financial details,” he said.
+ 
+ In the two latest cases, the victims had approached the nearest Airtel outlet asking how their SIM has been blocked. When told of the issuance of duplicate SIM, the victims rushed to their banks. While one found that Rs99,990 had been transferred from her account through Unified Payment Interface (UPI), the other suffered a loss of around Rs70,000.
+ 
+ 

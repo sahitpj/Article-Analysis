@@ -1,0 +1,17 @@
+GURUGRAM: A 28-year-old woman was cheated of Rs 1 lakh on May 3 by a man who claimed to be an executive calling from her telecom operator’s office. 
+
+ “I am using Airtel for the last 10 years. On May 3, I received a call from a man, who identified himself as a customer care executive, and asked me to reveal my   number for the verification process. He then sent me an SMS which he asked me to forward to 121 (the customer care number),” Nidhi Sharma, a resident of Sector 10A, told the police. 
+ 
+ Allegedly, the man told her that after forwarding the message, her mobile number would get deactivated for 24 hours by when the verification would be completed. 
+ 
+ The message, that the accused sent, had a 20-digit number. Within 5 minutes of Sharma forwarding the SMS, her SIM got deactivated. “In the meantime, I noticed some alerts on my email id about some net-banking login attempts,” Sharma said. She realised that she had been cheated and immediately called her bank’s customer care, asking them to block her account. 
+ 
+ Next day, when she visited the bank, she was informed that Rs 1 lakh was withdrawn from her account in three transactions (Rs 50,000, Rs 25,000 and Rs 25,000). “Though my SIM card wasn’t working, I didn’t get any transaction alert on my email id too. More so, even if the accused hacked my bank account, I can’t understand how they got the unicode, that bank shares only with customers,” Sharma said. 
+ 
+ She approached the cyber cell of Gurugram police on Sunday and filed a complaint. According to the cops, several people have fallen prey to   in the name of Aadhaar verification recently. 
+ 
+ “The message that Sharma was asked to forward to 121 was for SIM swapping. Therefore, her number got deactivated,” said a cyber cell officer. 
+ 
+ An FIR under relevant IPC and IT Act sections has been registered in Cyber Cell police station 
+ 
+ 
