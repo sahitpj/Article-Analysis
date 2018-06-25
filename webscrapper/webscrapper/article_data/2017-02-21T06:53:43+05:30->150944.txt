@@ -1,0 +1,12 @@
+HYDERABAD: It is not uncommon to find people plugging in   such as  . While people may not think twice about this every day phenomenon, experts warn that this simple act could come at a huge price -compromised information.
+
+ According to a recent study conducted by Kaspersky labs, smartphones can be compromised when charged using a public USB connection. In the study , experts said that while the phone is charging, sensitive data such as pictures, contacts and GPS details can be accessed by hackers. The city police has been alerted and they in turn are asking people to be careful.
+ 
+ “We are yet to register such a case, but one must be very careful in a city like Hyderabad where   is common and hackers can always siphon away information using gadgets,“ said a cyber crime department official.
+ 
+ In the study , experts tested smartphones working on Android and iOS. They found that acomputer can access many details of a mobile phone connected to it such as the device name, device manufacturer, device type, serial number, firmware information, operating system information, file list, and information about the chipset.
+ 
+ “While the amount of data sent during charging depends on the device and the computer, each smartphone transfers the same basic set of information,“ said the study . Experts warn that the automatic upload of photos, for instance, is a standard setting of many photo album managers, dropbox and applications.
+ 
+ “If the smartphone automatically connects when it is in removable media mode, it makes all files in internal storage accessible to the PC. These may include documents as well as various data backup copies created by applications,“ an official said.
+ 

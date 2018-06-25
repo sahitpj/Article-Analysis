@@ -1,0 +1,24 @@
+PUNE:   police will be the first police force in the country to acquire an automated multi-modal biometric identification system ( ) for detection of crime based on the available fingerprint, palmprint and iris scan data of criminals on record as well as chance finger/palmprints collected from crime scenes. The new system will mark a shift from the prevailing manual detection system — using magnifying glasses — to a highly-accurate, tech-driven process.
+
+ Sanjay Kumar, the additional director-general of police and state CID chief, said “AMBIS is a smart system. A French firm and its Indian ally have bagged the contract to supply the software and equipment to the state police.”
+ 
+  
+ 
+ The state government has released Rs 50 crore for the project and will provide another Rs 3.50 crore, a CID official said. The machine and the software have the capacity to match thousands of fingerprints in minutes, he added.
+ 
+ 
+ The main AMBIS server in Mumbai will be directly connected to all the police stations for fingerprint, palmprint, iris scanning and detection. AMBIS will help keep a track of the accused in serious offences by way of their biometric record. The system will also improve the conviction rate in the state.
+ 
+ 
+ The CID, at present, has a digital record of 6.20 lakh criminals. It will supply desktopbased workstations, flatbed scanners, printers, live scanners, palmprint live scanners, web cameras, iris scanners, UPS backups, to 1,173 police stations in the state, 10 workstations to the prisons and 10 portable units to expert fingerprint analysts who visit crime scenes.
+ 
+ 
+ “The server will save fingerprints, palmprints, photographs and iris biometric features of accused/suspects obtained after they are arrested/detained. Many suspects commit crimes after they obtain bail and if their prints are found at a new crime scene, they will be nabbed without any delay,” an official said.
+ 
+ 
+ “Once the matching is done, the system will send the results to the concerned police station without a delay using online facilities,” Kumar said. If the suspect is on record, he/ she can be arrested immediately, he added.
+ 
+ 
+ Also, there are times when forensic experts obtain chance fingerprints at crime scenes. With the portable devices, these prints can be uploaded to the server and the server can scan them. If the suspects have a previous record, it will generate the result and if not, a “nil” report will be generated. The prints will be saved.
+ 
+ 

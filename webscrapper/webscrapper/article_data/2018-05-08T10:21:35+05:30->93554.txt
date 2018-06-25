@@ -1,0 +1,32 @@
+NEW DELHI: Come May 25, and internet and tech companies that handle user data of any sort will have a new legal provision to comply with. The   or the   is a new law that will come into force in the   later this month.
+
+ 
+ 
+ 
+ 
+ GDPR enshrines data protection and privacy rights for European users, and holds companies handling their data, wherever they may be, liable for violations. The penalties run into hefty fines — highest being 20 million euros or 4% of annual turnover — whichever is greater.   has sprung into action to redistribute its data-handling operations. Microsoft-owned LinkedIn has done the same. Twitter has updated its privacy policy too. Indian tech, publishing and e-commerce companies will also have to review how they handle, store and erase data.
+ 
+ 
+ 
+ 
+ The EU law comes into force on May 25, and decrees that consumers or “data subjects” have right to erasure of their data and a right to port their data from one place to another. It also places a premium on the data subjects’ consent to collection and processing of data. Although the law is being introduced in the EU, its ramifications extend the world over. That is because it is not focused on regulatory measures for tech companies, but rather on the protection of EU citizens and their data. Since internet and tech companies the world over handle data from across the globe, the consequences of breaking the law extend to them. The law was introduced in 2016, with data controllers and processors the worldover given two years, until this year’s May deadline to comply.
+ 
+ 
+ 
+ 
+ In April, a Goldman Sachs report said that Facebook, which got 24% of its global revenue from EU, could suffer a negative impact of up to 7% because of GDPR. That month, Facebook recalibrated its operations in such a way that non-EU users, who earlier fell under Facebook’s Ireland incorporation, were shifted to the US-based counterpart.
+ 
+ 
+ 
+ Experts and industry watchers say Indian companies are still behind when it comes to GDPR compliance. “We have been speaking with organisations for the last 18-24 months. Most companies have woken up to this only six months ago. Some of the Fortune 500 companies and other MNCs have done good work in data discovery and information flow mapping. Smaller organisations are not well-prepared. They feel it is a distraction from core business,” says Shree Parthasarathy, national leader for cyber risk services, Deloitte.
+  
+  
+ 
+  
+  
+ 
+ Industry bodies in India are attempting to handhold companies through the regulatory maze.   and the   held familiarisation workshops in March in Delhi, Mumbai and Bengaluru. “Nasscom has also launched a GDPR Helpdesk for member companies to have their questions resolved,” says Gagan Sabharwal, senior director for global trade development, Nasscom.
+ 
+ 
+ You will continue to use online products and services the way you did. The EU law is not designed to protect citizens outside of it. Indian businesses handling EU user data, however, will have to take another look at the way they collect and use data or face massive fines.
+ 

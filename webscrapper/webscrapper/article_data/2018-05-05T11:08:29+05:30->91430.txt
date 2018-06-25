@@ -1,0 +1,34 @@
+CAPE CANAVERAL:  's next   explorer is going to have company all the way to the red planet: a couple of puny yet groundbreaking sidekicks.
+
+ 
+ Named after the characters in the 2008 animated movie, the small satellites WALL-E and EVE are hitching a ride on the Atlas V rocket set to launch early on Saturday morning from California with the Mars InSight lander.
+ 
+ Similar in size to a briefcase or large cereal box, the satellites with pop out from the rocket's upper stage following liftoff and hightail it to Mars, right behind InSight.
+ 
+ It will be the first time little cube-shaped satellites, CubeSats as they're known, set sail for deep space. The journey will span six and half months and 300 million miles (485 million kilometers).
+ 
+ A brief look at the $18.5 million experiment tagging along with InSight:
+ 
+ 
+ 
+ Miniature satellites, or CubeSats, have been piggybacking on big-ticket space missions for well over a decade, providing relatively cheap and fast access to orbit for students and other out-of-the-mainstream experimenters. Until now, the hundreds of CubeSats have been confined to Earth orbit. That's about to change with NASA's Mars Cube One project, or MarCO . 
+ 
+ The  , meanwhile, has its CubeSat sights on the moon. A recent competition yielded two winning proposals: a CubeSat to explore the moon's far side from lunar orbit, another to probe a permanently shadowed crater near the moon's south pole, also from lunar orbit. NASA is also looking to send CubeSats to the moon, as well as an asteroid.
+ 
+ 
+ 
+ 
+ It turns out that these twin cubes are equipped with the same type of cold gas propulsion system used in fire extinguishers to spray foam. The movie WALL-E uses a fire extinguisher to propel through space. Team members couldn't resist the connection, thus the names WALL-E and EVE for the two mini spacecraft. Engineers want to test this compact propulsion system for guiding the 30-pound (13.6-kilogram) cubes to Mars.
+ 
+ 
+ 
+ 
+ Once free from the rocket's upper stage following liftoff, WALL-E and EVE will trail a few thousand miles (kilometers) behind InSight en route to Mars. The two mini spacecraft will also be a few thousand miles (kilometers) apart from one another. That's to prevent any collisions or even close calls. While that may seem far apart, it's actually fairly close by space standards, according to Brian Clement, an engineer on the project at NASA's Jet Propulsion Laboratory in Pasadena, California. While InSight will be stopping at Mars on Nov. 26, WALL-E and EVE will zoom past the planet from about 2,200 miles (3,500 kilometers) out. Don't expect any Thunderbird pilot-theatrics as the cubes fly by, like a tilting of the solar wings in salute. "That would make a great movie, but that's definitely not the way we're going to do it," Clement said.
+ 
+ 
+ 
+ Besides testing the cubes' maneuvering system, NASA wants to see if WALL-E and EVE can transmit data to Earth from InSight during its descent to Mars. If the experiment succeeds, it should take just several minutes for flight controllers to hear from the cubes. No worries if they're silent. NASA will rely on the Mars Reconnaissance Orbiter already circling the planet as the main communication link with InSight during descent and touchdown. It will take a lot longer, though, to get confirmation. The beauty of a CubeSat relay system is that it could provide descent information at planets and other cosmic stop-offs lacking established communications.
+ 
+ 
+ Once past Mars, WALL-E and EVE will remain in an elliptical orbit around the sun, together for years to come. But they won't work for long. Once they run out of fuel, they won't be able to point their solar wings toward the sun for recharging.
+ 

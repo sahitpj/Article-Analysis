@@ -1,0 +1,36 @@
+WASHINGTON:   scientists have successfully developed glow-in-the-dark mice using compounds that create proteins responsible for lighting up fireflies, an advance that may pave the way for new gene therapies.
+
+ Timothy Blake, a postdoctoral fellow at   in the US refined compounds that carry instructions for assembling the protein that makes fireflies light up and delivered them into the cells of an anaesthetised mouse.
+ 
+ Not only did the technique make the mouse glow, it also later woke up and ran around, completely unaware of the complex series of events that had just taken place within its body, researchers said.
+ 
+ This success could mark a significant step forward for gene therapy.
+ 
+ It is hard enough getting these protein instructions, called messenger RNA (mRNA), physically into a cell.
+ 
+ It is another hurdle altogether for the cell to actually use them to make a protein. If the technique works in people, it could provide a new way of inserting therapeutic proteins into diseased cells.
+ 
+ "It's almost a childlike enthusiasm we have for this," said Robert Waymouth, a professor at Stanford.
+ 
+ "The code for an insect protein is put into an animal and that protein is not only synthesised in the cells but it's folded and it becomes fully functional, capable of emitting light," said Waymouth.
+ 
+ Although the results are impressive, this technique is remarkably simple and fast. Unlike traditional gene therapy that permanently alters the genetic makeup of the cell, mRNA is short-lived and its effects are temporary.
+ 
+ The transient nature of mRNA transmission opens up special opportunities, such as using these compounds for vaccination or cancer immunotherapy.
+ 
+ Gene therapy is a decades-old field of research that usually focuses on modifying DNA, the fundamental genetic code. That modified DNA then produces a modified mRNA, which directs the creation of a modified protein.
+ 
+ The current work skips the DNA and instead just delivers the protein's instructions.
+ 
+ They used a novel, deceptively straightforward creation, called charge-altering releasable transporters (CARTs).
+ 
+ "What distinguishes this polycation approach from the others, which often fail, is the others don't change from polycations to anything else," said Paul  , professor at Stanford.
+ 
+ "Whereas, the ones that we're working with will change from polycations to neutral small molecules. That mechanism is really unprecedented," Wender said.
+ 
+ As part of their change from polycations to polyneutrals, CARTs biodegrade and are eventually excreted from the body.
+ 
+ One application of this technology is vaccination. At present, vaccines require introducing part of a virus or an inactive virus into the body in order to elicit an immune response.
+ 
+ CARTs could potentially cut out the middleman, directly instructing the body to produce its own antigens. 
+ 

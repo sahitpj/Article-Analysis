@@ -1,0 +1,10 @@
+KOLKATA: Experts at IIT-Kharagpur have designed a free mobile app to help users quantify and fight stress. The app —   — is derived from the words ‘dhyan’ (meditation) and android (as it is designed for smartphone users).
+
+ The app has two variants that will be launched by June 10. While android users can download it from Google Play Store, those with iPhones can also avail it through App Store.
+ 
+ According to the developers, this app will help users become emotionally stable and bring depression under control. It has two parts — self-evaluation and instructive meditation. One can check their stress level by following instructions, lasting one, two or five minutes. The answers provided by the users to some leading questions calculate the stress level in real time. It also assesses the user’s cognitive performance, emotional intensity and aggression level. The advanced level creates a virtual simulation through thermal imaging, vibrations and music to make users feel they are in a meditation room. The next step allows users to follow instructive meditation — graded breathing and simple yoga techniques — to achieve a stress-free state.
+ 
+ “This is the first comprehensive application, which allows user feedback and inculcates physiological signals along with instructive meditation,” claimed Aurobinda Routray, a senior faculty member of electrical engineering at the institute. Routray developed the app with a team of researchers — Anirban Dasgupta, Anushree Basu, Shubhobrata Bhattacharya, Subhasmita Sahoo, Rajlakshmi Guha and Manorama Nayak.
+ 
+ The team is also working on a second app, Smart Yoga Monitor (SYM), that will guide users step by step to master various asanas. “The app will help you virtually enter a yoga room through unobtrusive imaging and guide you through the asanas. Moreover, the app has sensors to detect faulty movements and alert users,” added Routray. SYM app would be available by June-end promised Routray.
+ 

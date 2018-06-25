@@ -1,0 +1,30 @@
+NEW DELHI: In a significant development,   ( ) has developed an atomic clock that will be used in navigation satellites to measure precise location data. The space agency currently imports atomic clocks from European aerospace manufacturer Astrium for its navigation satellites.
+
+ 
+ Tapan Misra, director of Ahmedabad-based Space Applications Centre (SAC), said, “SAC has developed an indigenous atomic clock and this clock is currently undergoing a series of qualification tests. Once it successfully clears all tests, the desi atomic clock will be used in an experimental navigation satellite to test its accuracy and durability in space.”
+ 
+ The SAC director said, “With the development of the desi atomic clock, Isro has become one of the few space organisations in the world which have gained the capability to develop this highly sophisticated technology. We don't know the design and technology of the imported atomic clock. But the desi clock has been developed based on our designs and specifications. This clock is as good as the imported one. We are hopeful that it will easily work for more than five years.”
+ 
+ All seven navigation satellites launched earlier as part of Indian Regional Navigation Satellite System (IRNSS) or NaVIC have three imported Rubdium atomic clocks each.
+ 
+ On functioning of these atomic clocks,   said, “Atomic clocks in all the seven satellites launched earlier are synchronised. The time difference between the atomic clocks of different satellites positioned at different orbits are used to measure the accurate positioning of a navigation receiver or an object on the Earth.
+ 
+ 
+  
+  
+ 
+  If an atomic clock malfunctions, the time difference calculated between it and other clocks is not accurate which, in turn, gives inaccurate positioning of an object. Besides atomic clocks, a navigation satellite also has crystal clocks but they are not accurate as atomic clocks. Therefore, if three atomic clocks of a satellite show error, we need to launch a back-up satellite with new atomic clocks."
+ 
+ According to a reliable source in Isro, nine of the 21 atomic clocks used in some of the seven navigation satellites launched are showing error. Isro is, therefore, planning to launch four backup navigation satellites to keep the Navigation with Indian Constellation (NaVIC) effective. These backup satellites, which are likely to have indigenous atomic clocks too, will add buffer to the desi GPS system. “Isro will first need financial clearance from the government for the backup satellites,” says the source.
+ 
+ Last month on April 12, Isro successfully launched navsat IRNSS-1I to replace India's first navigation satellite IRNSS-1A, whose three atomic clocks had stopped working two years ago. IRNSS-1I thus completed the constellation of seven functional navsats needed in space to keep the NaVIC operational.
+ 
+ Tapan Misra said, "Atomic clocks have sophisticated technology. They could stop working because of different reasons. It's not only Indian navigation satellites, but atomic clocks in satellites of Galileo (European Union's navigation satellite system) had also failed earlier."
+ 
+  
+  
+ 
+ NAVIC was approved by the government nearly 12 years ago at a cost of Rs 1,420 crore to establish an indigenous satellite based navigation system to provide position, navigation and timing services over the Indian landmass and surrounding region extending up to 1,500 km. Though the indigenous navigation system is very much operational, it is not as popular as the American GPS in the country because the receiver and mobile chipset needed to access the desi system have not been commercialised.
+ 
+ 
+ 

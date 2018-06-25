@@ -1,0 +1,53 @@
+Solar energy, once a niche application for a limited market, has become the cheapest and fastest-growing power source on earth. What's more, its potential is nearly limitless-every hour the sun beams down more energy than the world uses in a year. Recognizing this, Prime Minister   has set an audacious target to build 100 gigawatts (GW) of solar capacity to power India's growing economy, expand energy access, and limit India's contribution to climate change.
+
+ 
+ But in my new book, 
+ , I argue that the world is not yet equipped to harness the full potential of sunshine, and India in particular is headed for trouble. Solar only generates 2 per cent of global electricity, and must surmount formidable barriers before substantially displacing fossil fuels. Those barriers-from a shortage of investment to stagnant solar technology to the unpreparedness of power grids to handle large amounts of volatile renewable power could cause solar's heady surge to flame out, halting a clean-energy transition.
+ 
+  
+  
+ 
+ Three types of innovation can boost solar's long-term prospects. Financial innovation can deliver the trillions of dollars that solar needs to continue its meteoric rise. Technological innovation can radically bring down the cost of   and expand its applications. And systemic innovation can transform energy systems so they can handle the surges and sags of intermittent solar power even as more of it comes online.
+ 
+ India is among the most ambitious countries in the world when it comes to harnessing  . So Indian policymakers should urgently prepare for the future by promoting the innovations solar needs to continue rising.
+ 
+ 
+ 
+ The most pressing problem solar faces is a shortage of capital investment to build new  . Through 2040, Bloomberg projects a shortfall of $2.5 trillion of investment in solar, compared with the level needed to avert catastrophic climate change. In India, reaching the 100 GW target will require on the order of $100 billion in investment.
+ 
+  
+  
+ 
+ The problem is not that solar is too expensive. In fact, its cost has plunged, as developers offered to build solar projects and sell the electricity for less than 3 rupees per kilowatt-hour (kWh) in 2017. But other factors have left investors skittish about funding new projects in India. Foreign investors fear that the rupee will devalue; all investors are wary of the creditworthiness of state electricity discoms that might renege on their contracts to purchase solar electricity over multiple decades. Other investment barriers are not specific to India. The world's wealthiest investors are uncomfortable investing in solar projects, which cannot be bought and sold in a highly liquid market.
+ 
+ But financial innovation is under way to change that. In India, infrastructure investment trusts could enable large institutional investors to buy shares of a diversified portfolio of solar projects. And in January, a Canadian pension fund invested in India's largest solar developer, ReNew Power, marking the entry of the world's largest investors into India's solar market. The government can help open the spigots of private capital flows. For example, a public fund that helps investors offset foreign currency hedging costs could reduce the cost of foreign capital investment. And further reforms to discoms could improve their financial situation and help them honor solar power purchase contracts.
+ 
+ 
+ 
+ Yet financial innovation alone might still leave solar far short of reaching its potential. Today, over 90 per cent of solar panels are made from silicon, a material that for over 70 years has dependably fallen in cost. Yet even though silicon solar panels are cost-competitive with fossil-fueled power plants today, that may cease to be true in the future. As more solar panels are installed, they will flood the grid with electricity in the middle of the day, driving down the value of solar power. In other words, even as the cost of generating solar power gently declines, the value of consuming that electricity could fall even faster as more solar connects to the grid.
+ 
+  
+  
+ 
+ For solar power to remain economical even as more of it is deployed will require new materials that are dirt-cheap and highly efficient at converting sunlight into electricity. Fortunately, promising alternatives to existing silicon technology already exist in scientific laboratories around the world. The frontrunner, 
+  could one day enable industrial-scale printing of rolls of high-efficiency solar coatings in a range of colors and transparencies. In the future, solar power could be ubiquitous, with flexible, lightweight, and aesthetic coatings wrapped around skyscrapers or deployed atop shanty roofs in urban outskirts.
+ 
+ Commercializing these breakthrough technologies will require public investment. India was among the countries that signed on to the 2015 Mission Innovation pledge to double energy research and development (R&D) funding. It should follow through on that commitment, and it should expand efforts such as its solar R&D partnership with the United States. By contrast, the government's proposed 70 per cent import tariff on solar panels is not at all the right approach to supporting innovation, just as 
+ . Steep tariffs might encourage limited domestic manufacturing of existing silicon solar technology, but they would decimate the burgeoning market for deploying solar power and fail to advance the next-generation solar technologies India and the world will need.
+ 
+ 
+ 
+ If India meets its 100 GW target for solar, solar will provide just 10 per cent of India's annual electricity, but that figure masks the enormous variability of solar's instantaneous output. For example, in southern states such as Tamil Nadu, solar could supply over a third of all electricity demand in the middle of a summer day but none of it at nighttime.
+ 
+  
+  
+ 
+ India's aging power grids will struggle to integrate this much volatile solar power. Fortunately, the government is proactively investing in transmission lines to evacuate power from solar-rich regions such as Rajasthan to power-hungry cities such as Mumbai. In addition to building a nationwide transmission grid, the government should implement a national electricity dispatch scheme to most cost-effectively route power from areas of surplus to areas of deficit around the country.
+ 
+ In the future, energy systems can be designed even more innovatively to integrate a higher share of solar power. Batteries are increasingly affordable, and they could store excess solar energy for use later in the evening. Also, as India deploys more electric vehicles on the roads, those vehicles could be programmed to intelligently charge up when solar power floods the grid and sell power back to the grid when the sun sets. And if India's utilities invest in a smarter grid, they will be able to send signals to households, businesses, and industry to tailor their electricity use based on when solar power is available. 
+ 
+ India has a golden opportunity to harness solar energy, but only if it plans for the future. That will require investing in innovative technologies and systems that are configured to harness sunlight to meet modern energy needs. The reward-a transition to clean, secure, and abundant energy-will be well worth the effort.
+ 
+ 
+ 
+ 

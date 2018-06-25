@@ -1,0 +1,17 @@
+Mumbai: The international standards body for the payments industry has called for a cybersecurity breach notification law to raise awareness of online criminals. According to the Payment Card Industry ( ) Security Standards Council, the move towards a   post-demonetisation has also sent an invitation to   of a new market opening up.
+
+ In information security circles, any unauthorised access to an individual’s data is called a breach.
+ 
+ The council prescribes the international benchmark for safeguards in electronic payment transactions. To ensure that cashless transactions are safe, the RBI has asked everyone in the payments industry to adopt PCI data security standards.
+ 
+ Speaking to TOI, Jeremy King, international director, PCI Security Standards Council, said that while the migration to a cashless society will be beneficial to a wider population in India and provide greater opportunity to merchants and banks, the biggest challenge is that online criminals have become very organised and global. 
+ 
+ “I am a big supporter of breach notification. Without a breach notification, we pretend we have never been breached, and banks and organisations accept the loss. That means that people think there is no fraud happening when there is a lot of fraud happening,” he said.
+ 
+ The risk to banks were not just in the payments business but wherever personal data was stored. There have been instances when telecom data was hacked to access bank details, King said. While the demand for auditing payments infrastructure has gone up, India is facing a shortage of IT security auditors. “The RBI wants more approved assessors in India to support the large base of merchants and banks. We are working on that. We need more security professionals and we need more organisations,” said King.
+ 
+ Criminals are also learning to work around security features. For instance, with card analytics now identifying unusual patterns based on transactions being done in different pin codes, fraudsters are now selling cards on the Dark Net — an underground network with restricted access used to sell stolen content — based on pin code of the issuer so that the frauds do not ring alarm bells.
+ 
+ According to King, another challenge for the council was that countries are moving away from cards to newer form factors like account-to-account transfers. He added that while people were looking at ways of making new form factors work in a frictionless and secure manner, there were trade-offs. “The balance between risk and security is where we live. You can make something very, very secure, but it’s of no use. So you know that there is a level of risk that you are willing to accept in order to make the process work smooth enough so that people will use it,” said King.
+ 
+ 

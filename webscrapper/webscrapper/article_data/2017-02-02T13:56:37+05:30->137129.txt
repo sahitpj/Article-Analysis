@@ -1,0 +1,20 @@
+MUMBAI: American scientists have made a research breakthrough in their study on dengue, a viral disease that wreaked havoc across India in the last two years, that could help treatment of the disease at a future date.
+
+ Dengue emerged as one of the biggest public health problems of India in the recent past. Data available with India's National   Programme show that dengue cases more than doubled between 2014 and 2015; the central agency noted 40,571 cases in 2014 that increased to 99,913 in 2015. While 137 people died in 2014, 220 died in 2015. In 2016, the increasing onslaught of dengue resulted in 1,1,880 cases and 227 deaths.
+ 
+ Now, a press release from the   on Wednesday, claims to have nailed why certain people are more vulnerable to dengue than others.
+ 
+ Dengue, essentially a viral infection spread by the Aedes egypti mosquitoes, is a relatively mild-mannered disease the first time around. But a second infection by the virus is known to have severe symptoms, including death.
+ 
+ "Patients with severe secondary disease have high levels of a particular type of antibody that triggers a forceful immune response. This distinctive signature did not show up in patients with more mild illness," said senior author Jeffrey V Ravtech of the Rockefeller University.
+ 
+ Their work essentially says that shows how the dengue virus ``co-opts antibodies produced as a result of the previous infection, using them to inflict more damage the second time around." 
+ 
+ Among patients with a second dengue infection, patients can develop hemorrhagic fever, which causes them to bleed abnormally from the nose, gums or under the skin. Less than 15 % people who catch dengue for the second time develop such hemorrhagic fever or shock.
+ 
+ "Previous work in Ravetch's lab suggested differences in antibodies might account for why only some develop severe secondary infections. These Y-shaped proteins help the body defend itself against viruses and other intruders by latching onto infected cells with their arms," said the press release. Their stems, known as Fc regions, bind to immune cells and tell them how to respond. Ravetch's lab has shown that the structure of the Fc region can influence an immune response by, for example, promoting inflammation versus calming it.
+ 
+ In the current study, first author Taia Wang took a close look at the Fc regions of antibodies in blood collected from patients at Siriraj Hospital in Bangkok, Thailand. They found the dengue patients with more serious disease had high levels of antibodies whose Fc regions lack a particular sugar, a variation known to strongly activate immune cells.
+ 
+ "In experiments, the researchers showed that activating signals from these antibodies aggravated the disease by leading to the destruction of blood-clotting cells called platelets. When their platelet levels plummet, patients bleed abnormally-a hallmark of hemorrhagic fever. The lower a patient's platelet count, the more of these distinctive antibodies he or she tended to have,'' added the press release. The discovery of this antibody signature could help fight the disease in a number of ways.
+ 

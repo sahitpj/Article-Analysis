@@ -1,0 +1,29 @@
+JERUSALEM: Scientists have developed a robotic system that can play Tic Tac Toe, and could be used to help stroke survivors improve real-life task performance in a fun manner.
+
+ 
+ Researchers from   (BGU), Israel, designed a game with a robotic arm to simulate "3D Functional Activities of Daily Living" - actions people undertake daily, like drinking from a cup, that are often a focus of rehabilitation.
+ 
+ Designing a social robot to help rehabilitate a patient is a new field which requires much research and experimentation in order to determine the optimal conditions.
+ 
+ "Playing Tic Tac Toe with a set of cups (instead of X's and O's) is one example of a game that can help rehabilitate an upper limb," said Shelly Levy-Tzedek of BGU.
+ 
+ "A person can pick up and place many cups while enjoying a game and improving their performance of a daily task," said Levy-Tzedek.
+ 
+ For the study published in the journal  , researchers compared study participants' motivation to play with a robot vs a set of computer-controlled LED lights to determine the importance of interacting with an actual physical robot.
+ 
+ They tested the system on 62 healthy right-handed people from two age groups: 40 young adults around 25 years old (23 women and 17 men) and 22 older adults around 75 years old (10 women and 12 men).
+ 
+ Both groups preferred the robotic system over the LED lights system. The older adults said it was more human-like, while the young adults reported the robot "was more interesting, fun and appealing."
+ 
+ When asked which partner they would prefer to play two additional games with, both groups selected the robotic system over the lights. However, when asked to play an additional 10 games, the older adults still preferred the robot, but the young group preferred to play against the LED lights system.
+ 
+ "Some of the young adults complained that the robot moved too slowly; therefore, they preferred the quicker system when asked to play many more games," said Levy-Tzedek.
+ 
+ "That indicates a need to personalize the speed of the robot to each participant," she said.
+ 
+ An unexpected finding was that the robot's movement influenced human movement. Both young and older adults moved significantly slower when they played with the slower robot compared to the faster lighting system.
+ 
+ These results indicate that people are willing to continue to interact with a robotic device in a social-like setting, and that embodiment plays an important role, which is a positive sign for the future of such systems.
+ 
+ Now that they have established feasibility, the researchers recommend testing their system on rehabilitating stroke victims.
+ 

@@ -1,0 +1,12 @@
+LUCKNOW: Engineering students from a private college in   have developed a   which is controlled by commands from tongue of the person occupying it. 
+
+ 
+ The unique wheelchair was a major attraction at the   exhibition in Lucknow on Sunday.
+ 
+ The wheelchair is also fitted with GPS system which will give exact location of the person. The wheelchair could be useful for specially-abled persons who are unable to move their hands and legs. 
+ 
+ 
+ Shivam Mishra, a team member said that in in case of disability in whole body, tongue remains unaffected as it is not connected to the  . Using this as basis, the wheelchair takes command with just a movement of tongue of the person sitting on it. The command is transferred to wheelchair with the help of a sensor.
+ 
+ The wheeelchair also has a health monitoring system installed in it. The system monitors the occupant's body functions such as blood pressure. This wheelchair is going to cost around Rs 27,000.
+ 

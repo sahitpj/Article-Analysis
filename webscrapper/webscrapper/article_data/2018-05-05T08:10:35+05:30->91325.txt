@@ -1,0 +1,15 @@
+BOSTON:   can't yet bake a souffle or fold a burrito, but they can cook up vegetables and grains and spout them into a bowl - and are doing just that at a new fast casual restaurant in Boston.
+
+ 
+ Seven autonomously swirling cooking pots - what the restaurant calls a "never before-seen robotic kitchen" - hum at  , which opened on Thursday in the city's downtown.
+ 
+ Push a touch-screen menu to purchase a $7.50 meal called "Hearth." A blend of Brussels sprouts, quinoa, kale and sweet potatoes tumbles from hoppers and into one of the pots. The pot heats the food using magnetic induction, then tips to dunk the cooked meal into a bowl. Water jets up to rinse it off.
+ 
+ Is this a robot chef or just another high-tech novelty machine? Experts differ, but more such automation is likely headed for the fast-food sector in coming years. A report last year by the   said food preparation jobs are highly vulnerable to automation because workers spend so much time on predictable physical tasks.
+ 
+ Currently, there's one big thing holding back the chefbots: "The human labour also tends to be lower-paid," said McKinsey partner Michael Chui, making it less economical to automate those jobs. But that could change as businesses develop cheaper and more efficient robot chefs.
+ 
+ Spyce has those, and automated order-taking kiosks to boot, although it still employs plenty of humans. Founded by four former   classmates who partnered with Michelinstarred chef Daniel Boulud, the restaurant has hired people to do the trickier prep work - parboiling rice, rinsing and chopping vegetables, cutting meat and reducing sauces in an off-site kitchen. But the machinery, equipped with dozens of motors, sensors and moving parts, is the real draw. "The openness of the design was something we wanted from the beginning," said Brady Knight, a co-founder and engineer.
+ 
+ In Mountain View, California, the founders of Zume Pizza have a robotic kitchen that can form pizza dough, apply tomato sauce and transfer the pizza in and out of the oven. Other jobs that require more dexterity and judgment - like layering on toppings - are left to humans ,CEO Alex Garden said.
+ 

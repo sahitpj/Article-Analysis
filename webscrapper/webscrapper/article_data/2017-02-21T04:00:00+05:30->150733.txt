@@ -1,0 +1,17 @@
+Mumbai: The next time you walk into a kirana store in a small town without electricity or landline phones, chances are that you will spot a   code placard which can be scanned for payment using your bank’s mobile application.
+
+ Indian banks and payment network companies —  ,   and   — have said that one million small shops will be onboarded for accepting digital payments using BharatQR code in a year.
+ 
+ BharatQR can be used for making payments by storing debit or credit card details within a mobile app. Soon the code will also enable payments using the   and Aadhaar-enabled payments.
+ 
+ For shopkeepers, the savings will be in the cost of buying or renting/maintaining a card swipe machine. However, there will be a cost which is at present similar to charges paid on debit and credit cards. Even the Unified Payment Interface, which is vaunted as a low-cost payment option, attracts the same transaction fee when used by a merchant. There is a proposal to have lower charges for BharatQR and merchant   transactions.
+ 
+ This is the second digital payment offering by the   (NPCI) after  . Earlier,   had launched the   application to facilitate instant account-to-account transfers using the Unified Payment Interface platform.
+ 
+ NPCI MD & CEO A P Hota acknowledged that there has been a drop in digital transactions as currency supply has improved. “We were seeing three lakh RuPay card transactions per day before demonetization. This went up to 20 lakh during demonetization. However, now its down to 12 lakh. So there has been a drop of seven to eight lakh,” said Hota. According to him, the reluctance is probably a concern among consumers that surcharge on card payments would return after March. “I think Indian Banks Association and card companies should send out a message that the era of surcharge is behind us,” said Hota.
+ 
+ “Since cards began to be used in the country in early 1980s, the industry has set up about 1.5 million Point of Sale (PoS) terminals. However, in comparison to the 800 million cards that have been issued as of now, the number of PoS terminals in the country has not been really adequate,” said R Gandhi, deputy governor RBI. He added that BharatQR is easy to scale and above all is safe and secure, essential to accelerating India’s transition to a less–cash society.
+ 
+ The payment network companies Visa and MasterCard have welcomed the proposal by he RBI to have differentiated debit card surcharges based on category of merchants. Under the proposal small merchants and government utilities will pay only 0.4% fees on debit cards while larger merchants will pay around 95 paise.
+ 
+ 

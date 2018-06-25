@@ -1,0 +1,17 @@
+Chennai: Soon, a lifesaver clad in red may be spotted at the Marina diving into the sea to rescue swimmers in distress. But before your thoughts run wild, the rescuer will not be a bikini-clad woman à la Baywatch but a robotic device developed by city scientists.
+
+ The city-based   has developed a low-cost robotic lifesaver that can replace lifeguards in search and rescue missions at sea. The ‘robo coastal observer’ or   can be operated from the shore by remote control.
+ 
+ R Venkatesan, head, ocean observation systems, said the device was primarily developed for scientific applications like studying the surf zone and collecting real-time ocean parameters like temperature, salinity and depth. “Since we designed it for scientific applications, we call it a coastal observer and not lifesaver,” he said.
+ 
+ The RCO is a simple device in the form of a swimming pool float. It is attached with a waterproof box containing the microcontroller, electrical thrusters, transmitter and sensors. The control unit also has a GPS module for position indication, flashlight for low light conditions and camera for visual surveillance.
+ 
+ Scientists said when thrown into the surf zone from the shore, it can be manoeuvred through the rough waves from the coast at a top speed of 5 knots up to four kilometres by firing its electrical thrusters. With a battery that can last for more than five hours, the device can also be switched to autopilot by feeding the coordinates of the location it has to reach.
+ 
+ In the event of a rescue mission, the swimmer can simply cling onto the circular float of the device or can wear it. The operator can then bring the device back by operating it from the shore. Venkatesan said the device was extensively tested at the Marina with the help of police personnel from the   of Tamil Nadu.
+ 
+  had recently transferred the technology to Bengaluru-based   through   for commercial scale-up. NIOT director Atmanand said the transfer of technology was on a non-exclusive basis. “The device is basically for rescue purposes. We want the industry to produce it so that it can be beneficial to the common man,” he said.
+ 
+ C Sylendra Babu, ADGP, railways said he took the device along when his team swam from the   to   in the   in March. “You need at least three people to rescue a person struggling in the sea and bring them back to shore because in most cases the waves are so rough that a single rescuer would find it difficult to reach the individual in distress. This device can be manoeuvred to the person in no time,” he said.
+ 
+ 
