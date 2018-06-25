@@ -1,0 +1,14 @@
+New Delhi:  , and   using these to change   numbers, are the latest headaches of Delhi Police.
+
+ Within a fortnight, police have busted another module with a similar modus operandi. The crooks procured a software named ‘Best smart tool’ and a device called Z3xbox from a China-based firm. The software was installed in a laptop and the phone connected to it. After that, it took some easy steps to change the IMEI number. 
+ 
+ “The engineer, in this case, used the software to first erase the existing IMEI number. Once the process was successfully completed and a new SIM card inserted, the phone relayed a new IMEI number to the towers,” said a senior policeman.
+ 
+ This way, the phone’s identity would be masked from mobile surveillance systems. But the process had some limitations. A hacker could only choose from a set of few IMEI numbers. As a result, multiple phones would have the same number. Also, IMEIs could be changed only once using the software. 
+ 
+ Police believe these gangs are a threat to national security as fake or new IMEI numbers make the task of tracking phones tougher. They suspect the gangs have clients in J&K, said a source.
+ 
+ Earlier, criminals and terror suspects used to buy Chinese phones that didn’t have IMEI numbers. Then the Indian government made it mandatory for all handsets to have IMEI numbers. Now, crooks have found a way to bypass these numbers too.
+ 
+ Police have intensified operations to find out gangs indulging in IMEI hackings in Gaffar Market, Karol Bagh.
+ 

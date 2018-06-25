@@ -1,0 +1,35 @@
+Sunil Bharti Mittal, chairman of global telecom body  , said that his strategy for improving the financial health and credibility of the industry worldwide rests on four pillars — deepening active sharing by pooling spectrum in a separate company run by a third party; more consolidation; a change in the attitude of governments towards telecom; and abolishing roaming charges while improving transparency in billing. Mittal, chairman of India’s largest telco  , told ET that despite billions of dollars in annual investments, the industry was being valued at levels similar to utility companies. Mittal is in Barcelona for the  , where he delivered the keynote address. Edited excerpts:
+ 
+  
+ 
+  I will use four pillars to outline my strategy – credibility/reputation, time for a netco (network company), consolidation and change in the attitude of governments towards telecom.
+  
+  
+ 
+  This industry invests a massive amount of money, roughly about $200 billion in networks a year globally. Besides, about $50-60 billion goes into spectrum annually. The density of expenses in terms of capex, spectrum is going up whereas revenue is tapering off, which is putting a massive amount of pressure on RoCE (return on capital employed) of this industry, which has lost its appeal to investors. We are down to an average multiple of about six and a half, which is usually what utility companies get, where you put up a plant, and you don’t invest anything more other than that on repairs. Here, around 20% of the revenue go into capex, so this is not a utility. So, what is happening? Firstly, it is the credibility, reputation of this industry which has massively suffered.
+  
+  
+ 
+  First and foremost is roaming, which is the biggest bugbear of this industry. In our (India) case, we have domestic roaming as well but internationally, people go out with the fear of even opening their phones. We, as an industry, should work on reducing international roaming (charges). Airtel will do away with India roaming from April 1. We will also make international roaming bills shock free. The (Indian) government should get rid of the 22 circles, just make it one India, one network. The second part is that people all over the world feel that billing lacks transparency and clarity. This has to change, globally. We are moving towards bundled plans. So, simplicity of billing is needed. Third, content also has a lot of charges. They must also be part of key bundles and what is not part of the bundle must be clearly spelled out. Different charges for content could be a problem in India, which has barred discriminatory pricing of data. These are not global issues at all. Eventually, India will have to align with the world. It (bar on discriminatory pricing of data services) should go away.
+  
+  
+ 
+  Time has come for setting up network operating companies (netcos). The current system of building networks for each operator needs to be completely dismantled. Some progress has been made in towers. The best progress has happened in subsea cables, almost all of which are under consortium. But fibre is still far behind on the ground. In India, Tata, Vodafone, Jio,   have their own and, on top of it, BharatNet is coming.
+  
+  
+ 
+  Netcos and mobile companies should separate themselves. Spectrum should be pooled in a netco. You build one massive network from which everyone is served. Benefit is that it is not just lower investment in capex but your spectrum efficiency rises significantly. The need for base stations is halved immediately. Everybody will not come together, but my views are: they should... at least two must build, ideally three. So, I say time for a netco has come.
+  
+  
+ 
+  Passive side can be separate, the active side should be network. It could be like towers where everybody comes and co-builds. An independent third-party netco has to come and run it which has a clear method of charging per MB per minute or whatever. The job of that is of a utility. Then we (telcos) become digital companies, providing content. We will be true marketing companies. India doesn’t allow it yet.
+  
+  
+ 
+  That is the fourth point. What do they (governments) want? A digital nation or spectrum auction and money? Governments need to start looking at industry in a very different way. You need massive consolidation in the sector. In 2008 when we (India) took from five to 12 operators, the idea was that they will serve customers better. But investments in network slowed.  ,   are gone. Aircel and RCom will merge. Now, with Vodafone and Idea, looking at just for India, $25 billion of hard investments blown off in smoke. If we had three private sector companies with BSNL, solid, viable, strong balance sheets, India would have accelerated its rollout, invested more in capex and consumers would have enjoyed the benefits of competition. US has stopped Sprint and TMobile merger, which should have been encouraged.
+  
+  5G is coming in the next two-three years. You want strong balance sheets. Governments and regulators have enough powers in their hands to intervene should they see any extra profit-making tendencies of any of the operators. On one hand they (government and regulator) want more innovation, on the other, they want the highest taxes. Governments should therefore decide — should they milk this sector or should they support the sector with various forms of incentives?
+  
+  
+ 
+  Netco will be one big challenge because governments will have to change all their policies. Spectrum sharing is now allowed, but even now there are many restrictions. Such restrictions, which are exclusive to India, must go.

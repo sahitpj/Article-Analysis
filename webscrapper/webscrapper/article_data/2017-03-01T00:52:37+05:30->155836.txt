@@ -1,0 +1,17 @@
+Mumbai: Close to Rs 55,000 crore worth bank loans to micro small and medium enterprises (MSME) are close to default, according to credit information bureau – TransUnion  . The forecast is based on a machine learning algorithms to predict default probability based on its credit history data.
+
+ According to Satish Pillai, MD & CEO, Transunion Cibil, around Rs 12 lakh crore of bank loans are to micro, small and medium enterprises segment. This represents 21% of all bank lending and loans in this segment ranges from Rs10 lakh to Rs10 crore.
+ 
+ The Credit in MSME Sector has grown at 11% last year but the stress in   continue to build with the NPA rate at 8.7%. TU Cibil, which hitherto provided credit scores for individual borrowers, is making available to lenders, a credit risk rank for small and medium businesses. TU Cibil, formerly Cibil, was renamed after local lenders ICICI Bank and Bank of Baroda sold their stake to foreign partner Transunion last year. TransUnion now holds over 77% stake in the bureau.
+ 
+ The Cibil MSME Rank (CMR) uses software to measure riskiness of a borrower based on past history. The rank ranges from a scale of 1 to 10 with one being the least likely to default and 10 being the most.
+ 
+ According to Pillai the move is a start in providing a tool for commercial lending. It will help lenders providing faster credit by adopting straight through processing channels and enable them to relax field verification requirements. For borrowers, this will help those with better repayment track record get lower rates and raise the chances of getting a loan without collateral.
+ 
+ The Tu Cibil score would be different from reports of credit rating agencies. Credit ratings are opinions on how an entity is likely to perform based on its financials and outlook for the industry. Here the ranking is based more on how timely the borrower has been in his repayments.
+ 
+ Tu Cibil scores have brought to life the unsecured person loan business which froze after a surge in defaults in 2008. Cibil scores have also helped banks to do straight through processing of personal loans with credit decisions being taken by software instead of people. Officials say that the MSME ranking will bring similar efficiencies into small loans.
+ 
+ “We believe CIBIL MSME Rank can provide critical insights for managing risk and thereby enable greater credit opportunities for deserving small businesses. With that in mind, we will be piloting the use of CIBIL MSME Rank in credit decisions in this segment over the next few months,” said Jairam Sridharan, group executive and chief financial officer at Axis Bank.
+ 
+ 

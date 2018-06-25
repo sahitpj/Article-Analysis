@@ -1,0 +1,39 @@
+BENGALURU/NEW DELHI: If data is the new oil, then there is a gigantic oil spill all around you. Your   — be it your residential address, your phone number, email id, details of what you bought online, age, marital status, income and profession — is all up for sale. Most of this personal data is sold for less than a rupee per person — the cost of a chewing gum.
+ 
+  Over one month, ET approached companies called ‘data brokers’ — who hawk their services on online listings and sell personal information — posing as a prospective buyer. For anywhere between Rs 10,000 and Rs 15,000, we were offered personal data of up to 1 lakh people in Bengaluru, Hyderabad and Delhi.
+  
+  The lists up for sale are creative and granular. One data broker said he could get lists of high net worth individuals, salaried people, credit card holders, car owners and retired women in any given vicinity.
+  
+  Some brokers sent free samples: excel sheets with personal data of people in Bengaluru, split by address and income profiles. ET called a dozen people from these lists to verify their details. “It’s scary to say the least,” said Hyderabad-based Rajashekar, whose data like name, address and credit card ownership was procured from a Gurgaon-based data broker who sold ET a sample database of nearly 3,000 people with Axis Bank and HDFC Bank credit cards. The price tag: Rs 1,000.
+  
+  The database had details like name, address, phone number and the classification of the card (debit, credit or a premium card). The broker also said that a database of 1.7 lakh people from Delhi, NCR and Bengaluru can be made available for Rs 7,000.
+  
+  “It should be deemed as a crime. Without my permission, how can someone trade information related to me?” said Bengaluru-based Nagaraj BK, who was appalled that details of his purchase of a gas stove on eBay were procured by ET as part of a free sample.
+  
+  Similarly, Bengaluru-based Shruti’s purchase of luggage on Amazon, along with her phone number, was part of a free list of 115 online purchases made from the city. When contacted to check if the purchase listed was accurate, Shruti was offended and scared and even wondered if her Amazon account had been breached.
+  
+  In response to ET’s queries, eBay said it takes data security and privacy of buyers and sellers on its platform very seriously. An Amazon spokesperson said the company was not aware of any data leak or any data being sold from their end, adding that any such case brought to their notice will be dealt with strictly to ensure customer data protection.
+  
+  HDFC Bank and Axis Bank both said they work on educating customers about the importance of protecting private or personal details, as well as safe banking practices. “We can’t confirm the authenticity of the data shared with you by the   and would urge people to highlight to us if they come across instances like this for us to take it up with the relevant authorities,” an Axis Bank spokesperson said.
+  
+  The obvious question to ask is: where are these brokers getting the data from? “Most of the data is sold to us by mobile service providers, agents from hospitals and banks, loan agents, car dealers,” Rajesh, an executive from an NCR-based data broker, told ET.
+  
+  To be sure, data broking isn’t illegal but it does work in a grey zone. A 2014 US Federal Trade Commission report identified data brokers as companies that “obtain and share vast amount of consumer information, typically behind the scenes, without consumer knowledge.”
+  
+  “Globally, data broking is an approximately $200-billion industry. Marketing products generate over 50% revenue, followed by risk mitigation, which constitutes approximately 45% of the revenue, and, finally, people search constitutes the remainder,” says Kannan Sivasubramanian, VP of research firm Aranca.
+  
+  The FTC report cited earlier said “data brokers operate with a fundamental lack of transparency,” and asked US lawmakers to consider enacting legislation to give consumers greater control over the immense amount of personal information about them collected and shared by data brokers. India’s IT Act does not specifically address the issue of   and privacy.
+  
+  “When you sign up for free discounts, fill out questionnaires, or your clickstream in general, you are giving up all the data voluntarily and agreeing to privacy policies that allow you to do so,” said Mishi Choudhary, executive director of non-profit legal services organisation Software Freedom Law Centre.
+  
+  The most obvious kind of misuse is of financial data. The   registered 8,689 cases of frauds involving credit cards, ATM/debit cards and internet banking up till December 2016. This number was 16,468 in 2015-16. Many of these frauds are perpetrated by scamsters by using freely available personal data to win the confidence of customers to get them to share critical data like CVVs or one-time passwords (OTPs).
+  
+  However, data brokerage is still at a very nascent stage in India. The market is dominated by larger international players such as Epsilon, Equifax and Experian that offer more sophisticated data sets.
+  
+  John Young, US-based Epsilon’s chief analytics officer, told ET that the data they collect comprise customers’ previous transactions from PoS (point-of-sale) systems, thirdparty data such as demographic and lifestyle information.
+  
+  “Increasingly, data from social media sites – much of it unstructured data, such as tweets – is collected for analytics that can help deepen the understanding of consumers,” Young told ET in an email response.
+  
+  Data collected by agencies such US-based Equifax Credit Information Company, who carry out consumer credit reporting, is an example of data contributed by banks and other financial institutions.
+  
+  “All the data in credit bureau is contributed to directly from our member financial institutions in a standard format. We do not collect any additional information from users directly,” Manu Sehgal, business development leader, emerging markets, told ET. 

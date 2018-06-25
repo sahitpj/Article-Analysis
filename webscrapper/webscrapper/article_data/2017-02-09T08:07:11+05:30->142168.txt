@@ -1,0 +1,31 @@
+BHOPAL: In a major breakthrough   ( ) have busted an international call racket that allegedly helped Pakistan-ISI agents to spy on India's military operations.
+
+ Four people, including a BJP leader's brother, have been arrested from Bhopal, Gwalior and Satna so far. Officials say more people would be arrested soon. 
+ 
+ "All accused have been charged under various sections of the Indian Telegraph Act and for waging war against the country," said sources. MPATS chief Sanjeev Shami led the operation.
+ 
+ "They were running a parallel telecom exchange enabling   spies to call up military personnel posted in Jammu and Kashmir posing as senior Army officers and dig out details of operations, deployment and installations in the region", said an officer privy to the information.
+ 
+ MPATS officials have seized several Chinese equipments and   (machine that houses sim cards) mobile phones, prepaid SIM cards of different telecom companies, laptops and data cards.
+ 
+ Calls made via internet are sent to SIM-boxes which redirect this illegal   onto mobile networks.
+ 
+ Those involved, were bypassing the interconnect toll charging points to exploit the difference between the high interconnect rates and the low retail price for on-network calls, therefore avoiding payment of the official call termination fee of an Operator.
+ 
+ ATS had been helped by the TERM (Telecom Enforcement Resource and Monitoring) cell of the union telecom ministry in understanding technicalities such as call spoofing and SIM box-aided call transfers that these accused employed.
+ 
+ These "exchanges" were earning lakhs by routing international calls bypassing legal gateways. They used to help callers based in Afghanistan, Pakistan, Nepal, and Bangladesh eavesdrops on military operations using 'interconnect bypass fraud.'
+ 
+ In January UPATS had arrested 11 people who were running a similar exchange. Those arrested from MP are closely associated with those arrested by UP, said sources. Gulshan Sen a resident of Delhi's Mehrauli who was arrested by UPATS last month is said to be a common link between gangs of the two states. Modus operandi was same.
+ 
+ According to our Lucknow bureau, UPATS had acted on an input provided by the Jammu and Kashmir Military Intelligence unit two months back, and was asked to probe two dozen internet call logs.
+ 
+ "Military officials posted in vital locations in Jammu and Kashmir were receiving calls from landline and mobile numbers. Identifying themselves as senior Army officers, callers asked for specific information. Unsuspecting Army personnel shared the required information," said an ATS officer.
+ 
+ Sleuths posted at the Jammu and Kashmir military intelligence unit realized something was wrong and tried contacting the numbers which had flashed on the screen of the targeted Army personnel. But they couldn't get through.
+ 
+ The Army then asked   to probe the case. While analyzing the case further, it was noticed that targeted personnel received illegal VoIP traffic on their mobile phones, which is against rules laid down by department of telecommunications. As genuine numbers of different Army units were spoofed, the ATS took up the case on priority, sensing an elaborate spying ring.
+ 
+ The ATS got in touch with Telecom Enforcement Resource and Monitoring Cell, the technical arm of the department of telecommunications which acts as interface between security agencies and telecom service providers.
+ 
+ 

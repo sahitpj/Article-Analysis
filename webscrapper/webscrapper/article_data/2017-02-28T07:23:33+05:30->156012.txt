@@ -1,0 +1,12 @@
+NASHIK: Bringing general knowledge to your finger tips, a computer science student from the city has developed a   for the same and will soon add the whole course of   (CET) to it. 
+
+ Apurva Muthe, a first-year student from   in the US, developed the app during his vacation here. 
+ 
+ Initially, he thought of developing the Tinker Bot App only for general knowledge. But, seeing the response he got for the application, he decided to add CET as well so that students can clear out their queries faster. 
+ 
+ "I have used artificial intelligence to develop the application, which is a common thing to do in the US but not common here. The App teaches the users in a conversational form and is useful for students from Std V to post-graduation. I created it using the   so that the users can get easy access to it and there is no need to download the App," said Apurva who launched the App three days ago and has over 500 users already. 
+ 
+ "After seeing the education system in the US, I thought of creating something back home. I have come to Nashik for my holidays and decided to create this App. All that the user needs to do is search for Tinker bot on Facebook Messenger and send a 'Hi' to it. The conversation then starts. The App is available in Marathi, Hindi and English and the user can ask questions which will get answered. The App also asks questions and if the user gives a wrong reply, it explains why the answer is wrong," said Apurva.
+ 
+ After getting 570 users in the last three days and over 3,700 conversations per day, he is now planning to introduce the CET course.
+ 
