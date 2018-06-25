@@ -1,0 +1,10 @@
+HYDERABAD:With the rise in   after  , the number of   have also increased with fraudsters gathering bank details on the pretext of standing in queue and transferring money without the knowledge of the victim.
+
+ During investigation of cases registered post demonetisation, cybercrime officials suspect gangs were be hind collecting banking details of old debit cards of customers, especially those who had accounts with public sector banks.
+ 
+ “In the latest case, an   customer became the victim of a three-member gang, wherein one culprit fraudulently extracted the last four digits of the debit card, another took the PIN and the third person tapped the CVV number. Since the customer was in possession of a debit card, which did not have a chip and was issued prior to 2015, it was easy for the fraudsters to transfer money with the card details,'' Cyberabad assistant commissioner of police (cybercrime) Jayaram told TOI.
+ 
+ The old cards of many public sector banks were vulnerable unlike the cards with a chip since it would not generate one-time-password (OTP) a security feature.
+ 
+ “Many bank customers have not exchanged their old cards with chip-based ones.As a result, many were falling prey to online frauds.The old cards can be cloned and online transfer of cash to miscreants' accounts could be done. The victim customers' will know only when they get SIM alert about the deduction,'' the ACP said.
+ 

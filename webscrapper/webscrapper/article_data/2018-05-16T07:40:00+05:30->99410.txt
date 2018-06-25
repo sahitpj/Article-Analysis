@@ -1,0 +1,24 @@
+CHANDIGARH: At a time when political parties are debating the pros and cons of electronic voting machines (EVMs), a professor at  's University Institute of Engineering (UIET) has made an   ( ) for Rajya Sabha and other elections having the preferential voting system.
+
+ 
+  
+  
+ 
+ Currently, ballot paper is used for Rajya Sabha elections. Panjab University’s senate elections are also based on preferential voting system. EVMs cannot be used in the preferential voting system, where there is a choice of several candidates. The cost of the EPVM developed by a team led by  , associate professor at UIET, comes out to be between Rs 20,000 and Rs 30,000 and a patent for it has already been filed.
+ 
+ “The disadvantage is we still have to be dependent upon the ballot paper and manual counting, which is time-consuming. Moreover, it is not cost-effective. It was because of these reasons we decided to make this electronic preferential voting machine,” said Sharma.
+ 
+ In general elections that use single non-transferable voting system, for example, there are five candidates contesting the polls and candidate 1 gets 12 votes, candidate 2 gets 15 votes, candidate 3 gets 18 votes, candidate 4 gets 25 votes and candidate 5 gets 30 votes. In this case, the candidate 5 is a winner, however, the candidate is rejected by 70% of people, who opt to vote for other candidates.
+ 
+ However, in preferential voting system, which is based on single transferable vote method, a voter has to cast vote in order of the preference of his/her choice. For example, there are 10 candidates contesting for five seats. The voter gives five preferences out of a total of 10. The second and following priority of the voter is also taken in the consideration to choose five candidates.
+ 
+ 
+ 
+ 
+ The EPVM consists of three basic units: control unit, ballot unit and counting unit. Voters cast their votes through ballot units. Any number of preferences can be given. However, the EPVM designed by UIET professor gives you 14 preferences. Once voter has given preferences, he/she can press the vote button to cast vote. When vote button is pressed, buzzer sounds, ballot unit disables, the control shifts to the control unit. The vote is registered and stored in the control unit and the same process is repeated for each voter.
+ 
+ 
+ 
+ 
+ The control unit records and stores the voting data, count and display the votes polled and transfer the voting data for counting. The unit is battery-operated and has two connector points 1 and 2. Point 1 is for connecting to ballot unit for voting and point 2 is to connect to the computer for data transfer from its memory using cables. The voting data is stored in the memory.
+ 

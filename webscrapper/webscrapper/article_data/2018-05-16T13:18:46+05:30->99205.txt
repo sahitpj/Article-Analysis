@@ -1,0 +1,19 @@
+SURAT: Leading diamond companies from Surat and Mumbai have been working with the world’s largest diamond mining company, De Beers in creating the first blockchain platform to track a diamond’s journey from the mine to the retail store.
+
+ De Beers has successfully tracked 100 high-value diamonds along the value chain during the pilot project in the industry blockchain platform. 
+ 
+ An immutable and secure digital trail was created for selection of rough diamonds mined by De Beers as they moved from the mine to the cutter and polisher and then to a jeweller. 
+ 
+ The platform, called ‘Tracr’, is expected to launch later this year and will be open to the industry. 
+ 
+ Five leading diamond manufacturers — Diacore, Diarough, KGK Group,   and   — have been working with De Beers for the development of  . 
+ 
+ “This is a significant breakthrough achieved by close engagement of the pilot participants who share our commitment towards the industry’s progress and innovation,” said Bruce Cleaver, CEO,  . “We look forward to sharing the platform with more partners and capturing their insights before ultimately making this technology available to the broader industry.”
+ 
+ On how Tracr works, Cleaver said, “As the diamonds travel along the value chain, a unique Global Diamond ID is automatically created on Tracr, which stores individual diamond attributes such as carat, colour and clarity through integration with the participants’ existing record-keeping systems.” This allows Tracr to consolidate the data into an immutable digital trail for each physical diamond, assuring its provenance and traceability from rough to polished, added Cleaver.
+ 
+ Meanwhile, Venus Jewel chairman Sevantilal Shah told TOI, “Participating in the pilot project has been a successful experience and we look forward to continuing with the programme and supporting De Beers in raising the standard for the diamond industry.”
+ 
+ Amit Bhansali, managing director of Rosy Blue NV, said, “Technology has already significantly contributed to improving transparency within the diamond industry. Initiatives that use blockchain can drive this process even further as their implementation requires collaboration and trust creation among all industry stakeholders.”
+ 
+ 

@@ -1,0 +1,16 @@
+MYSURU: Five students from a city-based   have invented a remote streetlight monitoring and controlling system to save energy. Streetlights that need substantial power supply are a major worry for the state government.
+
+ HN Abhishek, CG Meghana, Abhishek Mayya, R Chethan and G Arjun, all seventh semester students in the electrical and electronics department of Vidya Vikas Institute of Engineering and Technology, have invented the technology used in smart highways. They have invented motion sensor lights which will light up when a vehicle approaches a particular stretch of road. The lights will turn brighter as a vehicle approaches closer and will gradually dim as it passes away.
+ 
+ “The technology called smart highway uses wireless sensor network and saves substantial power compared to the existing streetlights that are left on all night. The technology will help save up to 40% of energy,” said  . “This will reduce power consumption and will efficiently utilize renewable sources,” he said.
+ 
+ As streetlights consume almost about 50% of a city’s electricity, the innovation can save a major amount of power. LED lamps, sensors and microcontroller units are used for the experiment that works as a less power consumption model.
+ 
+ “When a vehicle approaches a streetlight pole, the light will turn brighter. As the vehicle passes away, it will turn dim, saving power. It will help save 60% of energy,” said  , associate professor in electrical and electronics department. 
+ 
+ “During the nights streetlights are activated because of poor ambient light condition. With the streetlights in automatic mode, the sensor triggers the microcontroller to turn the LEDs to full brightness whenever a person or a vehicle approaches it and turns dim later,” Cauvery said.
+ 
+ The students took nearly eight months to complete the project. “The idea struck us as we used to travel during the nights. We then started working on the project. We spent around Rs 15,000 to procure materials for the project,” said R Chethan.
+ 
+ The students recently participated in ‘Switch Global Expo 2016’, an innovative expo, in Gujarat’s Vadodara that Union minister Piyush Goyal had inaugurated. “The minister was delighted with our project and assured it will be implemented in Gujarat,” said Ashishek.
+ 

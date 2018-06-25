@@ -1,0 +1,15 @@
+Hyderabad: Government spending on   security should match the ongoing security threat landscape, a new paper jointly conducted by ASSOCHAM and Pricewaterhouse Coopers (PwC) 
+
+ Experts said increasing the spending is a move in the right direction. This would go a long way in tackling cyber crime. 
+ 
+ “The government should allocate adequate budget for cyber security related initiatives such as capacity building, training of the workforce, implementing awareness programmes, and promoting research and development,” according to paper titled ‘Recommendations – Cyber & network security,’ jointly conducted by ASSOCHAM and PwC.
+ 
+ It also suggested to expand efforts to attract and retain qualified cyber professionals. “Cyber security-related training must be imparted to the police, judges and lawmakers so that they take cyber-safe decisions,” the paper said, suggesting various ways to address the growing risk posed by criminals in the digital world. The paper also suggested ‘safety first through security by design,’ should be the motto. 
+ 
+ “Security by design ensures reduction in overall cost to the business and increases the efficiency of the system by making it robust and secure.” It recommended that government, regulators and enterprises must ensure security by design in their strategies and implementation. A reason for such recommendations can be gauged from recent trends in cyber crime in the city. 
+ 
+ On February 14, the police apprehended Kulothunga Boopathy, a resident of Chennai, for cheating a number of people by creating a fake government website msmerigister.com to register micro, small and medium enterprises (MSME).
+ 
+ A top official of a plastics manufacturing company claimed that she accessed the MSME website to register her company. After filling the form, when she tried to submit it online she was asked to pay an amount of Rs 1,481 for registration. She paid the same through her SBI credit card. She grew suspicious when she did not receive any reply in 24 hours. She later realised that all her money was siphoned away.
+ 
+ 

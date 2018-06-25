@@ -1,0 +1,15 @@
+CHENNAI: In today’s parlance, being smart is being digital, and vice versa. As if reading this fine print of the central  , Greater   is mulling to give Chennai’s   project a boost, digitally. To enhance its online profile, the corporation is planning to set up a Command and   (CCC), a system that will supply real-time information on the status of civic utilities in the city. This information can be accessed by those browsing the dedicated website or smartphone app.
+
+ Based on the smart city handbook of Greater Visakhapatnam Municipal Corporation, CCC will be set up for the smart city area of T Nagar with the scope of expanding to cover the whole city, said officials in the corporation.
+ 
+ Once introduced, the system will rely on a network of sensors and cameras, fitted at public spaces and on civic utilities in the smart city area, to gather live feed. For instance, a GPS-tagged conservancy compactor will relay information about its movement and a sensor-fitted garbage bin will notify the level of trash in it and how many times in a day it has been cleared. Likewise, a sensor on a streetlight can indicate its functional status and a traffic CCTV camera will provide information on traffic movement or violations to the officer manning the feed at the CCC headquarters.
+ 
+ The real-time data will be interpreted and fed as information into the system before it is made available to the citizens. “The initial proposal contains modules for citizen grievance, conservancy, traffic, lake level, water supply, streetlights and beaches,” said an official.
+ 
+ Besides updates on utilities, the CCC will feature a disaster management module, the official said. Subsequent to the experience of handling rescue, relief and restoration in the aftermath of tsunami in 2004, floods in 2015 and cyclone Vardah last December, the corporation was looking for a platform to integrate the government agencies involved in disaster management so that co-ordination was simpler and effective.
+ 
+ The Centre for Development of Advanced Computing (C-DAC), a government of India agency under the ministry of electronics and information technology, will help the corporation set up the system. Initial discussion held between C-DAC and the special projects cell of the corporation, which is the department supervising the implementation of smart city projects, were fruitful and though an agreement is yet to be penned, the corporation is interested in the project which also has the Centre’s backing.
+ 
+ “C-DAC Chennai will assist the corporation in upgrading its infrastructure. CCC will link all its departments and provide quick overview of their services. The data collected can be presented to the user (citizens) in the form of charts, maps, graphs, statistics etc,” said an official with C-DAC Chennai, which is one of the empanelled smart city solution providers of the ministry of urban development.
+ 
+ 

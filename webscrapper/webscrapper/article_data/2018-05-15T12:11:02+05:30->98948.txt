@@ -1,0 +1,7 @@
+HYDERABAD: The International Institute of Information Technology-Hyderabad after notified by  , a Kolkata-based cybersecurity research firm, has claimed that it has fixed the hacking of its website. 
+
+ Suman Kar of Banbreach had notified IIIT-H on the security issue found on the website and database on May 12. Later, it informed IIIT-H and Indian Computer Emergency Response Team with details on May 14 when the institute did not contact the researcher. On Monday, Banbreach tweeted, "iiit_hyderabad, please fix your Enhance Edu wiki. Directory traversal is open. We've been waiting for 48 hours for you to get in touch with us. There is a database dump available too that you should remove."
+ 
+ A spokesperson of IIIT-H, Sunory Dutt, head of communications, in an email reply to TOI, said: "The issue has been fixed and none of the students' information has been compromised." Data security researcher   told TOI, "Banbreach was notifying about students' information in the directories. Directory traversal is an HTTP attack which allows access to restricted directories. Institutions shall be sensitive about student information. " TNN 
+ 
+ 

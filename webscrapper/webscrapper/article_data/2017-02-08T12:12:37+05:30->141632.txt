@@ -1,0 +1,9 @@
+MIT scientists have developed a small battery that runs on stomach acids and could power next-generation ingestible electronic pills which may monitor patient   or treat diseases by residing in the gastrointestinal tract for extended periods of time. The device may offer a safer and lower-cost alternative to the traditional batteries now used to power such devices, researchers said.
+
+ “We need to come up with ways to power these ingestible systems for a long time,“ said  , from Massachusetts Institute of Technology (MIT) in the US.
+ 
+ “We see the gastrointestinal tract as providing a really unique opportunity to house new systems for drug delivery and sensing, and fundamental to these systems is how they are powered,“ Traverso said. Researchers have previously tested many ingestible devices that can be used to sense physiological conditions such as temperature, heart rate, and breathing rate, or to deliver drugs to treat diseases such as malaria. The current prototype of the device is a cylinder about 40 millimetres long and 12 millimetres in diameter, but the researchers anticipate that they could make the capsule about one-third that size.
+ 
+ The study was published in the journal Nature Biomedical Engineering.
+ 
+ 

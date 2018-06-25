@@ -1,0 +1,20 @@
+Due to spiralling medical costs the sum insured under a base mediclaim policy which might be taken years ago may become adequate today. To overcome this, insurance companies offer a topup policy, which has a clause about the threshold limit for a claim.Thus, the insurance company pays the only the difference in the amount to the extent the claim exceeds the threshold limit.
+
+ In a ruling, the National Commission has held that the insurance company's interpretation about the threshold limit is not justified.
+ 
+ Case Study: Kamlendra and Sushma Kanwar had opted for mediclaim insurance from  . They had a base policy of Rs 2 lakh and a top up policy for Rs 3 lakh. The top up policy provided for a threshold limit of Rs 2 lakh per claim, so any claim would be payable only when it exceeds the limit of Rs 2 lakh.
+ 
+ When Kanwar was hospitalized, his claim under the base policy was settled. But the remaining claim of Rs 1,40,345 under the top up policy was not settled as it was below the threshold limit of Rs 2 lakh.
+ 
+ Kanwar filed a complaint before the Mohali District Forum, which was contested by the insurance company . The forum upheld the complaint and ordered the insurer to pay the balance amount of Rs 1,40,345 along with 9% interest. In addition, Rs 25,000 as compensation for harassment and litigation expenses was awarded.
+ 
+ United India challenged this order before the  , which dismissed the appeal. The insurance company then approached the National Commission in revision.
+ 
+ The insurer's stand was that the insurance contract provided that any claim under the top up policy would be payable only if it exceeded the threshold limit.The company argued that the claim of Rs 1.4 lakh was less that the threshold limit of Rs 2 lakhs, so the repudiation was justified.The National Commission observed that the objective of a top up policy is to get higher insurance coverage. So the clause regarding the threshold limit would have to be interpreted to be the sum insured under the base policy. When the amount under the base policy was exhausted, the claim would have to be paid up to the additional coverage limits under the top up policy . For this purpose, the total cost of the treatment during the entire policy period of one year would have to be considered. As the total claim amount was Rs 3,40,345, during the policy period, Rs 2 lakh was payable under the base policy and the balance Rs 1,40,345 would have to be paid under to top up policy . The National Commission concluded that the repudiation of the claim was incorrect.
+ 
+ Accordingly , by its order of February 17 delivered by the Bench of Justice Ajit Bharihoke and Anup Thakur, the National Commission dismissed the insurance company's revision, and confirmed the orders in Kanwar's favour which held him to be entitled to get the balance amount.
+ 
+ Impact: The Commission ruling said that the base coverage and the top up policy must be aggregated and the sum total would be considered as the annual coverage limits available under both the policies.
+ 
+ (The author is a consumer activist and has won the Govt. of India's National Youth Award for  . His e-mail is jehangir.gai.columnist@outlook.in)
+ 
