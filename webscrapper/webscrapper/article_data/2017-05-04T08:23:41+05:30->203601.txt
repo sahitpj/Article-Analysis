@@ -1,0 +1,24 @@
+BENGALURU: Job positions for data scientists, software architects, data engineers, UI (user interface) and UX (user experience) are the most difficult to fill for companies.
+
+ The number of active candidates present for these roles is less than half the demand. These niche positions are popular across industries, but the majority of the demand comes from the IT sector, according to online recruitment firm Belong.
+ 
+ The platform looked at data from various recruitment sources, including Naukri, Glassdoor, Comscore, Google trends, Nasscom, GitHub and Twitter, apart from its own platform, to cumulate the demand and supply for various job positions and generate a talent-supply index.
+ 
+ For some skills, mostly older ones, supply exceeds demand. These include positions like Java developer, AutoCAD (a drawing software skill needed in the manufac turing industry), microcontroller programming (an electronics skill), and solutions architect (a consumer-facing skill). In some cases, supply is almost twice the demand.
+ 
+ HackerRank, another technical recruitment platform, has seen similar results. “Any role which requires drawing intelligence from data is hard to hire for. UI, UX have been there for so me time, but because they are needed across sectors like retail and manufacturing, the demand goes up. Any company not hiring in these roles will become a dinosaur after 5-7 years,“  's cofounder and CEO   said. Cisco, Quora, and VMware are among the 1,000 companies the platform works with.
+ 
+ HR experts say companies are struggling to find quality candidates for these roles outside the company , while existing employees are getting redundant. “Almost 70% of the software people in organizations cannot be upgraded to these newer skills.Of the 100 resumes we get, only 3-4 would be qualified,“ says Krish Lakshmikanth, CEO of recruitment firm Head Hunters India. Job positions in AI (artifi cial intelligence), machine learning, robotics, digital marketing, and social media are other positions where demand exceeds supply. Lakshmikanth attributes the gap to the nascency of these roles.“Some of these roles started emerging less than two years ago,“ he says.
+ 
+ Most colleges have not added these newer courses into their curriculum, so the gap is filled currently only by certification courses by independent platforms. “Many colleges teach only Java as a programming language, so you would find many folks in that area. As for the rest of the skills, they have to pick up on their own and not many will do that. The supply problem starts there,“ says HackerRank's Karunanidhi. However, he adds that a few colleg es like NSIT ( ), and IIITHyderabad have started including AI and machine learning in their courses.
+ 
+ The compensations, too, tend to be higher where skills are in short supply. “All these jobs fetch a premium of 2535% over what a regular software developer earns,“ says Ronesh Puri, MD of search firm Executive Access.
+ 
+ Vinod Sreedharan, an HR consultant, says the salary would be almost 1.5 times that of a regular engineer. “For each year of experience, the compensation for these roles would see an increase of Rs 2.5 lakh to Rs 2.75 lakh,“ he says.
+ 
+ The shortage is persuading companies to hire freshers with 40% of the actual required skill and then train them along with the job. “Many companies invest in training freshers,“ says Sreedharan. Existing employees are made to go through compulsory bootcamps and are expected to pass the courses.
+ 
+ In many cases, engineers who undergo training are expected to get a project within six months. “If they don't, it usually leads to termination of the job,“ says Head Hunters' Lakshmikanth.
+ 
+ Vijay Sharma, co-founder of Belong, says a lot of MNCs enter India to set up global inhouse centres, and they usually have a target for hiring. “But often they have no idea about the supply of talent and many such targets are not fulfilled,“ he says, explaining why he created the talent supply index.He also says that for hiring the newer kinds of talent that is in short supply, companies have to actively sell themselves to good candidates.
+ 

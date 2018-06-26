@@ -1,0 +1,32 @@
+NEW DELHI:   Infocomm could become the first telecom operator in the country to lease fibre being laid by the government under the   initiative.
+
+ The government’s BharatNet programme, under which 250,000 gram panchayats are to be connected by broadband by end of 2018, has not evoked interest on expected lines.
+ 
+ A top government official said the Mukesh Ambani-owned company is in talks with the Department of Telecommunications ( ) to lease dark, or unused, optic fibre and is studying business prospects to use it in the states of   and Karnataka.
+ 
+ “The backhaul connectivity is already available and they (Jio) asked us for an opportunity in Karnataka and Haryana. They want to take it (fibre) to mobile towers,” DoT additional secretary N Sivasailam told ET.
+ 
+ Sivasailam, who is heading the initiative, said Jio is doing a feasibility study at different locations in the two states where they would like to go, depending upon a ‘business case’ scenario.
+ 
+ “The price point at which optic fibre can be leased out slightly varies from state to state, which will though work out at a minimum of Rs 2,000 per km,” Sivasailam said.
+ 
+ Jio, which started commercial services last September, had not responded to an emailed query on the matter till the time of going to press on Thursday.
+ 
+ On the poor response to the BharatNet programme, a committee in its 2015 finding had remarked, “The efforts of Bharat Broadband Network Limited (BBNL) to explore dark fibre leasing from private service providers have not borne much fruit.”
+ 
+ Sivasailam though said that India’s top two telcos -   and Vodafone India – “have also taken necessary information about optic fibre and they will come back to the us”. He said any telco can go anywhere depending upon their business needs.
+ 
+ Bharti   and Vodafone too did not respond to emailed requests for comment.
+ 
+ The government has already laid nearly 210,000 km of optic fibre cable under the BharatNet initiative with a maximum number of 4,735 active gram panchayats, or village blocks, in Karnataka.
+ 
+ Telecom service providers, according to Sivasailam, could also implement optical line terminal (OLT) at a block level and the department would facilitate digital connectivity, which would also be used to connect local entrepreneurs and small businesses.
+ 
+ To ensure bandwidth using infrastructure created via government investment, a panel had earlier recommended that 50% pairs of dark fibre at gram panchayats be set aside for the allocation to telecom service providers, multi-system operators, local cable operators and Internet service providers.
+ 
+ The group included ministry of electronics and IT secretary Aruna Sundararajan, former IT secretary J Satyanarayana and Centre for Development of Advanced Computing director general Rajat Moona.
+ 
+ BharatNet was launched by the UPA-II government in 2011 and since then has missed various deadlines and has also seen cost escalations. The project has got prominence in the current NDA regime as it serves as a backbone to Prime Minister Narendra Modi’s ‘Digital India’ programme.
+ 
+ Telecom Minister   recently told ET that phase II of the project, which could cost about Rs 40,000 crore, would soon be taken to the Cabinet for approval.
+ 

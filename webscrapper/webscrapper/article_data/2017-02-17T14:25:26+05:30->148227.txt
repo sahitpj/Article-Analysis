@@ -1,0 +1,17 @@
+The utterly complex local timetable which can take railway officials over a fortnight to chalk out won’t rob them of sleep as often, thanks to the brainpower from  .
+ 
+  A team of professors from the   here collaborated with the   to write algorithms that have simplified the process of creating railway timetables to a degree that the suburban railway schedules can be created in as little as five minutes.
+  
+  With the software it has developed, the team created a periodic timetable that unifies the many processes rail staff would need to employ. The new system is not only a notch above the existing scheduling process, but it also sidesteps various bumps the railways faces, such as fluctuating number of rakes, availability of platforms at certain terminals, and various glitches and deficiencies the railways battle every day.
+  
+  The professors predict that the software would in time be adopted by   across the country with small tweaks to suit each city’s requirements.
+  
+  On Thursday, a team comprising Professors Narayan Rangaraj and Madhu Belur, M Tech scholar Soumya Dutta and Central Railway’s deputy chief operations manager (goods) KN Singh gave a presentation on the software to the railway’s operations department.
+  
+  The authorities that sat in on the meet included chief operations manager RD Sharma and senior divisional operations manager Anil Patke.
+  
+  Central Railway’s chief public relations officer   told Mumbai Mirror that they had been working on this project with the IIT professors for the last two years. “This will not only help us in more efficient and easier planning but also give us a lot of options for adopting time tables for suburban operations according to our needs,” added Patil.
+  
+  Professor Rangaraj, from IIT-B’s Department of Industrial Engineering and Operations Research, said he and his colleagues wanted to help the railway administration with planning things by employing updated planning tools. “With the help of this software, you can also easily find out how many trains you can ply on the given routes,” he said.
+  
+  The project has been chosen to be presented at a global seminar by the International Association of Railway Operations Research (IAROR) in France to be held in the first week of April. The organisation encourages academic and professional railway research and contributes to the development of new standards for railway traffic management by integrating various scientific disciplines .

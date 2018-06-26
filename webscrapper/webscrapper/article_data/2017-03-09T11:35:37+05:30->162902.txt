@@ -1,0 +1,8 @@
+COIMBATORE: The   ( ) and the   and Networks (CCSN) have come together to set up India’s first startup hub exclusively on cybersecurity. The initiative will bring together research, funding and industry on the same platform, officials of the institution said.
+
+ Krishnashree Achuthan, CEO of TBI, said, “There are more than 4,000 startups in the country today, but less than 100 operate in the field of cybersecurity and build related products. With wars being fought every minute across the world in cyberspace, cybersecurity has become a strategic national priority. India needs to tackle this challenge from both an economic and military perspective,” she told TOI.
+ 
+ Cybersecurity is estimated to be a $70 billion industry worldwide, with an annual loss of $400 billion due to cybercrimes and threats. “This loss is expected to shoot up to $2 trillion by 2020. India witnessed an estimated 50,000 cybersecurity incidents in 2015. More than 26,000 websites have been defaced and 91 lakh infected systems have been detected in the country till now. Worse, 80% of all cybercrimes go unreported. Without strong software security and protection techniques, all software-based systems are vulnerable to devastating attacks from hackers and spies,” Krishnashree said.
+ 
+ The Amrita University   will promote indigenous product development, audit and compliance testing, and creation of test beds that replicate the Internet and enterprise environments. The focus areas will include mobile, cloud, cyber-physical systems, digital forensics, cryptography and malware analysis.
+ 
