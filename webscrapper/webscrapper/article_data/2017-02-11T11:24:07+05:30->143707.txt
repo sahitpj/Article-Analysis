@@ -1,0 +1,15 @@
+NEW DELHI: The typical postal address is a few lines long. Now, you can shrink it into just six characters — no matter how long and complicated it is — and share with anyone who can find the building, business or even your home that it represents with almost pinpoint accuracy.
+ 
+  More than eight years after it started working on it, digital mapping company   formally launched   (short for e-Location) on Thursday. For now, it is a free service.
+  
+  It shortens an address into a combination of six alphabets and numbers. You can put it on your visiting card, on a website or share via any other means. If someone is looking to reach you, the person needs to just enter the eLoc in MapmyIndia’s maps portal (or app) and it will instantly offer turn-by-turn directions right up to your address.
+  
+  The closest to eLoc, in a context that everyone can understand, is our PIN code. The problem with the   is that it specifies an area that could as large as 50 square kilometres. An eLoc, on the other hand, can guide the user right up to the address.
+  
+  If you’re reading this, chances are that the eLoc for your address has already been created. You can head over to www.mapmyindia. com/eloc and check. Once you have your eLoc (ABC123 for example), you can also share a short URL to it, which will be //eloc.me/ABC123. Clicking the link will open MapmyIndia’s maps in a web browser and show you the precise location. If you don’t have an eLoc, you can right click on the map and create one.
+  
+  Apart from consumer use, businesses and government services, too, could benefit from eLoc. Taxi aggregators, emergency services, local deliveries, courier services, property administration, postal services and others can all use it.
+  
+  “Just like Aadhaar is the identity of a person, eLoc is the identity of an address or a business,” said  , managing director of MapmyIndia. “Over 2 crore (20 million) eLocs have been generated already and, apart from the address, it can also include more information about a business.”
+  
+  When asked about monetising the eLoc, he said: “Initially, we want to do whatever it takes to get the maximum number of people to start using it. At some point, business will start benefiting from eLocs and that’s when we will look at monetising. We want to take the total 20 million eLocs to about 100 million — as we keep building house addresses, the eLoc database will be built alongside.”

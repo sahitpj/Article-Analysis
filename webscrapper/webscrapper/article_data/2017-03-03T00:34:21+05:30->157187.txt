@@ -1,0 +1,21 @@
+Pune:   India has been going to different cities and towns over the past month to launch its “high-speed”   services. However, in the three telecom circles of Maharashtra & Goa, Tamil Nadu and Odisha, it has hit a peculiar rough patch as 4G services in these places do not work on 4G enabled Apple iphones.
+
+ The reason is that Apple devices sold in India do not support services in the 2100 Mhz spectrum band, which is the very band in these three circles where Vodafone has launched its service. In other circles, Vodafone uses a different spectrum band (1800 Mhz) to deliver its 4G services.
+ 
+ Customer care offices of Vodafone and Apple have started getting complaints from users in the three circles. 
+ 
+ A Vodafone spokesperson told TOI, “It is a peculiar Apple problem and they are still developing the (software) patch. They have told us that the patch will be ready by March-end.”
+ 
+ A patch generally comes with a software update and customers are auto-alerted when it becomes available. Not many people within the Vodafone and Apple service or sales ecosystem seem to be aware of the problem. Outlets either claim ignorance of the problem or say they can fix it if the customer comes to the store. 
+ 
+ When contacted, the service manager at an   reseller in Pune said, “We will just restore the system and update to the latest operating system software to see if the problem can be fixed.”
+ 
+ Apple is still working on the problem and as such there isn’t any solution yet. “It is a short-term problem. Between the network rollout and the syncing of the device on the new band, there is a short lag. The company (Apple) is working with Vodafone closely,” an industry source said, which refusing to quantify the time that the patch update development would take.
+ 
+ The Apple website shows that it supports the 2100 MHz spectrum for almost all 4G enabled devices (iPhone 5 and later) made by the Cupertino-based company. However, a footnote onthe company’s website states, “LTE band support is based on iPhone model number and configuration for either CDMA or GSM networks. LTE wireless service may not be available even if listed bands are supported by your carrier.”
+ 
+ Apple’s CEO Tim Cook has been particularly bullish on India’s smartphone market .
+ 
+ According to Counterpoint Technology market monitor research, Apple sold 2.5 million smartphones in India in 2016 and about a third of these sales happened in the last three months of the year. The research also pointed out that Apple led the sales in the premium segment smartphones with a 62% market share. It also said that 7 out of 10 smartphones sold in the October-December period of 2016 were LTE capable smartphones.
+ 
+ 

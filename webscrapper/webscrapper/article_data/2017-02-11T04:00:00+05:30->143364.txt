@@ -1,0 +1,19 @@
+Chennai: Over a year back, Kris Canekeratne struck a deal with Arun Jain, founder, Polaris to take over his company with a view to synergise his company — Virtusa’s tech strength with Polaris’ banking expertise. As the integration efforts come to a close, Canekeratne talks to TOI about the progress the joint entity has made, the changes that the IT industry is going through and automation. Excerpts:
+
+ Citibank has been one of your largest accounts. How has the relationship progressed since the integration announcement.
+ 
+ When we did the Polaris integration, we had guided to a spend reduction for Citibank. Since then, we have seen good momentum with Citibank. While addressing spend reduction goals, we have also built a much stronger relationship. Citigroup has also seen the benefits of the combined entity, VirtusaPolaris.
+ 
+ The IT industry is facing headwind, not just from macro-economic factors. Can you give some perspective?
+ 
+ There is an evolution taking place in IT services, primarily because of the changes clients are going through as a result of 4th industrial revolution. There are multiple forces at work. Advanced technologies like cloud computing, big data, artificial intelligence and blockchain may have been around but have now reached a point where startups or companies are using them to disrupt the industry. We are also dealing with a much larger percentage of millennials within and outside of our organisations. Digital natives are driving a behavioural shift and everybody else is only a digital immigrant. We can live with and without digital technologies but natives need an advanced user experience. Over the last three years, over $50 billion has been invested towards fin-tech. Significant investment has been pumped into areas like fin-tech, insure-tech, health tech and media tech. What is interesting to note is that none of these factors are based on pure cost arbitrage. For an industry that has largely been built around this cost arbitrage, change is inevitable. Hence, while we are happy, there is significant work to be done
+ 
+ The industry is talking about a lot of automation. How is it for VirtusaPolaris which has over 80% of its workforce as millennials.
+ 
+ We apply insane levels of automation. We are constantly capturing and identifying errors early and eliminating faults. Our engineers loathe doing the same thing twice because it doesn’t excite them. Our deep tech innovation combined with Polaris’ banking expertise creates work that is high tech. Hence, we are able to attract the brightest minds. We work on a model where each team has to source 75% leadership from within. Progress is not based on tenure but the work and leadership qualities captured. We also allow employees to work across functions. This increases marketability for team members.
+ 
+ There is a lot happening in the US on immigration laws. How do you think this is going to pan out for the IT industry?
+ 
+ There is a lot of speculation but not much action. It might be too early to figure out what will change but here are the stubborn facts. We have shortage of tech professionals in the US to address the changes taking place in the industry. Large companies are not going to lower their bar due to unavailability of skilled professionals and will find a way to get the work done. If it becomes harder or more costly to shift people to the US, part of the work will come to India. We won’t be able to stop that movement.
+ 
+ 

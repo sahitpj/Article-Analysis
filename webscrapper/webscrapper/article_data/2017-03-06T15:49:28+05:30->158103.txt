@@ -1,0 +1,21 @@
+CHENNAI: Startups in India’s payments space have been the talk of conferences and discussions across the globe. After the rise of mobile wallets like Paytm, it was the NPCI driven BHIM app that is drawing attention. As the discussion on UPI vs wallets ensues, experts say it is UPI, Aadhaar-based payments that will push next wave of digital adoption.
+
+ The demonetisation drive gave impetus to adoption of e-wallets like Paytm. The government unleashed a formidable competitor to e-wallets in BHIM app. Built on the United Payments Interface (UPI) interface, BHIM offers a one for all app that facilitates payments in an easy and quick manner.
+ 
+ Data released last week by the RBI shows that value of transactions carried out through UPI for the period Feb 1 – 19 Feb were at Rs 1,310 crore, higher than that of mobile wallets at Rs 1,270 crore.
+ 
+ Sony Joy, co-founder, Chillr said, “That surge was an interim phenomenon. Users are realising that a lot can be done using the mobile banking app. At the end of the day, wallet requires an extra step of transferring funds from bank account to it.”
+ 
+ Chillr offers multibank mobile payment app through which users can transfer money to anyone in their phonebook.“IMPS was the backbone of our product. We are now beta testing around UPI,” added Joy.
+ 
+ It’s not just inter-bank transfers that can be done using UPI. With 15-20 million estimated UPI users, Nikhil Kumar, head of the developer ecosystem at India Stack and the mind behind the BHIM app says the government is now looking at digitising its own payments. “People are beginning to ask why UPI can’t be used to pay their electricity and gas bills, tickets on IRCTC. The government is questioning its own departments on use of UPI, “he said.
+ 
+ Sanjay  , managing partner with Prime Venture Partners and the man behind startups like ZipDial and Ezetap says Aadhaar and India Stack is the next gold rush. “In the next 36 months, I expect digitisation to go up from the current 3-5% to 15-20% on the back of UPI, Aadhaar based payments and wallets,” said Swamy, at the sidelines of Fintegrate, a   conclave held in Mumbai where 20 personalities have been recognised as those who have created an impact in the fintech space.
+ 
+ Besides Joy, Kumar and Swamy, prominent faces like Adhil Shetty of Bankbazaar, Vijay Shekhar Sharma of Paytm, Amitabh Kant, CEO, NITI Aayog and Nandan Nilekani with the India Stacks initiative, are featuring in the list.
+ 
+ “Through the F20 list, we are recognising the achievements of Fintech’s foremost changemakers across the continuum of the ecosystem that includes; policy makers, entrepreneurs, corporates and community leaders,” said Ajay Ramasubramanian, director, Zone Startup India.
+ 
+ PwC acted as the research audit partner, Indian School of Business was the research methodology partner while ResearchFox Consulting managed the market research.
+ 
+ 

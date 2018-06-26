@@ -1,0 +1,12 @@
+Apps using the newly launched   (UPI) are threatening to dislodge the hold mobile wallets currently have on small & medium enterprises (SMEs) and retailers.
+
+ Platforms like Goodbox, Shoptimize and Nowfloats, which help small ventures take their businesses online, say there's growing interest among these companies to test the UPI payment method. And those successfully testing them are keen to integrate it into their platforms.
+ 
+ Launched by the government a few months ago, UPI is a platform that allows users to make transactions between their bank account and a   instantly through smartphones. The system works with the respective mobile numbers, without the need to know and register the other party's bank account details.
+ 
+ “You get money in real time. Merchants are all excited about this faster, cheaper method. We have used it ourselves, and the commerce app based on UPI is super easy to use,“ says Abey Zachariah, founder of Goodbox, which works with 13,000 SMEs.
+ 
+ Mangesh Panditrao of Shoptimize agrees the motivation is to reduce the transaction fee. Jasminder Singh, co-founder of Nowfloats, which has helped over 1 lakh businesses come online and which will launch its UPI integration in two months, said merchants will go where the money is.
+ 
+ Sony Joy , who started Chillr as a mobile payment app based on IMPS (immediate payment service), plans eventually to shift the whole app to the UPI platform, but he thinks the UPI apps cannot run on zero-transaction fees forever. “It needs to be a mass-driven channel, and so it has kept low rates to attract people. But it's not clear if this will continue,“ he said.
+ 

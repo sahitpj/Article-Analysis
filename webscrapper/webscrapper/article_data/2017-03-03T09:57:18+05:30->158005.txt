@@ -1,0 +1,23 @@
+NEW DELHI: A hi-tech   is being proposed using optical sensors to capture their density, species and gender before moving in to exterminate them.
+
+ Three cities in   — Vijayawada, Vishakhapatnam and Tirupati — want to use modern technology to detect mosquito breeding before malaria and other vector-borne diseases such as dengue, chikungunya and zika become an epidemic.
+ 
+ The Andhra government has sent a ‘Smart Mosquito Density System’ proposal to the Union urban development ministry for approval and to provide funds so that the three municipal bodies can implement this first-of-its-kind project in the country.
+ 
+ The three municipalities plan to deploy 10 sensors per sq km. The entire system will require nearly Rs 4 crore.
+ 
+  
+  
+ 
+ A total of 1,850 sensors will be deployed across 185 sq kilometers of these cities Sensors fixed to electricity poles will be used to monitor density of   along with gender and species. The devices will analyse and transfer mosquito density data along with location to a central database. There will be a control room application to provide mosquito density heat maps, which will help government agencies prioritise sprays.
+ 
+ The system will operate autonomously and use state-of-the-art internet of things (IoT) technology to alert health and other agencies of the need to treat geographic areas to control the mosquito population responsible for vector-borne diseases.
+ 
+ “The system will help us take appropriate measures to contain breeding mosquitoes and eliminate them.
+ 
+ The measures to check their breeding at exact location and that too with the right sprays for a particular specie will help save wastage of resources. Real time data will help the local governments to be pro-active on tracking spread of vectorborne diseases,” said K Kanna Babu, director of municipal administration of Andhra Pradesh government.
+ 
+ In this system, smart phones and web application will be used to report sprays by location. Moreover, there will be analytics to monitor the effectiveness of sprays. At present, agencies spray several pesticides simultaneously since they are not aware of the specific specie breeding at a spot.
+ 
+ According to National Vector Borne Disease Control Programme, about 95% population in India resides in malaria endemic areas. Around 5% of the total 214 million deaths across the globe due to malaria happen in India.
+ 

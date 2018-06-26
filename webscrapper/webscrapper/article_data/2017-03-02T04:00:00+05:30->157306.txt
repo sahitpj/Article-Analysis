@@ -1,0 +1,27 @@
+Bengaluru: Apps using the newly launched Unified Payments Interface ( ) are threatening to dislodge the hold mobile wallets currently have on small & medium enterprises ( ) and retailers.
+
+ Platforms like  ,   and Nowfloats, which help small ventures take their businesses online, say there’s growing interest among these companies to test the UPI payment method. And those successfully testing them are keen to integrate it into their platforms.
+ 
+ Launched by the government a few months ago, UPI is a platform that allows users to make transactions between their bank account and a third-party bank account instantly through smartphones. The system works with the respective mobile numbers, without the need to know and register the other party’s bank account details.
+ 
+ “The UPI platform is quite advanced. You get money in real time. Merchants are all excited about this faster, cheaper method. We have used it ourselves, and the commerce app based on UPI is super easy to use,” says Abey Zachariah, founder of Goodbox, which works with 13,000 SMEs.
+ 
+ Srihari Srinivasan owns a convenience store called Eezykart in HSR Layout in south Bengaluru. He uses the Goodbox platform. He started accepting   only three months ago, following demonetisation. He said a lot of customers were then asking for payments through  . Almost 35% of his customers now pay through cards, another 40% pay by cash, and the remaining use e-wallets or come through online aggregator platforms. But today, he is promoting the government’s UPI app, BHIM, to all his customers.
+ 
+ “I prefer the money coming straight to my bank account than have an e-wallet in between. Also, there are no charges for transactions. Mine is a low-margin business and even a 1% transaction charge affects my bottom line,” said Srinivasan.
+ 
+ Mangesh Panditrao of Shoptimize agrees the motivation is to reduce the transaction fee. “While mobile wallets and cards have almost 2% as transaction fees, UPI doesn’t have any,” he said. Shoptimize, which has 76 merchants on the platform, will integrate the UPI payment option in the next three months. Jasminder Singh, co-founder of Nowfloats, which has helped over 1 lakh businesses come online and which will launch its UPI integration in two months, said merchants will go where the money is.
+ 
+ Sony Joy, who started Chillr as a   app based on   (immediate payment service), plans eventually to shift the whole app to the UPI platform, but he thinks the UPI apps cannot run on zero-transaction fees forever. “It needs to be a mass-driven channel, and so it has kept low rates to attract people. But it’s not clear if this will continue,” he said.A number of UPI-based apps have emerged, including   and  , and from banks, including Axis, SBI, Canara, and Punjab National Bank.For e-wallets, which were on a major customer acquisition spree post demonetisation, UPI is likely to be a spoilsport. Eezykart’s Srinivasan says that merchants using mobile wallets like Paytm have to file additional KYC documents and also pay a fee if the value of transactions crosses Rs 20,000 a month. On the UPI app, the upper limit of a transaction is Rs 1 lakh.
+ 
+ RBI data shows the number of UPI transactions rising sharply since its November launch. In November, while there were only 3 lakh UPI transactions, the number jumped to 20 lakh in December and 42 lakh in January. Meanwhile, prepaid payment instruments, which include mobile wallets, saw transaction numbers rising from 5.9 crore in November to 8.7 crore in December. But this number has since remained the same.
+ 
+ Joy said customers will start asking why they have to move money from their bank accounts to the e-wallet to make a payment, when they can easily go from bank account to payment in one step.
+ 
+ Mobile wallets are also seen to suffer from issues of payments often not going through and lack of customer support. “Merchants end up getting blamed for this poor customer service,” Panditrao said.
+ 
+ Harish H V, partner with auditing firm Grant Thornton, also sees UPI emerging in a big way. However, he said the pace of growth will be decided by customers and noted that while e-wallets are giving cashbacks, small merchants are unlikely to give incentives. 
+ 
+ Consumers, Harish said, might prefer e-wallets for smaller transactions. “Those who are not tech-savvy particularly might not want to link the bank account to a UPI app that exposes their whole savings,” he said. He added though that banks may soon get around this by creating a UPI e-wallet sub-account that could undercut the independent e-wallets.
+ 
+ 

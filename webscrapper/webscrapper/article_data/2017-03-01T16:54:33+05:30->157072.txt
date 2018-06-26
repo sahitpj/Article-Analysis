@@ -1,0 +1,18 @@
+BENGALURU: Cybercriminals employing   or crypto-ransomware—a sophisticated software that incorporates advanced encryption algorithms to block system files—are increasingly attacking Indian firms and entities. In January, at least four cases of attacks, wherein the ransomware was inserted into the system of a Bengaluru company, while more than a dozen were attacked in the last quarter of 2016. These were IT firms. More cases were reported in Mysuru in December, while multiple cases have been seen in Delhi. In Hyderabad, more than 50 firms came under attack last year.
+
+ But cyber experts, who have dealt with these cases say that firms are unwilling to come out in the open. “The problem is that these firms have clients whose data is entrusted to them. They do not want the news that their system was compromised to get out as it creates a deficit of trust among clients, which may result in losing future business,” cybercrime expert Mirza Faizan Asad said.
+ According to multiple reports from globally renowned agencies, ransomware has been on the rise across the world. While a   report revealed that there was a 17.7% increase in the number of attacks in 2016, a special report by   said a little over “9% of all ransomware attacks in the world were on Indian firms.
+ 
+ Faizan, while stating that he personally has come across four cases in the past eight weeks, said: “Now, from my circles I have learnt that there are tens of more firms that came under attack.” Cyber expert and Supreme Court advocate Pavan Duggal said: “The situation has gotten worse post demonetisation although no official cases are being registered.” Duggal, who has even authored books on cybersecurity, deals with several clients affected by cybercrime every month.
+ 
+ 
+ 
+ When it hits a system, say for example an IT firm, a ransomware encrypts all the data making it impossible for the owner (firm) to access any of it without a decrypt code, which is with the attacker. After inserting the ransomware into systems of their target, attackers demand payment in return for the key that can decrypt blocked content. 
+ 
+ The payments are generally sought in Bitcoins, a crypto-currency, which attackers feel is the safest way to get paid. “Bitcoin wallets are free and disposable, meaning attackers can generate a new, unique wallet for each infection, making it more difficult for law enforcement to follow all earnings,” Symantec says. Kaspersky says that criminals have started to exploit the advantages crypto-currencies over other type of e-currency. “The features of anonymity and a distributed nature allow them to hide fraudulent transactions and make it impossible for a law enforcement agencies to do anything, as the system has no center and no owner,” it said. 
+ 
+ 
+ 
+ 
+ Experts point out that ransomware, in a similar way to advanced financial and data stealing malware, is able to evade detection by normal antivirus products. But this is where the similarity ends. “As soon as the ransomware threat is on the system, it encrypts the content and lets the user know that money need to be delivered in a certain amount of time. If the ransom is not paid, encrypted content is lost for good. However, the victim is never sure if the content will be decrypted even after the ransom has been paid. But with no solution to prevent this available in the global market, victims are forced to pay,” Faizan said.
+ 
