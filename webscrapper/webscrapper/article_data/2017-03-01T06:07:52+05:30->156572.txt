@@ -1,0 +1,14 @@
+NAGPUR: Air quality inside closed structures, especially those equipped with air conditioners, is generally not questioned. However, researches have shown that the dust inside AC ducts has the potential to cause as much harm as the air pollution outside. If only we could see and inspect the ducts, we would have known that they too a needed a thorough cleaning.
+
+ City-based Nirmitee   approached a team of five VNIT students regarding this problem in July 2016. Subsequently, the team comprising Swapil Hattarge, Kartik Patath, Sachin Kapgate, Pravin Shahu (all third-year students in electronics and communication engineering) and Sapan Agrawal, a student of third-year mechanical engineering embarked upon a project to make robots to solve this problem. 
+ 
+ Six months later, the team developed robots that could inspect AC ducts and clean them by sucking the dust out of the ducts, manuerving through them. The entire set of the robots comprises Brushed Bot, Inspection Bot, Scrubber-n-Sucker Bot, Pneumatic Bot, Controller and Camera Module. The team was guided by assistant professor of mechanical engineering department Shital Chiddarwar, while HoD AM Kuthe provided administrative support. 
+ 
+ The Inspection Bot is first sent inside the ducts to conduct a survey and Scrubber Bot scrubs the dust which is stuck on the surface. Then this dust is sucked by a sucker arrangement attached to the Scrubber Bot. If the dust doesn’t have moisture, then Pneumatic Bot, which is apart of the Scrubber Bot, uses presurrized air to clean the walls of the duct. It can also help the bot avoid obstacles by working as their hand. All the robots keep sending images using the camera installed on them. 
+ 
+ On Tuesday, VNIT formally transferred the technology to   by signing an agreement. As per the deal, 6% of the revenue would be shared with the institute for the next five years. 
+ 
+ Nirmitee has already given demonstrations in AC coaches to Indian Railways while it has made a presentation at Vidhan Bhavan. The company has also cleaned some ACs in Chhatrapati Shivaji Terminus (CSTM), Mumbai and Khaparkheda Thermal Power Station (KTPS). “It took 15 days for the bots to carry out the cleaning at  . Around 3 kgs of dust was removed from the ducts of one floor. At KTPS, rodents and lizards too were found in ducts,” said Jay Motghare, executive director of Nirmitee. 
+ 
+ Motghare added that the complete process is called air treatment as ducts are ozonized after the cleaning.
+ 

@@ -1,0 +1,17 @@
+NEW DELHI: India made over 12,000 requests for data from   between July and December 2017. Facebook complied with some or all data in 53% of these requests. The data requests were up by 23.5% from the first half of 2017, when the government made 9,853 requests.
+
+ 
+ India ranked second globally to the US, which made the maximum number of requests for data at 32,742. Facebook revealed these numbers in their biannual transparency report on Tuesday.
+ 
+ These requests cover Facebook and its other products like WhatsApp, Instagram, Messenger and Oculus.
+ 
+ “Government officials sometimes make requests for data about people who use Facebook as part of official investigations. A vast majority of these requests relate to criminal cases, such as robberies or kidnappings. In many of these cases, these government requests seek basic subscriber information, such as name, registration date and length of service,” says Facebook describing the nature of the requests. Facebook has over 201 million monthly active users in India, and over 234 million in the US.
+ 
+ 
+ 
+  
+ 
+ The company also released data on “internet disruptions” or “intentional restrictions on connectivity” which impacted availability of its services. India topped the charts with 14 shutdowns or disruptions between July-December 2017. Iraq was second with nine and Turkey third with six internet disruptions. Possible reasons for such “disruptions” include internet shutdown ordered by government or suspension of web services.
+ 
+ United kingdom was a distant third in the number of requests made for data, at 7,455. Among the countries with the least number of requests was Russia, at six requests between July-December 2017. None of these requests were complied with. Pakistan made 1,320 requests and got responses for 59% of those.
+ 

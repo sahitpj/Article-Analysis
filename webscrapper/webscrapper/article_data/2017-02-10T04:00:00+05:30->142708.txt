@@ -1,0 +1,15 @@
+Mumbai: The mystery behind the breach at a private bank’s   last year that led to 32 lakh   being exposed, forcing banks to replace most of them, has been solved.   — the company to which Yes Bank had outsourced processing of ATM transactions — has said that investigations show that its systems were hit by a sophisticated malware attack and it is not possible to say how many cards’ details have been extracted.
+
+ In a statement issued here, Hitachi Payment Services said that   Information Security has completed its final assessment report on the breach of security protocols, which led to the potential compromise of debit cards between May 21 and July 11, 2016. SISA’s report pointed out a sophisticated injection of malware (a piece of malicious software code) in the Hitachi Payment Services’ systems, which was able to compromise the details of these debit cards.
+ 
+ “Hitachi Payment Services regrets the inconvenience caused to banks and its customers due to this lapse in its security infrastructure. We assure you of our highest commitment to building a robust infrastructure in our systems and preventing such cyber frauds in future,” said Loney Antony, MD, Hitachi Payment Services.
+ 
+ According to Dharshan Shanthamurthy, chief executive of SISA, banks need to gear up for more such attacks post demonetisation. “With increased amount of digital payments, such attacks are going to get worse. In the name of innovation, corners are being cut. That’s a matter of concern. Smartphones, use of fingerprint as primary payment authentication are fraught with risks which need to be tackled,” he said.
+ 
+ The malware code was written in such a manner that it concealed its tracks during the compromise period. “While behaviour of the malware and the penetration into the network has been deciphered, the amount of data exfiltrated during the above compromise period is unascertainable due to secure deletion by the malware,” the statement said.
+ 
+ Antony said, “Despite following adequate security measures and adopting the standards of internationally accepted best practices in the business, we confirm that our security systems had a breach during mid-2016. As soon as the breach was discovered, we followed due process and immediately informed the Reserve Bank of India (RBI), National Payments Corporation of India (NPCI), banks and card schemes.” 
+ 
+ He added that Hitachi Payments also partnered with banks to ensure the safety of their customers’ sensitive data. “As a result, the extent of the compromise was limited and we have not seen any further misuse due to containment measures deployed by Hitachi Payment Services.”
+ 
+ 

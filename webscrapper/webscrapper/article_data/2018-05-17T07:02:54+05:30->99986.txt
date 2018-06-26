@@ -1,0 +1,10 @@
+AHMEDABAD: This December, Isro’s cutting-edge, indigenous atomic clock, developed at the Space Applications Centre (SAC), will be mounted on a satellite and launched along with three imported atomic clocks, to test for sturdiness.
+
+ 
+ Isro’s atomic clock is currently in the testing-review phase, according to SAC director Tapan  . He was speaking on the sidelines of National Technology Day celebrations, organized at the Vikram Sarabhai Space Exhibition Centre on Wednesday. 
+ 
+ Atomic clocks are a crucial component for navigational satellites. The seven Indian Regional Navigation Satellite System (IRNSS) satellites, have three imported Rubidium atomic clocks each. “The atomic clocks on all seven IRNSS satellites launched earlier are synchronised and are known for their precision. The time stamps from atomic clocks on different satellites are used to accurately compute the position of a navigation receiver (basically a GPS device), on Earth,” said a senior   official. Misra also spoke about the progress made in the NASA-Isro Synthetic Aperture Radar (NISAR) mission, to co-develop and launch a dual frequency synthetic aperture radar satellite. Isro sources claim that the   satellite will be launched, hopefully, by 2020-21. Misra said that joint testing of NISAR’s two radar systems — the S-Band developed by Isro and the L-band radar developed by the US — will be conducted soon and the two technologies will be integrated.
+ 
+ About progress on the GSAT-29 communication satellite, Misra said, “I can only tell you is that GSAT-29 will have an assortment of communication technologies that will be cutting-edge.” A few days ago, the crucial Q and V Band communication payload developed at SAC was flagged off from the campus to be integrated with the GSAT-29 satellite assembled at an Isro centre in south India. “The GSAT-29 will be a boon for our Village Resource Centres ( ), to bridge the digital divide,” a senior Isro official said.
+ 
+ 

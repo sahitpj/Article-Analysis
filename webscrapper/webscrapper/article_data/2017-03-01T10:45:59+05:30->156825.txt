@@ -1,0 +1,9 @@
+MUMBAI: After an unprecedented surge in digital payments till January, the number of   across cards, UPI and   has fallen in February as the cash position eases.
+ 
+  According to data released by the Reserve Bank of India on electronic payments over the month of February, card payments on point of sale devices have shown a 28.2% drop, Unified Payments Interface (UPI) has shown a 9.5% drop while that of   ( ) hosted by   has shown a 12.5% fall.
+  
+  While card payment on terminals came down to 19 crore in February in comparison to around 26 crore in January, the number of transactions done on UPI fell to 38 lakh from 42 lakh last month. Further USSD for payments via feature phones showed 2 lakh transactions in February against around 3 lakh in January.
+  
+  While industry insiders pointed out to the fact that February is a lean season when consumption goes down as people tend to save more for the end of the financial year, with cash coming back into the system spending trends on terminals have gone down slightly.
+  
+  “People have shifted to cash for the small value transactions at unorganised retail which was being done digitally during November and December,” said Rajeev Agrawal, chief executive at Innoviti Payments Solutions which manages point of sales terminals for merchants.
