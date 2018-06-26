@@ -1,0 +1,12 @@
+HYDERABAD: Research scholars at the Jawaharlal Nehru Technological University Hyderabad (JNTUH) have developed an LPG   that will help people detect gas leakage and avoid fire accidents. A fire had broken out after   in Sriram Nagar, Karmanghat in January this year.
+
+ Since liquified petroleum gas is an odourless and colourless gas, it is very difficult to detect leaks from cylinders. The usual smell of gas is due to the addition of an agent called Ethyl Mercaptan to it. The innovative sensor will help in detection and control of the release of the gas.
+ 
+ “We have used nanotechnology to develop the sensor, which will detect gas leaks and convert it into electrical signals. It is useful for domestic and commercial purposes. We wanted to increase the sensitivity and selectivity of the sensor — sensitivity to detect at the earliest and selectivity to detect only LPG,” said Dr Kalagadda Venkateswara Rao, principal researcher. 
+ 
+ Their research paper, published in Journal of Electronic Materials, explained that a few sensors existing in the market do the job well but use up a lot of power. “Our sensor is cost-effective as we used naturally available material from bacteria to increase the chances of gas detection. It will help in early detection of leakages so that required precautions can be taken,” said Solleti Goutham, one of the three researchers apart from Rao and Devarai Santhosh Kumar. 
+ 
+ The research was assigned by the Science and Engineering Board under the Government of India. which provided a fund of Rs 37 lakh. The researchers have now applied for a patent for the technology. 
+ 
+ “The prototype for the sensor is ready. Once we receive the patent for the sensor, we will look for funds to bring it into the market for use by common people,” said Goutham. 
+ 

@@ -1,0 +1,14 @@
+MUMBAI: A   has been cheated of nearly Rs 17 lakh after an unidentified person created a dummy   of the  , and sought a remit to its bank account.
+
+ A cyber crime complaint has been lodged by  , stating that it had remitted US Dollars 26,343 after a bill was sent by email, purportedly from  , its business associate in China, for services provided from November to December last year. To make things appear credible, the sender of the fraud email account had sent a mail on December 15, stating that the payment would have to be made to a new bank account which would be intimated eventually. The `new' account was a fake one that the fraudster had opened to carry out the con. D'souza told TOI that he received the new account a week later and the payment was made.
+ 
+ The fraud came to light when the genuine Chinese company asked the firm in Andheri to settle the `pending' bill. A case was registered by Oswald D'souza, owner of the company in Andheri (east), on February 18.The cyber crime cell is providing technical support to crack the case.
+ 
+ D'souza's complaint sta tes that he learnt about the fraud when he got a call about the pending payment. “I went through the original email and found out that fraudster had used a fake email account of our business associate...“ says his complaint. D'souza said he tried to stop the payment, but his banker had already made it.
+ 
+ It turned out that the fake email domain name bore a striking resemblance to that of the genuine Chinese company's, with a slight variation. The genuine email domain name was xxxx@joyspeed.com while the dummy one was xxxx@joyspeed.dr.com. In tech lingo, this is called spoofing.
+ 
+ D'souza's complaint states that the new bank account did not raise any suspicion at his company's end.The payment was made to a Swift account mentioned in the mail. Swift is an system used by banks for exchange of remittances.
+ 
+ An officer from Andheri police station said that an insider who is privy to business exchange between the two companies could have committed the crime. “It is not easy for an outsider to get hold of email accounts of the companies and know what payments are pending,“ said this officer.
+ 

@@ -1,0 +1,11 @@
+Hyderabad:  , formerly known as  , on Saturday announced the formal launch of its   (DRC) built over a 68,000 sft area in the  .
+
+ In 2015 January, BSE had commenced live operations from its disaster recovery site in Hyderabad for the first time as per the   (Sebi) regulations.
+ 
+ This is the second backup site of the bourse as BSE's first DR site was set up around 50 km away from its main building in Navi Mumbai. As the Mumbai site was in a seismic zone, there was a requirement to create another backup site in a relatively safer zone due as a result of which BSE zeroed in on Hyderabad. The total investment in this project has been in excess of Rs 100 crore, BSE had stated earlier.
+ 
+ According to the bourses, BSE DRC is a replication of the primary site and ensures that all data is available at the disaster recovery site with near zero time lag. "The automation tool provides a real-time monitoring of the sync status between primary and disaster recovery sites and has also helped reduce manpower requirements for handling operations." it added.
+ 
+ Minister for IT E&C, MA&UD and industries and commerce KT Rama Rao said, “Hyderabad is one of the safest places in the world as it is in a (least active) seismological zone which shields it from extreme forces of nature.” Established in 1875, BSE is Asia’s first and now the world’s fastest stock exchange with a trading speed of 6 microseconds.
+ 
+ 

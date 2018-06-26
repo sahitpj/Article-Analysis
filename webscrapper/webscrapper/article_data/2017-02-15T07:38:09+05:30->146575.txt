@@ -1,0 +1,12 @@
+At a time when the   has placed a technical ban on American commercial satellite operators using Indian rockets, US earthimaging startup Planet Inc will have a record 88 satellites onboard   on Wednesday. The company which had already placed 12 of its satellites in to orbit using Isro's rocket in 2016, said it would continue to partner Isro in its future missions.
+
+ In an email response, Planet's communications director Trevor Hammond said the company maintained a diversified manifest, working with different launch providers both in the US and outside. “Isro will continue to be an important partner for Planet going forward,“ he said.
+ 
+ In February 2016, the US department of Transportation's Federal Aviation Administration (FAA) agreed to US's Commercial Space Transportation Advisory Committee (COMSTAC) that Indian launch ser vices threaten to distort the conditions of competition, as their pricing structures are not found to be marketbased (it is cheaper to launch a satellite using an Indian rocket). India's reluctance to sign a commercial space launch agreement on rocket pricing was also said to be one of the reasons behind restricting commercial US satellites from using the PSLV .
+ 
+ The response not just shows the growing small satellite market that is making space accessible to companies that might never have considered it but also the reliability of PSLV in placing foreign satellites into orbit for a flexible price. Isro has so far placed satellites belonging to 21 different countries.
+ 
+ Hammond said, the timing of deployment of satellites in Wednesday's launch has been specially designed for a collision-free sequence. “This launch, they had even more spare capacity, so we filled it with 88 of our satellites,“ Hammond said. By increasing its fleet to a total of 143 satellites built by the company, Planet Labs will capture images of the entire landmass on earth including India on a daily basis. The dove satellites are equipped with an optical imaging system with a ground resolution of 3-5 metre per pixel. “The imagery is to be used in a variety of fields including agriculture, commercial mapping, environmental monitoring,“ the communications director said.
+ 
+ The company is acquiring Google's Terra Bella business including its Skysats constellation of satellites equipped high resolution imaging systems. Isro launched one of Terra Bella's satellite SkySat Gen2-1 in June 2016.
+ 

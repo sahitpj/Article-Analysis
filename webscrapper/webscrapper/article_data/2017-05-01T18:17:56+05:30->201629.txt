@@ -1,0 +1,28 @@
+WASHINGTON: A new computer-driven robotic drill that can make a type of complex   50 times faster than standard procedures has been developed by scientists including one of Indian origin.
+
+ The automated drill, similar to those used in machine auto parts, produces fast, clean and safe cuts, reducing the time the wound is open and the patient is anaesthetised.
+ 
+ This can decrease the incidence of infection, human error, and surgical cost, according to the findings published in the journal Neurosurgical Focus.
+ 
+ To perform complex surgeries, especially cranial surgeries, surgeons typically use hand drills to make intricate openings, adding hours to a procedure. The automated drill reduces the time for bone removal from two hours using a hand drill to 2.5 minutes. "It was like doing archaeology. We had to slowly take away the bone to avoid sensitive structures," said William Couldwell, a neurosurgeon at   in the US.
+ 
+ "I was interested in developing a low-cost drill that could do a lot of the grunt work to reduce surgeon fatigue," said A K Balaji, associate professor at University of Utah.
+ 
+ The patient is first is imaged using a CT scan to gather bone data and identify the exact location of sensitive structures, such as nerves and major veins and arteries that must be avoided.
+ 
+ Surgeons use this information to programme the cutting path of the drill.
+ 
+ "The software lets the surgeon choose the optimum path from point A to point B, like Google Maps," said Balaji.
+ 
+ In addition, the surgeon can programme safety barriers along the cutting path within one millimetre of sensitive structures.
+ 
+ The drill does the heavy lifting by removing most of the bone, similar to a mill, accurately and rapidly.
+ 
+ The translabyrinthine surgery is performed thousands of times a year to expose slow-growing, benign tumours that form around the auditory nerves, researchers said.
+ 
+ This cut is not only difficult, the cutting path also must avoid several sensitive features, including facial nerves and the venous sinus, a large vein that drains blood from the brain. Risks of this surgery include loss of facial movement.
+ 
+ The device also has an automatic emergency shut-off switch. During surgery, the facial nerve is monitored for any signs of irritation.
+ 
+ "If the drill gets too close to the facial nerve and irritation is monitored, the drill automatically turns off," Couldwell said.
+ 

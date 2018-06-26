@@ -1,0 +1,22 @@
+PUNE: Supercomputing need not be an alien subject for a molecular biologist or even a meteorological scientist for long. 
+
+ The 2017-18 academic year, will offer MTech in   (HPC) and data sciences (DS) along with many short- and medium-term courses on HPC in 29 institutes across the country.
+ 
+ To make supercomputing more accessible to people in different fields of research, a meeting of   (NSM) experts’ group on human resource development, chaired by Jaya Panvalkar, and board of governors, SVNIT, Surat, was held at C-DAC in the city on February 7. Representatives from IITs, IISc, NITs, IIITs, IISERs, central universities, ministry of HRD, department of science and technology and C-DAC participated in the meeting.
+ 
+ Panvalkar, who is also chairperson of SVNIT, said, “This is a seven-year mission and we plan to train at least 20,000 people in this field within that period. The 29 institutes where the programme will start will include eight IITs, IISc, nine NITS, three IIITs, five central universities, and three IISERs.”
+ 
+ Panvalkar said, “There will be six to 10 short term courses of one to four weeks’ duration per year. The medium term courses could be of six months long. The long term courses will be of one or two years. A certificate will be awarded by the respective universities after completion of the course.”
+ 
+ Panvalkar said the HPC courses will also be made available in state universities and other institutes provided they have the necessary infrastructure and faculty. Students will have to appear for GATE to enrol in MTech. “This year onwards, MTech in HPC and DS will start in the engineering colleges, while introductory and advanced courses in HPC will be offered to BTech students,” she added.
+ 
+ Ashish Kuvelkar, associate director, HPC-Tech, C-DAC, said, “Our focus is not on computer science graduates but on other students. HPC is useful in various specialized fields. A meteorological scientist will have the know-how of his field and its various methodologies but may not have the understanding of HPC. But if he is given training, he will be able to use HPC to further his research in predicting the weather more accurately. Likewise, HPC can be used in all scientific research.”
+ 
+ 
+ 
+ The national supercomputing mission (NSM) is being implemented by the Department of science and technology and the ministry of electronics and information technology through C-DAC and IISc, Bangalore. The project will cost Rs 4,500 crore over a period of seven years.
+ 
+ The mission has been conceptualised and evolved keeping in mind the ever-increasing computing demand of the scientific and academic community in India, international technology trends and roadmaps, strategic importance and emergence of supercomputing as a benchmark for scientific and technological advancements.
+ 
+ It envisages empowering academic and R&D institutions spread over the country by installing a vast supercomputing grid comprising of more than 70 high-performance computing facilities.
+ 

@@ -1,0 +1,19 @@
+BENGALURU: Isro’s plan to develop technology that will allow two space vehicles to attach in orbit and also transfer material between them — described in technical terms as spacecraft docking and berthing — has been cleared by the department of space with a grant of Rs 10 crore. The technology will eventually allow   to transfer humans in space, but the immediate goal is to enable the refuelling of spacecraft to give them a longer life and transfer other crucial systems to spacecraft in orbit. 
+
+ Senior scientist T K Anuradha had confirmed to TOI that experiments to this end were under way at the Isro Space Application Centre (Isac), Bengaluru, in 2016. Isro has already completed some ground simulations. A senior scientist said, “The plan is to launch two small spacecraft to test the technology in space. India operates a huge constellation of satellites and this technology will allow Isro to enhance their lives by refuelling them. It’ll also reduce space debris.” 
+ 
+  
+  
+ The scientist added, “In most cases, the payloads on our satellites are still functioning when the satellite is decommissioned because it has expended its fuel. In future, we could enhance the life of satellites multiple times.” 
+ 
+ India is yet to become a member of the International Space Station, and human space programme is not in its immediate plans, but the eventual aim of the docking system is to send and bring back people from space. Former Isro chairman U R Rao, the chairman of Isro advisory committee, said, “It (the technology) could be used to transport people to space stations — bring back old people and put in newer ones — or even send people in to replace equipment on spacecraft and so on.” 
+ 
+  
+  
+ Isro has to overcome many challenges before it can attempt the transfer of people in space. For one, Isro must be equipped with capabilities that allow two spacecraft to find each other and remain in the same orbit. Rao said docking has to be automatic and many functions have to be executed by robots. There’s also the challenge of managing the speeds of spacecraft when they near each other and to then dock safely. 
+ 
+ Isro, according to documents in TOI’s possession, is also building a special bus and payload module that will allow replacement of equipment on satellites in space.
+ 
+ 
+ 
+ 

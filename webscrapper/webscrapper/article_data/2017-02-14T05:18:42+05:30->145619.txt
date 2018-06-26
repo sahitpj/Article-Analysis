@@ -1,0 +1,18 @@
+NEW DELHI/NAGPUR: In a first-ever exercise,   produced in all ordnance factories will get   (RFID) tags containing details of the make, batch and manufacturing date and time.
+
+ This project will improve “traceability” of the ammunitions kept across the depots and for better mobilisation of such items in case of need. 
+ 
+ The ordnance factory is carrying out the project following discussions with the  . This will entail an investment of Rs 400 crore with the process expected to start by end of this year, said sources in the ordnance factory board.
+ 
+ RFID will provide traceability of the ammunition.
+ 
+ This means the Army, which is the user, will be able to track all the vital facts about the ordnance. Apart from the date of manufacture, details like the shop floor in which it was made, the shift timings and even the worker engaged in the job can be known.
+ 
+ He added tagging the ammunition has greater significance when India is stepping up production to supply them to other countries. “The authorities will be able to keep track of the ammunition that needs to be taken out of stock and destroyed quickly since all the details will be available at the click of a mouse,” the source said.
+ 
+ TOI has learnt that GS1 India, an entity set up by commerce and industry ministry along with leading industry chambers, has been engaged with central ammunition depot (CAD) Pulgaon in Maharashtra for the use of such automatic identification and data capture technologies based on global standards for ammunition supply chain management. 
+ 
+ CAD Pulgaon is responsible for the supply of ammunition and explosives across India, after receiving them from different procurement agencies including ordnance factories.
+ 
+ Sources said using   is being seen as a better option over   since to read barcodes the reading devices have to be kept close to the products. “RFID tags is much better since the divides can read details from a distance, say of 100 meters. That will be a safer proposition since here items are ammunitions,” a source privy to the development said.
+ 

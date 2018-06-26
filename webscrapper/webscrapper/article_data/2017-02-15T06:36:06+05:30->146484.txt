@@ -1,0 +1,12 @@
+KOCHI: The   ( ) said the integrated trial run of the   would take place without much delay. The metro authority said they have installed communication-based train control ( ) system in Kochi Metro.
+
+ “There are various stages of signalling trial runs. Installation and testing of the CBTC can be considered the initial step. The integrated trial runs with multiple sets of trains would be final step.We have to complete all these activities by March end,“ said a Kochi Metro official.
+ 
+ DMRC said the CBCT system helps in communication between train and data communication masts provided alongside the track from where data is taken to operation control centre ( ).
+ 
+ The data transmitted by various trains is processed at OCC and instructions given back in the form of target speed and target distance required for automatic train control. It enables Kochi Metro to operate trains at intervals of about two minutes.
+ 
+ Space constraints in Kochi is a disadvantage in construction of long platforms for operating large trains, and this obstacle is overcome by reducing the headway (that is the time gap between arrivals of subsequent trains). This system enables automatic train protection and automatic train operation.
+ 
+ “Currently the test and trial runs are taking place manually. The trains are not operated from OCC,“ said a DMRC official.
+ 

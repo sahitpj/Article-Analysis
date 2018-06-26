@@ -1,0 +1,6 @@
+AHMEDABAD: The first-of-its-kind hackathon for data engineers, ‘Sentiment Analysis and Stock Performance’, will be held at the Indian Institute of Management-Ahmedabad in collaboration with software giant IBM. The hackathon, which will be held on April 8 and 9, is a part of the 5th IIM-A International Conference on Advanced Data Analysis, Business Analytics and Intelligence (ICADABAI). The conference has been a platform for academicians and practitioners to share research-based knowledge, case studies, and novel business applications in business analytics.
+
+ “Since 2009,   has been organizing ICADABAI every other year,” said Professor Arnab Laha of the IIM-A, the convener of the event. “This year, we are undertaking an initiative that will stimulate students, practitioners, and academicians to connect theory with practice via a hackathon.”
+ 
+ Laha went on to say: “ICADABAI 2017 Hackathon is an attempt to blend hands-on learning and research. Participants will solve real-life business problems.”  , the director of   of IBM India and South Asia, said: “IBM enables next-generation data engineers solve real world problems and drive business value.” He said the hackathon will facilitate the collaboration between data engineers to share knowledge about “ the best in class” tools. 
+ 

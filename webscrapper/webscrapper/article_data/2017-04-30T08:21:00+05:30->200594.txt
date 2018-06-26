@@ -1,0 +1,33 @@
+Software and Sanskrit gladden the heart of the establishment.  , author of novels like Red Earth and Pouring Rain and Sacred Games, is passionate about the two subjects and explores their connections in his book, Geek Sublime. In both cases, we should be wary of easy assumptions, he tells Sunday Times
+
+ What is the value of Sanskrit, as you see it?
+ 
+ I think that Paninian grammar, which is at the heart of Sanskrit, is one of the greatest intellectual achievements of humankind: it completely encodes the language algorithmically. It’s incredible that a complete generative grammar exists for a natural language, which is something that formal computer languages need, and that exists for no other natural language.
+ 
+ But there are all these hazy notions about Sanskrit that keep getting passed around in India. Like, on the Right, "It’s the perfect language" — what does that even mean, in what context? On the Left they say it was just a brahminical, restricted language, even though Buddhists and Jains and tantriks used it, in the most astonishing, anti-brahminical ways. 
+ 
+ So you feel we are cut off from our past, because of such political disagreements?
+ 
+ Oh yes, in India we live in a state of postcolonial amnesia for the most part. But it’s interesting that we’re going through all these experiments in the popular sphere, reworking mythology in graphic novels, young adult books, TV. Some of it is dangerous — when it is done to recuperate some imagined golden past, it can be very conservative in terms of politics and gender. But it’s still happening, despite an intelligentsia that doesn’t necessarily want to engage with this ‘manthan’.
+ 
+ I’m in favour of re-engaging with Indian thought traditions. I mean all kinds of traditions: learn about the Charvakas, the Buddhists, the Jains, how they all talk to each other. But Sanskrit is such a polarising topic to talk about. On the Left they’ll call you a Sanghi, and if you question their received verities, the bhakts get after you. Most of these people don’t even know the traditions first-hand, they just know fictions about the traditions. When I wrote my book about Sanskrit, I got a couple of weird reviews, suggesting I was a revivalist of some sort. But I don’t see why saying that Panini’s grammar has influenced modern linguistics and therefore the age we live in puts you in the same league as those who talk about Vedic airplanes and Ganesha’s brain transplants.
+ 
+ What sort of knowledge does that block
+ 
+ from our view?
+ 
+ Indian ideas about aesthetics, for instance, are not something we were educated about. I find ideas of rasa and dhvani intensely useful, and have been using them in my writing classes (at the University of California, Berkeley), and students respond to it immediately. Rasa and dhvani theory would say, when you construct a story, it must engage the emotions of the reader and put them in a state of transported pleasure. You’re not identifying with Hamlet, but experiencing emotions within yourself set off by Hamlet. It makes one think of Aristotelian ideas of pity and fear in a new way. To evoke rasa, you must work at basic levels, even through the texture of sentences; if you want to describe someone encountering a tiger, which of the senses do you deploy, smell or sound or something else?
+ 
+ These aesthetic traditions aren’t formally taught, but they live on in India. Look at Bombay cinema of the ’60s or ’70s — it’s all about a mixture of rasas producing an effect; Guru Dutt and Johnny Walker are used to add a little pathos, then a little comedy. Look at the songs in the movies — that structure comes from popular theatre, which goes back thousands of years in performance. The movie song expands a moment of emotion at a very high point. It’s a break in story-time, so you just float in that rasa for three-and-a-half minutes. It’s so different from the Western musical, where the song advances the plot.
+ 
+ What are the other ways that technology and the humanities can learn from each other?
+ 
+ Oh, many ways. For instance, my co-founder and I have a startup in California called Granthika; we’re trying to make a new kind of word processor. The trouble with the current incarnation of word processing is that it puts together strings of characters, but doesn’t understand anything about the knowledge being conveyed. So our software is a semantic word processor, something that will understand a character’s name, recognise an event and timeline and location.
+ 
+ How do you feel about the government’s
+ 
+ active push towards a digital India?
+ 
+ It’s a necessary and inevitable direction to take. All over the world, we are tending towards less-cash economies. But as a programmer, I’m also aware of the porousness of these systems and the possibility of exploitation by the bad guys, whoever they might be. Often the vulnerability is not out of malice, but stupidity or carelessness. So if we’re putting all our eggs in the digital basket, we should also be defending ourselves. I hope corporations and the government are actively thinking about that before taking a billion people and thrusting us towards this digital utopia. So much of the time, software is fragile and buggy, and the fact that we live in a world run by software also makes us fragile.
+ 
+ 

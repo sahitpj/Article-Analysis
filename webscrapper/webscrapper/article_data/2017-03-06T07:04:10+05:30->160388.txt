@@ -1,0 +1,12 @@
+HYDERABAD: The high usage of `bitcoins' by   --for   to   for getting back   of hacked data--has made bitcoins highly susceptible to thefts.In fact, companies have now been approached by cyber security experts to secure their `bitcoin' currency.
+
+ Incidentally, the use of bitcoins, especially by IT companies remains a grey area what with the Reserve Bank of India still not recognising bitcoins as a legal mode of payment in India.
+ 
+ Ransomware attacks are, meanwhile, on the rise with financial organisations, trading houses,forex companies and chartered accountants being prime targets. Since the information, encrypted by ransomware attackers is of extremely high value, companies tend to cough up the de manded sum to get back its control over the `crucial data'. Once subjected to a ransomware attack, companies or individuals start exploring bitcoins and the process of dealing in the e-currency.
+ 
+ Usually web links are sent through hidden network for making payments. But then there is a risk --of this `deal' being hacked by another hacker. In such cases, a second hacker sends a fresh payment gateway link to the company and siphons away funds meant to reach the hacker signed up for the deal. “It's worse in the case of   wallets. They need to be safeguarded,“ pointed out Zaki Qureshey, chief executive officer, E2Labs, a cyber security company. The company gets 7-8 such clients each month.
+ 
+ Hacking of bitcoin payments is giving sleepless nights to companies, held at ransom. An official from one such city-based company that had to pay the `ransom' amount twice said, “After consulting experts we decided to pay a huge sum to get hold of our `critical data'. After we paid the sum, we were contacted again and asked to make the payment. Later, experts told us that we were sent a link for payment by hackers who had hacked into the conversation.“
+ 
+ IT and financial services companies have meanwhile started to maintain a large stock of the e-currency either in the wallets or as high-return yielding deposits. Bitcoins security concerns are fuelling growth of startups working in the space of cyber security or enterprise security.Prashant Surana, founder of one such startup working in `blockchain technology'the back end technology for bitcoins pointed out, “While bitcoins come with the highest level of security, they still get hacked because of mining.It's a multi-billion dollar market.“ His company Snapper Technology digital has developed a `digital vault' for securing bitcoins.
+ 

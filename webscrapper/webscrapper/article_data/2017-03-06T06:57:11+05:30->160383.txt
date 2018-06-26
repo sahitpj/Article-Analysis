@@ -1,0 +1,11 @@
+NEW YORK: Humanity may soon generate more data than hard drives or magnetic tape can handle, a problem that has scientists turning to nature's age-old solution for information-storage -DNA.
+
+ Researchers from Columbia University and the New York Genome Centre have stored a computer operating system, a short movie along with other data in DNA. The study, published in journal Science, showed that an algorithm designed for streaming video on a cellphone could unlock DNA's nearly full storage potential by squeezing more information into its four base nucleotides.
+ 
+ DNA is an ideal storage medium because it is ultracompact and can last hundreds of thousands of years if kept in a cool, dry place, as demonstrated by the recent recovery of DNA from the bones of a 430,000-year-old human ancestor found in a cave in  .“DNA won't degrade over time like cassette tapes and CDs, and it won't become obsolete -if it does, we have bigger problems,“ said   from Columbia University . Researchers chose six files to encode, or write, into DNA: an operating system, an 1895 French film “Arrival of a train at La Ciotat“, a $50 Amazon gift card, a computer virus, a Pioneer plaque and a 1948 study by information theorist Claude Shannon.
+ 
+ They compressed the files into a master file, and then split the data into short strings of binary code made up of ones and zeros. Using an erasure-correcting algorithm called fountain codes, they randomly packaged the strings into so-called dro plets, and mapped the ones and zeros in each droplet to the four nucleotide bases in DNA: A, G, C and T.
+ 
+ The algorithm deleted letter combinations known to create errors and added a barcode to each droplet to help reassemble the files later. The researchers showed that their coding strategy packed 215 petabytes of data on a single gram of DNA, which according to   was the highest-density data-storage device ever created. “This is the highest-density data-storage device ever created,“ said Erlich.
+ 
+ 

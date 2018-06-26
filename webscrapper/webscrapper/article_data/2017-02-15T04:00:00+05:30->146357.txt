@@ -1,0 +1,11 @@
+Mumbai:   code, the government mandated   (QR) code to facilitate electronic transactions in shops without card swipe machines, will be launched on February 20. With the launch, the government hopes to replicate the success of   in China, where it is the most popular mode of payment.
+
+ The Indian Banks Association on Monday had a meeting of all banks to finalise details of the launch which is expected to provide a boost to electronic transactions in retail payments. Besides working as a common interface for the Visa/MasterCard/RuPay platform, IndiaQR will also facilitate acceptance using Aadhaar-enabled payments and bank transfers. Although IndiaQR will have the capability of accepting payments on the unified payments interface (UPI) platform as well, bankers say that in the initial phase acceptance will be largely on the Visa,   and   platform. 
+ 
+ In India, although   and mVisa have launched QR code-based acceptance systems these are largely closed systems. For instance Paytm’s QR code can be used by only those who have an account with the digital wallet company. mVisa can be used by any Visa cardholder who uses a mobile application that supports mVisa.
+ 
+ MasterCard had launched an interoperable   QR in November 2016 which could be used with other networks in November. RBL was the only bank to have integrated Masterpass QR in its app to facilitate face to face payments.
+ 
+ While anyone with a bank account and a smartphone will be able to make IndiaQR code-based payments, banks will need to enter into agreements with merchants to onboard them for accepting IndiaQR payments. 
+ 
+ 

@@ -1,0 +1,19 @@
+Chennai: For the last three years, the brightest minds at Zoho Corp have been at work on a stealth project. Experimenting with a bunch of ideas surrounding machine learning and artificial intelligence (AI), the Sridhar Vembu-led company last week announced Zia, an AI powered sales assistant. COO Mani Vembu talks to TOI about their work, what to expect from Zia and its application. Excerpts:
+
+  When did you start work on Zia. Why has it taken you so long to launch an AI tool.
+ 
+ About 2-3 years ago, we started toying with AI. We wanted a compelling reason to use AI and give value to the customer. In its formative years, CRM was just a contact database. When integrated with email, CRM evolved into communication. In July 2016, we launched a multichannel CRM tool to cover all aspects of communication be it email, social media or telephony. Now, with Zia, we are empowering the sales person by giving them actionable intelligence.
+ 
+ How does Zia work?
+ 
+ It is still not easy for sales teams to manage leads and customers. With Zia, the CRM database is used to identify anomalies and predict best time to call. We track the customer’s online movement and know what time would have the highest probability of the customer responding. For example, we can see what time of the day a customer typically raises a support query. If the marketing team sends a survey or an email, we can tell which is the most probable time that the customer responds. You would think that their action is random, but there is a pattern to it. Zia suggests 5 best time slots for a sales person to contact a customer. If a customer is using a product at a particular time, there is high probability that they will be open to connecting with the sales person.
+ 
+ So does Zia mimic a sales person? Will it reduce workload?
+ 
+ Sales person have routine, repeated actions which consume time and effort. Zia will suggest actions based on prior data, personalised to each employee. For example, if a customer does not receive a call and it goes into voice message, Zia will suggest that an email be sent. For team leads, Zia will give updates on the performance of a sales personnel. The idea is to leave the predictable portion to the machine and increase productivity.
+ 
+ Will we see AI proliferate into other Zoho products? How is the business doing?
+ 
+ We want to have AI across the board soon. We are beta testing internally and an AI tool for all Aoho products should be out after a year or so. Majority of the work is being developed in Chennai with a small team from Tenkasi. We are looking at new products in the area of payroll while expanding our communication suite. Our strongest sell point is that our company and its 4,500 people run entirely on Zoho products. This is testament to our products being a complete suite for all business needs.
+ 
+ 
