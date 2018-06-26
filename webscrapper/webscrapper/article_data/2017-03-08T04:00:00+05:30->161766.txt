@@ -1,0 +1,9 @@
+Chennai: Data science startup PipeCandy has raised a seed round of $1.1 million from multiple investors including IDG Ventures India, Axilor Ventures (promoted by founders of Infosys), Silicon Valley based Emergent Ventures, Indian Angel Network and other individual founders. PipeCandy uses data science techniques to give intelligence to sales representatives and counts companies like Freshdesk, Zarget, Chargebee and FarEye as its clients.
+
+ “Artificial Intelligence (AI) and data science are rapidly maturing. The PipeCandy platform offers a great proposition for customers by applying these technologies to outbound prospecting. Globally this is an under explored space with only about 3% companies adopting technology to reach out in a structured manner,” said Ranjith Menon, executive director, IDG Ventures India.
+ 
+ Founded in February 2015 by Shrikanth Jagannathan, Murali Vivekanandan and Ashwin Ramasamy, PipeCandy tracks over 100 million decision makers across 40 million companies globally. Using its algorithms, the startup help sales representatives discover the right prospects and segment them based on indsutry specific parameters. For example, a ‘Point of Sale’ software company can discover retailers that have omni-channel presence and filter them based on the number of SKUs (stock keeping units) they sell.
+ 
+ PipeCandy intends to use the funding to verticalise its analytical models and build tools that make sales reps follow best practices effortlessly.
+ 
+ 

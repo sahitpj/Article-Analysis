@@ -1,0 +1,17 @@
+MUMBAI: Cyberspace security experts are worried about the risk to customers using   and one-time passwords for authentication of financial transactions after it was revealed that a large cache of   numbers had become public. 
+
+ Bengaluru-based think tank, Centre for Internet and Society (CIS), has published a report highlighting how 13.5 crore   have been exposed by government departments.
+ 
+ The report, by Amber Sinha and Srinivas Kodali, said the   (NSAP) and the National Rural Employment Guarantee Scheme, administered by the ministry of rural development, and the Chandranna Bima Scheme of the Andhra Pradesh government have made Aadhaar numbers public.
+ 
+ In some cases, bank account details and mobile numbers of millions of citizens are available. While many officials say the availability of the Aadhaar number itself is not a breach, payment industry security experts disagree.
+ 
+ According to Nitin Bhatnagar, associate VP (business) at SISA, a payment security specialist, said the exposing of an Aadhaar number amounts to a breach. "Any element of payment data exposure is considered a breach in the payment industry," Bhatnagar said. 
+ 
+  In December 2016, RBI had allowed banks to use a combination of an Aadhaar number and an OTP on the customer's phone for completing "know your customer" requirements and opening a bank account. A fraudster with the Aadhaar details of a customer can obtain a cloned SIM card and use it for fraudulent transactions. 
+ 
+ The CIS report highlights how these public databases are exposing citizens to risk. "When   claims repeatedly that the Aadhaar data is secure, his focus is largely on the enrolment data collected by UIDAI, or authentication logs maintained by it. With countless databases seeded with Aadhaar numbers, we would argue that it is extremely irresponsible on the part of the UIDAI, the sole governing body for this massive project, to turn a blind eye to the lack of standards prescribed for how other bodies shall deal with such data, such cases of massive public disclosures of this data, and the myriad ways in which it may used for mischief," the report said.
+ 
+  Bhatnagar, whose firm audits payment companies for compliance with security standards, says Aadhaar-enabled payment systems can follow PCI DSS as a best payment security standard. "There is no mandate for Aadhaar enabled payments to be part of PCI DSS scope but we have seen voluntary adoption of the PCI DSS standard for AEPS by security-conscious organisations," Bhatnagar said. Based on these risks, SISA recently released a tool called Tipper to facilitate the discovery of Aadhaar numbers and help organisations mask them through a centralised console. 
+ 
+ 

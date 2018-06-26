@@ -1,0 +1,32 @@
+Going online was supposed to clean up and smoothen functioning of government schemes like the   guarantee scheme MGNREGS. But experience from Jharkhand’s tribal districts shows that besides the chronic lack of connectivity, a brand new system of corruption has emerged. And, instead of more transparency, villagers with no knowledge of the electronic way of life are running blindly from pillar to post. Too many flip-flops of the way the electronic system is to be run is also causing trouble.
+
+ Digital signatures of gram pradhans are stored in ‘dongles’ and used for illegal money transfers, arbitrary deletion and addition of names or photographs has damaged credibility of muster rolls, wrong photos are uploaded on job cards and payments are going into accounts that workers are not even aware of. Aggrieved villagers have no clue of what is going on because all they are told is that electronic action has been done, await the result – even if it takes months.
+ 
+ “The computer operator has emerged as a new node of corruption. If middlemen collude with the computer operator, it is fairly easy to siphon off wages by generating fake muster rolls,” said a block development officer in Khunti district.
+ 
+ These worrying facts emerge from a months-long study and interaction with villagers in the tribal districts of West Singhbhum, Godda, Khunti, Gumlaand others by Ankita Aggarwal, a social activist.
+ 
+ “The Centre has been issuing direction after direction, instead of letting states implement the programme according to their needs and capacities. One recent report in a newspaper showed that the Centre and state-level officials were part of a WhatsApp group – that makes it hard for people seeking information under the Right to Information Act,” she told TOI.
+ 
+ Under the Electronic Fund Management System funds are electronically transferred to accounts of workers and vendors after Fund Transfer Orders (FTOs) are signed digitally. But most gram panchayats lack internet connectivity and have no computer operators. So, FTOs have to be signed from the Block office. But it is difficult for gram panchayat presidents and secretaries to repeatedly travel to the block headquarters and in any case they are unfamiliar with the system. Solution? Many have given their “digital signature” in a dongle to the block-level functionaries.
+ 
+ Unsurprisingly, these digital signatures are also being used to authorize fake payments without the knowledge of the owners of these signatures. An FIR was recently lodged against Santosh Kisku, mukhiya of Godda district whose digital signature, kept with the block functionaries, was used to authorize payments for work done by a machine. Kisku said he had no notion his signature could be thus misused. “I was in Ranchi when my sign appeared on fake documents,” he said.
+ 
+ Normally, it takes a couple of days for the electronic fund transfer to get processed through the system. If there are technical glitches, it can take months. It is impossible for workers to demand accountability for these delays as payments are beyond the control of the gram panchayat or even the local administration once FTOs have been signed.
+ 
+ In West Singhbhum district, a gram panchayat-level functionary unwilling to be named said, “Internet connectivity is erratic, so routine tasks like issuing muster rolls take a long time. Processing payments too can be long-drawn.”
+ 
+ MGNREGS provision for compensation for not getting work too has become complicated as the functionaries do not accurately record the date of the application for work in the Management and Information System (MIS). The exercise of recording demand is simply not done for workers who are not allotted work. As a result, workers across Jharkhand are almost never paid unemployment allowance even though denial of work is routine.
+ 
+ The Centre insistence on payment of wages only into the bank account linked to the worker’s Aadhaar number has created its own set of problems, as Abhimanyu Sau, a worker of Gumla district found out.
+ 
+ He was unable to trace several months’ wages for work done under MGNREGS. The MIS showed that his wages had been credited in his account. But he couldn’t find it when he checked. After several weeks of panic, a consultant with the rural development department helped him.
+ 
+ It was found that Sau had two accounts in the bank. To meet account opening targets under the Jan Dhan Yojana, many MGNREGS workers who already a bank account were forced to open another account which was linked with the Aadhaar number. Their wages get credited in their Jan Dhan account, and not the earlier one. Many workers remain unaware of this change. Disgusted at not receiving wages, they give up working in MGNREGS.
+ 
+ At the central government’s insistence, states are ‘verifying’ job cards by uploading workers’ photographs on the electronic job card. There is no way to verify whether the uploaded photographs are indeed of the workers whose job card it is. To expedite the rate of verification, local functionaries are deleting workers’ names to reduce the number of people whose photographs have to be collected and uploaded. Sukhdev Mahli, an MGNREGA worker of Patamda block of East Singhbhum, was shocked to learn that his name was deleted from his job card in November 2016. “It said I was dead!” he says.
+ 
+ For several days in November and December last year, the rural development ministry manipulated the MIS to prohibit allotment of work to workers whose photographs were not uploaded, without prior official communication to the states. Ankita Aggarwal said this decision was revoked only after a bureaucrat working in a state pointed out its illegality to senior officials of the ministry.
+ 
+ Aggarwal also noted that for several months in 2016, the NREGA MIS remained shut from 6pm to 6am every day (the website continues to not operate from 9pm to 6am). Even during the hours when the website is supposed to operate, it often functions extremely slowly. Given how dependent implementation of MGNREGA has been made on the programme’s MIS, these disruptions in the website cause regular delays in allotting work to workers and processing their payments.
+ 

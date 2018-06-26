@@ -1,0 +1,25 @@
+Mumbai: The   (CBDT) appears to have broken a record in   by signing 88   (APAs) during financial year 2016-17. According to a   report, this is probably the highest number of   entered into any country in the same period.
+
+ In 2013-14, which was the first complete financial year (APAs became operational in August 2012), only five agreements were signed by the CBDT. Since then, the number of APAs concluded yearly has been rising exponentially (see table). 
+ 
+ APAs are a mechanism to resolve transfer pricing disputes in advance. Transactions between related parties (say, an Indian subsidiary providing software development to its US parent company) are required to be at an arm’s length, which means no unfair pricing advantage is to be provided.
+ 
+ Transfer pricing provisions in income tax laws determine whether the pricing is at an arm’s length, which ensures that profits are properly captured in a country (in this case, India) and no IT revenue is lost. APAs with a rollback provision, which give IT certainty to the applicant (taxpayer) for nine years, were introduced from 2015.
+ 
+ Since inception of the APA mechanism, a little over a four-year period, the CBDT has concluded 152 APAs. Till date, 815 APA applications have been filed in India. As opposed to this, China has signed only 113 APAs during a 10-year period commencing from 2005. “Through the 152 APAs entered into so far, the CBDT has managed to provide cumulative tax certainty of 1,010 years to these taxpayers. Seventy-eight of these APAs had rollback provisions,” cites the CBDT’s report, which condenses the progress made over the past five years. Provision of software development and IT-enabled services are transactions that feature predominantly in the APAs entered into by the CBDT, as almost 50% of the applications relating to unilateral APAs flowed from the IT industry.
+ 
+ The time taken to process an application and conclude (sign) an advance pricing agreement is crucial for taxpayers. Different countries have varying timelines to conclude APAs. CBDT’s report illustrates that while the US authorities managed an average timeline of 34 months for unilateral APAs and 51 months for bilateral APAs, the time taken by Indian authorities was an average of 29 months and 39 months respectively.
+ 
+ Hitesh Gajaria, transfer pricing specialist attributes the success of APA program to the business friendly approach adopted by the APA team. “For instance, in case of cross charges — charges paid by subsidiaries to the parent company, the teams understood that the Indian subsidiary cannot be an outlier. However, transfer pricing issues relating to advertising, marketing and promotion expenses, undertaken by the Indian company, which are seen to benefit the foreign parent, have not been adequately addressed under the APA mechanism,” adds Gajaria.
+ 
+ “The litigious environment, which prevails otherwise, makes the APA mechanism attractive. Also, the APA team needs to be commended for adopting a pragmatic approach aimed at resolving the issue in an amicable manner,” says Rajendra Nayak, international tax partner, EY India.
+ 
+ The report illustrates the case of a global IT giant, where the related entity in India declared more than Rs 5,000 crore as additional income after entering into an APA with the CBDT recently. This translated to an I-T payment of more than Rs 1,500 crore without getting into any litigation.
+ 
+ At present, 141 of the APAs concluded are unilateral — where only the CBDT is involved in the entire process. These APAs have left their footprints in 118 countries where the related party of the Indian application company are located, topping the list was USA, followed by UK and Singapore.
+ 
+ Only 11 APAs entered into till date were bilateral — where the CBDTand the tax authority of the foreign country are both involved in the negotiation process. With the USA competent authority opening up the bilateral agreement program, future years are likely to see an emphasis on bilateral APAs where the related party is a USA entity.
+ 
+ “However, it would augur well for our government to revise the safe harbour norms. Here profit margins are prescribed for various kind of outsourced services provided by an Indian company to its overseas affiliate. If these margins are adopted the Indian taxpayer gets a five year certainty and is free of litigation. However, the profit margins are very high, such as 25% for KPO services or over 30% for R&D. If profit margins were realistic less people would opt for APAs enabling the authorities to concentrate on more complex matters,” adds Nayak.
+ 
+ 

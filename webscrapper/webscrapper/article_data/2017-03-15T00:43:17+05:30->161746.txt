@@ -1,0 +1,13 @@
+Panaji: Goa-based National Institute of Oceanography (NIO) has designed a robotic platform called Seabed Resident Event Profiler (SREP) to track oceanic processes. It can be stationed at any depth down to 200m along the Indian coast.
+
+ This technology has been developed by scientists of the marine instrumentation group of the institute.
+ 
+ The SREP is particularly targeted at studies related to the monsoon, global climate and upwelling. Southwest monsoons being the backbone of this country’s economy, knowing the conditions related to onset of monsoon is one of the major goals.
+ 
+ Upwelling is another phenomenon associated with monsoons during which migration of deep sea oxygen minimum zone (OMZ) occurs towards the coast. Several sensors that can detect the conditions associated with upwelling such as low temperature, low oxygen, high nutrients, and changes in density patterns are placed on this platform.
+ 
+ This robot records the water column information regularly as programmed at every 10 to 25cm during every profile four times a day, stores the data and communicates the same to users at the institute. The robot in its final configuration will be able to sit on the seabed for days continuously.
+ 
+ This robot records water column information as programmed during every profile four times a day, stores the data and communicates the same to users at the institute
+ 
+ 

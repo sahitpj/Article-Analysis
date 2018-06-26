@@ -1,0 +1,11 @@
+Mumbai: In a first,   has provided its customers access to the government’s digital locker ( ) from within its netbanking application. Customers who log in will find digitally signed copies of all government documents, such as driving licence, vehicle registration and property documents wherever they have provided  .
+
+ Speaking to TOI, Kotak Mahindra Bank chief digital officer Deepak Sharma said that access to digitally signed documents will make transactions in third-party products easier. “The customer cannot just access his documents, he can e-sign and forward these documents to whoever he wants to,” said Sharma.
+ 
+ The DigiLocker is already live on the bank’s netbanking and is being tested in a smaller employee group. Next week onwards, it will be made available to all customers. According to Sharma, if property documents are dematerialised, it will make takeover of loan documents easier in future. 
+ 
+ DigiLocker is a dedicated personal storage space of 1GB that is linked to each Indian’s Aadhaar number. All that is required for signing up to the service is an Aadhaar number and a mobile number registered with it. Currently, there are over 165 crore documents that are in the DigiLocker that are linked to Aadhaar.
+ 
+ According to Sharma, the DigiLocker will give an impetus to paperless banking. “We have already moved to paperless account opening. We are allowing employees to use their own devices, to which they can plug in a biometric device that can be used for account opening,” said Sharma.
+ 
+ 

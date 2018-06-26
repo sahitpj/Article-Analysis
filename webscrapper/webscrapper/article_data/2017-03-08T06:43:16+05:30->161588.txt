@@ -1,0 +1,12 @@
+PUNE: The digital payments’ volume in February 2017 dropped 2% compared to the first 28 days of January and over 10% compared to the first 28 days of December.
+
+ In February, the total volume fell to 76.3 crore transactions compared to 78.02 crore in January and 84.9 crore in December. In February, the total digital transaction value increased by 10% over January and about 4.6% over December.
+ 
+ The government has made a big push for   since  . Worryingly, the consumer facing digital payment channels like   usage over point of sale terminals ( ) continued to decline in February as it did in January, compared with the immediately preceding months in each case.
+ 
+ One reason for this decline is the heavy   levied for card usage at point of sale terminals. This charge typically ranges from 0.75 to 2% of the transaction value and so retailers discourage customers from making card payments. The call to waive-off or rationalize transaction charges has so far fallen on deaf ears. Even fuel refill using a card continues to attract charge in bulk of the cases.
+ 
+ Similarly, usage of prepaid instruments like digital wallets also declined in February over January in volume as well as value. The usage of cheques has also begun to be moderate in volume terms and so is the case with mobile banking.
+ 
+ Other latest payment interfaces like Unified Payments interface has begun to show some traction in February. The USSD payment interface volumes, which allows payments to be made using an SMS (no need of internet), also fell in February over January. But the total value transacted using USSD — used by people like migrant workers — increased marginally in February.
+ 

@@ -1,0 +1,14 @@
+CHENNAI: Tamil Nadu has been recognised by the Central   (CPCB) as being the first state to use   (IoT) for real time monitoring of emissions in the   
+
+  Following adherence to norms such as automated shutdowns, sensors to monitor smoke levels are within permissible levels, embedding triggers for early warning systems, the industry has been upgraded to orange from red category by the CPCB. "Being upgraded to semi-hazardous from hazardous is a huge boost for the industry as it clears the way for more IoCs (Intent of Consents)," said  , VP, The Institute of Indian Foundrymen.
+ 
+  By employing real-time sensors, the industry has not just been able to bring down its pollution levels, but also increased its production. "Earlier, we used to get an yield of 50-55% from ferrous or non-ferrous ore. But, by employing sensors, we have been able to increase the yield to 70-75%. What it means is for every kg of raw material melted, we are now getting 75 gms of iron or steel castings from the earlier 55gm," said  , member, Institute of Indian Foundrymen (IIF).
+ 
+  Apart from a central monitoring system at the plants, foundries in Tamil Nadu also have alerts streaming into their mobiles via SMS, WhatsApp on the ambient temperature, moisture, quality of materials, etc.
+ 
+  "The CPCB has placed limits and the onus is on us to maintain smoke discharges within those limits. For flu gases with particulate matter, we have started employing scrubbers in dust extraction devices for curbing waste. Our sensors are also being deployed at all energy consumption points for more effective use of energy. For instance, we found that instead of running the plant the whole week, it makes more sense to run it at a stretch for 24-36 hours to reduce power consumption," said Devaraaj.
+ 
+  The foundry industry has also started deploying sensors in different processes such as, moulding, melting. 
+ 
+ "At the time of pouring, assembly of moulds, we check the quality of melt, if there are sand drops in the mould, breakages to mould. We also look at the thermal behaviour of the material from the time of entering the mould," said Devaraaj.
+ 

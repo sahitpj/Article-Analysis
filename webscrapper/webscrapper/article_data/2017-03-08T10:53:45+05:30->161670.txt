@@ -1,0 +1,13 @@
+CHENNAI: A solar direct current power unit developed by IIT Madras, that can power a small home at lesser cost than a conventional solar power has received the IEEE’s ( ) ‘Spectrum Technology In The Service Of Society’ award.
+
+ The unit comprising of 0.9sqm solar panel (roughly the size of a floor tile) of 125watt capacity, a device that will connect   grid to DC power line and a battery with 1kwh capacity, will power a few fans, lights, a television, mobile charging, mixer grinder and computer that runs on  .
+ 
+ It is ideal to light up an entire home that is not connected to power grid or can be used as a backup in buildings that suffer frequent power cuts. 
+ 
+ IITM director Bhaskar Ramamurthi said the technology, which took four years to develop and test, is currently covering 12,000 homes in six states and would soon be commercially scaled up. “We are working with the ministry of renewable energy to be included in the solar rooftop subsidy programme,” he said.
+ 
+ Ramamurthi said the technology is energy efficient, as it only consumes 40 to 50% of power thereby saving half the money, spent on running AC-powered appliances. 
+ 
+ When the power supply drops from the solar panel due to change in weather, a smart controller helps automatically switch from normal to emergency mode, which can provide uninterrupted supply for two lights and a fan for 48hours. The research team said the system would eventually be able to power bigger appliances like refrigerator, washing machines and air-conditioners when batteries with bigger capacity are made.
+ 
+ 
