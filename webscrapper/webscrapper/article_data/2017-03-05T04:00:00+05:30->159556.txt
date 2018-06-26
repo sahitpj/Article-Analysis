@@ -1,0 +1,42 @@
+Ahmedabad: Nestled in a quiet corner of the Cept University campus is a hi-tech laboratory with close to a 1,000 sophisticated and invisible sensors that can ‘translocate’ you in a jiffy to a steamy tropical night of Chennai or to a crisp Shimla morning. 
+
+ 
+ The special Thermal Comfort Chamber (TCC) is one of the 15-odd testing facilities at the 800 sq m Centre for Advanced Research in Building Science and Energy (CARBSE) — proudly referred to as the Net-Zero building. The facility was recently given the Centre of Excellence tag by the Union ministry of new and renewable energy. The 5mx4mx3m TCC can precisely simulate a wide spectrum of indoor environmental conditions, with temperatures ranging from 15°C to 35°C and relative humidity from 20% to 80%. This is done using sophisticated air-conditioning systems as well as control devices. TCC can even change air distribution patterns.
+ 
+ “TCC experiments evaluate the impact of various indoor environmental conditions on occupant comfort,” said Prof Rajan Rawal, the executive director of CARBSE. “We are merging building science with health — a new approach that examines the factors in a building environment that influence human health, well-being, and productivity.”
+ 
+ Some of the prized possessions of the living laboratory include solar calorimeter, guarded hot box, and the mirror box. “The purpose of CARBSE is to help the construction industry move towards super-efficient energy buildings in an Indian setting and climate,” Rawal said. “CARBSE’s living laboratory is packed with research-grade sensors that interact with occupants and constantly provide feedback. This helps us develop new technologies and control algorithms to make buildings more efficient.” 
+ 
+ Rawal calls CARBSE laboratory a fitting example of a Net-Zero Energy Building (NZEB) — meaning a building where the total amount of energy used annually is roughly equal to the amount of renewable energy created on site, for instance with solar panels. Rawal said that the living laboratory has in fact fed 15% surplus energy into the electricity grid in 2015-16. At any point, some 900 sensors are operational in the building.
+ 
+ Today, a relatively ignorant building industry — commercial and residential — consumes 33% of India’s total electricity. The commercial floor space was 659 million sq m in 2010 and is expected to grow to 1.3 billion sq m by 2030, increasing electricity demand by 12% to 14% each year in the commercial sphere.
+ 
+ “There is a huge knowledge deficiency when it comes to building materials and building performance or efficiency in India,” Rawal said. “CARBSE’s objective is to generate knowledge relevant to India about the efficient use of locally available construction material.”
+ 
+ At CARBSE, Rawal and his team test building materials as small as 5mm and also assess whole buildings. 
+ 
+ WHAT’S UNIQUE ABOUT CARBSE BUILDING?
+ 
+ 
+ CARBSE’s NetZEB building minimizes glare and heat gain by orienting openings away from East and West. It uses materials — such as bricks, insulation, and a cool roof — to reduce heat gain. The building floor platform is thin to allow cross ventilation and optimal daylight. Well-shaded windows produce natural ventilation. 
+ 
+ THE HI-TECH GADGETRY 
+ 
+ Thermal Comfort Chamber (TCC)
+ 
+ TCC can precisely simulate a wide spectrum of indoor environmental conditions with temperatures ranging from 15°C to 35°C and relative humidity from 20% to 80%. This is done using sophisticated air-conditioning systems as well as control devices. It can even change air distribution patterns.
+ 
+ 
+ Mirror Box : Helps designers experiment with daylight to create a visually stimulating environment, both for indoors and outdoors.
+ 
+ Guarded Hot Box : Used to test thermal performance of wall assemblies — like cavity walls — and even determine the amount of heat transfer through a given material. 
+ 
+ Spectro-photometer: It measures solar spectral reflectance or light intensity reflected from various surfaces.
+ 
+ Air Leak Chamber: Used to determine the air-leakage rates of windows and doors.
+ 
+ Hygrothermal characterization: Gauges moisture migration in a building assembly, which impacts structural stability and indoor air quality.
+ 
+ Heat flow meter: Measures thermal conductivity of materials.
+ 
+ 

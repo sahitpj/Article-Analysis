@@ -1,0 +1,16 @@
+PUNE: When Anuj Phegade, a student from College of Engineering Pune ( ), came out of the final of   in 2016, he was disappointed by the team’s loss in the competition by just three seconds. 
+
+ However, this year the team led by Anuj came up with a better ‘bot’ (robot), determined to win. CoEP’s hard work paid off as they won the Abu National Robocon of 2017 on Saturday. The team will now represent India at the international Robocon at Tokyo.
+ 
+ Explaining the game,  , principal,   said, “All games are conducted between two teams, each with one robot. The teams comprise three members two students and one instructor. The robot may be fully automatic or controlled manually and is completely hand-built by the students. On the field are seven spots, consisting of a circular table attached to a column with varying heights and areas, and with a beach ball placed on top. The robots of both teams are loaded with 50 discs.”
+ 
+ “Scores are counted when a team’s disc lands on a spot, where its ball has been knocked off. When all the balls are knocked off and a team successfully lands its discs on all the spots, it is declared the winner of the game,” he said.
+ 
+ While Anuj, a final year student of electronics and telecommunications is the team leader, Shubham Sonawane, a third year student of electrical branch, is the bot operator. The team consisted of students from all branches and all years of COEP.
+ 
+ “This time we concentrated on timing and also the motion of throw of the frisbee. We tried to emulate the hand movement when throwing a Frisbee on a disc on a robotic arm. We used a pneumatic cylinder to better the push movement of the frisbee. To make sure that the bot can throw at various distances accurately, we ensured that the bot can be calibrated at running time. The air pressure in the pneumatic cylinder can be varied to adjust the distances,” said Anuj. The team won the final in 1 minute 30 seconds.
+ 
+ Talking about the competition they will face at the international meet, Shubham said, “The teams from Japan and China would be really big on automation and that is what we will also try to do. We know the challenge is huge. This will be a great learning experience for us.”
+ 
+ Of the eight teams that made it to the quarter finals four were from Pune. These included COEP, MIT, VIT and PES Modern College. MIT Pune was the runners up, while  , stood third. As many as 112 engineering colleges from across India participated in the three-day event.
+ 

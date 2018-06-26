@@ -1,0 +1,16 @@
+AHMEDABAD: What if you can book a parking slot in Surat even before you start your journey from Ahmedabad?
+
+ A team from Bardoli-based Faculty of Engineering Technology & Research (FETR) has realised the concept through their project ‘Smart Vehicle Stack,’ an automated parking system, which got funding from Raksha Shakti University (RSU). Surat Municipal Corporation (SMC) has completed formalities for its trial in the city.
+ 
+ Narendra Jagtap, project guide from FETR, said that the project took shape from student projects by Mihir Tailor, Rajan Mistry, Ravi Maradiya and Dipen Patel. “Like we book tickets for a cinema with specific seat for a specific show, the application would show various areas and available parking lots owned by both government and private players. The user would have to buy the time slot after which he/she would get a QR Code. When the code is scanned at the parking slot, the vehicle will be allowed entry,” he said.
+ 
+ RSU officials said the application will help space owners monetize it for parking, while taking vehicles off the roads.
+ 
+  It is one of the first projects rolled out by RSU’s Traffic Cell, established with a view to provide solutions to perennial traffic issues without stepping on the toes of civic authorities or traffic police. Members of the cell include representatives from Ahmedabad Janmarg, Cept University and IIT Gandhinagar, among others.
+ 
+ Vikas Sahay, director general, RSU, said that the platform allows cross-discipline interaction on specific issues. “We are hopeful that the tech-based solutions would go a long way in making our roads safer. Another project, developed by RSU students, aims at reducing the number of private vehicles between Ahmedabad and Gandhinagar,” he said.
+ 
+ The project, tentatively titled ‘Share a Ride,’ is primarily focused on government employees living in Ahmedabad and going to Gandhinagar daily during predetermined hours. RSU officials said that those with four-wheelers with willingness to car-pool and allow others to sit in their vehicles would be able to register themselves on the application.
+ 
+ “For example, suppose there are four persons from Maninagar who go to Gandhinagar daily in their own cars. The app would help identify three others to the user who might then use it to schedule a car pool. The app also detects repeated piggybacking and disallows the user if his/her vehicle is not used frequently,” said Chandresh Parikh, coordinator for RSU’s Traffic Cell. The application is expected to be launched soon.
+ 

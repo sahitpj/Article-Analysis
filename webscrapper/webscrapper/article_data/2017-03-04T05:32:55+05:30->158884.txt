@@ -1,0 +1,10 @@
+KOCHI: Two months after they lost a couple of friends in an accident on Varapuzha bridge, their friends at the   (SoE),   (Cusat) have developed a ' ' which will alert the  . 
+
+ The students have developed a sound signal classification algorithm that can classify sounds made due to crash and inform the nearest emergency/enforcement service. This is a device that can be fitted on any traffic signal post or anywhere near accident prone areas. The receptor system can be installed in the nearest police control room or highway patrol vehicle or hospital. 
+ 
+ Usually, it is up to another fellow traveller or passenger to report an accident to the control room with exact locations for first aid and medical relief. The time lag here usually ranges from 5-15 minutes which is a matter of life and death. In fact most of the causalities in road accidents happen because of the delay in getting medical attention. "The device comprises of a sound signal sensor, a processing unit and energy cell, is far more economical and scalable than deploying cameras at each and every point," said Anantha Raman, one of the students who developed the system.
+ 
+ Others who are part of the project include Ashfaq Ahammed, Chidambaramurthi, Anantha Raman, Govind Nair, Ajay Shanker and Hari Narayan with support from their mentor Roy M Thomas
+ 
+ In an era of artificial intelligence systems which have brought a sea-change in the transportation industry, "we owe it to the society to provide some small solutions for a safer and accident-free driving experience," he said. 
+ 

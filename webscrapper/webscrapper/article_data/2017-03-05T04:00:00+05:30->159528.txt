@@ -1,0 +1,26 @@
+Further miniaturization will make it possible for cellphones to use NavIC, says Nilesh M Desai, Deputy Director, SATCOM & Navigation Applications Area, SAC, ISRO
+
+ 
+ Q: For the past eight months, trials of Navigation with Indian Constellation (NavIC) have been going on. What has been the outcome?
+ 
+ A: NavIC, earlier known as the Indian Regional Navigation Satellite System (IRNSS), is our own navigation system like the Global Positioning System (GPS) of the US. Only a few countries or unions today have functional systems such as GLONASS and Galileo. In the past eight months, we have collaborated with various sectors such as agriculture, railways, maritime activity and rocket launch to test it. The results have been very encouraging. It will have many applications for general use also. 
+ 
+ Q: When will common people be able to use it?
+ 
+ A: Currently, the main challenge is miniaturization. ISRO has already made receivers for both standard and restricted services. We have also shared information such as frequency and other aspects with private vendors and students to work on projects. However, the receiver being used currently is the size of a box. It will reach common people only when it can be embedded in a chip for mobile phone use. We hope that by the year-end, it will have commercial applications.
+ 
+ Q: How is it different from other navigation systems, including GPS? What is its accuracy observed so far?
+ 
+ A: Within India and 1500 km of its periphery, we have observed up to 5 meters accuracy. Out of around five to six applications today, only Galileo has messaging interface embedded – a feature one will be able to use in NavIC. This feature will be helpful when a command center wants to send warnings to a specific geographic area. For example, fishermen using the system can be warned about a cyclone. 
+ 
+ Q: Gagan, another application by SAC for airplane guidance, uses GPS. Will NavIC replace GPS on most of the applications, once it is fully functional?
+ 
+ A: That is the goal. But the world goes in the direction of using multiple sources for best positioning. With over 30 satellites, GPS has wider coverage. Thus, we can use our system to optimize it. With augmentation of both NavIC and GPS, we have got better accuracy. It will have far more applications. The system is going to be used for making unmanned railway junctions safer. NavIC is also going to be used during trials for manned space missions. It has already been used by ISRO in its past few launches. 
+ 
+ Q: What role did Ahmedabad play in the development of NavIC?
+ 
+ A: There are three parts of the project – building satellites and payloads; laying the groundwork such as receivers; and preparing user utilities. On all three aspects, SAC at Ahmedabad has made major contributions. At the moment, experiments are on to develop chips to miniaturize technology.
+ 
+ (As told to Parth Shastri)
+ 
+ 

@@ -1,0 +1,8 @@
+WASHINGTON:   is sending a self-sufficient plant growth system to the International Space Station (ISS) that will help astronauts grow their own food during deep-space exploration missions.
+
+ The new plant system will this month join “Veggie“ - Nasa's first fresh food growth system already active on ISS. The   is designed to support bioscience research aboard the space station for up to a 135-day investigation, and for at least one year of continuous operation without maintenance. “This system requires minimal crew involvement to install, add water, and other maintenance activities,“ said Bryan Onate of Nasa. 
+ 
+ Arabidopsis seeds, small flowering plants related to cabbage and mustard have been growing in the prototype habitat, and will be the first plant experiment, called PH-01, grown in the chamber aboard the space station.The large, enclosed chamber measures 18 inches square, with two inches for the root system and 16 inches available for growth height.
+ 
+ It uses red, blue and green LED lights, and broad spectrum white LED lights. The system's 180 sensors will relay real-time information, including temperature, oxygen content and moisture levels back to the team.
+ 

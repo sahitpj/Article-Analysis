@@ -1,0 +1,10 @@
+LONDON: Scientists have designed a new, super-fast form of a “magic“ computer made of   molecules that grows as it computes and can outperform all standard systems in solving practical problems.
+
+ Researchers from   showed the feasibility of engineering a universal turing machine (UTM) -a computer that can be programmed to compute anything any other device can process.Electronic computers are a form of UTM, but no quantum UTM has yet been built.
+ 
+ The theoretical properties of such a computing machine, including its exponential boost in speed over electronic and quantum computers, have been understood for many years but the breakthrough demonstrates that it is possible to physically create a UTM using DNA molecules.
+ 
+ “Imagine a computer is searching a maze and comes to a choice point, one path leading left, the other right.Electronic computers need to choose which path to fol low first,“ said researcher  . “But our new computer doesn't need to choose, for it can replicate itself and follow both paths at the same time, thus finding the answer faster.“
+ 
+ “This `magical' property is possible because the computer's processors are made of DNA rather than silicon chips.“ “As DNA molecules are very small a desktop computer could potentially utilise more processors than all the electronic computers in the world combined and therefore outperform the world's current fastest supercomputer, while consuming a tiny fraction of its energy ,“ he said.
+ 

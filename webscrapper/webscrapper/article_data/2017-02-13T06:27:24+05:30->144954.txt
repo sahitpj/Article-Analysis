@@ -1,0 +1,20 @@
+CHENNAI:   are increasingly joining hands with   to enhance safety with  .
+
+ Students of the Indian In stitutes of Technology's various campuses are working on different projects across the country at different levels to ensure that technology could be added to different processes used by railways -in operating trains, monitoring coach and locomotive defects and the condi tion of railway tracks.
+ 
+ After a project with IIT-M to detect cracks on railway lines, final-year students of SA College of Engineering have come out with a model that uses a robot to detect cracks and provide staff with safety warnings -a solution that could help Southern Railway operate trains at optimal speeds.
+ 
+ While the railways boasts of a large train network, old and outdated tracks often hinder smooth operations.Rail fractures are among the highest in Southern Railway, forcing officials to impose speed restrictions that slow down operations.
+ 
+ A team of three students who believe that old or outdated tracks is may be a problem faced by the Indian railways and cause serious acci dents created the system that SA College has developed.
+ 
+ “We monitor tracks through infrared sensors,“ said Kulandayan C, one of the students. “We receive data on cracks in the track. A device that contains a microcontroller detects the cracks with a light-sensing module.If a crack is detected, we send the location to the nearest station via a cellphone app.“
+ 
+ The team also has tested the project on various railway tracks and says that not many detection systems are present to monitor tracks round the clock. Railway officials allowed the students to test their model on the tracks. The students designed a model based on the tests. It will have to pass dif ferent stages before it is incorporated into the railway's track safety procedures.
+ 
+ IIT K has already developed a Wheel Impact Load Detection System (WILD) to check the impact of load on wheels and tracks. It identifies overloaded freight wagons -one of the causes of damage to rails.
+ 
+ Students of a technology institute based in Kozhikode have also developed an ultrasonic automatic unmanned vehicle that can detect cracks on tracks.
+ 
+ Southern Railway had tied up with IIT-M a few years ago to develop an ultrasound equipment to detect rail fractures. The zone was planning to improve upon the technology so that it could be made into an automatic system, a railway official said.
+ 

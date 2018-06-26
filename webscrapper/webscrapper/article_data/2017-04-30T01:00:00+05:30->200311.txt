@@ -1,0 +1,73 @@
+ has reduced time for digital migration from years to months, says former Unique Identification Authority of India chairman  , who believes India needs an advanced data protection,   to deal with the data deluge. The legislation is vital to also create digital literacy, Nilekani, 61, told Kunal Talgeri in an interview on Thursday.
+ 
+  The goods and services tax, due to come into force on July 1, has already seen more than 5 million businesses register on the   Network (GSTN). This will generate around 2 billion electronic invoices every month. The November 8 demonetisation announcement and the   have similarly pushed people to transact online. 
+ 
+  
+  
+ 
+  I think the realisation that the long-term solution is to make India a less-cash and a more-digital transaction economy is driving this. Definitely, demonetisation compressed the migration from years to months. Similarly, GSTN will be a huge step in the digitisation of businesses. For the first time, 7 million taxpayers, who pay excise or service tax or VAT to state governments, will be on one unified platform and file all returns digitally.
+  
+  Aadhaar is also becoming an important foundation — not only for benefits from government schemes. There is the proposal to use Aadhaar eKYC before issuing SIM cards. The latest Motor Vehicles Act has said Aadhaar is required for driver’s licence. Another example, as put forth by the Finance Bill, is being discussed in the Supreme Court about Aadhaar being mandatory for PAN. The digitisation of India’s economy is going (on) at an accelerated pace.
+  
+  
+ 
+  The data is federated. It is not accumulated at one location but in different databases, all of which are governed by separate laws and regulations. You will have to combine these databases to profile. This should only be done for national security and criminal investigation under due process and checks and balances. This goes back to having strong data protection, privacy and security laws.
+  
+  
+ 
+  There are three common issues that have to be looked at. One is digitisation because of government effort — GSTN, Aadhaar and demonetisation were government-led. But we are living in a world where digitisation is also there because of the private sector.
+  
+  More people have smartphones which have a lot of personal information. We use (a) global Internet company’s products. This means Indians’ data is going out of the country. We are using sensors… the whole Internet of Things is creating a lot of data. Health sensors in a Fitbit are constantly giving data about my movements, as is the GPS in your phone. We are in a world which is digitally intensive. Part of that is technological change, part of that is market forces, and part of that is government.
+  
+  So how do we make sure people’s data is secure? It has to be encrypted, well-protected, vaulted, and with sufficient checks and balances for that data to be kept secure. If there is a data breach, there should be an obligation on the organisation to immediately notify the breach. There are challenges related to privacy: creating a (technological and legal) architecture, both through a process of consent and a process of accountability on data collected. Then, there is the whole issue of the State and an individual: if the system is going to have more data, is there the likelihood that the State will misuse that data of individuals?
+  
+  The surveillance concerns are the third bucket. Some people feel there has to be very strong accountability mechanisms on organisations — corporate and government — that they should be bound to protect data, report a breach, safeguard the privacy of individuals, have penalties for violations, and maybe even an insurance platform for these kind of losses, and other regulatory mechanisms.
+  
+  
+ 
+  Europe has evolved its data protection and privacy rules over the past 20 years. The latest manifestation is the General Data Protection Regulation (GDPR) that comes into effect from May 2018. It actually imposes penalties on the global turnover of companies up to 4% for violations. But these things are also about balance because privacy and convenience are always inversely related.
+  
+  Users often trade privacy for convenience. The second trade-off is between privacy and national security — this is again a big debate in the world. Under what conditions of criminal action do you waive the privacy requirements so that the State can identify a terrorist or criminal?
+  
+  This again is a very complex argument. In the US after 9/11, a lot of laws came in, which made it easier for the State because of the worry of terrorism; for example, the Homeland Security Act. The Foreign Intelligence Surveillance Act existed before 9/11 but got amended a lot after it. There is also a debate whether encryption should be decryptable by the State.
+  
+  There was a whole session (on powers of the State) in the UK after the recent attack on Westminster Bridge. Today, messaging companies encrypt end-to-end but the State is saying, ‘If we suspect a particular person, we should be able to decrypt’. The company is saying ‘No’. It is a balance between the privacy of the individual and the State’s requirement to catch undesirable elements
+  
+  
+ 
+  On data security, every organisation — be it public or private — should have a very rigorous approach to protecting data. At Aadhaar, a lot of work was done on making sure that data is encrypted and anonymised. When the data was sent for biometric deduplication, it was anonymised and sent. When data is sent from enrolment stations, it is encrypted and digitally signed. Private keys are kept in HSM (hardware security module), which requires more than one person to unlock. (HSM is a device to safeguard and manage digital keys for strong authentication, and provides crypto-processing.)
+  
+  We mandate HSM in all our networks. There are a lot of ways to make the systems more and more impregnable. If the government were to publish the principles of data security and the methods and processes to be used for data security — be it use of encryption or use of digital certificates or HSM or the checks and balances — they can publish and mandate it.
+  
+  
+  Obviously, everything does not move at the same pace. Some innovation happens, then you think of regulation. The automobile was invented in the 19th century. The first mass production of the automobile was in 1908 with the Ford Model T. But the first mass use of seat belt was in 1959. Technology innovates and then you create the checks and balances.
+  
+  
+ 
+  Privacy — as is understood in the West — is about people being aware in an informed way about how their data is being used more by corporates, and not so much by governments. The second dimension of privacy is: what are the accountability mechanisms on companies to make sure the data in their systems is used responsibly.
+  
+  The third is the State and surveillance. This is the part where with increasing digitisation, the State, which seems to have access to more data on individuals, does not use it for surveillance of innocent people. It is a balance between privacy and convenience, privacy and national security, privacy and criminality. These are the sophisticated balances in a society.
+  
+  
+ 
+  That is a national security provision. Everywhere in the world, the national security and criminal investigation with due process is enabled to ensure that the State can perform its role of catching terrorists and criminals. That is there everywhere in the world. I keep saying you have to balance between privacy and convenience, balance between privacy and national security, balance between privacy and criminality. These are the sophisticated balances in a society.
+  
+  
+ 
+ 
+  Digitisation in India has certainly created an urgency to put in place an advanced data protection, security and privacy law, and for creating enough digital literacy, so that the people of the country are aware of what digitisation means.
+  
+  
+ 
+  Let me tell you that for a lot of people, Aadhaar is like a lifeline. So, we should not sit in elite circles and talk about it.
+  
+  
+ 
+  In this context, data protection hasn’t been a priority. You will have situations where innovation often moves ahead of law and regulation… It is up to policymakers to get the law and regulation aligned. If you draft the law prematurely, you end up with a law which does more damage. India has a unique opportunity to draft a very modern data protection and privacy Bill which can be superior to what is happening elsewhere.
+  
+  
+ 
+  For example, how can a citizen use taxes filed with GSTN to show a lender that he has a viable business — and get a loan? How does another citizen use her skill records to get a better job? How do I keep my health record safely, so that when I go to a doctor I get better treatment? We are forgetting this in the whole conversation.
+  
+  The architecture must address the following questions: how people give consent, how their data is released, how it is stored and encrypted? When that data is given to another party for use, what is the usage criteria?
+  
