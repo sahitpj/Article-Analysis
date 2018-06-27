@@ -1,0 +1,21 @@
+San Francisco: Recognising the growing shift in enterprise computing to the cloud, Google lined up its heavy artillery in the form of its CEO Sundar Pichai, Google Cloud senior vice-president  , and Alphabet chairman Eric Schmidt, to kick off its Cloud Next ’17 event here on Wednesday.
+
+ Targeted at businesses worldwide — including startups, programmers, software developers and media — the event showcased the search engine giant’s strength in building virtual infrastructure for enterprise. Pichai spoke passionately about how the cloud is the new revolution in the tech industry and how it will change the way business is done through virtual data centres, machine learning, artificial intelligence, workplace collaborations and significant improvements to Android users’ experience. 
+ 
+ He said the Google Cloud Platform ( ) was a logical extension of the company’s motto: To make information available to all. However, it wasn’t lost on industry watchers that Google is stepping up its game in order to not be left behind by early movers like Amazon and Microsoft.
+ 
+ While Pichai painted a world in which Google Cloud would virtually benefit every enterprise, even public governance, Greene dubbed the growth in business in the past year a blockbuster. She boasted that Google had the world’s biggest and most powerful data centre in the cloud (she said their data servers, if stacked vertically, would rise 5,000 feet above Mount Everest). She earned a round of applause when she said the company had a very low carbon footprint — it uses three or four times as much renewable energy, like windfarms, as do its closest rivals put together.
+ 
+ Clients like  ,  ,  ,   and   testified to the potential of Google Cloud in identifying business opportunities and accelerating change in sectors like finance, health, retail, media and energy.
+ 
+ While SAP’s Bernd Leukert announced that the company would collaborate with Google on its cloud platform, Disney’s CTO Mike White revealed how the company not only gained insights into the use of its consumer products but also shifted around 500 projects onto the GCP, and that it was using machine learning to enhance consumer experience. Mike Crowe, CIO of the 211-year-old Colgate Palmolive, revealed it had successfully migrated to GSuite but not without the incumbent pain of a generational shift.
+ 
+ In what was a crowd pleaser, R J Pittman, chief product officer at eBay, demonstrated a Google Home application through which one could use voice commands to ask eBay about the price any product would fetch in the market place and get an exact quotation in seconds.
+ 
+ Google chief scientist (AI) Fe-Fei Li outlined the tremendous spurt in the field and believed it would be a game-changer in industries as disparate as entertainment, finance, healthcare and insurance. She also stressed that the momentum would now have to be tempered by ‘democratisation’ of artificial intelligence, while announcing that Google had taken over Kaggle — a community of around 850,000 data scientists and researchers, in this quest.
+ 
+ A highlight of Day 1 was a fireside chat with internet gurus and evangelists Vint Serf and Marc Andreesen, which saw them go down memory lane and dwell on their vision of the future. Apart from the few thousand Googlers and tech buffs at the venue, over 10,000 people tuned into the event that was streamed live.
+ 
+ (The author was in San Francisco at the invitation of Google)
+ 
+ 

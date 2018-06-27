@@ -1,0 +1,41 @@
+
+
+  
+ 
+ 
+  Aadhaar enrolment is done through registrars -- state government, banks, Common Service Centres (CSCs) which employ enrolment agencies empanelled by UIDAI. These agencies employ operators who are certified by UIDAI. Aadhaar enrolments are done only through a special customised software developed and provided by UIDAI. Every day operators have to log into the enrolment machine through Aadhaar number and fingerprints. Once an enrolment is done he has to sign through his biometrics. That moment the whole enrolment data is encrypted and can't be read by anyone other than the UIDAI server. So the Aadhaar enrolment system is very secure. 
+ 
+  
+ 
+  Suppose   fabricates his identity documents such as ration card or voter's ID card in the name of Shyam Kumar. However Ram will also need an Aadhaar card in his real name. When he goes to enrol in the name of Ram Kumar he will be rejected because his biometrics is already in the database. So if somebody has Aadhaar with a fake identity, then he will be stuck for his whole life with that fake identity. He will be caught very soon. Very few will dare to use fake Aadhaar identities to commit a crime of impersonation or money laundering. 
+ 
+  
+ 
+ 
+  It is wrong to assume that the authorities would rely only on Aadhaar for allowing access to all type of services. It does not mean that authorities are required to give up other necessary verifications. After having confirmed the identity of the person through Aadhaar, biometrics or OTP, authorities are at liberty to prescribe additional checks . For example, If a person opens a bank account with his Aadhaar card and wants to undertake high value transactions, banks should do additional checks. 
+ 
+  Further, for the sake of argument assume a person is able to open a bank account with an Aadhaar card with a fake name and address and launders money or commits some crime or terror acts...he could do the same through a fake voter ID card or ration card as well. The only difference is that if he has used his Aadhaar card, it will be easier for investigating agencies to trace the culprits and conspirators and bring them to justice. If the person had used his fake ration card, the authorities would find it much harder to trace him and will hit a dead end in many cases. 
+ 
+  
+ 
+ 
+  Some agencies of central or state governments have been putting up details of their beneficiaries state-wise, district-wise, village-wise through a search menu as required under the RTI Act. Now IT Act and Aadhaar Act are there. They impose restrictions on publication of Aadhaar numbers, bank account, and other personal details. As soon as it came to notice that some agencies were displaying Aadhaar numbers and bank account numbers of beneficiaries in a search menu, they were told to remove them and they complied. Remember that no biometrics was displayed. Therefore to say that Aadhaar has been breached, 13 crore people's privacy is endangered is completely incorrect, misleading and even irresponsible. 
+ 
+  
+ 
+  Aadhaar number, bank account number and mobile numbers are not secret. They are, sensitive personal identity information. Secret numbers are your PIN, passwords etc. While these should not be shared, one can give his sensitive personal identity information such as bank account number and Aadhaar number to others for transactional purposes. When you write a cheque, it will have your bank account number. Just because some one knows your bank account number, it will be wrong to assume he will be able to hack your bank account. If someone knows your Aadhaar number, it will be wrong to assume he will be able to hack your Aadhaar-linked bank account. 
+ 
+  Section 7 of Aadhaar Act ensures that no one will be denied benefits because of not having Aadhaar. But notifications mandate Aadhaar in contravention of this provision. 
+ 
+ Section 7 of the Aadhaar Act is very clear that if a subsidy is to be given from the Consolidated Fund of India then the government can ask for Aadhaar number. If he doesn't have Aadhaar then beneficiary can be mandated to enrol for Aadhaar and till then benefits shall have to be given through alternative means of identification.
+ 
+ 
+ 
+  Aadhaar Act ensures the following three fundamental principles - minimal data, optimal ignorance and federated databases. Aadhaar enrolment collects minimal data that is name, address, date of birth, gender and biometrics. We don't ask income, religion, profession, caste. etc. The principles also ensure no agency -- UIDAI, government or for that matter any department or agency is able to track and profile any individual. For example, a person may use his Aadhaar number for obtaining a   card, opening a bank account, and receiving   benefits. But the telecom company will not have any information about bank details or PDS benefits. Similarly, the bank will not know his SIM cards details and PDS benefits. UIDAI or any agency will not have any of the three bits of information - bank details, SIM cards and PDS benefits. There can be no 360 degree view of any of customers or beneficiaries. Each agency remains optimally ignorant, which is very useful for privacy protection. Section 29 prohibits any attempt to link different databases. 
+ 
+  
+ 
+ 
+  No. There are strong protection against it in the Aadhaar Act which prohibits sharing of biometrics with anyone including police authorities. So far as sharing of non-biometric information available with UIDAI is concerned, they can be shared only if a district judge permits. Unauthorised sharing of information, including a government agency is a criminal offence with jail up to three years. 
+ 
+ 

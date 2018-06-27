@@ -1,0 +1,13 @@
+HYDERABAD:   in the city fall far behind their counterparts from New Delhi, Mumbai and Pune, Bengaluru,   when it comes to  . This startling revelation has come to the fore through a   across 500 colleges in the country. As many as 36,000 engineering students from IT-related branches participated in the study.
+
+ Conducted with the help of ‘Automata’ — a machine learning-based assessment of software development skills — the study has revealed that engineering students in Hyderabad are among the ‘least employable’ due to their poor programming abilities. The Automata National Programming Skills Report, published by employability assessment company Aspiring Minds, attributes this to the rote learning approach adopted by engineering colleges and a dearth of good teachers for programming.
+ 
+ “Lack of programming skills is adversely impacting the IT and data science ecosystem. We need to provide graduates with practical coding skills. The report not only looks at student’s ability to write functionally correct code, but also their programming practices and algorithmic understanding. These are essential for the industry,” said  , chief technology officer and co-founder of Aspiring Minds.
+ 
+ The report revealed that a mere 0.7% of the candidates from the city were able to write functionally and logically correct code.
+ 
+ According to Sujiv Nair, CEO of Telangana Academy for Skill and Knowledge (TASK), the employability rates of engineers would improve through the introduction of specific courses at the college level itself. 
+ 
+ “The chances of getting a job are higher if the student has a professional skilling certificate as well since the content being taught in universities and colleges is not in tune with the programming skills that the industry demands,” said Nair.
+ 
+ 

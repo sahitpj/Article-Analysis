@@ -1,0 +1,14 @@
+The Geostationary Communication   lite-9 ( ) became the first Indian spacecraft to carry an Electric Propulsion System ( ), which was successfully tested with Friday's launch, paving the way for development of future satellites that will be considerably lighter.
+
+ “The EPS can significantly reduce the fuel satellites need to carry. This leaves more room for payloads if we want to pack more into the satellite, and it reduces the   weight which helps us decide how to launch it,“ a senior scientist explained.
+ 
+ The GSAT-09 carried just 25% of chemical fuel it would have had to carry in the absence of EPS. The 2,000-kg class communication satellites generally carry around 200-300 kg of ch e m i c a l p ro p e l l a n t s which push them into the desired orbit and keep with them alive for more than a decade.
+ 
+ This means the workload a 5,000-kg satellite can take can be achieved by a 3,500-3,700 kg satellite equipped with EPS.
+ 
+ “To cut that burden to just 25% is a gamechanger.It allows us to manage satellites with long lives -GSAT-09 has 12 years of expectancy -more efficiently,“ the scientist said.This will also reduce India's dependence on foreign satellites.
+ 
+ Currently, Isro uses foreign launch vehicles to launch heavy satellites.While the Geosynchronous Satellite Launch Vehicle ( ) family, especially the Mark-III to be tested later this year, will augment its capacity, much more is needed.
+ 
+ The EPS on GSAT-09 will begin functioning two weeks after the launch, when the satellite will eventually go to its final slot in space, and continue to operate after that. 
+ 

@@ -1,0 +1,24 @@
+PUNE: The state-owned   has filed an FIR against 50 people for illegally pulling money using the Unified Payments Interface (UPI) and causing a loss of Rs 6.14 crore to the financial institution.
+
+ The accused (in many cases their own accounts held with Bank of Maharashtra) used the UPI app to “collect” money from the accounts of the bank’s customers, which did not even have requisite balance. They exploited a bug or a loophole in the bank’s UPI app developed by Mumbai-based Infrasoft Technologies.
+ 
+ Some of these 50 people uses Real Time Gross Settlement (RTGS) to send the money thus received into another account. They also seemed to have procured mobile SIM cards for these transactions as most of the numbers are now switched off. The bank lodged the FIR against them on March 8.
+ 
+ The 50 accused persons (possibly un-related to each other) started sending “receive (transfer) money” requests in batches of up to Rs 1 lakh each over a period of 48 days, beginning December 1, 2016, to accounts held with BoM through UPI. When the UPI app received the query and customers accepted the request, the app checked with the backend to see if there were funds in the accounts linked to UPI. When the bank’s software noticed insufficient funds in most cases, it sent out a message citing so.
+ 
+ The app developed by Infrasoft sent forth two messages to the   (NPCI). One message read “success” and the second message read “error: insufficient funds”.
+ 
+ NPCI — the clearing agency for online transactions in case of UPI — read only the first message automatically and gave a green signal. As a result, BoM’s pool account with the RBI was deducted about 672 times over a period of 48 days.
+ 
+ “When Infrasoft noticed this on January 18, 2017 (after BoM flagged it), it plugged the gap,” said a senior cyber cell inspector investigating the case. He also said Infrasoft had provided UPI app to two other banks.
+ 
+ On if they could have been compromised too, the inspector said, “It has not come to us but some banks might not want to bring it forth fearing loss of reputation.”
+ 
+ A spokesperson of Infrasoft said, “All our client banks continue to successfully and securely use our application.”
+ 
+ “We are trying to establish how this all started. The primary hitch was at Infrasoft’s end. When we said “insufficient funds,” the app should not have sent a “success” message to NPCI. The transaction should not have gone through,” said M C Kulkarni, general manager – information technology, Bank of Maharashtra.
+ 
+ An Infrasoft spokesperson told ToI that the company was still investigating with the bank as to how this happened.
+ 
+ When asked if the company believed that any of its employees could had passed on the information of the loophole in the system to others, the spokesperson said, “We are confident of highest level of corporate governance and employee integrity in our company.”
+ 

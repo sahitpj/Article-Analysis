@@ -1,0 +1,8 @@
+MANGALURU: Maiden efforts of 16 first year students of   and Management, Adyar here have been recognized at Kshitij, an annual techno-management fest of  . All the three bots developed by the   were recognized by the organizer and even the governor of Kshitij. For being the best fresher’s, team, KaiZen was awarded with a special mention, the third team in IIT Kharagpur’s history to receive such an award.
+
+ What makes this achievement creditable is that they were informed about Kshitij with final semester exams about to commence. Started in 2004, Kshitij was conceived with an aim to provide the technically inclined youth a national-level platform, where their talent and expertise would be recognized and rewarded. Having grown exponentially since its nascent years, Kshitij receives overwhelming participation from the student community all over the world.
+ 
+ For the event that consisted more than 20 competitions, team KaiZen took part in three events, namely, Conquest, Droid Blitz and Bricks, the college authorities said. Conquest is an image processing-based competition, in which they had to build a completely autonomous robot. KaiZen was the only team to complete the problem statement successfully by implementing A* algorithm which is even used by GoogleMaps to calculate shortest distance.
+ 
+ In Droid Blitz, the contestants had to build an amphibious robot, that is, a bot that travels both on land and water. It had to avoid the obstacles and also pick the placed objects. Their bot was the only bot amongst few which was wireless and well designed. And in Bricks, a semi-autonomous competition, students had to segregate between hollow and solid blocks by picking the blocks with an arm on which the force sensor was fixed, the authorities added.
+ 

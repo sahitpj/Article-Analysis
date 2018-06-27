@@ -1,0 +1,21 @@
+Pune: The Unified Payments Interface (UPI) fraud case that caused a loss of Rs 25 crore to Pune-based   (some of which has been recovered) has cast a spell of doubt on   security measures.
+
+ In an interview with TOI, Bank of Maharashtra managing director and CEO Ravindra Marathe said there was a lacuna at National Payments Corporation of India’s (NPCI) end as well, which they have rectified but are not openly speaking about it. NPCI is the umbrella organisation for all retail payments systems in the country.
+ 
+ “We have gone deep into the issue and found there were some deficiencies on the part of NPCI as well, which they have realised and corrected but are not highlighting. When a message goes to them, they now check both the things – the message and if the code is congruent,” Marathe said.
+ 
+ Recently, NPCI managing director and chief executive officer A P Hota had said it will be more careful before onboarding new banks on the UPI platform. “We will not allow any bank to join UPI unless they have a thorough reconciliation process,” he had said. 
+ 
+ Speaking about the fraud, Marathe said, when the UPI app requested the bank’s core banking software (CBS) for money, it issued a decline alert and a linked code after finding an insufficient account balance. The UPI app was developed by Mumbai-based Infrasoft Technologies.
+ 
+ “These two messages – decline and linked code – went one after the other to Infrasoft, which pushed it to NPCI (also the clearing entity). NPCI received this message as success instead of decline but the error code did not change. The NPCI is saying that they only looked at the success part, but not the error code. Therefore, they allowed credit to the beneficiary,” Marathe added.
+ 
+ He said the bank is taking this issue up with Infrasoft as to how this message conversion happened. “However, Infrasoft is putting the blame on NPCI to state that they did not do the initial testing properly,” he added.
+ 
+ In a reply to TOI earlier Infrasoft said the bug was an “aberration,” and was fixed immediately. “To avoid illegal transactions in future, the banks have to ensure daily reconciliation to evaluate if they are out of pocket owing to an issue,” a spokesperson of Infrasoft had said.
+ 
+ Replying to this suggestion, Marathe said the reconciliation was not a pre-condition to use the app. “That (reconciliation) is a posthumous event. In an automated environment, it should happen instantly. But that was not a pre-condition. It is a pitfall on the part of NPCI, when they were launching the system and they knew about it. They just took an undertaking that the banks will do the reconciliation,” he said. 
+ 
+ The bank, Marathe said, has already recovered Rs 4-5 crore and “is trying to get the balance amount back from the culprits”.
+ 
+ 

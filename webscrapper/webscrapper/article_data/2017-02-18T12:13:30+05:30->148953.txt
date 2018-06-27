@@ -1,0 +1,19 @@
+ is being touted by scientists across the world as a possible cure for a range of diseases, from   to  .
+
+ While a new study from South Korea has claimed that the gene-editing tool CRISPRCas9 may be delivered directly into the eye to treat age-related macular degeneration (AMD), which causes distorted vision and blind spots, a British expert has said that editing genes may also help human beings beat "all inherited diseases" and malignant tumours.
+ 
+ CRISPR-Cas9 works as a type of molecular scissors that can selectively trim away unwanted parts of the genome, and replace it with new stretches of DNA.
+ 
+ AMD is one of the most common retinopathies, or diseases of the retina that result in impairment or loss of vision. In such diseases, abnormally high levels of the vascular endothelial growth factor (VEGF), a protein that promotes the growth of new blood vessels, are secreted.
+ 
+ Injections of anti-VEGF drugs are the most common treatment against AMD, but at least seven injections per year are required because VEGF is continuously overexpressed by the cells of the diseased retinal pigment epithelium.
+ 
+ Scientists at the Institute for Basic Science (IBS) in Korea used CRISPR-Cas9 to perform “gene surgery" in the layer of tissue that supports the retina of living mice.
+ 
+ "The injections tackle the effects, but not the main cause of the problem. By editing the VEGF gene, we can achieve a longer-term cure," said Kim JinSoo, director of the Centre for Genome Engineering at IBS.
+ 
+ “I think in the coming decades gene editing will become super important, and we will see it being used to cure all inherited diseases, to cure cancers, to restore sight to people by transplanting genes,“ University of Exeter bioscientist Dr Edze Westra was quoted as saying in an 'Independent' report not related to the study. "...It will definitely have massive importance,“ he added.
+ 
+ His statement came two days after an influential US science advisory group lent its support to the controversial proposition of modifying human embryos, albeit just to prevent babies from acquiring genes known to cause “serious diseases and disability“.
+ 
+ 

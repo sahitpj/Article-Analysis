@@ -1,0 +1,6 @@
+CHENNAI: With an eye to give mobility to the visually challenged, students of   have developed a cap that can act as a guide and help identify and read traffic and location signs that are otherwise inscrutable to them. “We were set to make this work after watching one of our partially blind friends struggle to navigate in public spaces,“ says Sareeka A G, co-creator and a third year student of ECE ( ).
+
+ The mechanism is simple enough. The cap has a tiny camera up front and a button and a processor on the side. It is easy to wear and has earphones attached for audio output, and it informs the user about what is ahead. Two software -`Tesseract' to recognise text from an image and `E speak' to convert text to speech -power the cap.
+ 
+ On pressing the button affixed to the side, the cap will capture an image of the scene in front of the person using a camera mounted on the front flap of the cap. This image, Sareeka explains, is then isolated by a “segmentation“ process to identify the text and convert it into audio output. Now, a sign board on an MTC bus or a street sign can be read with ease. “The cap aims to make the visually challenged more independent,“ adds Sareeka who co-created it with bacthmates Sucharitha V , Krithika K, Gowthame MR and   and displayed it at the University's 11th edition of Kurukshetra, its  .
+ 

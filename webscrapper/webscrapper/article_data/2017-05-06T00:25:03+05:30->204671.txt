@@ -1,0 +1,17 @@
+Puducherry: A team of researchers led by the head of the food science and technology department of   said they have developed a simple, rapid and cost-effective method to detect   of fruits. 
+
+ Artificial ripening of fruits using calcium   commonly called as ‘powder’ or ‘masala’ has been banned under Prevention of Food Adulteration Act and Food Safety and Standards Act. Consumption of fruits ripened artificially using calcium carbide may cause serious health hazards.
+ 
+ The team, led by Prathap Kumar Shetty, developed a sensor solution (bio-functionalized gold nanoparticle). When the solution is mixed with water with which the fruits have been washed, the solution changes colour, if the fruits had been ripened using calcuim carbide. This can be used to prove whether the fruits were ripened using calcium carbide. The team has filed a patent for their invention at regional patent office, Chennai. The other members of the team were PhD student Ankita J Lakade and postdoctoral scientist K Sundar.
+ 
+ “The sensor solution can be used by anyone without any technical expertise. The procedure is very simple and cost effective. Wash the test fruit with 10ml of water and take 1ml of the wash and mix with equal volume of sensor solution in a glass test tube and mix. The change in colour of solution from red to purple indicates that calcium carbide is used for ripening the fruit. No change in colour of the solution indicates that calcium carbide was not used for ripening the fruit,” said Shetty.
+ 
+ He said reputed laboratories have begun validating the sensor solution. “The sensor solution will be released soon after validation. It is a timely invention as there have been a lot of concerns among the consumers on the artificial ripening of fruits such as mangoes. The authorities could not enforce the regulation due to lack of simple analytical methods to ascertain artificial ripening of fruits,” said Shetty. He added that he was motivated to evolve a simple technique to detect artificial ripening of fruits when he served as member of a scientific panel on analysis at Food safety and standards authority of India (FSSAI). He is currently a member of a panel on contaminants in food chain at FSSAI.
+ 
+ The cost of an analysis is less than 20 paise, Shetty said. “The cost will be much lower if the sensor solution is synthesized in commercial scale,” he added.
+ 
+ Explaining the concept of the sensor solution, Shetty said calcium carbide contains high levels of arsenic. “Fruits ripened using calcium carbide always have higher amounts of arsenic than the naturally-ripened fruits. We developed a cheap sensor solution, which exhibits visible changes in colour when it comes in contact with arsenic hydride. The solution is red in colour and it charges to purple when arsenic hydride comes in contact with it,” he said.
+ 
+ The same team had earlier developed a new technique to detect early stages of spoilage of milk under practical condition so that milk can be used before it is spoiled completely.
+ 
+ 

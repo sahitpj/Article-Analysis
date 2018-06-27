@@ -1,0 +1,14 @@
+PUNE:   Education and Research (IISER), Pune, will be the first among all the IISERs to get a supercomputer - a 500 teraflop High Performance Computer system (HPC). 
+
+ "Supercomputer helps in extremely fast and accurate computing of complex calculations and it will help us in all kinds of research. Both the students and teachers will be able to use this facility," said A A Natu, senior faculty member from IISER, adding that while this year there won't be any courses on HPC, it can be looked into next year. The ministry of electronics and information technology (MeitY) has asked the Centre for Development of Advanced Computing for support, assembly and installation of the High Performance Computer system at IISER.
+ 
+ The computer is estimated to cost about Rs 25 crore and is expected to be ready by September 2017.
+ 
+ Ashish Kuvelkar, associate director, HPC-Tech, C-DAC, said, "This HPC is part of a bigger project called National Supercomputing Mission. This mission is being jointly executed by   and Indian Institute OF Science (IISc) across the country. The system at   is being built by CDAC Pune."
+ 
+ Kuvelkar further said, "The compute power of this supercomputer will be 500 teraflop. Since this is a complex machine, we will provide training to IISER officials. The training will be given both on using and administration of the system, which includes maintenance."
+ 
+ Sanjay Wandhekar, associate director and department head, HPC Technology CDAC said, "Apart from the HPC at IISER Pune, we are also building one for Indian Institute of Technology, Kharagpur, and Indian Institute of Technology, Varanasi."
+ 
+ He said once the system is in place at IISER Pune, it can also be accessed and used by researchers from other institutes. 
+ 
