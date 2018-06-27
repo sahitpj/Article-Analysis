@@ -1,0 +1,15 @@
+GURUGRAM: A prominent city-based   company, which owns the popular formal wear brand Blackberrys, has suffered a   attack — perpetuated by a virus that seeks to seize control of computers until the victim pays a ransom.
+
+ IT officials of the firm, Mohan Clothing Company, discovered that there servers located at   had stopped working, on March 16. 
+ 
+ Probing further, they realised that they were unable to access most of their database, which included files and information related to customers, billing and delivery, among others. They also received a message on the company computers, demanding 15 bitcoins (a digital currency), which is equivalent to around Rs 24.5 lakh, to decrypt the data.
+ 
+ Officials of Mohan Clothing, finally, lodged a formal complaint at Udyog Vihar police station on Thursday. 
+ 
+ In his complaint, Mrityunjay Kumar, the company’s IT manager, said he had received a call from IT officials at the company’s warehouse at   on the night of March 16 who claimed that the company servers had become inaccessible. Kumar initially tried to log into the servers remotely, but in vain. He then rushed to the company’s corporate office at Udyog Vihar around 3am on March 17 and found that an “encrypted program was running on the servers”. 
+ 
+ A spokesperson for the company said the company had lost almost all data to the cyberattack. But what took them so long to approach the police? “After the attack, our main focus was to protect the remaining data and reset the servers,” he claimed.
+ 
+ “The case has been transferred to the cybercrime unit,” said Arjun Dev, SHO, Udyog Vihar.
+ 
+ 

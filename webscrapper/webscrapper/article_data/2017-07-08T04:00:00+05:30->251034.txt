@@ -1,0 +1,13 @@
+Mumbai: Payments giant   is taking ‘Make in India’ seriously. The company is using India as a base for developing products for the world, the latest being the interoperable or common QR Code, based on learning from BharatQR, which was launched during  .
+
+ “India is a hotbed for innovation for Mastercard,” said Julienne Loh, EVP-Products & Marketing, Asia Pacific, MasterCard. The company is looking at deploying this in other markets where mobile penetration is high but point of sale infrastructure is lacking. In Thailand, for example, MasterCard UnionPay and Visa recently introduced a standardised QR code for payments, accelerating Thailand’s transition to a digital economy.
+ 
+ “Traditionally, small merchants like hawkers and market vendors are reluctant to adopt electronic payments because of costs. With QR code solutions, these merchants can adopt cashless payments at a low cost,” Loh added, explaining the rational for deploying MasterPass QR code in developed markets like Singapore.
+ 
+ With a workforce of 2,000 across offices and two technology hubs in Pune and Vadodara, India is the second largest workforce for MasterCard outside the United States. “The technology hubs are focused on developing cutting-edge payment solutions for enabling safer and more secure transactions for the Indian as well as global markets. BharatQR was the first inter-operable payment solution developed at our Vadodara Centre,” said Porush Singh, division president, South Asia, MasterCard, who also heads India operations.
+ 
+ Besides developing payment products for the world in-house, MasterCard is supporting startups to develop solutions to address the challenges facing the payments landscape. “Every year we identify startups that we can support and this year, two Indian startups, ftcash and ToneTag, have joined MasterCard. While ftcash aims to provide electronic-payment services to micro merchants,   provides a proprietary software development kit that can enable contactless payment between payment apps and point of sale terminals. Another   company supported by MasterCard through its Start Path programme is  .”
+ 
+ Globally, MasterCard Developers has released its Application Programming Interfaces (APIs) to banks, fintech companies and merchants to enable them customize new payment solutions. An API is a set of building blocks provided by MasterCard to connect to its system. Partners now have access to more than 40 MasterCard APIs, including key services like Qkr!, MasterPass and MasterCard Digital Enablement Services.
+ 
+ 

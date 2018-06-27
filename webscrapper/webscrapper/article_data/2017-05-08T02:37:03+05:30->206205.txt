@@ -1,0 +1,19 @@
+NEW DELHI: India is set to see a countrywide cyber security audit of its power distribution and generation system to prevent hacking as state grids and plants increasingly become smarter with large-scale deployment of digital technology.
+
+ At last week’s state energy ministers’ conference piloted by Union power minister   here, all participants agreed to get their power system — down to the plant level — regularly audited by agencies empanelled by the Computer Emergency Response Team (CERT-In) of the department of information technology.
+ 
+ The states also agreed to conduct mock drills simulating disasters and hackings to test preparedness for reviving downed systems. Government sources said they also agreed to nominate a chief information security officer, an acknowledgement of cyber threats and the need to take them seriously.
+ 
+ TOI had, on January 21, first reported the vulnerability of India’s transmission network to hacking in an ‘intelligent’ environment in which machines ‘talk’ to each other on a common platform. Indian power equipment manufacturers have repeatedly been raising alarm over the issue as city grids are being smartened up with SCADA (supervisory control and data acquisition) systems.
+ 
+ SCADA is a computerbased industrial automation control system that practically makes factories and utilities run on their own. In an electrical system, SCADA maintains balance between demand and supply in the grid.
+ 
+ CERT-In is the government’s cyber warrior and has long experience of tackling hacking threats. TOI had, on October 12, 2010, first reported how the agency had in July that year averted a disaster in India’s energy sector by providing state-run oil firms a workaround to check attacks by Stuxnet, much before the world got busy making guesses about the origins of the deadly internet worm.
+ 
+ While the control and command systems of plants and distribution networks were semi-isolated in the past, SCADA turns the entire power system into one giant network, raising efficiency but also vulnerability. The concerns being raised by Indian Electrical Equipment Manufacturers Association have largely come against a backdrop of smart grid contracts being dominated by Chinese firms, the bugbear of western agencies for suspected cases of hacking or planting bugs in equipment (see graphic).
+ 
+ Chinese firms have bagged SCADA contracts for more than 18 cities. More such contracts are on the anvil. Besides, they have also qualified to bid for three transmission links being laid by the Centre to strengthen the national grid.
+ 
+ SCADA contracts have long tenures and include maintenance of equipment. Transmission lines are given on build, own, operate, transfer basis spanning up to 35 years. This allows contractors to place their personnel on site in case of SCADA projects and control operations in transmission lines, allowing ample scope for planting of bugs at a later stage.
+ 
+ 

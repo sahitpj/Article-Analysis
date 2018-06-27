@@ -1,0 +1,14 @@
+MUMBAI: The owner of an Andheri-based hearing aid manufacture lost Rs 13 lakh to a bank   recently. Cyber criminals involved in SIM-swap frauds cancelled the victim’s registered mobile number and reactivated it with a new   card to hack into his   account. 
+
+ The fraudsters deactivated Rakesh Ojha’s mobile number, claiming loss of SIM. Within an hour of deactivation, the fraudsters used a new SIM of the same number to get a one-time password (OTP) and transferred the amount from the victim’s nationalized bank account to a Lucknow-based bank account through real time gross settlement (RTGS). Based on the complaint, on Wednesday, MIDC police managed to arrest one Rajesh Kanojia (38) from Indore who allegedly used his picture on the photocopy of Ojha’s election card.
+ 
+ The fraud occurred when Ojha was in a meeting. He did not notice a text alert over the reported loss from his mobile service provider as part of its verification process around 2.15pm on May 15. “The fraudsters logged on to Ojha’s bank account and transferred Rs 13 lakh seconds after the new SIM was activated around 4.15pm. Around 4.30pm, the money was deposited in one Nirmala Mishra’s account in Lucknow. The account was opened with fake documents. Even the Lucknow bank did not verify the person’s identity before clearing the cheques,” said a cop.
+ 
+ Explaining the modus operandi, the investigators said, “The racket is operated at three levels. Group One is the mastermind. Group Two’s role is to collect bank details of the victim whose identity proof Group One gets hold of. Group Three operates from other states such as Indore and Lucknow and its role is to withdraw money the moment it is credited. Ojha did not receive a transaction alert from the bank because his SIM was deactivated.”
+ 
+ Cops are now probing how fraudsters got hold of Ojha’s election card photocopy. 
+ 
+ Group One had assigned the arrested Kanojia to get hold of a new SIM card of the number Ojha had registered with his bank for transactions. In his complaint, Ojha’s son Suyash said, “My father checked his   around 5.30pm and found that the SIM was not working. He called the customer care number and requested that the service be reactivated. Around 6pm, the bank manager called and asked my father the reason for transferring such a huge sum to a Lucknow  .”
+ 
+ It was Indore police who first caught Kanojia, a school dropout, from Nalasopara last week when he arrived to buy a SIM card with forged documents. Kanojia was wanted in another case where Rs 20 lakh was similarly siphoned off. Navinchandra Reddy, deputy commissioner of police (Zone X), formed a team with MIDC police senior inspector Shailesh Pasalwar, Dilip Utekar, sub-inspector Hanumant Dhavan and others to get Kanojia’s custody. Police have launched a hunt for more accused. Kanojia is in police custody till July 10.
+ 

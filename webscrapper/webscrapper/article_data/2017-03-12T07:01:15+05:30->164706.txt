@@ -1,0 +1,16 @@
+NAGPUR:   students beware, as your personal data, including signature, date of birth, (DOB)  , e-mail IDs and even photos, mobile numbers and passwords, could be leaked through the   website. Some   actually demonstrated to TOI that the entire data could be stolen. They managed to retrieve every personal information of the students from rtmnuresults.org.
+
+ If this is not enough, entire data of evaluators and those doing PhDs were also not secure and even a rookie hacker could access it. According to security experts, the crucial data like signatures, DOB, mobile numbers and even photos could be misused by cyber criminals.
+ 
+ The website earlier belonged to the MKCL and it was recently transferred to Promarc Software Pvt Ltd. Its director Mayur Kalkayian admitted that current website was vulnerable but stated that all this data was not “confidential”. He informed his company had launched a completely new website — https://nagpur.university/ -- which will replace the old one.
+ 
+ “I got the charge of website just four months back from MKCL, which ideally should have secured it. It was just a stopgap arrangement and I helped NU, so students shouldn’t suffer. We have opened new website for the colleges currently for summer exams and soon we would be shifting entire database on it. It has multiple security layers,” he told TOI.
+ 
+ Interestingly, the IT experts, who didn’t wish to be named, met vice-chancellor SP Kane and apprised him of the vulnerabilities. They also presented printouts on how crucial data of students and teachers could be tracked and misused. But the VC reportedly refused to entertain them.
+ 
+ Kane reiterated his stand that website was not entirely vulnerable as claimed by the experts. He endorsed Promarc’s stand that exam related data were not confidential. He said, “It was sent by the colleges and it should be available for public. They (Promarc) assured me there is fivefold security of website. I still told them to plug the loopholes, if any. They (IT experts) just came with some printouts. They didn’t give me any demonstration. How can I believe them blindly? Still I consulted Mumbai-based IT expert Harold DCosta, who assured me the website was safe. I am a busy person and can’t entertain such claims.”
+ 
+ Kane stated only if people were able to manipulate the results on the website could it be termed hacking. “These experts may have vested interests. I asked them the solution but they failed to answer. I can’t shut down entire website just because someone is complaining. We are not experts and we outsourced everything,” the VC said.
+ 
+ The experts, who wished not to be named, added that they could manipulate all college logins and password for uploading internal and external marks as well as students enrolment and exam forms. They said even new mail address in the name of rtmnuresult.org like — vc@rtmnuresult.org — could be created through remote access on promarc.xyz. Database is available on rtmnuresult.org, promarc.xyz and promarc.group along with the graphical user access for all three domains.
+ 

@@ -1,0 +1,19 @@
+Mumbai:   chief Aditya Puri may have taken digs at Paytm, attacking the cashback model for promoting wallets, but the country’s most valuable bank is not taking any chances being left out of the game. HDFC Bank has drawn up ambitious plans for QR code based payments – a model popularised by Paytm – as   kicks off on Monday.
+
+ The   and payment networks — (Visa/MasterCard/RuPay/American Express) will unveil IndiaQR — a “scan and pay” facility for small shops that do not have the volumes to justify deploying a card swipe machine.
+ 
+ HDFC Bank has appointed payment tech company   (ISG) to provide an end-to-end merchant acquiring platform.   will provide a package which includes app development to the switch. 
+ 
+ According to an ISG spokesperson this will give the private banks a competitive edge in pricing deals with small shops as it will not be dependent on multiple service providers.
+ 
+ Paytm had used the demonetisation period to go all out and promote Quick Response or QR codes as a cash-and-card alternative. The payment involves scanning a matrix code, which contains the recipient’s account details and authorising the payment on a mobile application.
+ 
+ There is a crucial difference between Paytm and IndiaQR. Paytm is a “closed loop” payment system, which means that money remains in one book and cannot be transferred across accounts. The merchant can use his balance to pay utility bills without a fee, but if he wants to transfer funds to a bank account — there is a charge of 1.5%. In IndiaQR funds are transferred from the customer’s bank account to the merchant’s bank account irrespective of the bank. 
+ 
+ The RBI has prescribed charges of 25   (one basis point=hundredth of a percentage point) for debit card transactions up to Rs 1,000 and 50bps for transactions between Rs 1,000 and Rs 2,000 up to March 31, 2017. IndiaQR code is open for all banks. But the industry attention is on HDFC Bank, whose merchants account for bulk of card transactions in the country. HDFC Bank has also been the most dominant user of mVisa (a proprietary QR code of Visa which will now be replaced by the “open loop” IndiaQR.
+ 
+ Foreign holding in HDFC Bank hits limit
+ 
+ The RBI has asked custodian banks not to settle trades done by foreign institutional investors after the foreign investment ceiling was breached in HDFC Bank on Friday. Although the central bank had briefly lifted restrictions on purchases by foreign institutional investors, the available headroom for foreign investors in HDFC Bank was used up in a couple of hours and limits were reimposed.
+ 
+ 

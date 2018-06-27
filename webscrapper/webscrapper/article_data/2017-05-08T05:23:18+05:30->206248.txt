@@ -1,0 +1,18 @@
+Mumbai: In a significant order, the first of its kind in the state, the   has directed that electronic voting machines (EVMs) from a booth be sent for forensic analysis to detect any sign of tampering. The order, which was passed on May 4 and 5, pertains to booth number 185 from the Parvati constituency in Pune for the 2014 assembly elections. 
+
+  The HC framed nine questions for the central forensic science laboratory, Hyderabad, to answer. It wants the FSL to assess the EVMs and state whether they could have been remotely accessed and whether there exists any additional memory chip with other data that could be activated to alter the results of an election. 
+ 
+  Abhay Chhajed, a   candidate who lost to  's Madhuri Misal from that constituency, had challenged her October 2014 victory the same year. But this month, he moved the HC again with a plea to have the EVMs in one of the booths checked for tampering. He alleged that it had registered fewer votes in his favour than he expected. 
+ 
+ Misal was the first to be declared a winner during the 2014 assembly elections. She had defeated her two main rivals, Chhajed and Subhash Jagtap of the NCP.
+ 
+ Justice Mridula Bhatkar heard the matter on May 4, the day the application was filed and presented. She disposed of it of with the direction that the EVMs be sent "with seal and signature of the director, Central Forensic Science Laboratory, Hyderabad,'' and "report of EVMs is to be sent on or before May 15''. Chhajed is to bear the cost of the forensic tests.
+ 
+ The court wants the laboratory to find out "whether there exists any electronic device within the EVM, which can remotely connect with external devices, with the help of infrared/bluetooth or similar technologies?'' It also wants to know "whether the machine codes, one time programmable (OTP) codes of all the   machines-being sent for testing-have been tampered".
+ 
+ Other questions are: Whether the hash values and metadata of the OTP codes are same or different? Whether the enclosed program counter data in the control unit give the same result as declared by the Returning Officer of the Election Commission on October 19, 2014 at   Constituency? Whether the EVM machines and its data have been accessed between the polling and result dates?
+ 
+ The HC essentially has sought a thorough analysis of the EVMs to rule out possible "tampering and manipulation''. Justice Bhatkar has also ordered the laboratory to ascertain whether votes cast in favour of a candidate may either not be recorded or get automatically transferred to another candidate. "Is it possible to find out how many such votes are cast. If yes, then how many and in whose favour?" she directed.
+ 
+ The HC will hear the petition again on June 20.
+ 

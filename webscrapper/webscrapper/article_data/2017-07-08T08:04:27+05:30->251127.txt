@@ -1,0 +1,24 @@
+MUMBAI: Banks will have to develop tracking software which can “fingerprint” parties in a transaction to prevent some customers from trying to game the system. 
+
+ Bankers are worried that customers might cry   to avoid making payments.
+ 
+ “The onus of proving that the customer was negligent rests with banks,” said A P Hota, MD & CEO, National Payments Corporation of India ( ), referring to the Reserve Bank of India’s latest circular on   in electronic payments. According to the chief of the payments body, the move will help promote electronic payments.
+ 
+ “I view this regulation as a big step forward to provide confidence in the system on carrying out  . The regulation has balanced the rights and responsibilities of both the parties —banks and their customers,” said Hota.
+ 
+ Banks agree that the new norms will provide greater comfort to customers and encourage digital transactions. However, they are worried about dealing with fraudsters who might try to misuse regulations. While in the past banks simply avoided compensating customers for suspect transaction, the new rules require that banks prove the complicity of the customer.
+ 
+ Bankers say that if the transaction log shows that it has been authenticated by the customer with a secret pin or password it is treated as negligence on the part of the customer. However, in case there is a fraud where transactions are done internationally without second factor authentication (one-time password or PIN), the amount is reversed and a charge-back is made on the merchant within 45 days under the   or   agreement.
+ 
+  
+  
+ 
+ The RBI’s new norms require that on being notified by the customer, the bank shall credit the amount involved in the unauthorized electronic transaction to the customer’s account within 10 working days of notification by the customer.
+ 
+ The norms also state that where the loss is due to negligence by a customer, such as where he has shared the payment credentials, the customer will bear the entire loss until he reports the unauthorized transaction to the bank. Any loss occurring after the reporting of the unauthorized transaction shall be borne by the bank.
+ 
+ “We have had cases where the customer swore he had never shared his credentials but it turned out that the electronic payment was made by family members using the customer’s credential,” said the retail head of a private bank. Another common grouse among bankers is that the guidelines apply to banks but not to  .
+ 
+ One banker said that the new guidelines amount to providing free insurance cover to the customer. “Operations expenditure will take a big hit as we will have to invest more in   facilities and monitoring transactions,” said an executive director with a private bank.
+ 
+ 

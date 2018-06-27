@@ -1,0 +1,6 @@
+NAGPUR: The website imdnagpur.gov.in of the   ( ) in the city continued to be non-functional for the second consecutive day on Tuesday. It is likely to be restored in 2-4 days. The website has apparently been hacked and is down since Monday morning.
+
+ JR Prasad, deputy director general of RMC, told TOI that the office had reported the issue with the cyber crime department and the   ( ) was working to resolve the problem. “Our website has a few insecure pages and we need to convert them into secure pages. I don’t know the technicalities of how it would be done but the process is on. We came to know about the problem late Monday afternoon when we could not upload data on the website,” said Prasad.
+ 
+ NIC officials at the local office in city told TOI that in this case, NIC was not directly responsible for the problem as the website was developed by the Meteorological Department. “If NIC is hosting the website, it provides free service to the user and is responsible for the security. But in this case, the website has been developed by the met department. The met office is expected to get an audit certificate from CERT. Delhi NIC office will only check the vulnerability of the website and inform it to RMC which, in turn, will have to get it audited and get the code corrected,” said a source.
+ 

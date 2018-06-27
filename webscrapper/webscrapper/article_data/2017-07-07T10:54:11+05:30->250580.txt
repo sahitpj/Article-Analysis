@@ -1,0 +1,12 @@
+BENGALURU: One of the pacts that Prime Minister   signed with the Israel government on Wednesday (July 5) has put in place a tie-up between Telerad Tech, an affiliate of Bengaluru based company Teleradiology Solutions and  , an Israel based firm working on artificial intelligence.
+
+ This deal between two healthcare companies in India and Israel aims to bring cutting-edge solutions to India, Asia and Africa. Artificial intelligence in radiology will allow auto and intelligent detection of cancer, stroke, fractures and other medical conditions.
+ 
+ “Our company is proud to serve healthcare systems that treat millions of patients in over 20 countries globally ,“ said Dr Arjun Kalyanpur, founder of Teleradiology Solutions and Telerad Tech.
+ 
+ This tie-up helps bring Zebra's cloud-based deeplearning analytics engine to India, said Dr Kalyanpur. “Our focus has always been on high-quality radiology reporting. Zebra's ability to produce and deploy artificial intelligence for radiology is the exact type of added value we hope to bring about to help fulfil our vision of impacting patient diagnosis and medical care in India, Asia and Africa,“ he said. Teleradiology Solutions serves healthcare systems that treat millions of patients in over 20 countries.
+ 
+ In an email statement to TOI, Elad Benjamin, cofounder and CEO of Zebra said: “Our partnership with TRS will help us bridge the growing gap between demand and supply of radiology services, and allow developing healthcare economies to make a leap in their quality of care by using state-ofthe-art deep learning technology.“
+ 
+ Zebra, through its imaging analytics platform, allows healthcare institutions to identify patients at risk of disease, and offers improved and preventative treatment pathways to improve patient care. Headquartered in Kibbutz Shefayim, Israel, the company was founded in 2014.
+ 

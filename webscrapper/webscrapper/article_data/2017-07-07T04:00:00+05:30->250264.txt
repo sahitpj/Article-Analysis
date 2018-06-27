@@ -1,0 +1,14 @@
+Chennai: Raghav Verma, co-founder, Chaayos, introduced free Wi-Fi in his outlet for customers to sign in and possibly share updates on social media. Little did he realise that Wi-Fi became a channel to increase customer engagement.
+
+ Wi-Fi analytics — which uses data from customers signing in to free Wi-Fi provided at cafes and large retail stores to push in offers and increase conversions – is used by brick and mortar establishments.
+ 
+ "When a customer signs in through free Wi-Fi, we get some of his details, including phone number, email and possibly his occupation. We also get to know the kind of phone he has used and understand when he last signed in and what he purchased. We roll out offers through the details he gives when he signs in the next time and that ends up increasing customer engagement and retention," said Verma. Chaayos provides real time SMS alerts in the periphery of selected cafes as promotion to customers in vicinity tracking the location if they have Wi-Fi in search mode. 
+ 
+ Satyam Darmora, founder, I2E1, a company that provides Wi-Fi analytics says that brick and mortar retailers are warming up to having real-time analytics, compared to e-commerce players where it is easier to track customer behaviour. “Customers can use free Wi-Fi and the retailers can get a profile of people who walk in – including where they have last used free Wi-Fi — and send targeted offers. For instance, if one has used the free Wi-Fi in McDonalds and Shoppers Stop many times, one can gauge the preferences,” he said. Wi-Fi sign ups, as a means of measuring footfall, is also used by NBFCs to gauge the business performance of restaurants, salons etc, to whom they lend money. Tribe, a fintech startup, which estimates the capacity of the business to pay back the loan, uses Wi-Fi as means to estimate footfall and hence the average billing per day and in turn the health of the business.
+ 
+  “We work with the NBFCs in the Aavishkar-Intellecap group to keep track of the restaurants in Mumbai and Bengaluru that offer free Wi-Fi. A week after demonetisation, a restaurant that used to record an average footfall of over 500, suddenly dropped to 88 and we were able to find that their business was slow, with the data,” said Atreya Rayaprolu, co-founder & COO, Tribe. Using free Wi-Fi and getting customer preferences & data is a technique of brick & mortar stores to improve instore engagement. Harsh Shah, founder, Fynd, says that for apparel brands, compared to the footfalls, close to 1/3rd end up buying.
+ 
+ “In addition, large format stores can look at spots where most of the customers spend a longer time and place products accordingly. Also, they send out personalised offers based on their past buying, spending capacity etc, just using the free Wi-Fi provided,” he added.
+ 
+ 
+ 

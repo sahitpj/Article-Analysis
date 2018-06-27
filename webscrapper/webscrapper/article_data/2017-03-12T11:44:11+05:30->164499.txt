@@ -1,0 +1,22 @@
+INDORE: Raja Ramanna Centre for Advanced Technology’s (RRCAT) indigenous compact diagnostic tool for cancer was put to clinical use for the first time ever to detect   among patients at a   on Saturday.
+
+ The compact light emitting diode (LED) based optical spectroscopic diagnostic system, that can run from the USB port of a laptop computer, was also used to examine patients for oral cancer during a camp organised by   at   and Research Centre.
+ 
+ RRCAT laser biomedical applications section head, Dr Shovan K Majumder, told TOI that the compact diagnostic tool has the potential to be a standalone automated tool for screening people at risk of cervical or oral cancer in remote areas.
+ 
+ “The tool was used for the very first time to detect cervical cancer in clinical settings on Saturday,” Majumder said.
+ 
+ The method involves putting a fiber optic probe in contact with the suspected site into the patient’s mouth or cervix, he said. Majumder added that the equipment attached to it reads the acquired spectra and gives the result on the computer’s screen in real time.
+ 
+ Majumder said that unlike biopsy results, that are qualitative and subjective as the results are interpreted looking at tissue slides, this diagnostic tool provides a quantitative diagnosis.
+ 
+ The incidence of cervical and oral cancer is very high in India and is on the rise due to various factors. While the five-year survival rate for early stages of cancer is more than 80% it drops to about 20% in the late stage, emphasising the need for early diagnosis.
+ 
+ At present, the only definitive method for determining cancer is through histopathological examinations of the biopsied tissue from the suspected site. Biopsy is costly and invasive, subject to random sampling errors and is therefore not an ideal screening tool.
+ 
+ The transformation of tissue from a normal to malignant state results in several biochemical and morphological changes which can be sensitively monitored by optical spectroscopic techniques.
+ 
+ Therefore, the use of optical spectroscopy for noninvasive screening of cancer is being actively pursued globally, said Dr Majumder.
+ 
+ The LED based system was validated at Tata memorial Hospital, Mumbai. Two units of the system have recently been given to Raman Foundation Cancer Hospital and Research Centre, Indore.
+ 

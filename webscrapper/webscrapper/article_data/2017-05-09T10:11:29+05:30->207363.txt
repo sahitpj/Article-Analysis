@@ -1,0 +1,13 @@
+BENGALURU: Data traffic management practices employed by telecom service providers should not allow application-based restrictions and should not discriminate, IT industry body   said in its submission to the Telecom Regulatory Authority of India. 
+
+ The telecom regulatory body had put out a consultation paper on   in January and had asked for submissions on the kind of traffic manangement practices that should be allowed. The paper said it was “important to identify core principles of net neutrality for India and the types of practices that might be regarded as being in violation of these core principles”. 
+ 
+ “Net Neutrality regulations should ensure that traffic management practices do not impose arbitrary restrictions and discriminatory practices, including blocking, throttling, or altering of specific content, application, or services and should be strictly forbidden and any such actions should be punishable,” R Chandrasekhar, Nasscom president, told ET. 
+ 
+ Nasscom made a joint submission with the  . He added that traffic management should not directly or indirectly discriminate based on the data whether on price, source of data or destination of the data. 
+ 
+ “We also think that traffic management systems should be temporary and targeted at solving a problem. It should only take   in times on congestion.” 
+ 
+ Net neutrality is the principle that all data on the internet should be treated equally by internet providers. It prevents internet service providers from privileging or punishing different kinds of data usage. 
+ 
+ Last May, the regulator released a pre-consultation paper on the topic which looked at the preferential treatment of application and selective throttling of data speeds. The regulator had banned Facebook’s Free Basics platform for violating its differential pricing rules. Nasscom and DSCI do not feel that the regulator needs increased powers to ensure that traffic management practices do not violate net neutrality principles.

@@ -1,0 +1,20 @@
+
+
+ The first rocket design consisted of solid fuel   designed by the Chinese several years ago. The rockets used a slightly different composition of fuel than gunpowder to prevent explosion. In these rockets that are still used for fireworks, the fuel burns very quickly without exploding while throwing mass in the form of gas and generating exhaust that accelerates the rocket. These basic rockets, however, cannot be used in space as there is no oxygen to burn the fuel and no air to push to generate the required thrust to move forward. A space rocket has to carry everything that it needs. It carries an oxidiser to burn the fuel and then the engine pushes the gas formed after oxidation of the fuel to generate the thrust.
+ 
+ 
+ 
+ 
+ Rocket engines can be broadly classified in two types - solid and liquid fuel engines. In a solid fuel rocket, typically the fuel and the oxidiser are put in a combustion chamber. There is an igniter that starts the easily combustible oxidizer, which then ignites the propellant fuel. Liquid propellant rocket engines are far more complex. Typically, they have a liquid oxidiser and liquid fuel both stored in their respective tanks. There is a pump that injects the liquids in the combustion chamber to burn the fuel and generate the thrust. These sophisticated liquid engines have many advantages over the solid engines as they typically contain a lower proportion of inert mass and the injection of the fuel can be controlled, stopped and then restarted. Most of today’s rockets use a combination of both solid and liquid propellants.
+ 
+ 
+ 
+ 
+ The Polar   Launch Vehicle is the system used to launch low orbit satellites to the low earth sun synchronous polar orbit. Such orbits pass the same point on the equator at the same solar time on each pass and are therefore useful for comparing images taken by them to see changes. It was the next stage of the Satellite Launch Vehicle and Augmented Satellite Launch Vehicle programmes developed to launch Indian satellites in the late 1970s and ’80s. The first developmental launch of PSLV was done in 1993 and the vehicle failed to put remote sensing satellite IRS-1E into orbit. The other two developmental launches were done in 1994 and 1996, both successful. The vehicle became operational after the launch of the IRS-1D satellite on September 29, 1996. Since 1999, the vehicle is also launching foreign satellites. The PSLV is often considered one of the world’s most reliable launch vehicles. It works in four stages. In the first stage, it uses solid rocket motor to generate the initial thrust. In the next stage, it uses earth storable liquid rocket engine (Vikas engine). The atmospheric phase of the launch in the third stage is again fuelled by solid fuel while it uses earth storable liquid for the fourth stage and the final stage.
+ 
+ 
+ 
+ 
+ Despite the success of the PSLV programme, India was not capable to launch INSAT type heavy communication satellites in much higher geosynchronous orbits. Such capability was only possible after the development of cryogenic engines based on liquefied gas. Unlike the PSLV, which uses earth storable liquid, the final stage of GSLV is based on a highly sophisticated fuel, which is liquefied hydrogen and oxygen. The engine gets its name from the extremely cold temperature at which these liquids are stored in the rocket. GSLV is a threestage launcher that uses one solid rocket motor stage, one Earth storable liquid stage and one cryogenic stage. Recently, the GSLV successfully launched the 2,230 kg South Asia Satellite to its planned orbit using an indigenously developed cryogenic engine. The upcoming launch is even more important, as through the GSLV Mark III India will test its most powerful cryogenic engine capable of launching 4,000 kg satellites into space. This would make it self-reliant in launching heavy satellites as well.
+ 
+ 

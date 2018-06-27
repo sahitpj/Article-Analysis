@@ -1,0 +1,37 @@
+BENGALURU: Pushkar V Kulkarni, a 21-year-old engineering graduate from Bengaluru, went under the knife in February to get a two-inch cancerous growth near his hip scooped out. His next step towards recovery was physiotherapy involving a painful set of exercises. To manage pain his doctor prescribed not a bunch of painkiller drugs, but  .
+ 
+  "I strapped on the virtual reality (VR) headset and watched videos," said Kulkarni, who is an automobile buff and would watch videos of carmaking during his physio sessions. "Without realising, I was doing 13 repetitions of the leg movement compared to five earlier."
+  
+  So, he started doing VR therapy twice a day. "My father couldn't believe I could improve so much in two weeks," he said.
+  
+  Kulkarni's doctor, Bengaluru-based bone cancer specialist Pramod Chinder, has been using VR therapy in the treatment of cancer for one-and-a-half years now and has so far used this new-age technology to treat close to 400 patients.
+  
+  "VR pain therapy is done by wearing VR goggles and watching calming videos which reduces the pain," said Chinder who partnered with Bengaluru-based startup   in his effort to reimagine cancer therapy treatment.
+  
+  Medical practitioners, drug makers and hospitals in the country are increasingly using VR and   (AR) technologies to help in therapy, surgery, marketing and spreading medical awareness, with the help of technology providers such as Loop Reality,  ,  , and  .
+  
+  "The VR therapy treatment has reduced pain in patients by 40%," Chinder said.
+  
+  More often than not, this saves a lot of time and money for patients as they can get physiotherapy done at home instead of travelling to hospitals.
+  
+  Ravi Theja Muthu, cofounder of Loop Reality, said his firm is now working on creating a tool that would allow   to visualise a tumour in virtual reality.
+  
+  "With the new tool, doctors can visualise the tumour in VR, analyse it in 3D and also perform dry runs of the actual operation of the tumour. This reduces the risk of failure," he said.
+  
+  Pharmaceutical companies alre ady use VR for marketing their medicines.
+  
+  A major drug maker, for instance, roped in a Mumbai-based VR startup InceptionX to create a virtual reality vertigo attack experience.“This provides first-hand experience of vertigo to general practitioners, helping them empathise with the patient and understand the symptoms better before offering treatment,“ said Bhupesh Dheshmukh, CEO at InceptionX.
+  
+  Vertigo is a medical condition that causes dizziness and nausea, putting indivi duals off ba lance. The 'experiential marketing' tool is used to educate practitioners about the symptoms of vertigo and educate newer doctors about the brand.
+  
+  "The vertigo VR experience was able to reach more than 50,000 doctors across India, increasing in-clinic interaction with doctors by more than 5x," Dheshmukh said.
+  
+  In February, Global Hospitals Hyderabad organised the first-ever live VR surgical training for 700 doctors and students from across India. The VR feed from the operation theatre was live telecast on the sidelines of a medical conference where students -wearing VR headsets -witnessed laparoscopy surgery performed by foremost urologists in the country. "The students get to be with the doctor while he performs surgical procedures and can learn the nuances of the procedure," said Mallikarjuna Reddy, head of urology at Global Hospitals. "VR familiarises students with the operating theatre virtually without them being present in the room."
+  
+  Reddy partnered with startup Health Connect Digital to put together the VR surgical training programme.
+  
+  Bhaskar Rajkumar, founder of the VR healthcare startup, said: "The preparation for the surgery took about six months where we had two 360-degree cameras to capture the whole environment."
+  
+  Plastic surgeon Lakshmi Saleem turned to VR to educate acid-attack victims.
+  
+  "Even burns can be treated and face reconstruction is possible, provided the victims do not succumb to suicidal or homicidal tendencies," Saleem said. "We need to educate them that getting treatment as early as possible after acid attacks can help reduce the deformities," she said. The Andhra-based cosmetic surgeon joined hands with Imagi nate Labs, a VR star tup foun ded by Hemanth Satyana rayana, to create a VR museum to showcase different problems like acid at tacks and other deformities that can be set right through plastic surgeries.
