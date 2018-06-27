@@ -1,0 +1,17 @@
+New Delhi: Private data of millions of customers of   may have been compromised through a large-scale hacking attack that revealed information such as a subscriber’s name, mobile number, email and   activation details. Jio, however, called reports of a breach as “unverified and unsubstantiated claims”, but added that it has informed the government about the incident.
+
+ The matter came to light on Sunday when a website, fonearena.com, said it has been able to get private details of customers of Jio on a website  . The issue raised concerns about whether the alleged hacking of information may have also led to leakage of  , something that official sources described as “highly unlikely”. 
+ 
+ In any case, the information accessed by fonearena.com did not bring out Aadhaar details or even the Aadhaar number, even though it could access the names, phone numbers, email ids and SIM activation details of some customers. The magicapk.com website has since been de-activated.
+ 
+ When contacted, a spokesperson for Jio said data being put out appears to be “unauthentic”. “We have come across the unverified and unsubstantiated claims of the website and are investigating it. Prima facie, the data appears to be unauthentic.” 
+ 
+ The spokesperson said authorities have been informed. “We want to assure our subscribers that their data is safe and maintained with highest security. Data is only shared with authorities as per their requirement. We have informed law enforcement agencies about claims of the website and will follow to ensure strict action is taken.”
+ 
+ Official sources in the IT ministry said there are “no reasons for a panic” as critical Aadhaar information — such as biometric details — remains safe. “It cannot be breached easily, and the government is always alert against any such hacking,” a top official said, requesting anonymity.
+ 
+ Earlier this year, online restaurant and food startup Zomato said a record data of around 17 million users had been hacked from its database, which included email addresses and hashed passwords. Asking subscribers to reset passwords, it, however, said no payment information or credit card data had been stolen or leaked.
+ 
+ Cyber security has emerged as a primary concern for online companies and the government as much of the customer verification processes get online, and cloud and private servers are increasingly being used to store critical data.
+ 
+ 

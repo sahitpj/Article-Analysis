@@ -1,0 +1,10 @@
+BENGALURU: You don't have to be a space scientist to launch a satellite. All you have to do is stock up some empty beverage cans and turn them into  .
+
+ That's exactly what a city based computer engineer has been doing for the past two years. He has converted Coke,   and beer cans into mini-satellites to create an open-source database on several city parameters, including temperature and pollution levels. Suraj Kumar Jana, 22, founder of  , is the mastermind behind the project monikered as CanSat Development Programme. CanSat is a sounding rocket balloon payload built of open hardware (Arduino, RaspberryPi) with the entire satellite components assembled inside a 350ml soda can.
+ 
+ The mini-satellite, which is launched from the   base at Yelahanka, does a controlled descent with the help of a parachute and transmits captured data to the ground station. “The data collected by these mini-satellites include temperature and pollution levels, quality of air and water, ultra-violet penetration and traffic congestion levels in the city. These data can help in research purposes and our civic bodies can even use them to implement better policies,“ said Suraj, who is a computer engineer from  .
+ 
+ The CanSat project was aunched in 2014 to provide students an experience of smallscale space missions through several workshops conducted across the city.
+ 
+ Suraj said: “Receiving a real-time experience of smallscale space missions isn't that reasonable and goes beyond affordability of Indian, middleclass students. Through our workshops, we provide students a first-hand knowledge on making, operating and launching of satellites.“
+ 

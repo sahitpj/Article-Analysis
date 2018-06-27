@@ -1,0 +1,13 @@
+MUMBAI: The website of St Xavier’s College’s annual youth festival,  , has been targeted by   who submitted more than 12,000 bogus applications for volunteers on the portal. The   initially tried to thwart the cyber attack, but when it persisted, they approached the  .
+
+ Ritbrata Ghosh (20), a student in charge of the IT systems for the festival, lodged the complaint. In his complaint, he said they invited applications from volunteers on http://www.apply.malharfest.org and started the process on June 13. The complainant told police they required around a thousand volunteers, so they made the announcement online. The inter-collegiate fest, to be held between August 12-14 this year, has a website and a mobile app. 
+ 
+ “On June 15 night, the website received more than 900 applications from aspiring volunteers. During verification, the event organisers found wrong details were given in these applications. Suspecting something amiss, they shut down their server. When they re-started the server next day, the same problem arose again,” said a police officer. “On June 16, the organisers received 4,000 applications. This is a serious thing and we have started our probe,” the officer added. 
+ 
+ The authorities then installed a software to prevent such bogus applications, but on July 4 the same issue cropped up again and they received 7,000 bogus applications. The organisers then started one time password (OTP) provision for applicants. However, they still could not overcome this technical problem. Similarly, on July 5 and July 6, more than 1,000 applications were received.
+ 
+ Sources indicated that the investigating officer will take help from cyber crime experts if required. 
+ 
+ Vijay Kadam, senior police inspector, said they have registered a case and probe was under way. A case has been registered against unknown persons under the Information Technology Act’s sections 43A (failure to protect data), 43C (introduces or causes to be introduced any computer contaminant or computer virus into any computer, computer system or computer network), 43E (disrupts or causes disruption of any computer, computer system or computer network), 43F (denies or causes the denial of access to any person authorised to access any computer, computer system or computer network) and 43I (destroys, deletes or alters any information residing in a computer resource or diminishes its value or utility or affects it injuriously by any means) read with section 66 (computer related offences).
+ 
+ 

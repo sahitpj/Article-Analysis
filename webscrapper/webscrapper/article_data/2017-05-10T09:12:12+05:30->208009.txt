@@ -1,0 +1,9 @@
+NEW DELHI: Next time you visit the restroom in a mall or a commercial complex and find it unclean, you may be able to lodge a complaint then and there through a government-fitted feedback device inside the toilet.
+ 
+  The   has written to mission directors of   in 12 states, including Delhi, Karnataka and Maharashtra, to procure such devices from a government company to be installed in toilets of private establishments such as  , multiplexes, petrol pumps and district centres, to continuously monitor cleanliness of toilets, as per the communiqué reviewed by ET.
+  
+  The device will have three buttons coloured green, yellow and red with matching emoticons — for example, a smiley on green button and a frowning face on red. Users can choose the button that best represents their experience, and the feedback goes to the urban local body. In case of continuous negative feedback, the government would send an SMS to the establishment for corrective action. The ministry has also called for installing these devices toilets built by states.
+  
+  The ministry has asked all urban local bodies to enter into a three-year contracts with ITI Ltd, a government of India undertaking, which will provide feedback devices for Rs 945 per month per device. Local bodies can utilise ‘capacity building fund’ allocated under the Swachh Mission to procure and maintain these devices.
+  
+  The toilet monitoring solution is being rolled out in 11 states — Delhi, Maharashtra, Karnataka, Gujarat, Andhra, Haryana, Kerala, Odisha, Puducherry, Rajasthan, TN and Telangana — and Puducherry. Each feedback device is fitted with GPRS modem and a data SIM for back-end connectivity to the server. The performance index will be measured on an online dashboard and the urban local body will send an SMS to the caretaker for corrective action if the feedback is bad. An escalation SMS to higher management levels will be sent if feedback does not improve.

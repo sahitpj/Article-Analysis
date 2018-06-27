@@ -1,0 +1,9 @@
+AGRA: The   ( ), with the support of   (IOCL), will now install   (RIFD) on state-run buses to check instances of fuel theft. Under the ongoing diesel automation program, the RFIDs will be fitted in the fuel tank of buses enabling officials to track diesel status of each bus online.
+ 
+  RFID are devices which uses electromagnetic fields to identify and track tags attached to objects. In this case, RFIDs in buses will communicate with those installed in fuelling nozzles of dispensing machines at petrol pumps. When the two comes in close proximity during the fuelling process the nozzle’s RFID will connect with the vehicle’s unique code, setting off a fuel management system. The nozzle’s RFID will also recognize the dispensing quantity limit for each vehicle. This information, in turn, will be sent to the department’s database, from where officials can access details about any bus. Supply of diesel will also stop automatically as soon as the fuel tank is filled, informed officials.
+  
+  Service manager of UPSRTC, S P Singh, said, “After our successful completion of the diesel automation program, there will be no scope for theft of fuel. Record of each and every litre of diesel will be available online. The auto-cut feature will check wastage of diesel due to overflow. Diesel automation will bring major benefits to the department.”
+  
+  According to a service official, the move is significant because if an operator tries to unplug the nozzle during the fuelling process, the system will trigger a report in the database.
+  
+  UPSRTC has roped in an Israel-based company named   to implement this sophisticated procedure.

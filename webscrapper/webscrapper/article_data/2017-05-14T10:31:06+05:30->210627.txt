@@ -1,0 +1,44 @@
+NEW DELHI: India was among the 99 countries affected by a global 
+  , a telecom network in Spain, and government computer systems in Russia this weekend. 
+
+ As many as 102 computer systems of the Andhra Pradesh police were hacked on Saturday. There were also reports of the malware halting production at a Nissan-Renault Alliance plant on the outskirts of Chennai. 
+ 
+ However, the company did not comment on these reports.   in the Prime Minister’s Office Gulshan Rai told TOI: “About 100 systems were attacked but as of now there are no more threats.” The international cyberattack was carried out using a malware called Wanna Decryptor or WannaCry. This is a “ransomware” — a digital extortion system that locks down systems by encrypting the data on it, only to decrypt and release it back for a ransom amount.
+ 
+ 
+ What was more worrying about the 
+  was the fact that the outdated   XP version that turned out to be the weak link, crippling information systems around the world, is used by 70% of Indian ATMs.
+ 
+ Their complete control rests with vendors who provide banks with these systems.
+ 
+  stopped providing support — security patches and other tools — for Windows XP in 2014. 
+ 
+ However, on Saturday, Microsoft said it had 
+  . “Given the potential impact to customers and their businesses, we have also released updates for Windows XP,  , and Windows Server 2003,” a Microsoft spokesperson said.
+ 
+ Michael Gillespie, who runs ID Ransomware, a free website that helps victims of ransomware identify malware and work around encrypted data, said he got an unusually high number of submissions from India since Friday which he diagnosed as WannaCry.
+ 
+ “I’ve received about 24 submissions since yesterday that were identified as Wanna-Cryptor and came from IPs based in India. I’d say that’s pretty low compared to other countries, but pretty high for submissions from India,” he told TOI over email, pointing out that his stats only cover those who upload to the website, and are not indicative of total number of victims.
+ 
+ Ranchi-based   (CPF), which is running a research project monitoring cyberattacks, saw nearly a 56-fold increase in breach attempts at sensors installed across eight states in the country. These sensors –– called “honeypots” –– lure cyberattackers so that they can be monitored and studied. 
+ 
+ CPF founder director Vineet Kumar said that there was a 56-fold increase in the number of attacks over honeypots installed in Gujarat, Andhra Pradesh, Maharashtra, UP, Jharkhand and Rajasthan.
+ 
+ Attacks and “cyber-recces” of sorts point to the scale of the problem in India. 
+ 
+ According to data accessed from CERT-In, in the past 12-14 months, nearly 11,000 networks in India have been victims of probing/scanning by hackers or cyber criminals.
+ 
+ Scanning and probing is the first step used by hackers to test the waters, and is generally followed by insertion of malware or ransomware.
+ 
+ “Network probing is people looking for vulnerabilities in systems which will eventually be breached. Amateurs don’t do it, these are professionals.
+ 
+ Also, malware propagation and web intrusion are indicators of hired tools if not services,” said cyber expert Mirza Faizan Asad.
+ 
+ 
+ 
+ Cyber crime-as-a-service (CAAS) refers to organised crime rings offering services such as on-demand distributed denialof-service attacks and bulletproof hosting to support malware attacks, among other things. Although there is no professional study conducted in India, according to a CIO Insight 2016 report, there has been 33% spike in CAAS, and “exploit kits” globally.
+ 
+ Cybercriminals employing ransomware or crypto-ransomware —a sophisticated software that incorporates advanced encryption algorithms to block system files — are increasingly attacking Indian entities. 
+ 
+ January saw at least four attacks into the system of a Bengaluru IT firm, while over a dozen were attacked in the last quarter of 2016. Multiple cases have been seen in Delhi. Software security group   says India is among the top five nations affected by ransomware attacks. 
+ 

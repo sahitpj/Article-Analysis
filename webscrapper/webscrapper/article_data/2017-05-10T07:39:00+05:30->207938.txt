@@ -1,0 +1,25 @@
+GURGAON: Gurgaon-based technology startup  , along with a team of   experts, has come up with an application which lets one see the   image of the human brain, enabling neurosurgeons to perform complicated surgeries at a tenth of the cost, yet is much more precise.
+
+ The application, called HoloEyes, works on   — a mixed reality computer in the form of smart glasses designed by Microsoft, which lets one interact with holograms virtually projected around them — and creates a 3D image of the human brain in front of the person wearing the glasses.
+ 
+ HoloEyes connects to the medical imaging database, and while preparing for surgery, overlays 3D medical images on the patient’s body, so that surgeons can refer to the image while carrying out the procedure.
+ 
+ In layman terms, the technology makes it easier for surgeons to navigate inside a patient’s head while conducting a surgery. 
+ 
+ “The technology takes the patient’s MRI and CT Scan images and creates a composite image that is virtually projected over the human skull, giving a 3D image of the brain being operated,” said Dr Deepak Agarwal, professor of neurosurgery at AIIMS, New Delhi.
+ 
+ Gesture Research founder Munshi Dhiman, along with a neurosurgery team from AIIMS, has been working on this technology, which utilises the power of holographic visualisation provided by HoloLens, to make a low-cost and easy-to-use neuro-navigation system. The system works as a GPS for surgeons, and lets them navigate within the brain during surgery.
+ 
+ “With the help of virtual probes and dissection tools, the surgeon can virtually dissect the organ, or measure the trajectory of any invasion they are planning, without hurting the patient,” Dhiman said.
+ 
+ At present, surgeons use imported neuro-navigation systems, which are very expensive and not easily available at hospitals in India. “We are in the process of starting clinical trials soon, and if the product works as expected, it could bring down cost of brain surgery to a tenth of the current cost,” Dr Agarwal said.
+ 
+ He added beyond neurosurgery, the technology can also be used in orthopaedics and ENT. The team has already tested the model on a dummy brain, and is planning to do their first clinical trial next week at AIIMS itself. It will take a year for Dhiman to launch the product commercially, once the trials are a success. “At present, India doesn’t have a mechanism for the regulation of such technology, so HoloEyes won’t require any further permissions,” Dr Agarwal added. 
+ 
+ Dhiman, a graduate of IP University, Delhi, founded Gesture Research around four years ago. His idea was to use latest trends in technology like gesture control and mixed reality to solve real-life problems. 
+ 
+ According to Dhiman, Gesture Research is the only venture in India working on applications for Microsoft HoloLens at present. 
+ 
+ Dhiman is also working on other uses of the technology, with the Qatar government as one of his customers.
+ 
+ 

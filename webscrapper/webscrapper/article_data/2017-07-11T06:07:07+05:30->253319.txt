@@ -1,0 +1,15 @@
+NEW DELHI: On a day when the Reliance Jio data breach was in the news, a twitter campaign by cricketing legend Sachin Tendulkar led to concerns over privacy. 
+
+  The former cricketer started a fitness campaign on Monday morning tweeting, "Have friends with many excuses to not get fit? Tag them using   with their cities & mobile no & I may call to give them a pep talk!" 
+ 
+ Predictably, hundreds rushed to tweet with their friends' names, cities, and phone numbers, prompting some to point out that such personal information in the public domain is liable to be misused. By Monday evening, the tweet was deleted.
+ 
+ Social media analytics company, Brandwatch React, pointed out that those posting personally identifiable information of their purportedly unfit friends were violating Twitter rules. "Think twice before posting your friends' phone numbers for the #NoExcuses campaign. Here are Twitter's rules," it tweeted from the handle @BW_React, linking to Twitter's community guidelines. 
+ 
+ The social network's rules prohibit "posting another person's private and confidential information". It counts "non-public, personal phone numbers" as such information. "#NoExcuses isn't it a breach of privacy? Get ready for 100s of spam calls once your mobile no publicly disclosed!" tweeted a cautious @KiranBeladiya.
+ 
+  Australian web security expert Troy Hunt linked to Tendulkar's tweet and quipped, "How do you mine troves of phone numbers from Indians? Get a famous cricketer to politely ask people to dox their friends! #NoExcuses". 
+ 
+  A twitter fan with the account @krIshNDIA politely tweeted: "#NoExcuses Hi Sachin! I can DM you my number & you can give me a pep talk if don't mind! Will mean a lot! #legend #rolemodel #Thanks!" 
+ 
+ 

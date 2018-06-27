@@ -1,0 +1,24 @@
+THIRUVANANTHAPURAM: To protect networks in the state from the   that hit nearly 100 countries,   (KSITM) has issued a set of guidelines to all government offices in the state. 
+
+ The IT mission warned that there were chances of a massive malware attack and directed all officials concerned to stick to the detailed guidelines (dos and don'ts) while using systems connected to a network.
+ 
+ A malware attack had affected computer networks across the world, including India, the UK, Russia, Ukraine, China, Italy and  . 
+ 
+ It encrypted data, making it inaccessible for the user and the decryption process was allowed only after the user agreed to pay a ransom, usually in Bitcoin currency. 
+ 
+ It was reported by global dailies and websites that the ransomware asked users to pay $300 in   and even warned that the 'payment' would be raised after a certain amount of time. Translations of the ransom message were included in 28 languages. The malware spread through email.
+ 
+ The precautionary measures warn users to take note of emails that greet them impersonally - such as "dear friend". 
+ 
+ The standard practise followed by real organizations is to greet a mail recipient by name with a salutation like 'dear mister ...' followed by the person's name. 
+ 
+ Users have been asked to check for grammatical errors and spelling mistakes, that are quite common in case of phishing mails, something reputed organizations avoid.
+ 
+ KSITM's note cautions users against opening attachments and downloading files from emails or unreliable sources. It has asked users not to follow links from untrusted sources or email, unless they are absolutely sure of its authenticity. It warned officials not to respond to emails that requested personal, financial or any other sensitive information.
+ 
+ Government offices have been asked not to submit confidential information via forms embedded within email messages. Officials have been asked to check the address of the website before submitting credentials or any other sensitive information.
+ 
+ In addition, the government systems have been asked to install anti-virus without fail. Officials have been advised to update the anti-virus software and ensure that they have the latest version to keep malicious software at bay.
+ 
+ Since phishing emails are common and often copy the entire look of legitimate emails, making it appear authentic, users have been asked to personally verify everything with the legitimate enterprise to see if they had really sent that email.
+ 

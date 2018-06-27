@@ -1,0 +1,12 @@
+BENGALURU: A 16-year-old student from Bengaluru has won international accolades for doing a study on  , a student of   , has won gold medal at the The International Sustainable World Energy, Engineering and Environmental Project (ISWEEEP) Olympiad, the   focused on renewable resources for high-school students. Sahithi was among five Indian students who competed against 600 finalists from 62 countries at the Houston fair earlier this month. Her project, an innovative crowdsourcing approach to monitor freshwater bodies, was inspired by the state of Bengaluru's waterbodies. “My old house used to overlook the Kaikondrahalli Lake and I witnessed its revival first hand. We then moved to Bellandur, which brought me closer to the heavily polluted Bellandur Lake.“
+
+ Sahithi's interest in lakes was sparked in 2015, when she became a part of the Inventure team that participated in the Our Lake Our Voice (OLOV) initiative involving students who had to do a case study on Varthur Lake. “It was only during OLOV that the stark reality of the city's waterbodies hit me,“ she said.
+ 
+ Her project crowdsources lake monitoring to students and citizens, allowing them to keep a tab on a lake's health. Those interested can buy the small test kit that includes an electronic device which has probe and test strips. They can then visit a lake nearby, collect water samples and test the same using the probe and strips. The values recorded are then transferred to a mobile app via bluetooth. As for the strips, they change colour on being dipped into water, with different colours indicating different levels of contamination. These strips can be photographed and uploaded on to the app.
+ 
+ “All these are saved on a cloud platform, allowing visitors to view the health of waterbodies across the world,“ she said.
+ 
+ The project also won Sahithi the Grand Award at the IRIS National Science Fair in Pune. Sahithi, along with her classmates and OLOV teammates, is already monitoring ten lakes using the system. The app is expected to be up and running within a month.
+ 
+ Sahithi will return to the US for the Intel International Science Engineering Fair (Intel ISEF), to be held in Los Angeles from May 14-19. She's the only Indian student to qualify as a finalist at both ISWEEEP and Intel ISEF this year.
+ 

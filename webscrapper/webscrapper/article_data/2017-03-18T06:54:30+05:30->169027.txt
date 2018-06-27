@@ -1,0 +1,20 @@
+AHMEDABAD: According to the   ( ), in 2010, India recorded 966 cases of   under sections of the IT Act and 356 under the IPC. Five years later, these figure reached 11,592 and 8,121 respectively, a 1,100% and 2,181% rise.
+
+ Investigating agencies now also look at digital footprints and evidence in almost all cases to find clues. In such a scenario, what are the emerging areas and future challenges? 
+ 
+  (RSU) has organized a two-day national workshop ‘Cyber Crime and Forensics: Needs and Challenges’ at   (GPA), Karai, to address some of these questions.
+ 
+ Vikas Sahay, director general of RSU, said the aim of the workshop is to bring together experts, law enforcement officials and representatives of industry on a single platform to raise awareness about the tools and technology available to tackle cyber crime.
+ 
+ “Experts from across the country have been invited to the event to elaborate on different aspects of cyber crime and forensics. The participants are also practitioners in the field,” Sahay said.
+ 
+ On day one, Dr J M Vyas, director general, GFSU and C H Sai Prasad of CFSL, Hyderabad along with industry representatives elaborated on various aspects of the issue.
+ 
+ Participants said there is no uniform standard operating procedure (SOP) for investigation of cyber crimes as is the case in narcotics cases. 
+ 
+ “Different state police units have different approaches to cyber crime — ranging from investigation to documentation. Another issue is manpower. All major states today have cyber cells but there is high turnover, making it difficult to retain trained personnel. There should be job verticals to address the issue. The landscape is also fast-changing and there is a gap between academics and the requirements of law enforcement agencies,” said a participant.
+ 
+ Another expert, talking about the challenges of the future, said malware-related issues are the prime focus of the industry. Like viruses affecting humans, computer viruses also change form and help hackers infect entire networks.
+ 
+ “Nowadays, open-source intelligence from social media has been adopted by major law-enforcement agencies. With data moving to the cloud and connectivity increasingly coming from hand-held devices, these two factors will decide the development of the relevant forensics,” he said.
+ 

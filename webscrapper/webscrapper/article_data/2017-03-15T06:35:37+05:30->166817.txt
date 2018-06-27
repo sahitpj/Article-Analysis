@@ -1,0 +1,12 @@
+KOLKATA: Did you come across a different driver at the wheel of the app cab from the one assigned at the time of booking? Several riders have reported so in the past,   as it foiled the very purpose of  . Now Uber has decided to roll out an innovative technology solution to solve the driver impersonation problem.
+
+ Drivers on the Uber platform will be asked to take selfies that will then be matched with the photographs on their records using Microsoft Cognitive Services. In case there is a mismatch, the driver’s account will be temporarily blocked and the matter will be looked into.
+ 
+ “This prevents fraud and protects drivers’ accounts from being compromised. It also protects riders by building another layer of accountability . We’re thrilled to launch this feature in five cities, including Kolkata, in India . We believe this new initiative will go a long way in keeping our riders and drivers in the city safe,” said  , chief security officer, Uber.
+ 
+ Uber said the real-time ID check was the latest in its endeavour to constantly develop and test new solutions to enhance security. When it launched the service in India, the very fact that driver and car details were sent to the rider before the ride was assuring. But instances of driver impersonation had led to doubts about the reliability of the driver information.
+ 
+ “We’re always exploring new ways to strengthen security on the Uber app for both riders and drivers. The real-time ID check is a proactive feature designed to protect both riders and drivers by ensuring accounts are not compromised and the right person is behind the wheel at all times. In India, as of now, we have seen some isolated incidents, where riders have reported a mismatch. More often than not, it was a case of human error at the driver end,” an Uber spokesperson said.
+ 
+ Officials at Uber said they were keen to eliminate mismatch as the company spent considerable resources to recruit drivers with valid documents after comprehensive background check.
+ 

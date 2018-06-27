@@ -1,0 +1,20 @@
+On Sunday, a website called " " created flutter by claiming that it has gained access to   customers' personal database.   was quick to retort with an official statement that refuted the claims.
+
+ "We have informed law enforcement agencies about the claims of the website and will follow through to ensure strict action is taken," a Jio spokeswoman said early on Monday, adding the data on the website appeared to be "unauthentic." She also said that the company's subscriber data was safe and maintained with the highest security.
+ 
+ The website has been suspended after Jio's statement with a message, " This Account has been suspended" appearing on it.
+ 
+ The report of data breach is particularly alarming since Jio customers have provided their 12-digit Unique Identification Authority of India (UIDAI) provided number, commonly known as the 'Adhaar' number, while registering for their SIM cards.
+ 
+ If the claims of the data breach are true, it would be a large setback for the Indian telecom entrant's aggressive push led by Reliance Chairman Mukesh Ambani, which added 3.9 million subscribers to its network in April.
+ 
+ Many users complained on Twitter about personal information of millions of Jio users being publicly available on Magicapk.com, in what appears to be the first of its kind large-scale data breach of an Indian telecom operator.
+ 
+ (With inputs from agencies)
+ 
+ 
+ 
+ 
+ 
+ 
+ 

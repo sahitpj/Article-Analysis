@@ -1,0 +1,21 @@
+PATNA: In what is being described as a first case of ‘Ransomware’ attack in  , a Patna-based jeweller’s personal computer was hacked soon after it was booted up on Saturday afternoon.
+ 
+  On entering any computer, the malware encrypts the data and locks the computer screen. Only a pop-up window is visible on the screen, through which a demand for ransom of Bitcoin is made.
+  
+  Police said Bitcoin is a disputed digital version of currency used across the globe. One Bitcoin is equivalent to Rs 1.1 lakh, a police officer said, quoting from its descriptions on the internet.
+  
+  Arun Kumar Verma (49), proprietor of SSAJ Enterprises at Bakerganj, told police he opened his shop around 12 noon on Saturday. His son Amit Kumar Verma (29) switched on the computer and saw an unusual message popping up after every 15 seconds on the screen. It reads: Oops, your important files are encrypted.
+  
+  Arun, who is also the president of Swarnkar Samaj Vikas ewan Shodh Sansthan, said he had last shut the system around 7.30pm on Friday.
+  
+  An IT-engineer, Amit told police Bitcoins worth $300 has been demanded as ransom for decrypting the entire computer. A few messages behind the pop-up window, which have a large signage of lock, are also displaying two different digital timers running continuously in reverse, showing how much time is left for them to make the payment by clicking a link. They are also displaying in how much time the files will be deleted if the payment is not made.
+  
+  “We have been given two days’ time for paying the ransom. After 3.56pm on May 15, the ransom will not be accepted and exactly at the same time on May 19, the files on computer will be deleted,” Amit said, adding formatting the system would be of no help as the malware had affected the ROM of the computer.
+  
+  According to Amit, they have contact details of more than one lakh jewellers stored in their computer along with the sales data of the shop, which was opened only three months back.
+  
+  “I immediately realised it’s ‘Ransomware’. Only on Friday night, a UK-based friend had told me while chatting how the malware has affected thousands of computers across the globe,” Amit said, adding an FIR has been lodged with the Kadamkuan police station.
+  
+  Meanwhile, the status of computers in state government departments could not be known as the attacks took place across the globe on Thursday night while state offices are closed from Friday to Sunday.
+  
+  The Bihar police’s cyber cell has already issued guidelines to download vulnerability patch of Windows (MS 17-010), update antivirus and activate firewalls to prevent the attack.

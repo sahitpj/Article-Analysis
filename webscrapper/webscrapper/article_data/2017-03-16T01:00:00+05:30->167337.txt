@@ -1,0 +1,15 @@
+PATNA: When there is much talk about digitization in India, Bihar ranks 17th among the 29 states and seven union territories in the country as far as opening digital lockers is concerned.   (DiGiLocker) service is a part of Prime Minister Narendra Modi’s Digital India campaign.
+
+ Only 55,733 digital lockers have been opened in the state in the past two years, whereas neighbouring states like Uttar Pradesh, West Bengal and Jharkhand rank among the top ten in providing online storage space for digital version of certificates and documents, such as PAN card, passport and educational marksheets. Uttar Pradesh tops the list with 2,02,477 people having opened digital lockers till date.
+ 
+ In terms of cities in Bihar, Patna ranks first with 8,615 people enrolled under the Digital Locker Scheme, followed by Muzaffarpur (3,033), Gaya (2,439) and Samastipur (2,376).
+ 
+ The scheme was launched by PM Modi on July 1, 2015. Interested people can sign up for digital locker at https://digitallocker.gov.in/ by using Aadhaar number and a mobile number linked to that Aadhaar number.
+ 
+ Each Aadhaar-linked digital locker comes with 1GB of free memory space. The locker has five segments: My Certificates, My Profile, My Issuer, My Requester and Directories. To ensure the security of online documents, a two-way process authentication system has been put in place that combines the applicant’s Aadhaar number and an OTP (one-time password) sent to their registered mobile phone numbers.
+ 
+ Senior state information technology (IT) department officials attributed the poor status in digital locker scheme in Bihar to Aadhaar coverage in the state. “Aadhaar is mandatory for creating digital lockers, but around 30% of the population in Bihar still don’t have that,” said a senior IT department official.
+ 
+ Another reason for low coverage under Digital Locker Scheme has been attributed to low internet penetration in the state. As per Census 2011, Bihar has below 1 per cent of total households with the internet users, the lowest in India. 
+ 
+ 

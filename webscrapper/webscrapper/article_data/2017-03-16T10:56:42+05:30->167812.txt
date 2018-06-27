@@ -1,0 +1,21 @@
+MUMBAI: The   is tapping its voluminous database to create a new customer loyalty programme to garner insights and aid decision-making at the $103 billion conglomerate.
+ 
+   , the analytics company in charge of the loyalty programme, has built a data ecosystem over the past 18 months that allows it to store, process and mine a variety of information in real time.
+  
+  It has hired data scientists from General Electric,  , FICO, Dunnhumby, Target and American Express.
+  
+  “Very recently, our team has been entrusted with launching a loyalty programme for the Tata Group that aims to recognise a lifetime of relationships with consumers through exclusive benefits and privileges and provide a key enabler to customer centricity within the Tata Group,” Deep Thomas, CEO at Tata IQ, said in an in-house magazine Tata Review.
+  
+  Tata IQ is working closely with five group companies as an extended analytics team and has tied up with another 10 on strategic turnkey initiatives, he said, without identifying them.
+  
+  The customer loyalty programme aims to offer a marketing collaboration platform to all participating group companies, helping them with faster customer acquisition, reactivation and incremental sales.
+  
+ The group’s consumer-facing companies include  , Tata Starbucks,  , Tata Sky,  ,  , Tanishq, Indian Hotels and Vistara. Tata IQ, which is one of the youngest companies the 149-year old group, was started in 2015 to adopt analytics for smarter decision-making at various functions and create one of the richest and most valuable databases on Indian consumers and institutions with information about their demographics, attitudes, behaviour, spending habits and passions.
+  
+  The aim is to generate actionable insights and more precise action to help every company gain higher market share. Apart from establishing a customer loyalty programme, Tata IQ is working with over 15 Tata companies to solve a wide spectrum of business problems across sales and marketing, operations, risk, collections, digital, finance and HR functions.
+  
+  Companies across industries are setting up data-focused business divisions to help understand how people consume products and services. Every consumer interaction leads to the generation of varied types of data, which is mined to uncover buying patterns, correlations and new opportunities.
+  
+  “Two or three years from now, as organisations compete on a global scale, Big Data will be a non-negotiable competency for every organisation — they will just not be in a position to compete without the power of data analytics,” said Thomas.
+  
+  Big data analytics sector in India is expected to witness an eight-fold growth to reach $16 billion by 2025 from the current level of $2 billion, according to the   and Services Companies.

@@ -1,0 +1,14 @@
+KOLKATA: The state transport corporation took a technological leap on Wednesday by harnessing artificial intelligence to analyse commuter behaviour, sentiment, suggestions and commute pattern, similar to what app cab aggregators   and   have been doing with rider data for some time now.
+
+ BOT, the artificial intelligence being used by   (WBTC), will receive the inputs from commuters via  , the bus app introduced on Wednesday , analyse them and then provide feedback to both passengers and officials in WBTC to suggest improvements in the service.
+ 
+ “The BOT will store all the data and continually analyse them to give us an idea of commuter behavior, sentiment, suggestion and commuting pattern. This will shape more exacting policies in the transport sector as they will be based on data and not perception,“ principal secretary (transport) Alapan Bandyopadhyay explained during the Pathadisha's inauguration by transport minister   on Wednesday .
+ 
+ The app also has a simple driver and conductor interface that will enable commuters to know whether there a seat is available in a bus or one has to stand during the journey . A simple colour band will indicate the seat status: green means seats are available, amber if seats are occupied and red if the bus is jam-packed.
+ 
+ Apart from the live tracking of a bus, Pathadisha like the Uber and Ola apps will enable a commuter to share his or her ride so that the family member, friend or colleague can track the progress of the bus. The most significant feature though is a crisis response system. “In case of fire or accident, messages will be automatically transmitted to nearest hospital, nearest police station and disaster management group so that rescue and rehabilitations happens without lapse of any ti me,“ said Sanjoy Chatterjee, director of Ideation Technology Solution, the technology partner in Pathadisha.
+ 
+ The app has generated a lot of interest among private operators of public transport that carry 60% of passengers. World Bank which played catalyst in developing this intelligent transport system by bringing in international expertise, is keen to include the private bus operator in the system. “We are gifting 100 private bus operators smart phone with the app and they are also now part of the system which will improve quality of life and decongest the city to a great extent,“ said Rakhi Basu of World Bank.
+ 
+ On March 27, private bus operators have sought an appointment with the transport minister to hop on board the smart transport system. “We want people to come up with innovative ideas to solve the problems of futu re. This is why we have announced open data policy which will enable start-up companies come up with technology solution of complex commuting problem,“ said WBTC managing director Narayan Swarup Nigam. The smart card, modelled on Oyster card of London, was also inaugurated. They will be available from 20 points of sale across the city.
+ 

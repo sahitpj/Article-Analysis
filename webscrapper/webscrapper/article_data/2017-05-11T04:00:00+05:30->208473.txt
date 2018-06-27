@@ -1,0 +1,13 @@
+Mumbai: At a time when critical   firms across the globe are facing   threats almost on a daily basis,   ( ) and global technology major   have signed a multimillion dollar agreement to boost the bourse’s IT security. Under this five-year contract, IBM will use its global expertise to secure trading engine, data and hardware for all of BSE’s current trading platforms like stocks, bonds, derivatives, mutual funds and also the planned ones like commodities.
+
+ Under this security services agreement, IBM will monitor security events on a round-the-clock basis, analyse security-related threats, manage incidents and response, along with synchronised management of devices, networks and applications, officials from BSE and IBM said. Since cyber criminals are targeting the financial services sector, BSE wanted a robust security cover to protect the digital assets of the company, customers and stakeholders. Using IBM’s global capabilities, it will also provide real-time analysis of cyber threats and defence against probable attacks. 
+ 
+ “The end-to-end security solutions, services and global expertise from IBM will help BSE consolidate and fortify best practices under one umbrella,” said Shivkumar Pandey, CISO, BSE. “With the SOC (Security Operation Centre), BSE hopes to pre-empt security risks and respond to them, thereby, staying ahead of security threats,” Pandey added. 
+ 
+ According to Sandeep Sinha Roy, business unit executive, IBM Security Services, India, cyber criminals constantly evolve their tactics to succeed whether for financial gain or even disruption, and in such situations it is critical to have a security operation centre approach which integrates various security protocols and technology under one roof. 
+ 
+ Putting in place such a robust, next generation system will also act as an confidence booster for all of BSE’s stakeholders, Pandey said.
+ 
+ Under the deal, IBM will also educate BSE’s employees about cyber threats and related issues, Sinha Roy said. However, this does not cover BSE members who are trading on the exchange.
+ 
+ 

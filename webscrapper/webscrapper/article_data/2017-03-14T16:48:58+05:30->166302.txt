@@ -1,0 +1,22 @@
+Bengaluru:   has the Amazon   before him in the conference room of his company Manthan’s office in Bengaluru. Echo is a hands-free speaker that you control with your voice. Echo in turn connects to a voice service called   that you can instruct to play music, provide information, news, sports scores and more.
+
+ Jalan is now trying to do something different with Echo and Alexa. Looking in the direction of the speaker – though he could be looking anywhere, and could even be several feet away from it – he asks: `Alexa, ask Maya, why did my sales go down in Bengaluru’. Alexa provides an answer. And then Jalan follows it up with more questions like: `Alexa, ask Maya, what is my most profitable category’, `Alexa, ask Maya, how is the brand I launched yesterday doing’. He gets answers each time.
+ 
+ Maya is Manthan’s latest product – a conversational engine powered by artificial intelligence (AI), as Jalan describes it. Maya’s the one that is coming up with the answers for Alexa to respond. And for Maya, answering these questions is not just a matter of picking up some readymade information from a database. Maya has to look at a variety of sources, pool together relevant information, analyse it and then come up with what it believes is the most appropriate answer. For the sales going down question, it may even look at weather data, though some of this is still work in progress.
+ 
+ “Earlier, if someone wanted the same information (using Manthan’s older products), she would need to know certain processes, some knowledge of data science, require multiple clicks. Now, anyone can easily access the information depending upon their authorization. Even a CEO can get instantaneous business insights while cooking or in the bath,” says Jalan.
+ 
+ Jalan, a serial entrepreneur who founded   in 2003 as a retail analytics firm, has been passionate about AI for years. Manthan’s solutions have long helped retailers around the world to understand things like where to locate stores, how to lay out stores, which items to keep in each store, which items are best kept together, which products to mark down, by how much. Its customers include Starbucks, eBay, Prada, McDonald’s, Woolworth, Carrefour, Future Retail, Haggen, Crocs, and Toys R Us.
+ 
+ In more recent years, Jalan has transitioned his entire product range to the cloud and has been infusing AI and natural language processing into them. Maya takes this to a new level.
+ 
+ “Maya was the most amazing demo at  ,” said Michael Deittrick, global CTO of retail & consumer industries in IT major CSC, referring to the retail industry event held in New York in January.
+ 
+ Ambrose Earle, vice president for strategy at US-based Shamrock Foods, said Maya accelerates decision-making by simplifying the front-end user interface to the level of a basic conversation. “This fact-based discussion to quickly determine the status of the business and the areas needing additional attention is a boon to executives,” he said, and described Maya as a game changer.
+ 
+ Rakesh Biyani, joint MD at Future Retail, said just conversing with complex business systems and receiving AI powered insights into the business from anywhere is a giant leap forward in decision-making on the go. “This is amazing from Manthan!” he said.
+ 
+ There are others who are building solutions similar to Maya – the Israeli-US venture Sisense is one. Jalan says he’ll infuse a lot more intelligence into Maya over time. Maya already has the capability to quickly get used to different dialects and accents. “We’ll also make Maya work with Apple's Siri, Google's As
+ sistant, and Microsoft's Cortana,” says Jalan.
+ 
+ 

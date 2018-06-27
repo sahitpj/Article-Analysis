@@ -1,0 +1,29 @@
+NEW DELHI:  , one of the leading telecom operators in India, in a press conference today announced that the company is conducting trials for the rollout of VoLTE (Voice over LTE) service in five cities. He added that the company will be "able to take VoLTE" everywhere in the country in later part of the year. 
+
+ Airtel's VoLTE service are expected to give tough competition to Mukesh Ambani-led   which is currently the only operator in India to offer VoLTE services.
+ 
+ Reliance Jio officially launched its VoLTE services in the country in September last year.
+ 
+ 
+ 
+ 
+ VoLTE stands for Voice over Long Term Evolution, which is essentially voice over internet protocol or IP-based LTE network. As the name suggests, it allows users to make voice calls over LTE.
+ 
+ VoLTE enables what's called high definition (HD) voice calling. It's hard to quantify the quality of these calls, but they surely offer significant improvement over traditional calls (made via cellular networks).
+ 
+ Here LTE is referred to as 4G. In theory, LTE should offer data speeds capable of reaching 100-150 megabits per second while on the move, and 1GB per second when stationary.
+ 
+ 
+ 
+ 
+ In a VoLTE or 'Voice over LTE' scenario, voice calls, typically, will be provisioned over a 4G LTE data network, instead of the circuit-switched 2G or 3G networks which are commonly used. The VoLTE technology, typically, allows voice to become just another app that rides on an LTE data network. Long-term evolution, or LTE, is the technology standard for delivering high-speed broadband services, popularly known as 4G.
+ 
+ Similar to the way that the internet works, VoLTE relies on the IP Multimedia Subsystem (IMS) network.
+ 
+ 
+ 
+ 
+ VoLTE allows an operator to offer both voice and data without switching between bands, with voice being just another application that rides on an LTE data network
+ 
+ The implementation of VoLTE offers several other benefits too, both in terms of cost and operation. It provides a more efficient use of spectrum than traditional voice. Further it helps meet the rising demand for richer, more reliable services. VoLTE can be deployed in parallel with video calls over LTE and RCS multimedia services, including video share, multimedia messaging, chat and file transfer.
+ 

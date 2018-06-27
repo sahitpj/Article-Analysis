@@ -1,0 +1,23 @@
+CHENNAI: In the bank versus e-wallets sweepstakes, the banks have now gained lost ground. As of February, the number of transactions put across through e-wallets have dropped 10% month on month in February while banks have gained 20% in the same period, over a larger base. 
+
+ Reserve Bank of India data also shows that the 8 e-wallets, including Paytm, Mobikwik, Freecharge, saw a loss in their marketshare post November 8. 
+ 
+ E-wallets, which had a market share of 34% of total PPI transactions (169.32 million) in December, saw a dip to 33% in January and then a sharp fall to 29% in February.
+ 
+ RBI data also showed that e-wallets saw maximum growth of 50% to 88 million transactions in the month of December, and then fell 1% in January, before falling another 10% in February to 78 million.
+ 
+ Bank wallets, pre-paid cards and vouchers however saw a growth of 57% in December to 173 million and post-demonetisation saw growth of 20% to 208.45 million in January. 
+ 
+ So why are banks gaining an edge? "Banks have a captive customer base - they offer multiple products and payments is one among a vast number of offerings. E-wallets are transactional where float and transaction fee are their only revenue model, so there could be some structural changes in that ecosystem going forward. The players cannot continue to offer discounts, freebies and burn VC money for long without path to profitability. At some point they will feel the pressure from investors. Free lunches won't last forever," says Deepak Sharma, Chief Digital Officer, Kotak Mahindra Bank.
+ 
+ When RBI increased the cap on e-wallets from Rs 10,000 to Rs 20,000 in November, the expectation was that value of transactions for e-wallets would increase. It also saw e-wallets offering discounts to bring new customers under its fold.
+ 
+ Data, however, shows e-wallets seem to have benefited only marginally from the increase in cap. The value of transactions for e-wallets, increased 61% to Rs 21 billion in December from Rs 13 billion in November, thereafter it has seen a decline. In February value of transactions fell 9.5% to Rs 19 billion. This compares to an industry average of 54% growth in December and 13.2% in January.
+ 
+ Unlike e-wallets, which have seen a decline in value of transactions post-demonetisation, bank wallets continued to surge on an upward incline in January. In December they saw a growth of 103% and in January 14.3%. Industry observers said that e-wallets could be hurting their own growth with their constant revisions in offers, discounts and their lack of a proper grievance redressal mechanism. 
+ 
+ Experts point to PayTM's debacle last week, where the company blocked credit cards, then unblocked the same, charged 2% and then roll-backed the charge all within 48 hours. "A reflection of how little the space is regulated and how aimless the financial exercise was," said a bank executive.
+ 
+ Such frenzied changes could actually ward off older customers. "Any entity can get a wallet, prepaid license or a banking license, the regulators never managed to fathom the complexity of the ecosystem and the checks and balances essential to keep this legit," says Damodharan Sampathkumar of Renovite Technologies, a fintech player. 
+ 
+ 

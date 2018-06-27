@@ -1,0 +1,36 @@
+BENGALURU: At least a 100 systems across India have been locked out, with their data encrypted, after being hit by Friday’s ransomware attack that is estimated to have affected nearly 50,000 systems globally, most prominently affecting the healthcare system in the UK. 
+
+ While the attacks seem sudden, experts point to isolated and systematic probes into systems over the past several months as a probable build-up to a major attack such as the ‘Wannacry’ ransomware that has affected nearly 100 countries. 
+ 
+ India’s National Cyber Security Advisor in the prime minister’s office, Gulshan Rai, told TOI: “There are about a 100 systems attacked in India and as of now there are no more threats.” On whether any special alerts have been sent out to sensitive establishments—nuclear and power grids—Rai said that all the security advisories sent so far hold good.
+ 
+ Rai said that India’s   (CERT-In) is monitoring the situation continuously. According to data accessed from CERT-In, in past 12-14 months, nearly 11,000 networks in India have been victims of probing/scanning by hackers or cyber criminals.
+ 
+ In the first 10 months of 2016, 10,454 cases of network probing/scanning were reported, while more than 26,000 cases of virus/malware intrusions hit Indian systems.
+ 
+ Experts point out that scanning & probing is the first step used by hackers to test waters, and is generally followed by insertion of malware or ransomware. “Network probing is people looking for vulnerabilities in systems which will eventually be breached. Amateurs don’t do it, these are professionals. Also, malware propagation and web intrusion are indicators of hired tools if not services, ” cyber expert Mirza Faizan Asad says.
+ 
+ If the nature of cyber attacks are any indication India is facing an increasing threat from ‘Supari Attackers’, who provide cybercrime-as-a-service ( ), and a lack of a strong law or policy to deter this is likely to hurt the country, which is positively moving towards a digital world.
+ 
+ Cyber crime expert and Supreme Court Advocate Pavan Duggal says: “The official figures, although representative (there are more cases) only confirm the realities on ground. There is a huge gap in security and threat that needs addressing on a war footing. Cyber crime-as-a-service in India came to the forefront in 2015, but lack of awareness among agencies probing means that there is no specific classification. It has grown considerably and we are not doing enough.”
+ 
+ Last year, Duggal said, a known terror group had sought hackers and many Indians had joined the group. “Our police don’t categorise these as CAAS, but just book them under various sections. While we don’t have a correct number, going by the cases I see, I can tell you confidently that CAAS is increasing in the last one year,” he added.
+ 
+ Netrika Consulting Private Limited Managing Director Sanjay Kaushik, while stating that several of his clients, including banks and IT firms have come under ransomware attacks in the past few months, said that no Indian firm has so far paid ransomware but that there is more to do so far as protection of systems is concerned.
+ 
+ According to RBI, there were seven cases of ransomware reported by Indian banks in the first two months of 2017, while 30 other types of cybercrime cases have come to the fore.
+ 
+ 
+ 
+ The vulnerable   XP software is what 70% of the 2.19 lakh ATMs in India use, according to the Centre’s own admission, even as banks have been trying to upgrade their software.   stopped providing support—security patches and other tools—for the Windows XP System in 2014. 
+ 
+ Presently, the complete control of these systems are by vendors who provide banks with these systems and the RBI has set a September 2017 deadline for banks to make their ATMs   chip and PIN enabled. EMV (Europay,   and Visa) are smart cards equipped with RFID and considered more secure.
+ 
+ 
+ 
+ Cyber crime-as-a-service (CAAS) refers to organized crime rings offering services such as on-demand distributed denial-of-service attacks and bulletproof hosting to support malware attacks among other things. 
+ 
+ Crime rings are gaining a better understanding of product positioning, of strengths and weaknesses, and with whom they need to collaborate more effectively. Although there is no professional study conducted in India, according to a CIO insight, 2016 report, there has been 33% spike in CAAS, and “Exploit Kits” globally. 
+ 
+ Cybercriminals employing ransomware or crypto-ransomware—a sophisticated software that incorporates advanced encryption algorithms to block system files—are increasingly attacking Indian firms and entities.
+ 

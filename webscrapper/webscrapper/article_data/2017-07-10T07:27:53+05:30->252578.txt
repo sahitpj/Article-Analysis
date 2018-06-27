@@ -1,0 +1,16 @@
+HYDERABAD: Despite the looming threat of  , many companies in the city seem to be in no hurry to update their software.
+
+ A 'Wannacry' attack, which is a  , wreaked havoc across the globe this year.Not just other countries, but the fallout of the attack was felt in India too, as well as in the region, with the   police website being hit. However, despite a security patch being released in March, companies have not updated their software to ensure the security of their information. The security patch was created to tackle the loophole exploited by Wannacry ransomware attackers.
+ 
+ Sources say that companies have been hesitant at upgrading their software because this is likely to make their systems slower.With global conditions being adverse, many firms are not prepared for additional changes.
+ 
+ “While our company immediately got down to the exercise of upgrading our systems with the security patch after the Wannacry attacks worldwide, the exercise had to be halted midway as our applications were getting very slow,“ said a mana ging director of a company .
+ 
+ The reluctance to upgrade also holds true for most government offices and institutions which mostly use pirated software. “Apart from the fact that most users use pirated software which cannot be updated with security patches, some corporates may not even want to apply security patches immediately.
+ 
+ From a corporate standpoint, an application software developed on one application might be affected by a security patch. This leaves a gap between the security patch application and the latest version,“ said Bharani Kumar Aroll, secretary Society for Cyberabad Security Council (SCSC).
+ 
+ While the initiative being taken by most firms remains wanting, the ransomware threat has become deadlier. The powerful UiWix attack as well as newer versions of ransomware are being discovered every day . The other ransomware threats include zero-day , Petya, Mischa and UiWix. 
+ 
+ A Petya attack denies access to the full system by attacking low-level structures on the disk instead of encrypting files one by one.While Petya and Mischa are spread through phishing mails containing what appear to be job applications, `UiWix' encrypts and renames files through a bug in the  .It is touted to be more powerful than Wannacry because of the absence of the 'kill switch' that could contain the virus.
+ 

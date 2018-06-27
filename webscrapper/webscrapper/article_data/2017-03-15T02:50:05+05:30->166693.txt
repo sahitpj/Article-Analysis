@@ -1,0 +1,13 @@
+THANE: Commuters can now get real-time location of   ( ) buses plying on various routes within the city and Mumbai routes on their cellphones.
+
+  mayor,  , on Tuesday, launched a live tracking system for all TMT buses called whereismytmtbus that will not only update the user about the bus number to his/her destination but also update its expected arrival time, nearest bus stop and fare for the specific route. The initiative is part of the digitizing process of the undertaking that has been for long earned an ill-repute for its poor services in the city.
+ 
+ According to the plans, a passenger who has downloaded the free-to-use application on his/her cellphone can get information of the nearest bus stop from his/her location. After putting in the destination, the user will also be able to know the exact time when a bus to the desired destination will arrive along with the route it will take. Along with the travel fare to the destination, a commuter is also likely to get information about seat availability in the bus, said Sudhir raut, TMT manager.
+ 
+ The entire mapping of all the 250 buses, including the AC and non-AC that ply daily on the around 74 routes of the TMT have been latched onto the facility now will be monitored from the Neelkanth bus station. The entire system has been developed by a Mumbai-based tech consultant who will help the undertaking operate the system from its command and control station.
+ 
+ Not just stopping at bus mapping, commuters can also book tickets on their routes and renew their bus passes using this  . 
+ 
+ The undertaking has around 430 buses presently of which nearly 250 buses ply on several routes within and outside Thane city. However, regular commuters have been complaining of delayed buses with services on few routes running at an interval of nearly 30 minutes. 
+ 
+ 

@@ -1,0 +1,15 @@
+Mumbai:  , whose Japanese parent is one of the largest deployers of cash recycling machines in the world, is expecting to see 15,000 machines added this year to the existing network of 20,000.
+
+ Anticipating   to be the next big thing in bank automation, Hitachi has started manufacture of these machines in its India plant and is set to hit the 10,000 mark soon. While the ATMs are made by  , Hitachi Payments deploys and manages ATM networks for banks.
+ 
+ Cash recycling ATMs are machines that can scrutinise currency notes that are deposited and make them available instantly for withdrawal. A large part of the deployment is expected to take place as banks replace their ageing cash dispensers. Banks are lining up for these machines as their costs have dropped to around Rs 6.5 lakh and are more efficient than tellers in deposit acceptance. Also, since the same money is circulated, banks save on cash-in-transit costs — which have been on the rise. Banks say that since supply of currency notes is not up to requirement, these machines being more efficient in cash management are a big help.
+ 
+ According to Loney Antony, MD, Hitachi Payments Services, the number of machines will grow with the regulator pushing for   of these machines. Interoperability allows any bank customer walk to a deposit machine of any bank and deposit funds into the account of any other bank. At present, a pilot program on interoperability is being run with four banks —  ,  ,   and  . However, the big deployers of these machines — State Bank of India, Punjab National Bank and Bank of Baroda are yet to join.
+ 
+ “In Japan, almost the entire network of ATMs comprises cash recycling machines. In China, close to 70% of the ATMs are cash recycling machines,” said Antony. Around 25% of the ATMs in the country are more than eight years old and many are due for replacement.
+ 
+ Besides the large banks, Antony said that Hitachi is seeing a lot of interest from small finance banks. “These banks already have a lending business, and a cash recycling machine can help them collect cash,” he said.
+ 
+ Hitachi Payments India was recently in the news following a breach suspected to be caused by a sophisticated malware. The breach resulted in 32 lakh debit cards being exposed. Several banks had replaced cards and the   had placed the loss at Rs 10 crore. Antony said that the company was open to banks with uncovered losses approaching the company.
+ 
+ 

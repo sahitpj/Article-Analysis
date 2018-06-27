@@ -1,0 +1,12 @@
+BENGALURU: In 2015, he first started offering free rides on his bike, stuck a sticker on his helmet reading 'Free ride from JP Nagar from/to Bellandur' and rode to his  . But there were no takers. So  , a young software engineer from Flipkart, began to research how he could improve on his experiment on ride-sharing. 
+
+ On Saturday, his idea By2Rides bagged the first runner-up award in Flipkart's  . "During my experiments on the ground, I faced typical behaviour where the ride seeker would treat the owner of the vehicle offering the ride as a driver for a small fee. But By2Rides is a complete inverse-Uber model for carpooling. Keeping ride-sharing free for both parties makes things simple," he says.
+ 
+ He has already started testing his model at Cessna Business Park on Outer Ring Road, where he offers rides to employees working within a tech park. And his solution through By2Rides is the same for all tech enclaves in the city.
+ 
+ Flipkart's Gridlock Hackathon was floated a month ago, aiming to crowdsource solutions from citizens on traffic with the use of technology platforms. The jury - Binny Bansal, group CEO, Flipkart, Sridhar Pabbisetty, CEO of Namma Bengaluru Foundation (NBF) and Abhishek Goyal, DCP, Traffic (East) - selected three solutions put forward by 1,000 teams, totaling 3,000 entries. The e-tailer will form a committee with NBF to take these solutions forward, offer office space every month for the committee to meet and work with the government with the help of NBF, and offer technical guidance to the teams. 
+ 
+ The winner of the contest, Affine Anonymous, pitched an idea to digitize the city's traffic signals. "The idea is to put artificial intelligence into traffic lights - it should be on-demand. The light should turn green for the road with the longer traffic pileup, and this does not require major investment. Data on traffic at every signal is available on Google Maps and Bing maps, we just have to feed this into a platform and run the traffic lights accordingly," said Supradeep Das, manager at Affine Analytics, a data analytics firm. This company undertook a pilot at Silk Board Junction and found that wait time reduced by 17% by this process.
+ 
+ Eurus, the third team, intends to d evelop a Road Smoothness Detector, which will be app-based and collects data on potholes, road humps and bad road conditions from users of the app. The idea is to develop a qualitative analysis of roads that is vital to know for government authorities to work upon. 
+ 

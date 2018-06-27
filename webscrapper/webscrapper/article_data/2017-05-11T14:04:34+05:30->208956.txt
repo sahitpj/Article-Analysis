@@ -1,0 +1,22 @@
+NEW DELHI: The Income Tax department has launched a new e-facility to link a person's   with the   ( ), a mandatory procedure for filing IT returns now.
+
+ The department's   website-- https://incometaxindiaefiling.gov.in/-- has created a new link on its homepage making it "easy" to link the two unique identities of an individual.
+ 
+ The link requires a person to punch in his PAN number, Aadhaar number and the "exact name as given in the Aadhaar card".
+ 
+ "After verification from the UIDAI (Unique Identification Authority of India), the linking will be confirmed. In case of any minor mismatch in Aadhaar name provided, Aadhaar OTP (one time password) will be required," the department said in its advisory to taxpayers and individuals.
+ 
+ The OTP will be sent on the registered mobile number and email of the individual.
+ 
+ It urged them to ensure that the date of birth and gender in PAN and Aadhaar are exactly the same, to ensure linking without failure.
+ 
+ "There is no need to login or be registered on e-filing website (of the I-T department). This facility can be used by anyone to link their  ," it said.
+ 
+ The government, under the Finance Act 2017, has made it mandatory for taxpayers to quote Aadhaar or enrolment ID of Aadhaar application form for filing of income tax returns (ITR).
+ 
+ Also, Aadhaar has been made mandatory for applying for permanent account number with effect from July 1, 2017.
+ 
+ The department, till now, has linked over 1.18 Aadhaar with its PAN database.
+ 
+ While Aadhaar is issued by the UIDAI to a resident of India, PAN is a ten-digit alphanumeric number issued in the form of a laminated card by the IT department to any person, firm or entity. 
+ 

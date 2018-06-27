@@ -1,0 +1,19 @@
+MUMBAI: The   regulator will scan internal emails of  , their communication with the leading exchange, and   data for past seven years to find out whether any brokerage using the ‘dark fibre’ connection received preferential treatment from bourse officials.
+ 
+  Last week, the Securities & Exchange Board of India ( ) asked over a dozen brokerages to share a string of information along with their agreement with Sampark Infotainment — a little-known agency which laid the   between the National Stock Exchange and Bombay Stock Exchange.
+  
+  A dark fibre connection links the co-location servers of a broker in two exchanges, enabling it to obtain stocks and currency futures prices on both exchanges and cut arbitrage deals in milliseconds by cashing in on the price differences. The fibre, used solely to transmit data, was part of the overall high frequency trading strategy that helped some brokerages make a killing.
+  
+  While Sebi has asked for trade numbers since 2010, trades using the expensive dark fibre connection began in end 2014-15. The emails to member brokers were sent by an official of Sebi’s Market Intermediaries Regulation and Supervision Department.
+  
+ “The investigation will look into whether there was a collusion between exchange officials and some brokers and in what manner… also, how Sampark was authorised to provide the service and freely access a sensitive zone within the exchange,” a person familiar with the development told ET.
+  
+  “There is a suspicion that the number of brokers involved could be more than just a few whose names have been reported by the media,” the person said. Sampark, which did not have regulatory approvals to function as an ISP, was involved in site survey, link laying and termination, link trouble shooting, and device installation.
+  
+  According to a senior official belonging to a Mumbai brokerage, “It seems the regulator is simultaneously investigating two issues: first, the alleged preferential access to NSE’s server that gave a handful of brokers an unfair advantage — which primarily relates to 2011-12; the second is the dark fibre issue where the only way the exchange could have favoured a broker is by allowing the intermediary to obtain the link well before others. While it was open to all, the facility was not adequately publicised.
+  
+  Not everyone was aware in the beginning that such a fibre link virtually connecting a broker’s two co-location servers in two exchanges was available.”
+  
+  In fact, by the time some brokers explored the possibility to obtain a dark fibre connection they realised that they had lost out on the first-mover advantage. While advanced software and connectivity are only two ways a high-frequency trader can beat rivals, questions have cropped up following letters from a whistleblower that the largest exchange has favoured some members over others. Many foreign institutions and large proprietary desks use sophisticated software programmes and place servers on the premises of stock exchange to enjoy an advantage over smaller brokers and traders.
+  
+  Here’s how a dark fibre link helps: a broker’s co-location server in NSE will receive price data from BSE while the co-location server in BSE will obtain price information from NSE; the prices are compared and trades are executed in respective exchanges in fraction of a second. 

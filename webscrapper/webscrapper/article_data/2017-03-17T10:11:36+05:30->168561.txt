@@ -1,0 +1,13 @@
+KOLKATA: Imagine waking up and hitting the shower while the kitchen comes alive on its own to prepare the breakfast. After the bath, you slip on an intelligent shirt that has sensors embedded to track your health. While you grab the toast, assorted morning news curated with your interest in mind is ready on the tablet. As you drive to office, all devices in the house switch off. In the evening, the AC in the living room switches back on to make it comfortable by the time you return. As you drive up, a drone delivers the pizza that you ordered earlier. 
+
+ Scenes from a science fiction movie? Not quite, say scientists. They believe this will be a reality in three-four years following introduction of  . And it is Kolkata, which has been on the forefront of adoption of new telecom technology, where technology researchers and students will meet to deliberate on the possibilities of 5G. 
+ 
+ An IEEE 5G Summit is lined up in the city on March 17-18 for students, researchers and technology developers to know about activities on 5G mobile technology development. “The summit will bring academic, industry and government representatives together at the grassroots level for exchange of ideas toward the goal of spurring 5G standards and technology development,” said Iti   of the department of electronics and telecommunication engineering at Jadavpur University. She who is organising the summit. 
+ 
+ Early experimental results of 5G showed that connected vehicles travelling at 170 kmph can achieve downlink speeds of 3.6 gbps, download 4K movies in seconds and create an immersed viewing experiences for TV broadcasts and sporting events. 
+ 
+ “When 5G is rolled out, expect faster response time than humans to enable tactile Internet and capable of supporting large number of connected devices through machine-to-machine communication. One could control home appliances and even consider the smart grocery storage talking to you through voice enable services,” said   of GS Sanyal School of Telecommunication, IIT, Kharagpur.
+ 
+ Pallab Ganguly, industry interface at the IEEE 5G Summit, said: “As the network becomes fast and agile, it will come under attacks that will be complex and include multi-vectors that target all layers of the infrastructure and applications. Multi-security defense and cloud-based solutions have to be introduced,” he said.
+ 
+ 

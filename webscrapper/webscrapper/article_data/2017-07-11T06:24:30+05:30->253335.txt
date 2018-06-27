@@ -1,0 +1,14 @@
+HYDERABAD: A mobile app, SARAT (Search And Rescue Aid Tool), that can help save lives and find lost objects at sea was released on Monday. The versatile tool has been developed by Indian National Centre for Ocean Information Services ( ), Hyderabad, which is an autonomous agency under the ministry of earth sciences.
+
+ The chairman of   (NMSAR) Board and director general of  , Rajendra Singh, launched the app at the 16th NMSAR board meeting held at Vigyan Bhavan in New Delhi.
+ 
+ The SARAT app can assist in the search for over 64 types of missing `objects', including boats, ships and people. While the web version was released last year, the mobile app will be available for download from the Google Play Store.
+ 
+ “Conducting search and rescue operations at sea is extremely challenging and can be compared to the proverbial search for a needle in a haystack. Typically, search and rescue operations are most frequent during bad weather over the high seas, when fisherfolk inadvertently venture out and their vessels capsize,“ Incois said.
+ 
+ The system mainly enables the Indian Coast Guard, Navy and   to minimize search ti me during various operations to reduce loss of life, injury and property damage. In such exigencies, quick action is vital and hence this mobile app has been developed to make this system conveniently available to all, Incois said.
+ 
+ The accuracy of SARAT is validated using a network of drifting buoys and other instruments. The system proved its mettle earlier by successfully assisting in the recovery of the Indian Coast Guard's missing Dornier aircraft off Chennai coast in 2015. The system can predict the most probable search area for up to five days.
+ 
+ “SARAT is a good example of the success of the Make in India programme. Work is on to integrate it with the Indian satellite INSAT for improved real-time transmission and relay of information,“ Incois said.
+ 

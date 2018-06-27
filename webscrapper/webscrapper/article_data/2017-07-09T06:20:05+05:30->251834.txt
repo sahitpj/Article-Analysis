@@ -1,0 +1,10 @@
+BENGALURU: Researchers at the   claim to have developed a highly sensitive,   that can quickly detect minute changes in   and has potential applications in monitoring of  . The sensor, once mass produced, could cost just half as much as those in the market. 
+
+  In a statement shared with TOI, the   (CeNSE) said its team used a novel fabrication technique that leaves out lithography - a time-consuming and expensive process - to construct a honeycomb-like nanostructure of zinc-oxide. 
+ 
+  The sensor was able to detect a difference in CO level as low as 500 parts per billion and selectively respond to CO even in the presence of other gases. "The lithography-less technique also significantly cuts down the time and cost involved in making nanostructured gas sensors," one of the team members said. The study was carried out by Chandra Shekhar Prajapati, a postdoctoral fellow, and Navakanta Bhat, chair and professor, CeNSE, along with researchers at the KTH Royal Institute of Technology, Sweden. 
+ 
+  "The size of the sensor itself is less than 1mm. If you combine it with the rest of the signal processing electronics and a small display, it may not be more than a couple of centimetres. This can be integrated with a cell phone, or imagine a small device at every traffic signal which can transmit the data to your cell phone through bluetooth," Bhat said. 
+ 
+  For environmental applications, gas sensors need to be both highly sensitive (detect very low levels) and selective (detect a specific gas in the presence of others). The researchers developed sensors with varying honeycomb wall width, and found the one with the smallest width around 100nm) was able to detect a change of even 500 parts per billion in CO concentration. When tested with a mixture of gases, the sensor showedgreater response for CO. The polystyrene-based method can be used to develop similar honeycomb nanostructures for other sensors, the team said. "What we have is a generic platform. You can do the same nano-structuring for different metal oxide semiconductor sensors," says Bhat. 
+ 

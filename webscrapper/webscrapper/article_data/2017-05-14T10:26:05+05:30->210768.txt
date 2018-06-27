@@ -1,0 +1,10 @@
+JAIPUR: A 35-year-old   in   tried to outwit the authorities by trying to get an Aadhaar card in the name of slain terrorist Osama Bin Laden; however, the Unique Identification Authority of India (UIDAI) got the whiff of the glaring mistake and filed a complaint against the operator on Friday.
+
+ According to the police,  , who runs an Aadhaar registration centre in Mandal, tried to enrol an Aadhar card on Osama Bind Laden’s name a few days back. “Mansuri filled Abbottabad, district Bhilwara as Laden’s address; he also uploaded a picture of the terrorist which was blurred. He did not upload details such as thumb impression or identification proof,” said Mandal Deputy SP Chanchal Mishra told TOI over phone.
+ 
+ Soon after Mansuri uploaded the details, the verification department of the UIDAI found glaring contrast in the applicant’s data base. “There was no thumb impression, nor any Iris on the applicant’s enrolment application. The permanent address provided was ‘Abbottabad, Mandal village in Bhilwara,’ our technical team in New Delhi found the anomalies highly suspicious and informed Rajasthan department of information and technology. I received a call from Jaipur office and immediately filed an FIR,” said Sanjay Aludia, department of IT’s Mandal circle programmer.
+ 
+ Based on Aludia’s complaint, the Mandal police filed a case against Mansrui under relevant sections of the IT Act. However, the cops said that they are yet to begin their investigation into the case as they are waiting for the IT department to share documentary evidence with them. “Once we have all the documents, the accused would be quizzed as to why he tried to get an Aadhaar in the name of dead terrorist,” Sankhla said.
+ 
+ “Mansuri claimed he is innocent as somebody else might have uploaded the enrolment details. However, the user id belonged to Mansuri and application could have only been uploaded under his supervision,” Aludia said.
+ 

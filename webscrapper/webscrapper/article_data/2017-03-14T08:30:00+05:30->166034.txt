@@ -1,0 +1,16 @@
+BENGALURU: Soon, taking a selfie will be a part and parcel of  . But it’ll be the drivers who have to click themselves. 
+
+ In a new addition to its safety features, cab aggregator Uber has rolled-out a real-time ID check that prompts drivers to share a selfie before going online. A release from Uber on Monday said this will help ensure the driver using the app is the same as the one the company has in its records. Uber officials say the security feature, which uses  , will be effective in protecting both riders and drivers.
+ 
+ The security feature was launched on Monday in five Indian cities -- New Delhi, Mumbai, Bengaluru, Hyderabad and Kolkata. Officials said it’ll be introduced in other cities subsequently. The idea is to prevent fraud and protect drivers’ accounts from being compromised. It also protects riders by building another layer of accountability into the app to ensure the right person is at the wheel. 
+ 
+ “We believe this new initiative will go a long way in keeping our riders and drivers safe, and our rides reliable,” said  , chief security officer of Uber. 
+ 
+ “When a driver accepts a request, his or her first name, photo, licence plate number, and rating will be shown to the person being picked up. In addition, the driver can see the first name and rating of the passenger. Drivers and riders can contact each other through the app if there is any confusion about pick-up details,” said the release. The technology involves verification of the driver-partners too. The company claims that it has a zero-tolerance policy towards any abusive behaviour on its platform.
+ 
+ “In addition, we are equally conscious about recruiting driver-partners with valid documents, after a comprehensive background check and a mandatory soft-skill training that enables them to offer riders a great experience,” said Sullivan.
+ 
+ When riders enter their destination on the app, drivers will automatically receive turn-by-turn directions (navigation) on their app, making the ride more comfortable for both parties. Riders can also see their route live on a map on the app, and know if they are headed the right way. 
+ 
+ Further, riders can easily share their ride details, including the route and estimated travel time, with friends or family. These people will receive a link where they can see the name and photo of the driver, the vehicle, and the trip route live on the map, and all of this will be possible even if they don’t have the Uber app on their phone. There is also an SOS function, known as the ‘emergency button’, using which riders can directly connect with the police control room and the internal response team of Uber.
+ 
