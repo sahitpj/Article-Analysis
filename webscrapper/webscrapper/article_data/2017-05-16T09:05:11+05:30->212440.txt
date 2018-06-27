@@ -1,0 +1,17 @@
+MUMBAI: The ripple effect of the   ransomware cyberattack that has affected computers in approximately 100 countries worldwide became visible in Mumbai on the first day of the working week. Banks, government departments and   houses issued messages of caution and reinforced their online security. However, business was not affected as India appeared to be largely insulated from the malware affliction.
+
+ The RBI has asked banks to operationalize their ATM networks only after software updates are installed. 
+ 
+ The social network was abuzz with talk that   in Bandra, Andheri, Santacruz, Vashi and Thane were not functional. However, bankers said this was likely because the machines had run out of cash. “In any case, since demonetisation, the flow of cash at ATMs is not what it used to be,” said businessman Ashit Desai who lives near Diamond Garden.
+ 
+ Corporate houses urged employees to back up their data and refrain from opening unfamiliar file attachments. “We are also urging all Windows users to install software upgrades and firewalls,” said the I-T head of a media group headquartered in south Mumbai.
+ 
+ FMCG companies Marico and Godrej Industries issued advisories to employees, asking them to guard against the malware. A Marico spokesperson said, “While we have not been impacted, we have proactively issued an advisory to employees and distributors.”
+ 
+ The broking and mutual fund industries remained insulated from any loss from the malware attack, said top officials from the two industries. “All exchange operations went on normally. There were no reports of any specific case of attack from the brokerage industry. Trading volumes were also normal,” said Ashishkumar Chauhan, MD & CEO,  .
+ 
+ Meanwhile, the BMC’s I-T department undertook preventive measures. A senior civic official said, “We kept the internet system switched off from noon till evening as we were strengthening our security. Employees did most of the work offline.”
+ 
+ Yet, the problem may be more complex—and prolonged—than originally believed. US government officials as well as experts warned on Sunday that the effects of the malicious software could linger because “this code was cobbled together from many places and sources”. There are fears its new variant could affect computers around the globe as days wear on. Reports of new cases surfaced from Japan, South Korea and Taiwan over the weekend.
+ 
+ 

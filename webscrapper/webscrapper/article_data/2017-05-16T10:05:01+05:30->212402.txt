@@ -1,0 +1,14 @@
+LUCKNOW:   virus which infected computers in more than 150 countries has hit the state too. Owner of an automobile agency in Gorakhpur was asked to pay 300 US dollars to restore access to files stored on his personal computer.
+
+ Initiated last Friday, a group of hackers attacked the computer network worldwide by injecting a malicious   program WannaCry. It is believed that more than 250,000 computers were affected by the attack including the one belonging to 42-year-old Sandeep Kumar   a motorcycle dealer with a showroom-cum-service centre on  , opposite eye hospital in Gorakhpur. On accessing the system on Saturday morning, Vaishya came saw a pop-up on the computer screen.
+ 
+ “Initially, I ignored it and tried to reboot but the pop-up remained so I summoned my systems engineer who was aware of the global attack and disconnected the PC from the network immediately,” the businessman told the TOI on phone.
+ 
+ The machine compromised served as master computer through which accounting, billing, data monitoring, inventory cycle and other functions are maintained. A popular data management system AutoBoom was installed at the automobile dealership on the machine out of eight computers attached to the same network. The deadline to make payment ends to the hackers ended Monday midnight. 
+ 
+ Last Friday, hackers had infiltrated computers through a weak link in network defences. Through spear phishing attack, hackers forwarded email with malwares and prompted the users to download infected files.
+ 
+ In the pop-up, hackers provided an online postal code and directed him to make payments only in Bitcoin, the cryptocurrency not controlled by any financial body but used widely for online transactions.
+ 
+ After consulting local IT security experts, Vaishya on Monday approached   police with the complaint and screenshot of the ransom warning. Officer-in-charge of Cantt police station J B   said an FIR against unknown hackers had been registered on Monday under   section 384 (extortion) and IT Act. “We will take help of STF’s cyber wing for further investigation,” added Pandey.
+ 

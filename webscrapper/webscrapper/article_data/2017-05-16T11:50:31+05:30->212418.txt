@@ -1,0 +1,14 @@
+PUNE: The '  attack that has created a panic in over 150 countries appears to have   in Pune. 
+
+ While the Pune cybercrime cell has received no complaints since the outbreak of the attack, cyber security firms are inundated with phone calls from panicked individuals and companies worried about whether or not they were infected. 
+ 
+ At least two Pune-based students have reported that WannaCry has infected their computers, per  , chief investigator of SC Cyber Solutions. "WannaCry has spread panic among people. They're worried that they were already infected, or could be infected in the days to come. After RBI told banks to update software at ATMs, we have had people approaching us, telling us they used their cards at ATMs recently, and are now worried," she told TOI. 
+ 
+ Just in the last two days, Chawla received nearly 200 frightened enquiries. "I also received screenshots from two students. The screenshot displayed the typical WannaCry message that appears on infected computers. Both students were using a multiple Windows versions," said Chawla.
+ 
+ Sandip Gadiya, a cybercrime expert who assists police departments across India, received around 90 queries from harrowed users. The callers included corporates, individuals, entrepreneurs, start-ups, law enforcement agencies and government departments. "Though I have not come across actual reports of WannaCry infection, people have pushed the panic button. I have advised companies to take their servers offline, apart from making back-ups and mirror images of their servers," said Gadiya.
+ 
+ Ashay Rege, director of cyber security consultant Synclature, said, "Those already affected include two South Indian banks, two Delhi-based manufacturing companies, one manufacturing unit of an MNC, the corporate headquarters of a Mumbai-based conglomerate and a Mumbai-based FMCG maker. A total of 191 payment transactions have been confirmed, amounting to 29 Bitcoins (over $50,000), as per our investigations," said Rege.
+ 
+ Rege hailed the RBI's decision to shut down ATMs till the patch is applied, as more than 60% of the ATMs still run the Embedded Windows XP operating system.
+ 

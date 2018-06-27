@@ -1,0 +1,53 @@
+SINGAPORE/WASHINGTON: Asian governments and businesses reported some disruptions from the WannaCry   worm on Monday but cybersecurity experts 
+  as more employees turned on their computers and checked e-mails.
+
+ The ransomware that has locked up more than 200,000 computers in more than 150 countries has been mainly spread by e-mail, hitting factories, hospitals, shops and schools worldwide.
+ 
+ "Most of the attacks are arriving via e-mail, so there are many 'landmines' waiting in people's in-boxes," said Michael Gazeley, managing director of Network Box, a Hong Kong-based cybersecurity company.
+ 
+ 
+ 
+ Chinese state media said more than 29,000 institutions across China have been infected by the global"ransomware" cyberattack.
+ 
+  News Agency reports that by Saturday evening, 29,372 institutions had been infected along with hundreds of thousands of devices. It cited the Threat Intelligence Center of Qihoo 360, a Chinese internet security services company.
+ 
+ It says universities and educational institutions were among the hardest hit, numbering 4,341, or about 15 percent of internet protocol addresses attacked. Also affected were railway stations, mail delivery, gas stations, hospitals, office buildings, shopping malls and government services.
+ 
+ Xinhua said the system used by  's gas stations was attacked, meaning customers could not use their cards to pay. Most stations had recovered.
+ 
+ A spokesman for the Hong Kong Exchanges and Clearing, one of the region's biggest bourses, said all systems were so far working normally. "We remain highly vigilant," he said.
+ 
+ Companies have warned users and staff not to click on attachments or links. One school in South Korea barred its pupils from using the internet. Taiwan's government appeared to have escaped major infection, possibly because regulations there require all departments to install software updates as soon as they are available.
+ 
+ South Korea's presidential Blue House office said nine cases of ransomware were found in the country, but did not provide details on where the cyber attacks were discovered.
+ 
+ In Australia, Dan Tehan, the government minister responsible for cybersecurity, said just three businesses had been hit by the bug, despite worries of widespread infection. There were no reported cases in New Zealand.
+ 
+ 
+ 
+ 
+ Cyber security experts said the spread of the ransomware had slowed since its appearance on Friday but that the respite might only be brief.
+ 
+ For one thing, the attackers or copycat attackers may have developed new versions of the worm, although a 
+  who thwarted an earlier version of the worm told Reuters most of these reports had been proven false.
+ 
+ In Hong Kong, Gazeley said his team had found a new version of the worm that didn't use e-mail to lure victims.
+ 
+ Instead, it loaded scripts onto hacked websites where users who clicked on a malicious link would be infected directly. He said it was too early to tell how many websites had been affected.
+ 
+ Gazeley added that several major companies in Asia had been hit by the ransomware, but "the last thing they want to do is come out in public and admit it." He declined to elaborate.
+ 
+ In a blog post on Sunday,   President Brad Smith appeared to tacitly acknowledge what researchers had already widely concluded: The ransomware attack leveraged a 
+  , that leaked online in April.
+ 
+ The non-profit   research institute estimated that total losses would range in the hundreds of millions of dollars, but not exceed $1 billion.
+ 
+ Most victims were quickly able to recover infected systems with backups, said the group's chief economist, Scott Borg.
+ 
+ Infected computers appear to largely be out-of-date devices that organizations deemed not worth the price of upgrading or, in some cases, machines involved in manufacturing or hospital functions that proved too difficult to patch without possibly disrupting crucial operations, security experts said.
+ 
+ Microsoft released patches last month and on Friday to fix a vulnerability that allowed the worm to spread across networks, a rare and powerful feature that caused infections to surge on Friday.
+ 
+ 
+ 
+ 

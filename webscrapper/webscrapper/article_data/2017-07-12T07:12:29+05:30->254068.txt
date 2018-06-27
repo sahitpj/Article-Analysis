@@ -1,0 +1,24 @@
+BENGALURU: A   procedure for  , which involves scanning through the  , has come under  .
+While banks claim they cannot check mails without customers' consent, many people are crying foul citing invasion of privacy.
+ 
+  applied for an HDFC Regalia credit card on May 10. As part of the verification process, he received an SMS from the bank. The SMS had a Digital Identity Verification link. “I clicked on the link to complete the verification process only to realize it took me to the mobile page of Verifi.Me. This reques ted access to my personal email as part of the digital verification process,“ said Agarwal. He declined to continue further and contacted the bank's helpdesk.
+ 
+ The CV Raman Nagar resident with unblemished credit-payment history received a downgraded card last month only because he turned down the email-verification procedure.
+ 
+ Banks like HDFC and RBL (headquartered in Maharashtra) said the email verification procedure of clients through Verifi.Me, a Singapore-based financial online verification software, is “strictly optional“ and doesn't discriminate against clients who opt to go the traditional way -a bank agent physically verifying on the prospective client.
+ 
+ But the ground reality is different. The contract employees selling bank cards often don't elaborate on the email-verification process to customers even when the latter is technology-challenged. According to Neeraj Jha, head, corporate commu nications, HDFC, “This project is for a segment of customers deprived of bank finance because not sufficient information is available on them for credit appraisal.“
+ 
+ Asked on the privacy of clients in terms of email checks, Jha said it is done only on explicit consent and client privacy is paramount for the bank.
+ 
+ However, the cases of Agarwal and Rajiv Reddy , a data engineering professional with an IT giant in Bengaluru, tell a different story . Reddy said: “When I applied for a card, I was asked for email access for verification. As I work in IT and am aware of the repercussions of granting access to my personal emails to a third-party firm overseas, I refused to give access to my emails,“ said Reddy , who did receive a credit card through the alterative verification process. An RBL spokesperson said the voluntary email verification process was part of a pilot project with only 5% card customers, and the bank doesn't have direct access to customer emails.
+ 
+ An HDFC source said partnering with Verifi.Me was only to ascertain if the customer was a risk to the bank in the money-lending process. “As a one-time process, the third-party application monitors the types of emails sent and received by the customer through specific algorithms to arrive at a conclusion if a credit card needs to be sanctioned to him or her,“ added the executive.The bank said it doesn't have email access to customer accounts. Verifi.Me does.
+ 
+ Karthik Srinivasan, a Bengaluru-based communication professional who ran a campaign against illegal banking fee levied on customers, terms the verification process “completely absurd“. “It is illegal to check a customer's personal emails but the banks skirt the law with the fact that it is done with the customer's consent.Whether the verification process is thoroughly explained to the client is a big question,“ Srinivasan added.
+ 
+ 
+ 
+ 
+ A Verifi.Me statement said it accesses digital data of customers only after they give express consent. After that, they run algorithms on mails and provide results to the banks. “No data is captured if the customer has not provided the consent. The da ta accessed is not shared or stored,“ the statement added.
+ 

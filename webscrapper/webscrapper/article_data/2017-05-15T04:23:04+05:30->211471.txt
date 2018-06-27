@@ -1,0 +1,26 @@
+MUMBAI: The RBI has directed banks to operate their ATM networks only after machines receive a   update to protect them from a malware impacting systems across the world. 
+
+ The directive was in response to the   that took down computer systems across the world locking up critical data and demanding bitcoins as ransom for its release.
+ 
+ ATM machines are seen as being vulnerable since almost all of them run on Windows software. Also over 60% of the 2.25 lakh ATMs in the country run on the outdated Windows XP. 
+ 
+  has, however, issued a statement saying that it has developed and released a special update for Windows XP although this particular version of its operating system is no longer serviced by the company.
+ 
+ “RBI has asked banks to update specific Windows patches on ATMs urgently and not to operate ATM machines unless updates are in place,” said an official with a public sector bank. Banks have passed on the directive to their management service providers.
+ 
+ ATM operators, however, say that there is no threat to customer data on money. “The objective of ransomware is to shut down critical information in networks and prevent access to this data. 
+ 
+ In the case of ATMs there is no data stored in the machine. Neither is there storage of any kind of logic that will block transactions.
+ 
+ Even if a machine were to get affected it can be reformatted and put to use immediately," said Manohar Bhoi, president (technology) at   — a management services firm that handles ATMs for public sector banks.
+ 
+ Applying software patches is done by the vendors who supply the ATM. According to Bhoi, this can be done remotely and usually the vendors run their tests on the patch before an update. 
+ 
+ In India, 102 computer systems of the Andhra Pradesh police were hacked on Saturday and a   plant production was halted because of the malware. 
+ 
+ There have been rumors of some computer system two south-based banks being infected but there was no confirmation from RBI and none of the banks have reported the incident.
+ 
+ According to payment security specialist SISA’s associate VP Nitin Bhatnagar, the full impact would be known only on Monday since the attack happened on a weekend.
+ 
+ Meanwhile bitcoin wallets linked to the ransomware saw transactions worth $34,300 indicating that a small percentage of affected users were paying the ransom money.
+ 

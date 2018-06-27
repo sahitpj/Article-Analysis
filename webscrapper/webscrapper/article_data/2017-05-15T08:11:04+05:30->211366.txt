@@ -1,0 +1,30 @@
+LONDON/SINGAPORE/TORONTO: Friday’s “unprecedented” ransomware cyberattack has hit as many as 200,000 victims in over 150 countries,  , the head of   police agency   said on Sunday. He warned of possible fresh disruptions when workers switch on computers at the start of the working week.
+
+ Monday was expected to be a busy day, especially in Asia which may not have seen the worst of the impact yet, as companies and organisations turned on their computers.
+ 
+ “Expect to hear a lot more about this tomorrow (Monday) morning when users are back in their offices and might fall for phishing emails”, or other as yet unconfirmed ways the worm may propagate said Christian Karam, a Singapore-based security researcher. Targets both large and small have been hit.
+ 
+ The countries that were hit included India. Investigators are looking for those behind the hack that affected systems at banks, hospitals and government agencies globally, media reports said. 
+ 
+ Technical staff scrambled on Sunday to patch computers and restore infected ones.
+ 
+ The threat is “escalating” as cyber experts warned that another attack was imminent in coming days. Technical staff scrambled on Sunday to patch computers and restore infected ones.
+ 
+ Experts said the spread of the virus, dubbed  , which locked up more than 200,000 computers — had slowed, but the respite might only be brief. New versions of the worm are expected.
+ 
+ The infected computers are largely out-of-date devices that organisations deemed not worth the price of upgrading or, in some cases, machines involved in manufacturing or hospital functions that proved too difficult to patch without disrupting crucial operations. “The latest count is over 200,000 victims in 150 countries and many of those will be businesses, including large corporations,” said Rob Wainwright, the head of EU police agency Europol.
+ 
+ After infecting the computers, the virus displayed messages demanding a payment of $300 in Bitcoin in exchange for the locked files. 
+ 
+ Account addresses hardcoded into the WannaCry software code showed the attackers received $32,500 in anonymous bitcoin till Sunday, but that amount could rise as more victims rush to pay ransoms of $300 or more just one day before the deadline expires.
+ 
+ Organisations were discouraged from paying the ransom, as it was not guaranteed that access would be restored.
+ 
+ The virus exploits a vulnerability in Microsoft   XP software, first identified by the  . A security update was released by Microsoft in March to protect against the virus. However, many NHS trusts had not applied it.
+ 
+ Microsoft has now sent out patches for WindowsXP in an attempt to limit the damage.
+ 
+ The threat receded over the weekend after a British-based researcher, who tweets under @MalwareTechBlog, said he stumbled on a way to limit the worm’s spread by registering a web address to which he noticed the malware was trying to connect. 
+ 
+ However, researchers from three security firms dismissed reports that a new version of WannaCry had emerged.
+ 

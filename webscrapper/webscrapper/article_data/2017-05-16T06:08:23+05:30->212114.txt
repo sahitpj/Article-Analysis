@@ -1,0 +1,24 @@
+I access internet from my phone. Can the ransomware affect it?
+
+ Ransomware can affect it. According to analysis by security companies, a large number of android-based phones are vulnerable. If you are frequenting objectionable websites or using untrusted applications (not downloaded from Play Store) or are getting content through data sharing apps like Xender, you should always be careful. Don’t click on any pop-ups and check the app permissions before use. Uninstall any suspicious app.
+ 
+ How did the current phenomenon start? How does the ransomware ‘choose’ my PC?
+ 
+ It all started in March this year when a group of hackers found a vulnerability ‘ETERNALBLUE’ in the US’ National Security Agency ( ) database. The vulnerability suddenly exposed a large number of PCs in the world to exploits by pinpointing the computer hardware and software. Even as a security patch was released to counter it, the ransomware quickly infiltrated computer systems. In short, if your PC is part of a LAN or WAN, its vulnerability increases to such attacks.
+ 
+ How to ensure that my PC doesn’t get affected?
+ 
+ Be aware of your online activities for the time being. If you are on a shared network, ensure its security as even one affected PC can spread the malware. If it’s an isolated computer or laptop, ensure that it is updated with the latest patch released by  . Do not install any plugin or javascript from pop-ups during your web surfing. Do not open emails from unsolicited persons or even from known sources if you mark any anomaly like unusual subject or language.
+ 
+ Can anti-virus prevent ransomware?
+ 
+ Most good anti-virus computer protection software available today do have anti-ransomware embedded. Keep it up to date. However, it doesn’t guarantee foolproof protection.
+ 
+ What if I choose not to pay the ransom? Can I retrieve my data?
+ 
+ Decryption of data is not possible without the encryption key used by hackers. Until and unless some hacker lays hands on the key, it is difficult to retrieve the data. Efforts are already on to find solutions for the issue. But ransom should not be paid.
+ 
+ (As told by  , cyber crime expert)
+ 
+ Twitter handles such as @0xSpamTech and @m0rb are disseminating information about the cyber attack and the ransom collected on a regular basis. According to the handle, 217 persons had paid the ‘ransom’ as on Monday night, consisting of 32.46 bitcoins or USD $54,153 to free their computers from ransomware.
+ 

@@ -1,0 +1,8 @@
+LUCKNOW: Cyber police nabbed a chartered accountant on Monday for allegedly hacking the irrigation department website and tampering with tax filing of over 1,000 employees in its 40 divisions. The man arrested was  , a   resident. Police also recovered a mobile phone that   allegedly used for hacking. He was arrested from his house. 
+
+ Fredrick had been hired by the department for auditing but was removed from the job and not even paid for his services. He was arrested for tampering with the TDS of the department which is managed by the income tax department and is filed quarterly.
+ 
+ Cyber cell sub-inspector   said that Fredrick had hacked the TDS filing account of the department from its website (tdscpc.gov.in) and then reset its password. When the website, after resetting the password, asked for a mobile number, he allegedly gave his own and saved the data. On May 3, when executive engineer PK   tried to access the data, he couldn't. 
+ 
+ Singh then lodged an FIR at   police station. He said that Fredrick was incompetent and his auditing had errors. Fredrick was arrested under 66 IT Act, said police.
+ 

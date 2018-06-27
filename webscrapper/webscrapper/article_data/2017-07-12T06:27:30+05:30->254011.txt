@@ -1,0 +1,17 @@
+Cash is the dominant mode of payment for taxi rides for the leading appbased cab-hailing firms in India.   gets almost 65% of all payments in cash here, while only 30% rides are paid through the mobile wallet  , according to data shared with TOI by Superfly Insights, a San Francisco-based data analytics company .This is in complete contrast to the US and other developed markets.India was the first country where Uber enabled cash payments in a phased manner back in 2015. Uber's former CEO Travis Kalanick had told TOI last year in an interview that accepting cash in India was a very difficult decision to make as it was one of the non-negotiables for the company .
+
+ The taxi app's Indian rival Ola has always accepted cash as a payment and is also witnessing higher usage of this option. Data from Superfly Insights said that 51% of Ola riders paid through cash, while its own digital wallet   was used by 45%.The non-cash payments also include options such as debit and credit cards. Ola Money had a share of 54% in January while cash payments had a share of 45%. The higher numbers for digital payments is credited to demonetisation, which was announced in November last year.
+ 
+ The preponderance of cash transactions goes against the objective of cab-hailing apps to provide a seamless experience where a customer can simply walk away after a ride with the fare being automatically debited.Payment companies, howe ver, point out that this is similar to the experience of ecommerce in India where a large number of consumers continue to opt for cash-ondelivery despite debit cards becoming ubiquitous. They attribute this partly to customers wanting to retain control, and trust deficit concer ning grievance redressal mechanisms.
+ 
+ Jonathan Meiri, CEO of Superfly Insights, said, “In two of Uber's largest ridesharing battlefields -Brazil and India, with massive market opportunity -cash is (still) king.“ In Brazil, over 25% rides are paid for in cash. In India, Uber is also in final stages to join the latest digital platform Unified Payments Interface (UPI).
+ 
+ The India-specific data was corroborated with anonymised SMS panel of roughly 5 million users in India (1 million monthly active users). The analysis is as of rides in May .
+ 
+ While debit and credit cards are still small as a mode of payment, Ola is witnes sing growth in this segment.The home-grown company saw credit card payments go over 3% compared to less than a percentage point at the beginning of the year.
+ 
+ A spokesperson for Ola refused to comment on the story , while an Uber spokesperson said in an email that since demonetisation, there has been an uptick in   methods. “We are enthused by the recent moves of the government towards mainstreaming digital payments and are currently evaluating possibilities around a comprehensive UPI integration as we engage with the relevant stakeholders“. As a first step, Uber will offer riders the option to use their existing UPI IDs.
+ 
+ Satish Meena, an analyst at Forrester, said, “It is still some time for India to see non-cash payment methods ruling the charts. Also, the transaction sizes are smaller than a typical e-commerce ticket size. Digital payment methods saw an uptick during demonetisation but with adequate currency in market, cash has become the first option for payments.“
+ 
+ 

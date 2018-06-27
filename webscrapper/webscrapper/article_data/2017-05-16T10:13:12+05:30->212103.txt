@@ -1,0 +1,27 @@
+Mumbai: India is not isolated from the rising popularity of  , which got a boost post-demonetisation. According to industry sources, nearly 300-plus enthusiasts of the   trade daily on Indian bitcoin exchange platforms. Most of these platforms boast of user registrations of more than a lakh. Thus, many taxpayers in India need to understand the I-T nuances of their bitcoin transactions.
+
+ Curiosity prompted Rakesh M, a Bengaluru-based techie (identity changed), to make his first investment in bitcoins. He sold his investment during the financial year 2016-17 (year ending March 31, 2017) and earned a profit. The perplexing issue for him is: How should he treat the income on sale of the bitcoin for I-T purposes? As a salaried employee, he has to file his I-T return by July 31. The   ( ) has not yet issued any guidance. Tax authorities in many countries, such as the US, treat bitcoins a capital asset in hands of investors, with the sale resulting in a capital gain.
+ 
+ The I-T department can catch up if you try to evade tax on sale of bitcoins. Benson Samuel, co-founder,  , a trading platform for bitcoins in India, points out, “When you sell your bitcoins over an exchange such as Coinsecure, the money flows directly into your bank account. The transaction is completely transparent. Even though not obliged to do so, most bitcoin exchanges also adopt KYC norms for their customers.”
+ 
+ Bitcoins in India are unregulated but are not yet declared as illegal. However, the   has on occasion cautioned investors of inherent risks. An inter-disciplinary committee set up by the government is examining the framework of virtual currencies. “That said, even if bitcoins were illegal, income earned needs to be declared and tax paid,” says an I-T official.
+ 
+ Harshal Kamdar, tax partner,  , says, “Taxability of bitcoins is a nuanced issue and will depend on facts of each case. In the absence of CBDT guidelines, the logical conclusion is to treat profits on sale of bitcoins as ‘capital gains’, unless the person is in the business of trading bitcoins, in which case it would likely be ‘business income’. However, we have seen instances, where to be on the safe side, individuals have preferred to treat it as ‘income from other sources’ where the relevant slab rate of I-T applies, as opposed to a 20% tax with indexation (if applicable), on long-term capital gains”. 
+ 
+ Capital gains for a bitcoin investor
+ 
+ Nishith Desai, founder of an international law firm which is working closely with the bitcoin industry, says, “Given the wide nature of definition of capital assets under Section 2(14) of the I-T Act, the purchase of bitcoins, if it has been made for the purpose of investment, should be treated as a capital asset. Thus, any gains arising on transfer (ie: sale) should be characterised as capital gains.” (See illustration of I-T computation.)
+ 
+ Caution point: Short-term capital gains are taxed at the applicable I-T slab rate, which for those with a taxable income of more than Rs 10 lakh is 30% plus applicable surcharge and cess. On the other hand, long-term capital gains (LTCGs) attract a tax rate of only 20%. The time period for which an asset is held before its sale determines whether it is a long-term asset that is eligible for a lower rate of tax on sale. For equity, the holding period prescribed is just 12 months. “The period of holding of bitcoins should be like any other property. If they are held for three years or more, it should be considered long-term and if less than short-term,” says Desai.
+ 
+ Hot tip: Indexation benefit (which is an adjustment to account for inflation for the period between purchase and sale of a capital asset) can be availed of. This would reduce the total tax outgo on capital gains. A   (CII) figure is issued by the CBDT each year and the prescribed formula is to be followed. 
+ 
+ Business income for a bitcoin trader
+ 
+ It may be a bit perplexing to understand whether one would be regarded as an investor or trader. Desai points out, “The CBDT has in the past issued a circular (4/2007) which, after taking into consideration various judicial precedents, has set out various tests to determine whether shares are held as investment or stock in trade. The same parameters can also be applied to bitcoins.”
+ 
+ For instance, if the transactions in bitcoins are substantial and frequent, it could be said that the individual is trading in bitcoins. In this case, income on sale of bitcoins would be a business income, to which the applicable slab rate of   would apply. Thus, for those having a taxable income of more than Rs 10 lakh (including on bitcoin sales) the applicable tax slab rate of 30% plus surcharge and cess is higher than the tax rate of 20% on LTCGs.
+ 
+ There is also an additional catch. If you haven’t paid any advance tax on income from your bitcoin transactions, it’s likely that penal interest will be levied.
+ 
+ 

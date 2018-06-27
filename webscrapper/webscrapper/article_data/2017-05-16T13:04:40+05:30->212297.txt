@@ -1,0 +1,16 @@
+KOZHIKODE: The   computer malware, which has affected over 2,00,000   across the globe and left countries on the edge, has hit computer systems in four districts of Kerala.
+
+ At least four computers of the Thariyode grama   in   were hit in the first WannaCry ransomware attack reported in the state on Monday morning. Kerala State IT Mission said that a similar attack was reported from Aruvapulam panchayat in   district. Thrissur district authorities confirmed that computers in two panchayats – Kuzhoor and Annamanada – became dysfunctional on Monday. A similar attack was also reported in grama panchayat of   too.
+ 
+ Thariyode panchayat president Reena Sunil said that the computers were affected on Friday evening and officials only realized that it was part of the crippling global cyberattack only on Monday morning when the staff switched on their systems after weekend holidays.
+ 
+ Padinjarathara police have registered a case under section 43 of IT Act on the basis of complaint from the panchayat secretary. Wayanad police chief Rajpal Meena, who visited the panchayat office, said that the police will collect details and hand it over to the cyber cell for further investigation, if required.
+ 
+ The affected computers displayed a pop-up message that demanded a payment of $300 in Bitcoin by Monday. If the payment failed, all files would be deleted by May 19. All four systems affected by ransomware were running on Windows 7.
+ 
+ “The data entry staff had reported the cyberattack on Friday evening, but we didn't realize that it was part of the global cyberattack. The employee who came to the office on Monday found that Microsoft Word and MS Office files in the system were locked and inaccessible," she said.
+ 
+ Reena said that they had not lost any sensitive data in the cyberattack as they had backed up all files. “The encrypted files are mainly correspondence files and we had a back of the same. So it won’t affect the functioning of the panchayat,” she added.
+ 
+ State IT Mission director Keshvendra Kumar said that the affected computers have been isolated and teams were formed to handle the problem, including recovery of files. Kumar said that the district-level teams were taking precautionary measures to protect computer networks, including Windows software update and blocking some ports. We had asked the technical staff to take the back up of data in vulnerable computers, he added.
+ 

@@ -1,0 +1,21 @@
+NEW DELHI: The government on Monday said there was no major impact of global ransomware ' ' attack in India, with only a few isolated cases reported in   and  .
+
+ "As per our...information, there have been some isolated cases in limited areas of Andhra Pradesh and Kerala. The NIC ( ) systems (owned and run by the government) are okay. Precautionary measures are being taken for security of other systems as well," IT minister   told reporters outside the home ministry's North Block office here.
+ Sources said initial reports pointed to 18 computers being affected in Andhra Pradesh. None of these belonged to any government department. 
+ 
+ Claiming that IT ministry and its agencies had initiated a drive to install patch security software in March itself, Prasad said cyber systems were being updated ever since to stonewall any cyber attack from any quarter and advisories sent to all bodies to undertake cyber audits.
+ 
+ "We have also been coordinating with the banking system to reinforce their (cyber security) architecture," he said adding that all these steps helped to minimise effect of the   that has badly hit countries across the globe.
+ 
+ "I am satisfied that there has been no major impact in India. Our preparation, coordination and monitoring was in place.
+ Still, IT and other related departments are watching the situation," said Prasad.
+ 
+ "I want to assure the country that we are doing our best and India is an important digital power," he stated.
+ 
+ The minister said he had held meetings on Sunday as well as Monday morning to review the threat from ransomware in consultation with experts from CERT-In.
+ 
+ "Government of India is keeping a strong watch...The whole idea is to ensure that these attacks in India can be addressed in an effective manner," said Prasad.
+ 
+ Also, as a larger plan to strengthen cyber security architecture of the country, the government plans to operationalise the cyber coordination centre by June end, with CERT-In remaining in charge of security of financial systems. "We have created BOTNET that immediately cleans up malware. We have sent advisories to all to undertake cyber security drills and audits for time to time," said Prasad.
+ 
+ 

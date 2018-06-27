@@ -1,0 +1,25 @@
+PUNE:   care has fielded more than 700 calls from across the country to deal with computers  
+Most of the callers were from companies trying in vain to   and locked computers. Unfortunately , the Pune-based antivirus service provider could do little to help.
+ 
+ “The top five cities in India affected by WannaCry are Kolkata, Delhi, Bhubaneshwar, Pune, and Mumbai. The top five states with the highest number of infections are West Bengal, Maharashtra, Gujarat, Delhi-NCR, and Odisha,“ the company said in a statement.
+ 
+ The Pune-based listed entity has managed to block over 48,000 attempts at infection at the gateway level, since the outbreak on Friday .
+ 
+ The company says it has about 30% retail market share in the country's anti-virus market with about 6.6 million active retail licenses as on March 2017. “We are getting calls from all over the country from the education sector, banks, manufacturing entities, hospitals and the service sector,“ Quickheal co-founder Sanjay Katkar told TOI.
+ 
+ By Friday evening, Katkar said, there were 400 unique samples of the ransomware, and 30 unique variants globally .
+ 
+ An April 2017 report on Internet security threat cyber security firm Symantec showed that India was among the most heavily-infected countries, with 4% (or over 18,000) global ransomware infections in 2016.
+ 
+ The report said the number of new ransomware branches more than tripled worldwide to 101 in 2016. However, the number of new variants fell in 2016, indicating that syber attackers are choosing to start afresh by creating new families of the WannaCry virus to avoid detection.
+ 
+ Over 69% of the infections in 2016 were on personal computers, while the rest was in enterprises.
+ 
+ The latest ransomware attack that affected at least two lakh systems worldwide has targeted enterprises more than individuals.
+ 
+ “Around 60% of the attempted attacks by WannaCry were aimed at enterprises, and 40% at individual customers,“ Quickheal said in a late-evening statement.
+ 
+ A Norton Cyber Security Insights report, based on a survey of over 1,000 Indians in November 2016, said, “ Around 83% of those (in India) who have experienced ransomware did so in the past one year alone, indicating a steady rise of this menace. About 27% of these victims actually paid the ransom to gain access to their files. Proving that paying the ransom is no guarantee, 26% of those who paid the ransom could not retrieve their files.“
+ 
+ It is possible that the extent of the damage is not known yet.“Symantec telemetry indicates that WannaCry activity peaked at around 2pm GMT (7.30pm IST) on May12th,“ the company said in a tweet.
+ 

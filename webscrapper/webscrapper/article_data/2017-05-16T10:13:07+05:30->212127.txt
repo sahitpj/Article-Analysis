@@ -1,0 +1,23 @@
+Ahmedabad/Surat/Vadodara/Rajkot: Officials in the government of   (GoG) on Monday confirmed that more than more than 120 government personal computers (PCs) were affected by the ransomware ‘Wannacry’ or ‘Wannacrypt’ as of Monday evening. While experts put the number of affected private companies at more than 100, no companies have come forward to report the attack in Gujarat.
+
+ Monday was a critical day for IT services in government and private organizations as computer systems and networks were scanned thoroughly for malware. Agencies such as the state crime records bureau (SCRB) and department of science and technology ( ) issued advisories for police and government networks, respectively.
+ 
+ Dhananjay Dwivedi, secretary, DST, said that as on Monday evening, they had received 120 complaints. “This figure includes incidents reported in Ahmedabad, Bhavnagar, Rajkot, Vadodara, Surat and other districts. Attacks were reported on systems of Ahmedabad city police and Asarwa Civil Hospital. However, government functioning has not been affected,” he said.
+ 
+ Dwivedi added that a meeting was convened on Saturday, to assess the threat and discuss steps to ensure the safety of Gujarat State Wide Area Network (GSWAN), the state data centre and government websites. We took down GSWAN on Saturday afternoon and restarted operations on Sunday morning as a precaution. About 60,000 computers have anti-virus software and security features. A few locally connected computers are under threat. We have issued an advisory to all government offices,” said Dwivedi.
+ 
+ All parts of the state have been affected by the attack. While the RTO in   was not functional, the labour commissioner and horticulture department office computers were reported to have been affected by the malware. In  , 11 computers of the police department were found to be infected whereas in Vadodara, a Jan Sewa Kendra was hit.
+ 
+ Ashok Kumar Yadav, SP, SCRB, said stock-taking is under way to ascertain the scale of the damage to computer systems and an advisory has been issued for the police department, asking users to install a security patch and upgrade the system after taking it off the grid. “We can’t ascertain the full scale of the problem and the amount of data lost at the moment,” he said.
+ 
+ Private players shy about reporting attacks
+ 
+ Vinayak Godse, director (data protection) of Data Security Council of India (DSCI), said that few corporate houses or private business establishments have come forth to report the cyber attack. “The reason may be to maintain secrecy. We are assessing the threat and scale of the attack on Indian systems. Cert-In has already issued an advisory for data protection,” he said.
+ 
+ Rakesh Patel, CEO of an Ahmedabad-based IT firm, said that the sector has taken precautions in response to the attack on Monday morning. “We took our entire system off the internet and conducted a thorough check. We have already blocked email access, except on a secure network and have backed up data. Paying the ransom is not a feasible option,” he said.
+ 
+ Cyber security experts said that in 2015, three Ahmedabad firms had faced a similar attack but had refused to cow down. The sectors most affected according to experts are BPOs, hospitals, car dealerships, restaurants, stock trading firms and tech startups. They said that many are taking a wait-and-watch approach and hope that security experts will find a solution within the six-day payment deadline.
+ 
+ Vadodara-based computer security expert Manan Shah said he received calls from around 15 firms. “These include two call centres, one hospital and four private companies that are either based in Vadodara or have local operations,” he said. Shah said the threat may not be over yet. “WannaCry 2.0 has already arrived. The kill switch developed by security researchers has just slowed down the infection rate,” he said.
+ 
+ 

@@ -1,0 +1,13 @@
+BENGALURU: Precautionary measures like installation of the latest   and adherence to advisories from the   have helped   stay insulated from WannaCry, the   that has caused havoc since Friday.
+
+ Bank staff worked overtime on Saturday and Sunday to secure their systems. Even ATMs remained unaffected. “We were quick to respond. As soon as we received the alert, we decided to work over the weekend. As a result, business at bank branches and ATMs in the state remained normal on Monday,” MM Chiniwar, general manager of Canara Bank, Bengaluru Circle, told TOI.
+ 
+ The   (CERT-In), a nodal agency, issued a critical alert on Sunday to all organizations, including banks, asking them to take precautionary measures against the ransomware.
+ 
+ The ransomware has taken over thousands of systems across the world — locking them down and demanding a ‘ransom’. Systems using Windows XP have been the worst affected. 
+ 
+ As the malware was expected to encrypt the hardware disk of a computer before spreading to other systems on the local area network (LAN), banks were asked to instal the latest antivirus patches.
+ 
+ A senior official in the IT department of State Bank of India said the antivirus was centrally installed in the bank’s headquarters in Mumbai and all 3,300 ATMs in   were safe. However, some of the ATMs are not dispensing cash, thanks to the shortage of supply, which has nothing to do with the malware, officials said.
+ 
+ 

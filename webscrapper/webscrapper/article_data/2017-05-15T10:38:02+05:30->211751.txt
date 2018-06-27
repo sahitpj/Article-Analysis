@@ -1,0 +1,22 @@
+AURANGABAD: The Maharashtra   have started taking precautionary measures and alerted cybercrime sleuths a day after several computers of their Andhra Pradesh counterparts were hit by the  .
+
+ “So far, none of the computers belonging to the state police has been affected. Appropriate measures are being taken,” Maharashtra director general of police Satishchandra Mathur told TOI on Sunday. 
+ 
+ Governments, companies and security experts from China to Britain on Saturday raced to contain the fallout from an audacious global cyberattack amid fears that if they do not succeed, companies will lose their data unless they meet ransom demands.
+ 
+ The global efforts come less than a day after malicious software, transmitted via email and stolen from the American National Security Agency, exposed vulnerabilities in computer systems in almost 100 countries in one of the largest “ransomware” attacks on record.
+ 
+ India was among the 99 countries affected by a global cyberattack that took down health services in the UK, a telecom network in Spain, and government computer systems in Russia this weekend. As many as 102 computer systems of the Andhra Pradesh police were hacked on Saturday. 
+ 
+ “This wannacry ransomware is gaining entry into the systems through porn sites and also while downloading files received from unknown and unverified sources,” a senior police officer said here. 
+ 
+ Cybercrime branch sleuths across the state have been put on an alert. The sleuths in Aurangabad said in the past three days, no case of ransomware has been reported from any government or private set-ups 
+ 
+ Aurangabad commissioner of police   said, “We are taking appropriate precautions within our jurisdiction. I appeal to both commercial and private set-ups not to download any file received from unknown source.”
+ 
+ Yadav, who specialises in investigation and detection of cybercrimes, said once a system comes under the attack of ransomware, the entire data in the computer or the network get encrypted and the attackers demand for a ransom in return of releasing the data.
+ 
+ In 2016, some systems belonging to Waluj-based industries had come under attack from such ransomwares. But at that point, the intensity of the attack was not this grave.
+ 
+ Masood Kadri of IT Labs said, “There is an increase in the number of complaints about systems getting infected by these ransomwares during the past couple of years. There are firms in the city which had to format their systems when they preferred not to pay ransom to these hackers.” 
+ 

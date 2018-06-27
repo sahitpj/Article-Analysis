@@ -1,0 +1,16 @@
+AHMEDABAD: While ‘Wannacry’ or ‘Wannacrypt’ ransomware has affected computer systems in over 100 countries including India, experts suspect that some systems in Gujarat, too, have been affected. However, a clearer picture would emerge on Monday, when the businesses would start after the weekend, they added.
+
+ A   based in Ahmedabad said that a few call centre networks and a hospital chain are suspected to have been affected by the ransomware. No official word, however, was out as on Sunday evening. 
+ 
+  
+  
+ Meanwhile on Sunday, the state government’s   (GSWAN) was taken down for a few hours as a precautionary measure during which experts scanned the system for presence of malware. A number of IT firms also took stock on Sunday to ascertain whether there was any cyber attack on the state-based servers. 
+ 
+ A day after the attack, the   (GFSU) formed a team to look at possible solutions to the issue.
+ 
+  Dr  , assistant professor, GFSU, said that researchers from the university have worked with earlier versions of the ransomware and were successful in retrieving data in a number of instances. 
+ 
+ “The ransomware doesn’t exploit vulnerabilities in the way malware does. Instead, it encrypts the whole data on computer system and it cannot be accessed without an encryption key,” said Rughani.
+ 
+ “Due to better   and changing algorithms, without proper knowledge, it can take years to crack the key,” he said. GFSU is planning to come out with an advisory on the issue soon.
+ 

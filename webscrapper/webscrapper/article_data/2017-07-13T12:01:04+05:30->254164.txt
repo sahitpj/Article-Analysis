@@ -1,0 +1,12 @@
+BENGALURU: In order to cater to specific tracking requirements of launch vehicles and post-launch activity,  , Tracking and Command Network ( ), Bengaluru, has designed and developed a 4.6-metre Ship Borne Transportable (SBT) Antenna Terminal that meets the launch vehicle telemetry, tracking and command (TTC) requirements.
+
+ Istrac is entrusted with the responsibility of providing tracking support for all satellite and launch vehicle missions of Isro, besides being mandated to provide space operations support for  .
+ 
+ “For supporting Deep Space Missions, a large number of ground stations are required to provide   (TTC) support during the launch and initial phase. Based on the launch vehicle trajectory and visibility requirement, many a time TTC stations are to be located mid-sea, where conventional Ground Station Antenna are not suitable,“   said in a statement.
+ 
+ It was in this backdrop that Istrac developed a 4.6 metre SBT antenna terminal that meets the launch vehicle TTC requirements.
+ 
+ “The SBT Antenna system consists of 3-axis antenna mount, a motion simulator, reflector and feed, servo control systems and radio frequency electronics. Mechanical Systems Area (MSA) of Istrac made a detailed study of the technical requirements, availability of similar systems internationally and derived state-of-the-art specifications,“ Isro added.
+ 
+ The final system performance and validation was carried out by a sea trial. The antenna system was integrated on Sagar Manjusha Ship hired by the National Institute of Ocean Technology (NIOT). The ship was stationed at a specified observation point in Bay of Bengal and has successfully tracked the PSLV-C38 launch vehicle.
+ 

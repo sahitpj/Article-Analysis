@@ -1,0 +1,15 @@
+When Nilanjan Dey logged into the computer on Monday, he looked anxious. It wasn't the usual Monday morning blues. There was something sinister hanging in the air. The director of financial advisory firm   had been bombarded by ominous messages of a probable strike by ransomware  , an attack that had crippled over a lakh computers worldwide.
+“It was an anxiety-filled Sunday as I followed news of ramsomware attacks that was creating havoc everywhere. On Monday, I was extremely jittery and prayed all was fine while switching on my terminal. I was so relieved to find it functioning as usual. For a wealth manager, the system is all the more critical because it stores crucial financial details. If it falls into wrong hands, clients can be ruined,“ said Dey.
+ 
+ At other corporate offices, the IT department chiefs briefed the staff and armed them with a list of dos and don'ts.“We all dreaded what would happen once we switched on the terminal. WannaCry has driven fear into us. I deleted any mail that came from a stranger. After what's been happening, there is no taking chances,“ said Anirban Bhattacharya, a techie.
+ 
+ Describing the   attack as a very sophisticated one, a corporate advisory firm has said that in case of being attacked the first step should be “not paying any ransom“. That is what Kolkata Police has also said in an advisory . The company has even told its staff not to take any back-up of files stored in the computer and simply shut it down and immediately report the matter.
+ 
+ Not just IT firms, even corporates like ITC, Luxmi Group, Patton, TT Ltd and Tega India spent considerable time on Monday reinforcing its IT systems. Though conglomerate ITC has a high level of firewall, it has taken further pre-emptive steps. Rudra Chatterjee of Luxmi group said the IT department advised extreme caution to employees. Ditto at Tega India and Patton.
+ 
+ As   partner Shree Parthasarathy pointed out, Wannacry was a wake-up call to enterprises and individuals of the need for better cyber security . “The sophistication of ransomware marks a paradigm shift in the cybercrime ecosystem,“ he remarked.
+ 
+ Cyber security experts sense the need to evolve to ke ep pace with the rapidly changing threat landscape.“The current geo-politics make India a potential target.Wannacry is just the tip of the iceberg,“ said a top cyber security executive of an IT firm in Kolkata.
+ 
+ Kartik Shinde, partner (cyber security) of Earnst & Young said that organisations were trying to block any such attack at the perimetre level.They have a number of settings for the email gateway.
+ 

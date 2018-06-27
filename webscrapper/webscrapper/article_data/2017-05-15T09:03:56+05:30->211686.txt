@@ -1,0 +1,9 @@
+HYDERABAD: A data application developed to help farmers decide the best time to sell their produce in face of high fluctuation in crop prices has won the two-day long   ‘ICT4D Data Jam’, which was held at ICRISAT’s ihub on May 12. While data entrepreneurs, data analysts, IT professionals and academics competed to find solutions on how technology can better address the development challenges – the winning team - Time2Sell - who developed a   completed preliminary development of a price prediction API which aims to help the farmer decide when to sell.
+
+ Also, customized instalment sales plans for farmers based on their existing loans, interests, quantity of crop are among the key features. 
+ 
+ Time2Sell also proposed that the service offer storage solutions to farmers who don’t have the luxury of staggering their movement of goods to market, but wish to choose an instalment sales strategy. 
+ 
+ The second place was secured by team AgriBarT, who developed a dynamic group formation   that enables collective bargaining for small scale farmers. The team built a prototype to identify farmers with similar purchase requirements, demographics, geographies and historical cropping patterns. The app will empower farmers to gain benefits through bulk ordering in the shared economy.
+ 
+ 

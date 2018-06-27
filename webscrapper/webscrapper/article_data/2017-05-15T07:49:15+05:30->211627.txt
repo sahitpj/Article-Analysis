@@ -1,0 +1,14 @@
+HYDERABAD: Telangana may have insulated itself from unprecedented cyberattacks across the globe and other parts of India, but the state government’s biggest portal —   — is sitting duck to ransomware. This crucial portal hosts over 34 lakh monthly transactions of government departments.
+
+ Official sources told TOI that Hyderabad-based E2 Labs Cyber Security Academy, that trained several federal governments and key institutions in the country like  , CRPF, BSF and NPA in web penetration and web application security, had alerted IT department several times on its vulnerabilities.
+ 
+ Academy’s findings are shocking — the entire data on the website, including passport details and tax filings can be leaked and altered. This was confirmed to TOI by E2 Labs. “This was a chance discovery by our amateur hackers who were trying to make a bill payment for   internet through Mee Seva. While surfing the site, we found the interface not fortified and obsolete. We had doubts about portal’s security and we ran a basic security test and a bug popped up,” said  , chief executive officer, E2 Labs.
+ 
+ The security bug, he went on to explain, leaves the entire information on G2C (government to citizen) and B2C (business to citizen) services, along with transaction details, visible. These include passport files with names and telephone numbers. “The bug can expose sensitive data of the application. All transaction details along with credit card numbers can be extracted. We immediately decided to halt payments through this portal. A knee-jerk action is necessary to plug vulnerabilities and protect Mee Seva from high-impact fraud, theft or leak,” he said.
+ 
+ While government authorities did not deny the portal was vulnerable to cyberattacks, they stressed there are security measures in place.
+ 
+ Speaking to TOI, information technology (IT) authorities too admitted receiving an alert a month back. “We informed our application team,” said Mustafa Shake, deputy director (infrastructure), IT department. While an update on action taken wasn’t known, he stressed security audits are run every three months. 
+ 
+ “Every three months, a security audit is done by empanelled agencies of   (CERT) under ministry of electronics and information technology. We also have firewall, intrusion protection systems apart from continuously monitoring network and applications. However, vulnerabilities keep cropping up. We are taking the alert seriously,” said the official.
+ 

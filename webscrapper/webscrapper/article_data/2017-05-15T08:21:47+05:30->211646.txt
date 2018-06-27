@@ -1,0 +1,12 @@
+HYDERABAD: Roughly 48 hours after computers used by police in the neighbouring Andhra Pradesh were reportedly compromised in the worldwide   attack, the Hyderabad police have begun revamping their computer network. 
+
+ As part of its effort to protect its computer network, the city police have begun downloading the latest safety patch for its software. “Our computer network has a three-layer security, which is not easy to breach. It entails a firewall, kill-switch and anti-virus system. If there is any attack on our systems, we will hit the kill-switch and delete everything from our database, which has a back-up in place,” assistant commissioner of police ( ) cyber crime, KCS   said.
+ 
+ Over the last two days, 19 computers belonging to the AP police had their hard-disk drives encrypted by a malware identified as Wannacry or Wannacrypt. According to cyber security experts, the hard disk of the infected system was encrypted from a remote location and to decrypt the system, the hackers demanded a ransom ranging from $300 to $600 in Bitcoins. 
+ 
+ “This malware is spreading widely and primarily targets computers using older versions of Windows rather than   or iOS operating system. It attacks a primary target first and then spreads to other systems connected to the infected computer via local area network (LAN),” Altaf Halde, managing director Kaspersky Lab ( ), told TOI. 
+ 
+ “We have seen that the malware spreads via e-mail. The hackers learn about victim’s profession through his browsing history and cache memory. Then, they send a mail indicating the receiver has won some award or has been called to attend a high-profile meet. When they download the attachment in the mail, their system is compromised,” the ACP said. 
+ 
+ According to an advisory issued by the   (CERT-In), the malicious attachments come with file extensions including .lay6, .sqlite3, .sqlitedb, .accdb, .java and one of the most common one .docx. The CERT-In asked users to verify the sender and open only if it is from a known source. 
+ 

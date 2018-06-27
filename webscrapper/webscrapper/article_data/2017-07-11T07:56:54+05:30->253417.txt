@@ -1,0 +1,15 @@
+CHENNAI: When a   of the   disappeared off the   in June 2015, an indigenously developed software run on supercomputers was one of the tools that gave vital information and aided in the search and rescue operations. Now, the software can be run on a mobile phone to search and rescue stranded fishermen.
+
+ A mobile   version of the software ‘Search And Rescue Aaided Tool’ (SARAT), developed by Indian National Centre for Ocean Information Services (INCOIS), Hyderabad, was launched on Monday at the 16th National Maritime Search and Rescue board meeting in New Delhi.
+ 
+ Head of Ocean Science and Information Group, INCOIS, T M Balakrishnan Nair said the app can assist in searching for more than 64 types of missing objects such as boats, ships and man-overboard. The mobile phone version of the software, which took five years to develop, is at present available for android phones and can be downloaded from Google Play Store. The app is available in nine coastal languages.
+ 
+ “Anyone within 10km distance from the coast, where you would get mobile network, can use the app. It will be particularly useful for fishermen, who have the capability to get anywhere in the sea where the coast guard or the Navy cannot,” Nair said. INCOIS will join hands with the Coast Guard to train fishermen on the app.
+ 
+ The app requires certain basic details of the missing object to provide a probable location to start search and rescue operations. It includes last seen location of the person or object or select a nearby coastal area and approximate distance travelled from the coast.
+ 
+ The app, connected to the supercomputers which have ocean weather database, through servers at INCOIS, will generate probable search area for five days in the form of a map and a text message. The agency or fisherman involved in the search operations can share his GPS location in the app to calculate the closest route to easily reach the search area. 
+ 
+ INCOIS scientists said the best way to use the app is to run it while still on land and then download the generated probable search area in PDF form before beginning the operations. “The accuracy of the app has been validated using network of drifting buoys and other instruments,” scientists said. Work is underway to integrate the app with INSAT for improved real-time transmission and relay of information.
+ 
+ 

@@ -1,0 +1,8 @@
+KOLKATA: Computers in at least three locations in   came under the ransomware attack that has crippled over 1,00,000 computers in more than 150 countries. The attack was, however, contained at two customer service centres of state power distribution utility WBSEDCL in West Midnapore and a school in Malda. 
+
+ Alarmed by the development, state IT secretary Kris- hna Gupta has convened an emergency meeting on May 17 to discuss measures against such threats in future.
+ 
+ "Around 10 computers in two of our customer service centres were hit by the ransomware ' ' that is creating havoc worldwide. The attack took place on Saturday. The affected PCs did not have the security patch needed to ward off the threat. The disruption caused was local and temporary. It did not affect power distribution, customer data or commercial operations," said   managing director Rajesh Pandey.
+ 
+  WBSEDCL offices in   and Narayanpur could not accept payments or file com-plaints on Monday as the five computers in each centre were hit. The ominous message on PC screens read: "Don't waste your time as nobody can recover your files without our decryption services... You can decrypt some of the files for free... but if you want to decrypt all of your files, you need to pay." The demand was for $300 in bitcoins. 
+ 

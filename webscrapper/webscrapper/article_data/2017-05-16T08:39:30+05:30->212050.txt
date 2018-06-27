@@ -1,0 +1,13 @@
+Hyderabad: With   ‘Wannacry’ hitting over 10,000 organizations in 150 countries, companies across sectors in the city have been scrambling over the weekend to check and crosscheck their preparedness levels. They now want to work towards strengthening their security systems further to shield their organisations from such cyber-attacks in the future.
+
+ “Since the outbreak of Wannacry on Friday, we have spent the weekend rechecking all our systems to ensure that all the patch levels are adequate. The patch was released by Microsoft in March … we did apply it towards early April. We were covered but we wanted to recheck … but it has given us a perspective that if something like this actually breaks out, our internal response mechanisms need to be better and more coordinated globally,” said Gaurav Kataria, chief information officer, Cyient Limited.
+ 
+ Kataria pointed out that the recent cyber attack has made companies realise that merely having an anti-virus in place is not enough and a multiple-pronged strategy is needed to stay safe.
+ 
+ While many organisations in the city as well as country are still busy trying to figure out where they stand with respect to the current crisis, Shree Parthasarathy, partner, Deloitte Touche Tohmatsu India LLP said, “Many organizations do not have the resources to conduct such a review…Organizations’ cyber security programmes need to evolve to keep pace with the evolving threat landscape and should have the ability to timely patch systems and detect such suspicious communications. Unfortunately, the cyber security at enterprises are not mature enough to timely detect, prevent and respond to these threats.”
+ 
+ Burgess Cooper, Partner – Cyber Security at EY said that despite investments in high-end security products, the cyber-breach prevention, detection and incident-response capabilities of most organizations in the country are not yet mature enough.
+ 
+ Meanwhile, Cigniti Technologies vice-president (marketing) Sairam Vedam pointed out that the recent cyberattack has brought to fore the importance of specialist security testing professionals, who are now going to be in high demand.
+ 
+ 

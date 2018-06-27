@@ -1,0 +1,19 @@
+The   on Tuesday arrested a man from Rajasthan, who is suspected of involvement in what may be a major leak of user data from  . 
+
+ The development comes a day after Jio, run by  , said it was investigating whether personal data of more than 100 million of its users had been leaked to a website named  .
+ 
+ The person arrested has been identified as Imran Chhimpa, from Sujangarh town in Churu district. At the time of going to press, officers from the Navi Mumbai Police and the Maharashtra Cyber Crime Cell were in the process of bringing Chhimpa, believed to be an engineering student, to Vashi after he was detained by the Rajasthan police.
+ 
+ Joint Commissioner of Police (Navi Mumbai) Prashant Burde said, "We have sought the man's transit remand and he could be brought to Navi Mumbai today.
+ 
+ 
+ 
+ 
+ In a July 5 post on Frendz4m, an online message board, a person with Chhimpa's Internet Protocol (IP) address and using the handle 'imranchhimpa', posted a link to magicapk.com saying the site could provide personal user details of anyone with a Jio connection. The post said the data was obtained from original documents.
+ 
+ The proprietor of a cyber cafe in Sujangarh said the police asked him for the installation address of that particular IP address, and made him accompany them to Chhimpa's home, where he was detained. A spokesman for Jio said there was no immediate comment on the company's own investigation into the alleged leak. The Magicapk.com website showed as 'suspended' since late Sunday.
+ 
+ Jio launched last September and already has more than a 100 million subscribers. Analysts said that if the names, contact numbers, email addresses, and Aadhaar numbers of all Jio customers were compromised, it would be a major setback for the telecom industry's new entrant.
+ 
+ Many users registered for Jio using a 12-digit Unique Identification Authority of India (UIDAI) number, commonly known as the Aadhaar number. The government is pushing for Aadhaar numbers to be used in everything, from opening a bank account to filing tax returns.
+ 

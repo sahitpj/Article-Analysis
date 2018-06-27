@@ -1,0 +1,8 @@
+Navi Mumbai: A   man,   (23), was detained by the Navi Mumbai cyber crime branch on Tuesday after a   retailer from Rabale complained about an hacker having gained unauthorised access to an app provided by the mobile service provider. The suspect, a resident of Sujangarh in Churu district, is a master of computer application student.
+
+ The complainant said that the hacker duplicated the data. The breach came to light on Monday after a website magica.pk put up Jio consumer details like names, e-mails, mobile numbers, dates of SIM card activation and circle it was activated in. Enforcement agencies have suspended the site.
+ 
+ An official said, “The retailer has been authorized by the company to lodge a complaint. Every Jio retailer has been given with an app that can be accessed using an user ID and password. When the retailer recharges a SIM card, s/he gets access to some data. This data can doesn’t include details of Aadhar, PAN nor addresses.”
+ 
+ “This is not theft but unauthorized access. The hacker has not downloaded the data from the retailer’s computer nor saved it in a cloud,” the official added.
+ 

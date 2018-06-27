@@ -1,0 +1,19 @@
+PATNA:   as well as private entities dealing in commerce and other important services were on alert on Monday in order to prevent their computers from the   ( ) attack. 
+
+ While no case of cyber attack was reported from anywhere in the state on Monday, National   (NIC), which hosts around 200 official websites of the state government and email clients, updated all its computers over the weekend. 
+ 
+ A senior NIC official in Patna said an advisory was issued by its Delhi based headquarters on Saturday, enumerating steps to be followed to protect the systems and servers from the ransomware attack. 
+ 
+ “The advisory stated that Windows operating system of Microsoft must be updated by Monday and a report regarding the same must be sent to the headquarters. Accordingly, we worked during the weekend and a report regarding the update work was sent this morning,” he said. 
+ 
+ Bihar State Electronic Development Corporation Limited (Beltron), an executive wing of the state information technology department, also circulated an advisory issued by   (CERT-In) -- India’s cyber security agency — on Monday. 
+ 
+ “It has been reported that a new ransomware named WannaCry is spreading widely. WannaCry encrypts the files on infected Windows systems. This ransomware spreads by using a vulnerability in implementation of server message block (SMB) in Windows systems ... WCRY to the end of the file name like .lay 6, .sqlite3, .sqlitedb, .accdb, .java and .docx among others ... individuals or organizations are not encouraged to pay the ransom as this does not guarantee files will be released,” the advisory stated. 
+ 
+ Rahul Singh, managing director of Beltron, claimed the state data centre is secure with 27001 anti-virus certifications. “The anti-virus software at our data centre is protected with latest virus definitions. Still, we are taking all necessary precautions to prevent any cyber attack on the government’s computer network,” Singh told TOI. 
+ 
+ Government agencies apart, private individuals are also being advised to protect their personal computers, laptops and smartphones from cyber attack. While messages enumerating steps to prevent attack from ‘WannaCry’ ransomware are being widely circulated on social networking websites and WhatsApp, people are also being advised to use only licensed operating system (OS) in order to avoid hacking. IT experts claimed a majority of personal computer owners in Patna and elsewhere in Bihar use pirated OS like Microsoft Windows. 
+ 
+ “The OS is the gateway of computer with the worldwide web. Pirated OS does not allow updates from the official website of Microsoft, making the computer vulnerable to cyber attack of all kinds. Hence, it is suggested that people should use original OS and only licensed software to prevent cyber attacks,” said Pravin Sinha, secretary of Bihar IT Association.
+ 
+ 

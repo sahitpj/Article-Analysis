@@ -1,0 +1,14 @@
+The   attack paralyzed activities at the  , which looks after affidavits, certificates and land revenue and other payments of the state government, as many computer systems in Vadodara district were hit on Monday.
+
+ “The computer systems at Jan Seva Kendra are being equipped with anti-virus software and are being upgraded with Microsoft operating systems,” said M J Dave, resident additional collector of Vadodara. Dave added that by Monday evening, the systems for Savli and Desar talukas had already started functioning, while that of some other talukas were being upgraded.
+ 
+ The   (VMC) shut down its servers temporarily on Monday afternoon. These were put to use again only late in the evening. 
+ 
+ “During this time, we ensured that necessary precautionary measures were taken,” said VMC IT director Manish Bhatt. Sources added that the civic body’s portal was not accessible during the period, and tax collection had to be done manually as the accounting system was also shut down. Backups of vital data was also taken.
+ 
+ Mukesh Kumar, municipal commissioner of   ( ), said that computer and system security is in place. “We have barred .exe files and macros from email attachments. Thus, they cannot be received by the official network. This has been made mandatory for receiving emails as precautionary measure,” he said.
+ 
+ There was a buzz that the RTO in Ahmedabad was also affected. Transport department officials, however, clarified that the system shutdown was to upgrade the Saarthi system. RTO in Jamnagar, however, was affected and was closed for major part of the day on Monday.
+ 
+ In   district, eight computers of the district administration were affected by the ransomware. These included seven in the Kalol mamlatdar office and one in the Godhra disaster management office.
+ 

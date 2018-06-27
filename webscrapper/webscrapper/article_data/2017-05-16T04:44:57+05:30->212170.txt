@@ -1,0 +1,13 @@
+MUMBAI: The   government will crack the whip on employees who connect their official computers to private dongles and wireless devices, and access websites that are banned on the Mantralaya’s internet network.
+
+ There are 5,280 computers in   alone, and since the IT department has blocked private email platforms such as gmail and yahoo, several employees disconnect the official LAN and connect to the internet with their personal dongles or other wireless devices, thus increasing the risk of virus attacks. 
+ 
+ If caught, these employees will be penalised. Details of the   are being worked out and will be presented before Chief Minister   for approval. 
+ 
+ “We have a central console which sends security updates to all computers in Mantralaya. But if an employee switches to another network and it gets infected and then he reconnects to the Mantralaya network, all computers will end up getting infected,” said  , principal secretary, IT department.
+ 
+ After the Locky   attack in May 2016, the state had banned private use of email IDs and social media websites on official computers. On Monday, following the global ransomware attack, Mantralaya got into a high alert mode and filtered all incoming and outdoing data. The state is planning a state-wide cyber-security policy to protect data and safeguard what is stored on government servers. Officials said the state has also discussed with the Central government plans to formulate a policy on data privacy and storing government data on a third-party cloud.
+ 
+ The state cyber department has started a helpline—02536631777—for citizens who want information on ransomware. 
+ 
+ 

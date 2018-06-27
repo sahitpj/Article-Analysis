@@ -1,0 +1,7 @@
+Scientists have discovered a way to accurately predict whether a child has   or not by just analysing his or her blood sample.
+The test is the first physiological test for autism spectrum disorder (ASD), researchers have claimed. “We investigated patterns of several metabolites and found significant differences between metabolites of children with   and those that are neurotypical,“ said Juergen Hahn, professor at the Rensselaer Polytechnic Institute in the US.
+ 
+ “By measuring 24 metabolites from a blood sample, this algorithm can tell whether or not an individual is on the autism spectrum, and even to some degree where on the spectrum they land,“ he said.
+ 
+ ASD is estimated to affect about 1.5 per cent of individuals and is characterised as “a developmental disability caused by differences in the brain,“ according to the US Centres for Disease Control and Prevention. People with ASD “may communicate, interact, behave, and learn in ways that are different from most other people.“ Research shows that early intervention can improve development.
+ 

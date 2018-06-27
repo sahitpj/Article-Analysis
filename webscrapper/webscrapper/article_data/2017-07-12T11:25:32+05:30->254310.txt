@@ -1,0 +1,15 @@
+BENGALURU: Imagine a   being turned into a magic wand of sorts to predict the likelihood of   its potential as it reaches distant shores, helping in evacuation and preventing casualties. 
+
+ This is exactly what a team from   (IISc), Bengaluru, is working on in collaboration with professors from University College London (UCL),   and city-based Indian Institute of Human Settlements (IIHS). 
+ 
+ Initiated in 2014, the project – Tsunami risk for the Western Indian Ocean: Steps toward the integration of science into policy and practice’ – is likely to arm India with a tsunami-detection tool within a couple of years. It is funded by UK-based Royal Society, National Environment Research Council (NERC) and Global Challenges Research Funds (GCRF). 
+ 
+ “Although there is no physical device for tsunami warnings in the world, fully tested computer algorithms have the potential to warn of its arrival. When fully developed and with the support of high-quality data such as bathymetry – measurement of depth of water in the sea – it is possible to track the extent of inundation at various locations within reasonable limits of error,” said Prof Kusala Rajendran, a geophysicist at Centre of Earth Sciences, IISc. “Our aim is to improve scientific understanding that underpins prevention strategies such as hazard mapping for urban planning in order to protect vulnerable communities from future tsunamis,” Prof Rajendran added. 
+ 
+ Debasish Roy, professor at the structural engineering division, department of civil engineering at IISc, one of the researchers for this project, said: “Our ongoing work on tsunami detection is based on mathematical modelling. We are developing a software tool that can provide physical and mathematical basis to predict the likelihood of a tsunami and its reach at distant shores.”
+ 
+ 
+ 
+ 
+ The three-year-old project is mostly India-specific and focuses on mathematical modelling of tsunami waves in Indian Ocean with special emphasis on Andaman-Sumatra and Makran subduction zone – originators of potential earthquakes and tsunamis. The tool is being developed based on contemporary examples of the Sumatra earthquake in 2004 and Makran in 1945 to validate this model, Roy added.
+ 

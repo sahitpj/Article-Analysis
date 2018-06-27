@@ -1,0 +1,8 @@
+BENGALURU: Keeping tabs on bees is no easy task. Driven by the desire to innovate, six city students have  , a device that allows the beekeeper to remotely monitor the health of bees and kill pests that infest the hive. 
+
+ It fits into any beehive and is connected to the beekeeper’s cellphone. The innovation has won   students the second spot at the FIRST LEGO League International Open Championship 2017 for STEM (Science, Technology, Engineering and Maths) skills held in the UK recently. The theme was Animal Allies. Ninety international teams participated in the 9-16 age group. 
+ 
+ Team Flaming Phoenix comprising Aditya P Uchil, Aditya Vasisht, Akshay B Sivaraman, Ratan Shankar, Rachita Rajesh and Sahana Athreya also came second in the Robot Performance award category, where robots are given animal-themed missions to solve in the shortest possible time. Their robot did it in 2.30 minutes. 
+ 
+ “There are two different sensors used in iBeeHive; one is infra-red and the other is for temperature,’’   told TOI. Aditya P Uchil said: “The infrared sensor at the entrance of the box is used for keeping tabs on incoming and outgoing bees. It is monitored by the beekeeper’s Wi-Fi-enabled smartphone. The other sensor is used for maintaining optimal temperature (35 Celsius). What is FIRST LEGO League? It is a global science and technology competition with over 2.5 lakh young people taking part every year. The FLL Open Championship aims to promote awareness about engineering and encourage youngsters to consider careers in STEM. It also provides teams from across the world the opportunity to have fun, engage in a challenging competitions and develop a range of life skills.
+ 
