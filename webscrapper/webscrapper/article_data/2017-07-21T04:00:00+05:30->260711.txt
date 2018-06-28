@@ -1,0 +1,13 @@
+Mumbai: Even as   is in the process of appointing a forensic auditor to look into NSE’s three-year old case of allowing preferential access to its trading data to a select few brokers, the bourse on Thursday moved a consent application with the regulator for quick resolution of the same case. 
+
+ Two months ago, Sebi had issued show cause notices to   and 14 of its current and former employees, for their role in the alleged scam involving   of brokers’ servers next to NSE’s trading servers. Among those show-caused include  , former vice-chairman of NSE and  , former MD of the bourse.
+ 
+ A release from the NSE said that the bourse has filed an application with Sebi for settlement of the co-location issue under the consent process. “This application has been filed under the settlement regulations of Sebi. The markets regulator will review the application and get back to NSE on the future course of action. NSE will work with Sebi on early resolution of this matter,” the release said.
+ 
+ Under the consent application route, an entity regulated by Sebi can approach the regulator to settle the matter before any action is taken against it by the regulator. However, not all cases can be settled through the process of consent between Sebi and the regulated entity. A committee under the market regulator has the sole right to accept or reject a consent application. Also, in cases of insider trading and wrongful gains through trading on the exchanges, where there are allegations of criminal intent on the part of the regulated entity, widespread collusion between regulated entities for illegal gains, etc, cannot be consented.
+ 
+ Last month, Sebi chairman   had told reporters that Sebi wanted to have its own investigation into NSE’s co-location scam. “Deloitte didn’t go into the connivance issue. Sebi has started investigation to look into the issues of connivance between (NSE) employees, exchange and the brokers,” he had said. Tyagi said there were some unfair games played by the brokers, and Sebi was in the process of engaging a forensic auditor. 
+ 
+ The issue at NSE is related to allowing brokers to set up servers next to NSE’s trading servers in the exchange’s premises, called co-location or co-lo. This would enable the brokers to take advantage of the split-second faster access to trading data compared to other brokers, who have their servers in their offices around the country. Brokers who use the co-lo facility, also use high speed computers to churn out thousands of trading strategies every second, called high frequency trading (HFT), to make huge profits. Market players say that the brokers involved in NSE’s co-lo facility made substantial gains and Sebi is insisting NSE to disgorge the same amount.
+ 
+ 

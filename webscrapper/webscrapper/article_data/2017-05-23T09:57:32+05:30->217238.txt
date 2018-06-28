@@ -1,0 +1,10 @@
+PANAJI: The election commission of India has written to the chief electoral officers of the five states which went to assembly polls, instructing them to provide electronic voting machines (EVMs) for the hackathon scheduled on June 3 at New Delhi. Affirming to the reports, chief electoral officer for Goa, Kunal said that they will be opening up the EVMs for selection for political parties.
+
+ “As per instructions, the political parties will be selecting the EVMs for the hacking challenge. All these EVMs were used in the state assembly elections. The selected EVM will be sent to New Delhi. The selection process will happen on May 26,” he said.
+ 
+ As per the challenge issued by the election commission, national and state level political parties which contested in the elections held in Goa, Punjab, Uttar Pradesh,   and   will be eligible for participation.
+ 
+ “The claimants will have to alter the results in the control units used during these polls in exactly the same scenario as the EVMs remain within the technical and administrative safeguards of   after the poll. The claimants will have to alter the results in the EVMs used during these polls in exactly the same scenario as the EVMs remain during the storage in strongrooms,” the instructions from the election commission said, adding that each team will be given four hours to prove their claims.
+ 
+ Each political party will be allowed to choose a maximum of four EVMs from any four polling stations out of the five states. Each party can have a three member team for the event.
+ 
