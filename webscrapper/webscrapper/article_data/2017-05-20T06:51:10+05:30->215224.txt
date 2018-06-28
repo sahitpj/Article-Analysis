@@ -1,0 +1,10 @@
+HYDERABAD: You can soon drive past the toll plazas on the 158-km Outer   without having to wait in a queue to pay toll tax. The   (HMDA) is working on introducing a system similar to that being implemented on the national highways.
+
+ According to the plan being mulled, an RFID (Radio Frequency Identification) tag will be provided to vehicles by authorities. This will automatically be read at toll gates and the vehicle will be allowed to pass. Simply put, money paid online will help lift barriers at the toll gates for a hassle-free passage.
+ 
+ “Currently, we are looking at two technologies to implement this. Once a decision is taken, it will be possible to implement it by year-end,“ B Anand Mohan, chief general manager, ORR, HMDA, told TOI. The National Highways Authority of India (NHAI) has been using the RFID technology but HMDA is also considering what is called the Dedicated Short Range Communication (DSRC) technology .The DSRC has be used not only for ORR toll tax payments, it can also be used for making other payments too, if that facility is provided.
+ 
+ The HMDA has written to the state government both about RFID and DSRC technologies. Once the government indicates which option would be appropriate, this will be adopted. An ORR user,   brought to the notice of municipal administration minister   the delays at toll plazas.He said `FASTag' was being used on national highways to reduce waiting time at toll plazas. “Can we get `fastag' equivalent on ORR (sic). After paying 100 per cent hiked toll charges, one has to wait for 1015 minutes at the toll gate,“ Pradeep Annavarapu said. In his response on Twitter, the minister said, “We are going to implement it soon.“
+ 
+ Currently, users have to wait in queues, sometimes very long ones during peak hours at the ORR for their turn to pay up. Mohan said when the new technology is introduced, there would be absolutely no waiting time for those who have opted for smart payment. “There will be dedicated lanes from where vehicles with the RFID tag, or whatever technology is provided, will be able to drive from,“ he said.
+ 

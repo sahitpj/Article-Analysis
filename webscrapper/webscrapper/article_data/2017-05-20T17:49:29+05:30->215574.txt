@@ -1,0 +1,27 @@
+TORONTO: Scientists have created a   that monitors the wearer's respiratory rate in real time, without the help of any wires or sensors.
+
+ The innovation paves the way for manufacturing clothing that could be used to diagnose   or monitor people suffering from asthma,   or chronic  .
+ 
+ The key to the T shirt, created by researchers at Universite Laval in Canada, is an antenna sewn in at chest level that is made of a hollow optical fibre coated with a thin layer of silver on its inner surface.
+ 
+ Unlike other methods of measuring respiratory rate, the new T shirt works without any wires, electrodes, or sensors attached to the user's body.
+ 
+ The fibre's exterior surface is covered in a polymer that protects it against the environment. The antenna does double duty, sensing and transmitting the signals created by respiratory movements.
+ 
+ The data can then be sent to the user's smartphone or a nearby computer.
+ 
+ As the wearer breathes in, the smart fibre senses the increase in both thorax circumference and the volume of air in the lungs, researchers said.
+ 
+ "These changes modify some of the resonant frequency of the antenna. That is why the T shirt does not need to be tight or in direct contact with the wearer's skin," said Younes Messaddeq, professor at Universite Laval.
+ 
+ "The oscillations that occur with each breath are enough for the fibre to sense the user's respiratory rate," said Messaddeq.
+ 
+ "Our tests show that the data captured by the shirt is reliable, whether the user is lying down, sitting, standing, or moving around," he said.
+ 
+ To assess the durability of their invention, the researchers washed the T shirt.
+ 
+ "After 20 washes, the antenna had withstood the water and detergent and was still in good working condition," Messaddeq added.
+ 
+ 
+ 
+ 

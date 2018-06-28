@@ -1,0 +1,6 @@
+Scientists have developed a cheap, portable camera that can photograph the retina without administering the irritating pupil-dilating   drops. Made out of simple parts mostly available online, the camera's total cost is about $185, researchers from University of Illinois at Chicago said.
+
+ The camera works by first emitting infrared light, which the iris -the muscle that controls the opening of the pupil- does not react to. Most retina cameras use white light, which is why pupil-dilating eye drops are needed. The infrared light is used to focus the camera on the retina, which can take a few seconds. Once focused, a quick flash of white light is delivered as the picture is taken.
+ 
+ “As residents seeing patients in the hospital, there are often times when we are not allowed to dilate patients -neurosurgery patients for example,“ said mple,“ said Bailey Shen from UIC. The camera is based on the Rasp berry Pi 2 computer, a low cost, single-board computer designed to teach children how to build and programme computers. The board hooks up to a small, cheap infrared camera and a dual infrared and white-light-emitting diode. A handful of other components make up the rest of the camera, researchers said.
+ 

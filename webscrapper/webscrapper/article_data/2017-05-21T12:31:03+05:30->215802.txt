@@ -1,0 +1,27 @@
+NEW DELHI: Despite overtaking the US last year to become the world’s second largest internet user base after China, India is still behind many Asian countries when it comes to internet speed. But things are set to change in the next 18 months when 
+  ( ) plans to usher in an age of high-speed internet in the country with the launch of three communication satellites.
+
+ Speaking to TOI, Isro chairman Kiran Kumar said, “We will launch three communication satellites.   in June and GSAT-11 and GSAT-20 thereafter. GSAT-19 will be launched by  , Isro’s next-generation launch vehicle boosted by an indigenous cryogenic engine that is capable of carrying a four-tonne satellite to the geosynchronous transfer orbit. These satellites will use multiple spot beams (a special kind of transponder that operates on a high frequency) that will increase internet speed and connectivity. These multiple spot beams will cover the entire country.”
+ 
+ A spot beam is a satellite signal that is specially concentrated (sent by a high-gain antenna located on the satellite) so that it covers only a limited geographic area on earth.
+ 
+ 
+ 
+ The narrower the beam, more is the power. The three satellites will reuse “beams” (signals) several times over smaller areas. In contrast, traditional satellite technology uses a broad single beam to cover wide regions.
+ 
+ Tapan Misra, director of Ahmedabad-based Space Application Centre, told TOI, “These new satellites, once operational, will be capable of providing high-quality internet, phone and video services.” 
+ 
+ Misra said the effective data rate of earlier-launched GSAT satellites is one gigabyte per second. GSAT-19, on the other hand, will be able to transfer data at four gigabytes per second, thus making it equivalent to four satellites. This satellite will use eight beams. 
+ 
+ “GSAT-11, which is heavier than GSAT-19, will be launched by the year-end and will use 16 beams. It will be able to transfer data at the rate of 13 gigabytes per second. GSAT-20, whose launch is set at the end of 2018, will use 40 beams. Each beam will have two polarisations, which will effectively make them 80 beams. This satellite will have data rate of 60-70 gigabytes/sec,” he said.
+ 
+ The number of internet users in the country is expected to reach 450-465 million by June, up 4-8% from 432 million in December 2016, according to a report from the Internet and Mobile Association of India. However, India, with just 4.1 Mbps average connection speed, ranked a poor 105th on the world’s fastest internet connectivity speed list, said a report by a US-based cloud service provider. 
+ 
+ India is way behind South Korea (the leader with 26.3 Mbps) and Hong Kong ( 20 Mbps), Sri Lanka (6 Mbps), Vietnam (6.3 Mbps) and China (5.7 Mbps).
+ 
+ The three satellites will be the game-changer for India.
+ 
+ 
+ 
+ 
+ 

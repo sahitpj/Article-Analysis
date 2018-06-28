@@ -1,0 +1,13 @@
+KOLKATA: The Indian Institute of Technology-Kharagpur is set to receive a   that is several times faster than normal computers. The facility will have a capacity of 1 Peta Flop — significantly higher than the regular system — and help to usher in a new age of super-fast research and innovation. 
+
+ Peta-Flop is a measurement of computing power based on the frequency of mathematical calculations that can be done per second. It is being offered to IIT-Kgp under the   (NSM) scheme.
+ 
+ “The system is not a web server and can only be accessed by authorized persons. It will be used only for high-level research in different areas. The super computer has many central processing units (CPUs) and graphical processing units (GPUs) combined and hence it is much faster than the regular ones,” said IIT-Kgp chemistry professor Sanjoy Bandyopadhyay.
+ 
+ Once the new Centre for Computational and   (CCDS), armed with the supercomputing platform, is build, the existing facilities will receive a significant boost. The supercomputing platform will be dedicated solely to research and teaching purposes that involve state-of-the-art high performance computing (HPC). 
+ 
+ “The new system will accelerate and evolve the level of research currently being done. Output and efficiency will improve exponentially,” said IIT-Kgp director Partha Pratim Chakrabarti.
+ 
+ NSM has chosen IIT-Kgp as a nodal centre for HPC-related educational activities. The objective is driven by the aim of consolidating efforts to achieve a self-reliant supercomputing platform in India and to develop and expand the culture of using high-performance computing systems to solve complex problems. This mission envisages building supercomputing capacity and capability in the country with an estimated budget of Rs 4,500 crore over a period of seven years. 
+ 
+ 

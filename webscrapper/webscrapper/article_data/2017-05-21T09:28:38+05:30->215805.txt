@@ -1,0 +1,20 @@
+NEW DELHI: The   has challenged national and state parties to demonstrate that electronic voting machines used in the recent polls to five state assemblies were tampered with even with the technical and administrative safeguards mandated by the poll watchdog. 
+
+ Chief Election Commissioner   announced on Saturday that its ‘EVM challenge’ would be conducted at EC headquarters from June 3 onwards, with each party free to depute up to 3 nominees, including technical experts, to show that   used in the recent state polls were tampered to favour a particular candidate or party by altering the results after the polls; or that such EVMs were tampered before or during the poll. The nominees must be Indians, he insisted, ruling out scrutiny by involving international technical experts.
+ 
+ EC, which firmly maintains that its EVMs are fully tamper-proof, is approaching the challenge with complete confidence as parties including BSP and AAP that alleged tampering of EVMs in UP and Punjab, have failed to substantiate the charge. “People who questioned reliability of EVMs have not yet submitted any proof or credible material to support their claim,” Zaidi told mediapersons. Though AAP has been alleging manipulation of EVMs in Punjab, no more than 4-5 election petitions have been filed in the state. 
+ 
+ The challenge will be open only to parties that participated in the recent state polls and will be overseen by EC’s technical experts committee, an independent body comprising IIT experts. 
+ 
+ Rejecting the demand that parties be allowed to change the internal circuit of EVM to prove their tampering charge, the   insisted that any such alteration would make it a different machine and hence could not be guaranteed by EC to give correct result. “Such a scenario is completely ruled out within our administrative safeguards,” Zaidi said.
+ 
+ Asked whether he would take moral responsibility in case a machine is successfully tampered, Zaidi said it would be seen at that moment. He also said the event should not be seen as a “prestige issue”.
+ 
+ Parties must mandatorily confirm their interest in the challenge by sending an e-mail to EC by 5 pm on May 26, furnishing details of the nominees. Each party that confirms participation will be allowed to choose any four EVMs used in the said polls.
+ 
+ EC has divided the challenge into two parts: Challenge 1, which shall involve a demonstration of the challenger’s claim that EVMs, with the results still loaded in it, were tampered with and results altered in favour of a given party or candidate after the polls. Challenge II would require parties to prove that the EVM was tampered before or during the poll. In Challenge II, EVM can be opened and visually inspected. 
+ 
+ The party nominees will have to demonstrate whether the machines can be tampered with by pressing a combination of keys on control unit/ballot unit or both; and by altering Control Unit/Ballot Unit (CU/BU) with the help of an external communication device or method like bluetooth, wi fi or phone. 
+ 
+ The challenger shall deemed to have failed if the EVM becomes non-functional after the tamper attempt; remains functional and results shown in the ballot unit and control unit are same (Challenge I) or remains functional and after erasing the earlier stored result, a mock poll is conducted by the challenger and the manually recorded votes are same as that stored on the CU; the challenger violates any guidelines for the challenge; or withdraws from the challenge.
+ 

@@ -1,0 +1,19 @@
+BHOPAL: No need to worry about where to arrange water from if   takes a hit because of leak, pipe damage or some other reason. On many occasions it is somewhat sudden. City residents will soon get real time alerts in case of water supply disruption. Bhopal Municipal Corporation’s (BMC) new Rs 42 crore   ( ) technology will provide real-time alerts on water outage.
+
+ “SCADA is approved to be implemented in the state capital. It will redress citizen needs and help BMC monitor water supply situation on a real-time basis,” said BMC commissioner Chhavi Bhardwaj.
+ 
+ SCADA will be integrated with Smart City application ‘Bhopal Plus,’ which runs on popular mobile platform. Technology will be used to resolve one of main civic issues. Citizens will be able to use their mobile or through web to get updates on leaking pipelines and water supply outage.
+ 
+ At the central command centre, civic body officials will also get real-time information on water contamination via water quality monitoring mechanism embedded in SCADA technology.
+ 
+ SCADA technology is being used at Shahganj, the control room of Narmada water supply. Currently, the system can monitor its pumping station with live indication of water pressure, water quality and its sensors alert on any leak through main Narmada pipeline.
+ 
+ On an average, the BMC has to fix at least about a dozen major leakages in the water supply pipelines each day. The city’s main Kolar water supply pipeline has a joint at every four metres.
+ 
+ “Taking the information online, Bhopal Plus can already receive suggestions for water quality monitoring. It is a citizen services oriented application,” said a Bhopal smart city representative.
+ 
+ SCADA will also be used to evaluate water supplied from main tank and filtering station. With over 55,000 water meters already installed, BMC will be able to check illegal water connections.
+ 
+ Implementation of SCADA will not only improve water supply and plug leaks, the new system is expected to improve economy operations for the BMC. Currently, BMC water supply bill per year is about Rs 190 crore. Pumping of water Main operational cost is , which costs about Rs 110 crore as electricity charges. BMC recovers about Rs 23 crore in revenue for water supplied.
+ 
+ 

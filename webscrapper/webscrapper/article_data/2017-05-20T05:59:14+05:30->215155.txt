@@ -1,0 +1,8 @@
+HYDERABAD: The   (UIDAI) has cautioned the state government on possible leak of   data. It has asked the state government to take up sensitisation programme for employees of various departments.
+
+ The UIDAI has also warned against posting of Aadhaar numbers on any public platform. The advisory comes in the wake of accidental leak of Aadhaar data in Jharkhand. Sharing of personal data of Aadhaar beneficiaries on public platforms is violation of existing laws. Several other government departments have also published Aadhaar numbers related to their schemes. Officials, however, did not disclose the names of the departments in the state where there is likelihood of data leak.
+ 
+ Under the new Aadhaar Act, publishing of Aadhaar numbers of beneficiaries is ille gal. Aadhaar data leak can invoke imprisonment under the new Act. “We have conducted many workshops for depart ments. Cyber security breach is a major concern now. We told them that they should not display Aadhaar numbers even in the notices served by them,“ said UIDAI deputy director-general MVS Rami Reddy.
+ 
+ The departments were told to display the last three digits of Aadhaar number only in official communication. Workshops are being conducted in   too. Sources said more than promoting  , this sensitisation has taken the centrestage in UIDAI. Meanwhile, officials said that   had no impact on the Aadhaar data on the UIDAI servers. All the systems meant for internal consumption have been protected with Microsoft patches.
+ 

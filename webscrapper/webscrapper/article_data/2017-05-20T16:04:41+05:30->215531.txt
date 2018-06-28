@@ -1,0 +1,43 @@
+ 
+
+ 
+ The virtual world is now ruling our real lives. From shopping, booking movie tickets to ordering food online, everything now is just a click away. The choices are wide and varied and of course we love to do it all sitting in the comforts of our home. But not all is fine on this virtual front. This week, we all woke up to the shock of WannaCry   that infected over more than 200,000 computers across 150 countries. And closer home, the online data of over 17 million users of a well-known online restaurant search as well as food delivery platform was hacked. How safe are we on the virtual world? 
+ 
+ 
+ 
+ : Although there are many online portals which are safe and have never faced such a situation. However, one also needs to be very careful these days while doing an online transaction, “Most of the time what happens is that the hackers hack the email which customers usually give as the recovery email id. So the hacker hacks that email, sends a request for a change of password and hence hacks the accounts. This can happen with more than one customer at a time. So in the case the email is locked and the account holder has to pay ransom to get the access back. In other ways if an unknown link, pop-ups, or attachments are opened by someone in the portal, that’s when the hacker’s virus attacks and can sell that data in the market for a hefty price,” shares Dipen Jagiwala, a cyber-expert.
+ 
+ 
+ The online food portal on Thursday afternoon posted on their blog that, nearly 17 million user records have been stolen from their online restaurant search platform, and supposedly the data was being peddled online on the ‘dark web’ for about $1,000 (INR 65,000 approx). In times when online shopping has become quite common, several local based app makers and developers are making sure that such instances do not occur. Harmeet Singh, founder of a city based food portal shares, “Digital security is primary when your business runs on digital platforms and that's why we have a separate technical team that works on the security of our website. Unlike many other companies who develop their portals on readymade platforms, we have coded our website, which is more secure against thefts and hacks. And since our mode of payment is only online right now, we have collaborated with international   to keep all payments safe.”
+ 
+ Abhishek Patel, an operational manager with an online medical portal suggests, “Since the ransomware attack we have taken extra precautions and have installed an upgraded version of   protection. Also in our portal, we don’t have a system where a customer have to necessarily save their credit/debit card details. Our transactions are all based on OTP (one time password).”
+ 
+ 
+  Dipen further adds, “As a customer always opt for a COD transaction and always use an OTP. Change your password on a regular basis. If possible use a separate account for online shopping with a minimum balance, incase if anything goes wrong only a small amount will be taken away by the hackers. And most importantly never open any unknown emails with attachments, links or pop-ups.” As for online portals, always install a firewall and antivirus protection from a good company. Always take a backup of all your users on a hard drive which isn’t connected to internet. Make sure that the payment gateways are always secured and keep a check on it from time to time. Keep all your softwares upgraded.”
+ 
+ Rahul Samkuniya an IT executive adds, “Not just our data on computers or laptops, but even the ones stored on phones can be hacked or can be infected by virus. Most of these virus comes from the games and apps we download. Usually there are many duplicates of some well-known apps and games which is nothing but virus which infects our phone data. So one has to be careful while downloading an app as well.”
+ 
+ 
+ :There are many who look up to these online portals for their smallest to biggest needs. But customers are now exercising caution. “I make sure that I always go for a COD for most of my transactions. Not just this if I have logged onto portals where my personal details are present I keep on changing the password and pins from time to time. Also I never click on the messages either on phone or email which seems suspicious,” Anchit Dalal, an entrepreneur.
+ 
+ Meghna Sharma, a content writer with an ad agency shares, “I used to shop a lot online, but now I only shop what I need. I also opt for COD. However, I keep checking my account 
+ statement regularly just to be safe.
+ 
+ While one cannot deny that the virtual word has taken over our lives in many ways, a little extra precaution can save us from messy situations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
