@@ -1,0 +1,28 @@
+NOIDA:   ransomware hackers have attacked a Noida-based garment company and encrypted its several computers and servers, demanding a   through bitcoins for safe release of the files.
+
+ The hackers have demanded Rs 4 lakh and also warned of multiplying the amount if the payment is delayed. The functioning of the company has come to a standstill as computers have got encrypted and the files and data available can’t be used. The company is located in Sector 63.
+ 
+  The company management consulted private cyber security experts to fix the problem. However, the experts could not resolve the issue saying the encryption is difficult to decode.  , a security expert and chairman of   on Cyber Crime and Cyber Law, New Delhi, visited the company office. Agarwal said that the computers are under 256-bit encryption cyber attack.
+ 
+ “This is considered one of the most secured encryptions to be decoded. Only a supercomputer can decrypt this encryption,” he said.
+ 
+ The official did not state the exact number of computers affected. However, the affected computers have messages of ransom amount of 300–600 dollars in bitcoins. 
+ 
+ The automated message informs that the users’ documents, photos, databases and other files are no longer accessible because they have been encrypted.
+ 
+ “Nobody can recover your files without our decryption service. We guarantee that you can recover all your files safely and easily,” it said.
+ 
+ The hackers have given three days’ time to submit the payment while threatening to double the amount if the payment is not made in three days. 
+ 
+ “Also, if you do not pay in seven days, you won’t be able to recover your files forever,” it said.
+ 
+ The company officials said the cyberattack has badly affected their business. “We consulted some private security experts but it seems diffi-cult to resolve. It’s a difficult situation and we are in a fix,” said an official, requesting anonymity.
+ 
+ The WannaCry ransomware can self-propagate by exploiting some vulnerability in Windows systems. Once the malware enters the system, it encrypts the contents of the entire system. Then ransom is demanded from user in terms of bitcoins to provide the key for decryption.
+ 
+ Some analysts say the system of payment through bitcoins, a kind of digital currency, makes it almost impossible for the criminals to know who has paid the ransom and who hasn’t. Thus, it is unlikely that the files will be decrypted even when the ransom is paid.
+ 
+ Dinesh Singh, SP (city)   said that the garment company officials have not informed police about the cyberattack.“We will look into the matter and investigate it. We have issued an advisory to people not to click on unwanted email and links. The users should immediately inform the cyber cell if they suspect any such attack,” Singh said.
+ 
+ Cyber security experts said spam mails, adult and XXX videos have greater chances of infecting with such viruses. “Updating the software can take care of most vulnerability,” he said.
+ 

@@ -1,0 +1,20 @@
+CHENNAI: Can banks and ATM makers trust their own staff? Just last week, the UP Special Task Force arrested bank staff, who took screenshots of customer details and shared it on WhatsApp. Recently, public sector bank employees siphoned off Rs 173 crore by approving loans to fake companies. 
+
+ ATM service providers like Scientific Security Management Services (SSMS) and Safeguard Writers’ Co have had their share of employees arrested for switching cassettes, pilfering cash or rewiring ATM hardware. 
+ 
+ To combat this, the BFSI (banking, financial services, insurance) sector has stepped up its use of predictive analysis in detecting insider fraud. Internal software monitors employee behaviour -- such as web browsing, average time spent to load ATMs at ATM provider AGS Technology. 
+ 
+ Another firm, Sequretek, said they were able to catch staff at an e-commerce portal red-handed, when they found agents making fictitious bookings, leading to significant loss in revenue and customer dissatisfaction. 
+ 
+ “Detailed forensic analysis found that a couple of unscrupulous agents had found a loophole in their business process and on instigation from their competitor had started the process of spurious bookings,” said  , founder and co-CEO, Sequretek.
+ 
+ In another instance, a bank employee was found to be giving loans to a set of shell companies before Experian's fraud monitoring software detected the anomaly. "We scrutinise the network. If there is a set of companies to which the bank has given a loan, we can find out if they are shell companies/a front for siphoning loans,” said  , MD, Experian. “Fraudsters always slip up on the finer details sometimes board members’ addresses, registration numbers, mobile, PIN codes or PAN cards there could be a match and then they get caught,” he said.
+ 
+ Another kind of network analysis, according to Ernst & Young partner Vikram Babbar, is when all of the bank's employee interactions are monitored. “For instance, if the address of an employee matches with that of a customer — that would immediately throw up a red flag. If there are instances of social media interaction like pictures of a vacation taken together that’s another alert that there could be possible collusion or bribery,” said Vikram Babbar, partner, Fraud Investigation & Dispute Services, EY India.
+ 
+ For ATM makers in India, the need to monitor employee behaviour is more urgent as they handle cash by hand. “Our surveillance of employees is more intrusive than what other companies normally practise because the risks are higher here,” said  , president and CTO, AGS. 
+ 
+ Employees with experience of more than four years are more likely to commit fraud as they have a better understanding of the processes, officials said. "As high as 40% of employees are ready to overlook illegal activity according to our survey. If an employee's annual take home was Rs 5 lakh, but has assets upwards of Rs 50 lakh that's an anomaly," Babbar said.
+ 
+ Brokerage are now using sentiment analysis with searches for key words like unhappy, hide, don’t share, confidential – across their entire network – for all communication internally and with customers. “Employing sentiment analysis would narrow the problem to a particular department or a set of employees - giving us vital leads on emerging fraudulent trends,” he said.
+ 

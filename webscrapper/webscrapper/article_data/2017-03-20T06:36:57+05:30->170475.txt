@@ -1,0 +1,8 @@
+KOLKATA: A research group at   has designed the country's first indigenous superpower   and named it after Mahabharata's epic warrior Bhima.Under a metre in length, BHIM's uniqueness lies in the unmanned aerial device's state-of-the-art protection shield, superior imagery and hitherto unknown abilities, say its creators.
+
+ BHIM can create a Wi-Fi zone within a nearly 1km radius when it flies overhead. Aimed for conflict zones, the drone -which has a battery backup of seven hours -can fly into a disaster (or war) zone and create a seamless communication network for security forces, rescue personnel and even the common man. BHIM's special ability lies in maintaining long flight times and dropping emergency supplies by accurately using parachutes. It can also be used for rescue operations in remote and hard-to-access areas. The drone can conduct integrity checks for boundary walls and find out breaches if any .
+ 
+ Designed especially for emergency situations, the automated drone has an actual vision-based guidance with built-in intelligence that helps it identify if an area is crowded or not. It will then fly away and land in a safer place.
+ 
+ “Such advanced built-in intelligence is not available in drones now. The design is completely in-house. The controlling and guiding algorithms of the drone have been developed in our lab,“ said  , a faculty member of the computer science and engineering department.
+ 

@@ -1,0 +1,13 @@
+GUWAHATI: A research scholar from   has found a low-cost and user-friendly way to detect the level of fluoride contamination of water by using just a smartphone. 
+
+ Iftak Hussain, 27, has bagged the prestigious BIRAC-SRISTI Gandhian Young Technological Innovation (GYTI) Award 2017 for the technology, which can also detect the level of turbidity in water. BIRAC, or  , is a government enterprise.
+ 
+ The ambient light sensor (ALS) and the LED flash in smartphones are used to detect fluoride contamination, Iftak said. "The detection technology is based on fluoride's reaction with zirconium dye, which forms a colourless complex anion (a negatively charged ion). As the fluoride concentration increases, it tends to bleach the dye to make it progressively lighter in colour. A specific wavelength from the LED flash is allowed to interact with the reagent-treated water sample. The optical signal transmitted from the sample is detected by the ALS," he explained.
+ 
+ An Android app has been developed to convert the ALS response into readable data, Iftak said. "The interface is simple and easy to use. This technology can be handled by anyone," he added.
+ 
+ The project, with which   of the department of civil engineering at Tezpur University is also associated, is extremely significant in the state, where the concentration of fluoride in ground water has been detected to be up to 6.88 mg per litre. According to the  , the permissible limit is just 1 mg per litre. 
+ 
+ The test kit will cost around Rs 1,000 to Rs 2,000, several times lower than conventional detection technologies, project superviser and associate professor of physics at Tezpur University Pabitra Nath said. "The cost of the kit will further go down once it starts commercial production," he added. 
+ 
+ 

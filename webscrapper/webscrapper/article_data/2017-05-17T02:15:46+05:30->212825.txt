@@ -1,0 +1,14 @@
+NEW DELHI: The global cyber-attack on Friday has exposed a potential crisis situation for   moving towards digitisation of patient  . It shows how hackers can disrupt health services at massive scale by introducing malware.
+
+ In Britain, for example, doctors in many hospitals were blocked from patient files and emergency rooms were forced to divert patients on Friday due to the cyber-attack. In India, there are few instances of cyber-attack on hospitals but officials say they are not taking any chances. TOI spoke to many top hospitals in Delhi where officials said they were equipping their network with stronger features to prevent hacking.
+ 
+ Dr Anand Bansal, medical director, Sri Balaji Action Medical Institute, said they spend Rs 25-30 lakh on cyber security. “We have set up a separate department for cyber security. We are also investing on educating our staff to remain   from any cyber frauds in this era of digitisation,” he said. Dr (Col) R K Sharma, medical superintendent of  , said they are upgrading their hospital information system to prevent hacking.
+ 
+ “These days, most of the patient data is maintained digitally for quick access. But there is high possibility of this data being accessed by hackers. To prevent this, we have a team of cyber security experts. Also, laptops and tablets used by doctors are given limited access to the hospital network to prevent the risk of virus transfer or any malware,” said Niranjan Kumar, chief information officer, Sir Ganga Ram hospital.
+ 
+ At AIIMS, officials said, the national informatics centre, which is the government’s web services organisation, has been entrusted with the task of ensuring cybersecurity. “It is a very important aspect in today’s world since we are trying to integrate control of key equipment,” said Dr Deepak Agrawal, head of IT division at the institute.
+ 
+ According to cyber security experts, hospitals should not use vendor-supplied default passwords and other security parameters for medical devices. “Websites, applications, databases, data centres and servers, networks, desktops and other endpoints need to be monitored, assessed and defended periodically,” said Nitin Bhatnagar, an information security specialist.
+ 
+ An Australian web security expert, Tony Hunt, recently revealed how nearly 43,000 sensitive pathology reports, including those of HIV patients, were exposed online by a Thane-based laboratory. Hunt wrote in his blog that he stumbled upon reports containing name, age, gender and tests results of patients in an online folder, which could be easily seen and downloaded. The case was referred to the cyber cell of Mumbai for further investigation.
+ 

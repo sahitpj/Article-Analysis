@@ -1,0 +1,19 @@
+Six months ago, it was demonetisation that stunned the economy and forced people to wait in long queues at banks to withdraw cash. And now, it’s   attack that is doing the same. Said to be one of the largest cyber attacks to have affected the world, the m alware has encrypted data on thousands of computers across several countries, demanding money in return for access. While authorities have warned institutions, including banks, to beef up security measures, Mumbaikars are already facing the heat. 
+
+ 
+ 
+ Many ATMs in the city have pulled down the shutters and banks are thinking twice before refilling cash in them. On Tuesday, harrowed Mumbaikars ran from one   to another in the sweltering heat, only to find the sign — ‘No cash being dispensed’ — outside most of them. Advocate Ajit Shinde says, “I live in Bhandup, and I had come to CST for work. ATMs in my area stopped dispensing cash last evening. So, I thought I would withdraw money here. I went to four ATMs without any luck.”
+ 
+  
+  
+ Adds an exasperated Akhil Kapoor, an IT professional, “I spent a good two hours finding an ATM which worked. But I got only multiple notes of `2000. Also, I’m not sure how safe it is to withdraw money. There’s no clarity.” Rina Mathai, a castwork artist, says she spent the first half of the day at the bank. “It’s a déjà vu for me; I’m reminded of the time I used to spend at the bank, exchanging notes and withdrawing money during the demonetisation,” she adds. 
+ 
+ An official from one of the largest public sector banks says, “We are not refilling cash in the ATMS till further word from the security agencies. However, cash transactions can be done at banks. You can also swipe your debit and credit cards at merchant locations.”
+ 
+ 
+ The ransomware attack seems to have affected the e-commerce sector as well. While some have opted for cash on delivery, others have decided to stop shopping online until the whole issue is sorted. Gym instructor Anusha Kamat says, “I usually buy groceries online and make the payment through netbanking. But yesterday, I paid the delivery guy by cash because I didn’t want to risk any malware attack. I don’t have much money left and will have to go to the bank soon. I’m already dreading the long lines.”
+ 
+ History professor Rohan Hari, an ardent online shopper, says, “Some of the biggest online shopping portals have mega offers and sales at this time of the year. I wanted to make use of the slashed rates and buy a smartphone. But I don’t want to compromise my bank account details by paying online. Choosing COD is not an option because I don’t have that kind of cash in hand.”
+ 
+ A spokesperson of an e-commerce portal says, “We’ve taken extra precaution for shoppers by providing them a security code on their registered mobile numbers.” A senior official from NASSCOM’s DSCI ( ), on condition of anonymity, says, “It will take at least a week for things to return to normalcy. Though the virus will not attack more systems, individuals have to be cautious while downloading attachments. It’s advisable to run a virus check everytime you visit a site. Making online transactions is also safe. However, ATMs have been affected because of the software they use. But they will also start functioning within four days.”
+ 

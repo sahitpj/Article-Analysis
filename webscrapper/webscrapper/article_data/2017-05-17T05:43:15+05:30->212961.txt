@@ -1,0 +1,13 @@
+CHENNAI: With the   ransomware attack targeting more than 150 countries worldwide, banks in the state were on   on Tuesday. More than 50% of about 3,200   in the city were shut down, as  
+
+ Banks said they were likely to resume operations over the next few days. Chennai-based lender Lakshmi Vilas Bank said it had to close 611 of its 972 ATMs for upgrade. "We will operate some of our ATMs tonight. The remainder will be opened in the next 2-3 days after the necessary software upgrade," said A J Vidyasagar, head, retail banking, Lakshmi Vilas Bank.
+ 
+ Industry body Confederation of ATM Industry (CATMI) and ATM original equipment makers have set up a taskforce to come up with solutions to set up patches for ATMs. The Reserve Bank of India on Monday directed banks to upgrade their system as more than 70% of India's 2.2 lakh ATM network is believed to be running on outdated software such as Windows XP, which is vulnerable to WannaCry. 
+ 
+ Banks said normal banking transactions were not affected as they relied on core-banking software such as Infosys' Finacle, Oracle's Flexcube and Temenos' T24, which have been unaffected by WannaCry. However, customers were not able to get passbook entries at nationalised banks like State Bank of India, which shut down its printers.
+ 
+ Banks also said they had been working on precautionary measures since Saturday. "The Indian Computer Emergency Response Team (CERT-in) was very prompt in its issuance of guidelines and arranging for patches that we could install for Windows operating systems," said K Venkataraman, CEO, Karur Vysya Bank.
+ 
+ ATM operators such as FSS and BTI Payments, however, clarified that some of their ATMs were shut due to shortage of cash rather than the threat from the virus. "Since mid-January, we have been operating only 70% of our 4,000-strong ATM network," said K Srinivas, CEO, BTI Payments.
+ 
+ 

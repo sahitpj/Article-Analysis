@@ -1,0 +1,18 @@
+BENGALURU: Salesforce.com, the $8-billion US cloud computing company, has appointed   as senior area VP and country leader for India, the first time that the company has created such a role in India.
+
+ The move underscores the company’s desire to strengthen its presence in one of the fastest growing cloud regions globally. Jose was previously the managing director of Teradata India and prior to that, he served as VP at Oracle. Jose will report to Eileen O'Mara, SVP- commercial business unit in Salesforce Asia-Pacific.
+ 
+ Salesforce, one of the pioneers in offering software on the cloud, is a CRM (customer relationship management) software provider. It is increasingly growing its footprint in newer technologies including mobile, social, IoT and artificial intelligence to deliver connected experiences to their customers.
+ 
+ “India is one of our fastest growth markets in Asia Pacific and globally. My appointment is a reflection of that growth and our commitment to our customers in this region,” Jose said in an exclusive interaction with TOI.
+ 
+ Salesforce.com Singapore pumped in Rs 58.7 crore last year into the India operations. It came as debt, but this was later converted into equity. Last year, Salesforce set up a centre of excellence in Hyderabad. It plans to add 1,000 jobs by 2020. Hyderabad is Salesforce's largest global office outside of its San Francisco headquarters. It entered Hyderabad with the acquisition of a startup, Dimdim, for $31 million in 2011. Dimdim created critical real-time communication technologies such as presence, messaging and screen sharing.
+ 
+ Salesforce, co-founded by former Oracle executive   and which has a market capitalization of $64 billion, is learnt to have around 900 people in India. The company declined to divulge country-specific headcount. “We’ve been in India since 2005 and have grown more than double year-on-year. A recent IDC study found that Salesforce and its ecosystem will create nearly 500,000 jobs and drive $4.2 billion in GDP impact to the Indian economy by the year 2020,” said Jose.
+ 
+ IDC’s Public Cloud Services Tracker for the second half of 2016 had Salesforce among the top players in public cloud in the country. AWS led the pack with 14.7% market share, followed by   (12.7%) and Salesforce (8.7%). SAP and Oracle stood at 5.8% and 5.7% respectively. In the first half of 2016, AWS’ market share was 14%, Microsoft’s was 13.3%, Salesforce 8.5%, SAP 5.6% and Oracle 4.2%.
+ 
+ Salesforce, which counts Bajaj Finserv,  , Urban Ladder, and InMobi as customers, has a roster of implementation partners. Its India strategy is focused on sectors including manufacturing, healthcare and banking and financial services.
+ 
+ Research firm Gartner has projected that the Indian public cloud services market will grow 30.4% this year, to $1.3 billion. Microsoft, Amazon and   have set up cloud data centres in India, and   is expected to establish one this year.
+ 

@@ -1,0 +1,21 @@
+AHMEDABAD: On Tuesday,   (GSWAN) administrators received another 17 complaints of anomalies in computer systems, taking the total to 137 including those on Monday and Tuesday. Government officials, however, said the network is functioning fine and departments have been asked to resume work on the WAN.
+
+ Dhananjay Dwivedi, secretary, department of science and technology ( ), told TOI that they are encouraging government departments to use GSWAN. 
+ 
+ “There are rumours of switching off computers and not connecting them to the network. But we have told the departments to work on GSWAN, download the anti-virus and systems update and secure their computers,” said Dwivedi.
+ 
+ “There is more harm in installing software from an external device like a pen drive which we are discouraging as a safeguard,” he said, adding that the network is up and running and there were no major glitches reported.
+ 
+ The government and private sectors, however, have decided to maintain caution. In Ahmedabad, a number of banks temporarily shut ATMs as precautionary measure. The banks had issued an advisory on Monday asking all branches to restrict internet access and upgrade anti-intrusion software at ATMs to prevent breach.
+ 
+ Officials of Maha Gujarat Bank Employees Association said that certain banks had temporarily shut their ATMs. “Agencies entrusted with maintaining the ATMs were asked to upgrade systems and check for any possible security breach. The task would take a few days,” said an official.
+ 
+ Ahmedabad Municipal Corporation- run city civic centers at Vejalpur, Bodakdev, Usmanpur and Law Garden, among others, reported system slowdown due to issues with leased line for internet connection.
+ 
+ GESIA issues advisory to state IT companies
+ 
+ Gujarat Electronics and Software Industries Association (GESIA) on Tuesday issued an advisory to Gujarat-based companies in the sectors of information technology (IT) and IT-enabled Services (ITeS), asking them to install and apply security patches immediately on various versions of Windows operating systems (OS) in the wake of the ongoing cyber-attack. 
+ 
+ “In order to guard against infection, we have advised GESIA members to apply patches to Windows OS and follow guidelines mentioned in the Microsoft Security Bulletin MS17-010 to settle vulnerabilities. Prompt action will save further damage,” said Vivek Ogra, chairman & director, GESIA IT Association.
+ 
+ 

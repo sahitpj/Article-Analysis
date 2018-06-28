@@ -1,0 +1,12 @@
+KOCHI: Many ATMs in the state which have not updated their Windows program will not function on Tuesday as per the guideline issued by the  . The RBI has issued directions not to operate the ATMs without the updated Window platform.
+
+ Meanwhile, some banks said that they are yet to receive this communication from RBI and are waiting for further directions.
+ 
+ An official of a lead bank in Thiruvananthapuram said, “We had got direction to down the server of computers in banks and restart system on Monday morning to keep away the threat from ransomware and we did so. But the banks are yet to receive intimation on updating ATMs.”
+ 
+ RBI directed banks to update windows software in ATMs to prevent the WannaCry ransomware attack.
+ 
+ “Most of the ATMs in   function on Windows software. Around 60-70% ATMs will find it difficult operate until they update the software,” said D Sukumar, official of lead bank,  , in Kollam. 
+ 
+ An SBI official said that there was nothing to worry since the banks ATMs were updated. “Our ATMs will function properly. Since new-generation banks too are at the forefront of updating their systems, their ATMs too will not face a problem,” he said.
+ 

@@ -1,0 +1,23 @@
+NEW DELHI:   (UIDAI) has said that all devices using   authentication will have to adhere to its new encryption standards from June 1.
+
+ The move is aimed at adding another security layer to the hardware at a time when such devices are all set to take the centre stage in biometric-based digital payments.
+ 
+ "We have recently come out with new specifications and asked manufacturers and vendors to go for STQC certification as per the new standards. We have advised that from June 1, they should get devices on the new specifications and that the existing devices should be upgraded to the new norms," Ajay Bhushan Pandey, CEO of UIDAI told PTI.
+ 
+ UIDAI is the nodal body responsible for rolling out Aadhaar, the 12-digit unique identification number that identifies residents based on their  . While more than 112 crore Aadhaar have been generated in the country, the Aadhaar authentications have crossed 500 crore, and 100 crore   have been done on the platform.
+ 
+ Pandey, however, emphasised that only those devices that wish to use Aadhaar authentication, would have to meet the new standards.
+ 
+ Only such 'registered devices' that incorporate the new specifications would be allowed to perform Aadhaar authentication.
+ 
+ "We are continuously trying to tighten the security. We felt that while the system is secure, we want to further improve the security by building one more layer. So, if the device itself can be encrypted it will be harder to break into the system," he said.
+ 
+ Simplifying this, he said that while two locks exist currently - one at the level of agency and another at UIDAI - the new system will place a third lock on the biometric device itself.
+ 
+ He said that UIDAI has been been in talks with the device manufacturers for almost 1.5 years for implementation of the new specifications. In this period, Aadhaar has seen its numbers swell both in terms of enrolment and authentication.
+ 
+ The Aadhaar daily authentications now stand at almost 2 crore against 10 lakh about 1.5 years ago.
+ 
+ "Unless they see demand, no manufacturer will manufacture as per your specification. Now manufacturers too are showing interest...They know when they make specially designed biometric fingerprint scanner for Aadhaar and put another lock as per UIDAI's requirement, it will sell in the market. Hence, they are open to the idea," Pandey said.
+ 
+ 

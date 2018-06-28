@@ -1,0 +1,18 @@
+CHENNAI: Would you like to bank in a box? Well, going by the feedback after the roll-out of three such NCR   in Pune and Bengaluru, a lot of Indians do.
+
+ These machines can do everything that one does at the bank from account opening, accepting bearer cheques, passbook printing, editing KYC details and withdrawing cash.
+ 
+ ATM-maker FIS says its bank-in-a-box can be used for internet, mobile banking, loans, deposits, connecting to an ATM or PoS switch, regulatory and MIS reporting. For India, which is largely underbanked, such low-cost, but comprehensive solutions could be of use to the newly-emerging small finance banks (SFBs), price-sensitive micro-finance insitutions (MFIs) and NBFCs.
+ 
+ “Small finance and payment banks with a small investment capital can greatly benefit from the bank-in-a-box model. NBFCs looking at venturing into the deposit-accepting segment can also benefit by deploying this model. It enables them to enter new markets without large-scale investments in technology, human resource, etc by using technology for high growth with low customer acquisition cost,” says Ramaswamy Venkatachalam, MD, FIS, India and south Asia.
+ 
+ NCR, which is trying to promote the concept of 24/7 banking, says the new solution can also help customers block their debit or credit cards in case of an emergency. “It is quite possible to block your lost debit card as there will be a live human teller/bank official on tele-conference at the ATM. Once you give your credentials you will be able to block or unblock your card. Any accept of banking that is done at branches can be done with the assistance of our machines and the 24/7 teller,” said  , MD, NCR India.
+ 
+ “It will be an effective to reach out to many underbanked villages in India. And far cheaper than a brick and motor set-up,” said Dustur. In recent months, the   has also put out guidelines encouraging banks to set up more virtual branches and multi-functional ATM kiosks.
+ 
+  Another technology innovation that is soon to hit the ATM industry are QR codes and NFC technology with players like FSS, AGS currently in pilot mode. Just this month, more than 200 bank customers in Bengaluru lost as much as Rs 10 lakh due to illegal withdrawals from ATMs as advanced card skimmers and pinhole cameras were employed to read debit card numbers and PINs.
+ 
+  With the use of contactless cards, QR code, mobile app banking and NFC, customers have a higher level of security. “How it works is that customers get the OTP for cash withdrawal from their registered mobile number. Another method is initiating transaction by generating a QR code for ATM usage,” said V Balasubramanium, president, ATM services, FSS.
+ 
+ FSS also said that is in advanced stages for deploying NFC technology in ATMs. “Just like tap-and-pay pre-paid cards, you can now have tap and withdraw cards. And the NFC card can be on your mobile or a virtual card or on a wearable. We are still working out the modalities with some of our clients," said Balasubramanium. “When it comes to technology, hacking, companies like us always have to be ahead of the curve — so the necessity to constantly innovate, find new solutions,” he added.
+ 

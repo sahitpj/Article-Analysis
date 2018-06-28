@@ -1,0 +1,15 @@
+Vadodara: The ransomware attack paralysed activities at the sub registrars’ office for the second consecutive day on Tuesday as it affected seven computers in the office that looks after property transactions in the city. 
+
+ Authorities however said that the office will be able to function normally from Wednesday onwards. “We had to stop all our activities on Monday and Tuesday after the virus was detected in our computer systems. But experts from the National Informatics Centre and company engineers have completed the restoration task and we will be functioning normally from Wednesday,” said Y M Joshi, sub registrar Vadodara city 1. 
+ 
+ Joshi however added that there was no major data loss due to the attack. “While preparing sale documents for property transactions, we do video recording of five questions which are stored in the computer system. There was some malfunctioning in those files. However, engineers have taken the copy of those files on CDs and are trying to retrieve the data which was stored in only two computers. The data which has got corrupted is between the period of May 1 and May 10,” he said. 
+ 
+ On Monday night, the ransomware stuck systems of Godhra civil hospital which remained non-functional even on Tuesday. 
+ 
+ Computer systems at Kalol taluka’s election branch and some computers of Panchmahal district police were also affected. 
+ 
+ At the Vadodara Municipal Corporation, the systems that were shut down on Monday afternoon, were restarted on Monday evening after taking necessary precautions. The systems faced no problems at the civic body on Tuesday, according to officials. 
+ 
+ Officials had already started equipping the computer systems at Jan Seva Kendra of the Vadodara district collectorate with anti-virus softwares and upgrading them with the Microsoft operating systems since Monday.
+ 
+ 

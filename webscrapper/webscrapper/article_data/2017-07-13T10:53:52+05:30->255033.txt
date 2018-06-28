@@ -1,0 +1,9 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Previously, the revision in rate would happen on 1st and 16th of every month and was based on average international oil price and foreign exchange rate in the preceding fortnight. ANZ MR

@@ -1,0 +1,11 @@
+CHANDIGARH: A   that has crippled   has alarmed   (NIC) to throw a shield around the UT-Administration network. The   started taking over users' files on Friday, demanding $300 (Rs 19,200) to restore access.
+The ransomware malware has wreaked havoc in 150 countries and many Indian cities, forcing the cybersecurity agency to issue a critical alert.
+ 
+ The NIC has blocked all ports vulnerable to similar attacks and asked all the departments to update their operating systems. NIC technical director Vivek Verma said: “The virus cannot enter our network now. No infection has been reported from any department of the administration." The NIC handles the entire UT network, including key data from the registering and licensing authority (RLA), hospitals, and all the e-Sampark centres.
+ 
+ The administration offers 78 government-to-citizen (G2C), government-tobusiness (G2B), and business-to-con sumer (B2C) services through its network of 18 e-Sampark centers, 11 e-Sampark kiosks, and 14  
+ 
+  The e-Sampark centres handle issuing of birth and death certificates; online and offline payment of electricity, water and sewerage bills; booking of tube-well for irrigation; open-space and community-hall booking; tax pay ment; deposit of value-added tax (VAT), e-filling of VAT returns; sale of stamp papers and stamps; sale and receipt of Chandigarh Housing Board forms; all deposits for CHB houses; and doctor's appointment for the Sector-16 and Sector-32 hospitals.
+ 
+ Anil Prashar, head of Society for the Promotion of IT in Chandigarh (SPIC), said all the e-Sampark centres now had the latest operating systems as protection against the ransom-ware.
+ 

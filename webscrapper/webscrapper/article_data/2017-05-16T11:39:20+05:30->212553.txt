@@ -1,0 +1,12 @@
+CHANDIGARH: On Monday, hospitals in the city and   flagged a red alert after the `WannaCry'   that affected critical data globally, including hospitals in the UK and   in China.None of the institutes here has reported any intrusion of the malware.
+
+  On Monday, there was a webcast by the Computer Emergency Response Team of India, a government agency, attended by scientists at the Central Scientific Instruments Organisation and the Institute of Microbial Technology (IMTECH).
+ 
+ Also, all major hospitals, including PGIMER, Government Medical College and Hospital in Sector 32 (GMCH), and the Government Multi-Specialty Hospital (GMSH) in Sector 16, have issued an advisory to staff members to be wary of suspicious mail attachments. In fact, most users in the hospital and scientific organisations feel the malware attack is a sign to be more rampu up defences against cyber attacks.
+ 
+ PGIMER has online patient registration and laboratory test reports, while the GMCH has online appointment, reg istration and laboratory test reports. The hospital files and data in the PGIMER and other hospitals in Punjab are managed mainly by C-DAC Mohali. Also, the institute's operating system is Linux, while the malware has affected only Windows systems. “We have issued an advisory to all users in the hospital. Since we have Linux as the operating system, we are safe. All our mails are regulated under the National Informatics Centre, which has multiple security," said  , in charge of information technology at PGIMER.
+ 
+ GMCH and GMSH also held a meeting to make users aware of the cyber attack.“Our firewalls are strong. We have backed up our data," said Dr A K Janmeja, officiating director principal of GMCH.
+ 
+ IMTECH has a mixture of operating systems that include Linux, Macintosh, and Windows. “This malware affects only Windows OS. Unethical sites have also been blocked," said  , head of IT at IMT.
+ 

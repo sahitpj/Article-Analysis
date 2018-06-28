@@ -1,0 +1,13 @@
+Chennai: Are our banks safe? Is our financial data at risk? With WannaCry hitting more than 150 countries, India is at special risk as more than 58% users use pirated or outdated software, according to a BSA Global   survey 2016.
+
+ The immediate reaction to such news is — Why aren’t companies updating their software? Why are critical operations like ATM machines (70% of 2.2 lakh ATMs in India) still running on outdated Windows XP operating system? Do they not care about the safety of customers?
+ 
+ However, cyber security experts say it is the regular practice of ‘sun-setting’ by MNCs like Microsoft, which makes it more difficult for clients to catch up with updated technology. “OS (operating system) makers regularly sunset their software. What it means is they keep updating their software with newer, more expensive versions and stop supporting the older versions. What they do in effect forces clients to buy new software,” said Dhamodharan Sampathkumar, general manager at payment solutions provider Rennovite. Ethical hacker Vinod Senthil, whose oil & gas MNC client has been hit with WannaCry, says, “Indian companies are particularly dependent on Microsoft products. And it is not easy for clients to keep on upgrading to newer software. At some point they will pass on the cost to the customers — so instead of Rs 2 per ATM transaction, it could be Rs 10 or 20 per transaction. Sunsets by software giants is a way they can boost their profits from existing clients without spending on new business acquisitions.”
+ 
+ “There has been a rough estimate that it would cost Rs 1 lakh for upgrading an ATM and since there are 2.2 lakh ATMs in the country — an industry wide upgrade would cost Rs 2,000 crore,” said V Balasubramanian, president, transaction processing and ATM service, FSS. 
+ 
+ “None of our ATMs have been affected. Even today about 25,000 ATMs of 40,000 ATMs in our network were running The decision on an OS upgrade and new software has to be taken by the bank,” he said. While banks’ external networks such as ATMs that use Microsoft Windows’ OS could be at risk from WannaCry, the internal operating software they use such as Oracle's Flexcube, Temenos’ T24, Infosys’ Finacle are not, said experts. “But remember that a breach anywhere in the system — like an outdated ATM OS — can lead to breaches in the servers, bank systems and compromise of customer data,” said an executive with ATM maker NCR.
+ 
+ “Many organisations have not updated their servers with the latest ‘patch’ and block known file types or websites, which are known sources of the   resulting in virtually no protection against the known threat,” said Mukul Shrivastava, partner, fraud investigation & dispute services, EY India.
+ 
+ 

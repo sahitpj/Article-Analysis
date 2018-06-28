@@ -1,0 +1,18 @@
+HYDERABAD: Shocking as it may sound, it is not just some small and mid-sized companies that have been using pirated software, many   in the state too have been using   of server operating systems, including   server operating systems that has been the worst affected in the latest   across the globe.
+
+ This makes them extremely vulnerable to cyberattacks because even if there is an update available to fix the loophole they can do nothing but remain mute spectators to unfolding attacks.
+ 
+ Though the Windows 2003 version of the server operating system has an identified loophole for which a 'security patch' was released on May 13 (a previous patch was released in March this year), it can only be accessed by licenced users.
+ 
+ And the vulnerability does not end here. Apart from   (required by a company or office), each desktop or laptop used by employees requires a client operating sys tem and many of these are running on pirated versions.
+ 
+ IT experts say one of the key reasons for the widespread use of unlicenced software in the government and private sectors is the easy availability of extremely cheap pirated versions which cost `300 for server operating systems and `50 for client operating systems.But experts point out that in many cases more than just cost considerations, it is the lack of awareness of dangers that make pirated software popular among users.
+ 
+ “Most government offices don't have cyber security experts and fail to understand implications of buying pirated versions of software and go for the cheapest available option,“ said Sundeep Kumar Makthala, president, Telangana Information Technology Association.
+ 
+ Zaki Qureshey, CEO, E2 Labs, a cyber security academy, said, “Piracy levels in India still remain at 60% with $2.9 billion worth of unlicenced software being installed. Even the government departments are using pirated software and there is no strict law to prevent them.“
+ 
+ While IT companies almost always go for the licenced versions, many who are still using the licenced Windows 2003 server version are now busy upgrading the `security patch'.
+ 
+ “Since the last three days, we have been upgrading each of the 20,000-odd computers in our company. We have taken up the task on a war footing to ensure the systems are secured as a breach even in one system can mean a breach into all servers,“ said a senior official from an IT firm. Those saddled with pirated versions can only back up data while government offices have advised staff not to click on suspicious mails.
+ 

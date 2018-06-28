@@ -1,0 +1,8 @@
+AHMEDABAD: ‘Decryptor keys’ were on offer on Tuesday in a number of online forums and WhatsApp groups. Experts, however, warned that such solutions were a hoax.
+
+ Sunny Vaghela, a cyber crime expert from Ahmedabad, said that no genuine key was available even though many private and government organizations across the world were working on it. “Don’t walk into the trap as most of such links either stop at the ‘personal key’ option (to be provided by hackers) or don’t decrypt as promised,” he said. “There is always the danger of ransomware spreading through such misleading links.”
+ 
+ Experts said that there was no guarantee that data would be retrieved even if ransom was paid. “Hackers demand payment in bitcoin, which is not legitimate currency in India,” said a cyber cell official. “Transactions take place on the dark web and thus it is not possible to trace the hackers.”
+ 
+ In its advisory, the cyber cell has said that users — as a precaution — should check firewall settings; disable ActiveX and macro in   applications; block TCP ports 137, 139, and 445 and   ports 137 and 138 from   firewall settings on the control panel; and disable Server Message Block (SMB) services. They said that files with extensions such as .exe, .vbs and .scr should not be downloaded.
+ 

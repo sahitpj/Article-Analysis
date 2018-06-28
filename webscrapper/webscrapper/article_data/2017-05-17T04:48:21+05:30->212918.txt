@@ -1,0 +1,15 @@
+AHMEDABAD: After several computers of Ahmedabad city police were found infected with malware on Monday, the police officials conducted a training workshop for over 300 constables and head constables working as computer operators in various police stations and administrative departments. 
+
+ City police officials said that a massive drive is already under way to upgrade all computer systems and install latest operating system patches released by  . 
+ 
+ “The training step-by-step explained the security features and what precautions need to be taken. The aim of the initiative is not only to address the current threat, but also of enabling them to identify threats by running security scans and reporting the same to the department’s IT experts,” said an official.
+ 
+ The city police’s cyber cell continued receiving calls on its helpline (079-22861917 and 079-25398549) on the second consecutive day since the worldwide   attack. 
+ 
+ Crime branch officials said that callers included both government and private sector members who wanted to understand the procedure of securing their PCs and from where update patches can be downloaded.
+ 
+ “About 100 persons called up on Monday, and today about 70 persons inquired about the ransomware, how to be safe and and computer security procedure,” said Deepan Bhadran, DCP (crime). 
+ 
+ Sources said that computer systems were down at a number of police departments in   as a precautionary measure. The systems such as eGujCop function on WAN, they added.
+ 
+ 

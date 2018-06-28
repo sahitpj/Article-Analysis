@@ -1,0 +1,10 @@
+VADODARA: Soon, the government railway police (GRP) personnel will be able to contact each other across the state with a simple push of button on their walkie talkies. The railway police has initiated a project wherein their personnel will be able to call each other directly by   over Internet Protocol (RoIP). Currently, the   personnel talk with each other locally over walkie talkie. 
+
+ "With implementation of RoIP (Radio over Internet Protocol) in GRP, all railway cops will be able to talk with each other anywhere in the state through internet. It will make communication swifter and smoother," said Sharad Singhal, western railway SP. 
+ 
+ He said according to the current system, if a railway cop from Vadodara has to pass on information to his counterpart in Rajkot or Ahmedabad, he or she has to contact the local control room that then communicates the message to the control room in other district. The personnel there sends the message to the concerned cop there. 
+ 
+ With implementation of RoIP that was envisioned by the then   technical services, A K Singh last year, the GRP will be able to conduct its tasks swiftly. "We have already carried out pilot test over internet service of   and the results are encouraging. The voice is clear and there are no breakages during the communication," Singhal added. He had prepared a project report and sent to state home ministry that has approved Rs 1 crore for the project. 
+ 
+ "Wi-Fi is being introduced at many railway stations and soon trains like   and Shatabdi will also have internet connections. We will be able to use RoIP to improve policing and investigations in future. And even the cost of calling will be much cheaper," Singhal said. 
+ 

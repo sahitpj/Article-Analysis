@@ -1,0 +1,12 @@
+KOLKATA: Some of the ATMs in rural and remote areas of the state may remain closed for as long as 24 hours owing to a mandatory upgradation of software in the wake of widespread attack of   ransomware. The bankers, though, have assured customers that WannaCry hasn’t hit any ATM infrastructure so far and would not be spoiling ATM operations soon. As per conservative estimates, 10% ATMs may have to be   for some time for this upgradation exercise. However, some other sources pegged the figure at 25%.
+
+ Although there is a difference in the number of ATMs up for software upgrade as announced by banks, all the bankers — from both state-run as well as private banks — said in urban areas like Kolkata most of the ATMs have already been upgraded. According to experts, banks are upgrading ATMs from   XP operating system to  .
+ 
+ SBI chief general manager   told reporters here that out of 3,000 ATMs of this biggest PSU lender, around 1,000 would be closed for upgradation. “It has to be done by the original vendor. As of now, there is no restriction in any ATM of SBI so far. For upgradation, we need some time for loading, downloading and tasting. But the total time required for this may not be substantial,” he added. 
+ 
+ There are 11,000 active ATMs in  . As per estimates, around 2,000 ATMs might have to be upgraded. He also urged that ATM and net-banking users need not panic and can carry out operations safely.
+ 
+ There could be some small hiccups here and there but customers should not panic, feels a top official of a leading private sector bank. “Yes. Some ATMs might have to be stopped for some time for upgradation as per the RBI directive. But the number of such ATMs would not be more than 7% to 8% of the total ATM population,” the official added. 
+ 
+ An executive of Axis Bank pointed out in any normal day, around 20% ATMs remain non-operative due to various reasons, including shortage of cash and link failure. 
+ 

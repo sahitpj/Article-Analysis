@@ -1,0 +1,39 @@
+BENGALURU | MUMBAI: In its first major restructuring exercise in close to a decade, India's largest IT services company   (TCS) has reorganised its service lines and put them under a new president,  .
+ 
+  The company has also reshuffled business heads, as it looks at growing its digital offerings. Ramanujam, to whom all of the company's service heads will report, will report to new CEO  . The last major organisation structuring at the company was in 2009, when   had taken over as CEO.
+  
+  The exercise comes at a time when TCS, like its peers in the IT services industry, is looking at focusing on new businesses like digital. In fiscal 2017, TCS’ digital business grew at 28% and contributes about 16% of its revenues. According to industry lobby Nasscom, digital contributes about 14% of the industry’s $155 billion revenues.
+  
+  
+ 
+  
+  “This restructuring will also make us more nimble,” Ramanujam told ET in an exclusive interview and create career growth opportunities for younger leaders. “We used to have a full services play and now we have a full stakeholder play. We will be able to target our services to the chief marketing officer, the human resources head, not just the chief information officer (of customers),” he said.
+  
+  
+ 
+  
+  Broadly, TCS has merged all service lines into one mega unit called Business and Technology services which will, in turn, have three main buckets — Cognitive Business operations, Digital Transformation Services and Consulting and Service Integration.
+  
+  Individual service lines have been clubbed into these three buckets. For instance, Enterprise BPS Services and IT infrastructure business have been clubbed under Cognitive Business Operations.
+  
+  Large service lines like application development and maintenance, which contributed 38% of TCS revenue last year, have been broken down into smaller units such as Enterprise Application Services, Cloud Applications, Microservices and APIfication. Cloud infrastructure will be a separate unit.
+  
+  As part of the re-organization, the company has also reshuffled some of the heads of its service lines, a TCS executive told ET. He declined to be named.
+  
+    — the global head for engineering and industrial services — will head the internet of things service line. Dinanath Kholkar — the global head for business process services and analytics — will head the analytics and insights unit.
+  
+  Satishchandra Doreswamy, who had headed business operations at Wipro before rejoining TCS, will head the Cloud Infrastructure unit. Jayashree Natarajan — who was head of Assurance Services Unit — will head the Assurance Centre of Excellence, a source with direct knowledge of the changes told ET.
+  
+  “We will bring in people with proven experience as well as those who have run smaller business units. This gives career progression to the younger leaders,” Ramanujam said. He declined to give a list of the executives heading the different units under him.
+  
+  The company has also given control of some service lines, which had become very large, to the industry verticals such as manufacturing.
+  
+  “For example, our SAP business had alot of manufacturing vertical, so some of that business has been taken over by the industry vertical,” said Ramanujam who was previously vice president and global head of consulting and enterprise solutions.
+  
+  At the last restructuring, Chandrasekaran had split the company into units which had the potential to grow to $500 million t0 $1 billion in revenue in the next few years.
+  
+  Ramanujam declined to state if the new structure and service lines had similar goals. “We have very aggressive goals for each of these service lines but I am not going to give you a number,” Ramanujam said.
+  
+  One way to estimate the company’s targets to is to see the management firepower backing the reconstructed service lines. Kholkar, who will head analytics and insights, ran the company’s business process services unit — which contributed a little over $2 billion in revenue last year. Ayyaswamy, who will head the internet of things unit, ran the $850 million engineering & industrial services business.
+  
+  TCS CEO Gopinathan had hinted that changes were underway in the company’s fourth-quarter analyst call. “Our service line reporting conventions date back to more than two decades and we are increasingly realising that this is slightly out of sync with the way services are currently getting consumed or the way customers are engaging with us,” Gopinathan had said. TCS sent out an internal email informing employees about the changes. 

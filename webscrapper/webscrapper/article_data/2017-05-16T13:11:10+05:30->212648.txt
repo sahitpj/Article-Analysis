@@ -1,0 +1,6 @@
+CHANDIGARH: The   of   has issued an advisory to all departments to be on guard against a   on their computers and not open any.  
+
+ Computer files with this extension carry a virus that encrypts the entire data on the system and demands ransom in bitcoins for an access back to your important files. Cyber-cell's officer in charge, Harinder Singh Sekhon, said people had been warned against opening even the .exe-file that seems to be from anyone they know, since hackers use similar names to send ransomware.
+ 
+ Sekhon said the cyber cell had received no ransomware report from the city , so far.Cybercriminals have targeted private companies and government offices mostly . Cyber expert   said of all the virus cases that had come to him from all over the country over the past year, more than 50 were of ransomware. A day ago, he received a case from Italy and another five from Greece. “Decrypting the ransomeware takes two to three days,“ he said.
+ 

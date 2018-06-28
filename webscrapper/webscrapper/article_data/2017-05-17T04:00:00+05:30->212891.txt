@@ -1,0 +1,9 @@
+Mumbai:   has said that as a precautionary measure, it has pulled out some hundred passbook   running on   to install a security patch. These printers are being operationalised immediately as soon as the update is complete.
+
+ With several passbook printers not working, there had been rumours that a branch has been infected with the   malware, which locks out users from their system and demands a ransom for the release.
+ 
+ “We are taking some preventive maintenance on our passbook printers which are running on Windows. There is no instance reported of any case of malware infection. There is nothing wrong with the network,” said SBI deputy MD and chief information officer Mrutunjay Mahapatra.
+ 
+ The Indian Computer Emergency Response Team (CERT-In) on Monday had said that it had not received any formal report of a cyberattack on Indian networks by WannaCry. The agency said that it is in touch with  , whose Windows OS is widely used by the government and in businesses across India.
+ 
+ 

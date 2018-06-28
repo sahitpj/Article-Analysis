@@ -1,0 +1,16 @@
+HYDERABAD: Citizens of the 'Cyber City' can breathe easy for the time being as no instances of ATMs being breached by the 'Wannacry' ransomware have come to light yet.
+
+ But not willing to take any chances, ATM management companies are gearing up to update the patches released by Microsoft to beef up protection against malaware. Though officials of all the banks in the city said their ATMs have not been hit by the attack, all ATMs across the city will be updated using the fresh patches after being tested by the ATM OEMs (original equipment manufacturers) over the next few days.
+ 
+ “We are working on the advisories sent out by various agencies on data protection within the banking system, but we have not yet received any communication regarding ATMs. None of our ATMs has been impacted by  ,“ said a top official of a public sector bank.
+ 
+ ATM operators say that even if an ATM is impacted it can be up and running after three to four hours of servicing.
+ 
+ “Though the chances of ATMs being impacted by this cyber-attack are very slim, it is not just Windows XP that can be corrupted by ransomware. Other versions like Windows Vista, Windows 2003, Windows 2008, which are used by many ATMs, too are vulnerable,“ said  , president (technology),  , a management services firm that handles ATMs for public sector banks.
+ 
+ According to him, Microsoft has released patches even for ATMs that fall under the end of support category (those running on outdated operating systems for which Microsoft has stopped providing support) and they will be upgrading patches on all the ATMs irrespective of whether they are affected by the ransomware attacks or not. Banks in the city are working on the advisories given by the Indian Computer Emergency Response Team (ICERT) and the Institute for Development and Research in Banking Technology (IDRBT), the research wing of the   (RBI) based out of Hyderabad.
+ 
+ “The advisories were sent to chief information security officers ( ) of all banks on Saturday, but that was for protection of data. We have not received any communication from RBI on ATMs yet,“ said the top official of another public sector bank.
+ 
+ On Monday, ICERT conducted a web seminar for all banks and gave suggestions on how to protect their IT systems. Bank officials were asked not open any mails from unidentified sources.They were also asked to exercise caution in opening attachments or URL links sent in mails.
+ 

@@ -1,0 +1,9 @@
+SHIVAMOGGA: A laptop belonging to an information technology teacher at PES Institute of Technology and Management in   district was hit by the WannaCry ransomware on Monday night. The hackers have demanded $600 worth of bitcoins to decrypt his files and allow him access.
+
+ “It was around 11pm and I was browsing the internet on my laptop when several popups started showing on the screen. I was in a hurry, and in that tension, I opened one of the pop-ups. That activated the malware,“ U Arjun said.Soon, his data was encrypted and the malware spread to other drives. Subsequently , all his videos and documents got encrypted and he received a message that read: “Your important files are encrypted. May be you are busy looking for a way to recover your files, but do not waste your time. Nobody can recover your files without our decryption service.“
+ 
+ The hackers have given him three days to pay the $600 ransom and directed him to pay by bitcoins. The message also has instructions on how bitcoins can be accessed.
+ 
+ There has been another report of the ransomware attack from Haveri district in north  . However, when contacted, cyber crime sleuths maintained they haven't received any complaint on the ransonware attacks so far.
+ 
+ 

@@ -1,0 +1,16 @@
+NEW DELHI: While the world reels under a global   attack, the capital’s   too had suffered a similar breach in March last year. Three of their systems were infected with a malware called   that encrypted all data on them, and asked for two   (which was worth around $825 at the time) to decrypt it and unlock the systems.
+
+ The hospital’s chief information officer Niranjan K Ramakrishnan told TOI that the situation was quickly controlled as the infected systems were isolated from the networks hosting the hospital and lab information systems.
+ 
+ “An employee had downloaded a zipped file with the malware through personal email. That is how the system got infected. Two other machines connected with this system also got the same malware. These affected systems had a message in a text file leading that contained a link. It led to a page that asked for 2 bitcoins by a deadline,” recalls Ramakrishnan. The affected systems were on Windows XP operating system at the time. Strangely enough, says Kumar, the ransom came down to 1 bitcoin when they checked the link again after a couple of weeks.
+ 
+ Ramakrishnan says the hospital chose not to report the attack as the scale of the breach was small and no sensitive data were affected. Paying ransom too was out of the question. “These systems were not connected to our hospital or lab information systems. 90% of the data we had on the infected systems were backed up. We brought in a new policy where we prohibited use of external USB drives. We also isolated the enterprise network of the hospital from the external network and got an audit done. Our business was not affected,” says Ramakrishnan, adding that the hospital has now upgraded to Windows 10 -- something that had everyone heaving a sigh of relief as the   cyber offensive unfolded across the world.
+ 
+ “We definitely would have been in a soup had we not upgraded,” says Ramakrishnan, who has disabled internet access on hospital systems since the WannaCry attacks started. “In the last four days, people have begun to understand the importance of such measures,” he says.
+ 
+ Ransomware is a kind of malware that, literally, holds one’s data to ransom. The malware, once inside the system, encrypts or locks all data and asks for a “fee” to be sent to the malware creators to release the data back to the rightful owner. WannaCry is a strain of ransomware that infected systems in Europe and Asia and started spreading the world over last weekend. In India, 102 computers of the Andhra Pradesh police were compromised with WannaCry.
+ 
+ The current spate of WannaCry ransomware attack exploits certain vulnerabilities in Windows XP, for which Microsoft released a security update in March this year. However, the ransomware that affected Sir Gangaram Hospital last year was a different strain. It was called “Cryptowall”. 
+ 
+ An advisory from cyber security firm Symantec says, “In Cryptowall spam campaigns, the emails usually contain a malicious attachment and include a message attempting to convince the user to download the file. The email could claim that the attachment is an invoice, an undelivered package notice, or an incoming fax report. If the user opens the attachment, then their computer will be infected with Ransom.Cryptowall.”
+ 

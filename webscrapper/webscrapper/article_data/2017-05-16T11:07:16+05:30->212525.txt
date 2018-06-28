@@ -1,0 +1,8 @@
+HYDERABAD: The   (ICERT), that falls under the Union ministry of electronics and information technology and tracks cyber security incidents, is learnt to have sent an alert to officials of the IT departments of   and   about the possibility of the   five days back. 
+
+ Despite being alerted a day before the ransomware attack, the fact that crucial data of AP police was encrypted by the attackers shows how ill-prepared they were on the measures they should have taken to ward it off.
+ 
+ In fact, government sources confirmed to TOI that more than one alert was received in the past two weeks. "While there are many alerts that are sent by CERT, escalating the alert to the next level requires the capability of understanding how much importance should be given to the alert and the possible implications. Not all alerts are acted upon," said a government source. 
+ 
+ The Telangana IT department, which has so far remained unaffected by the attacks, asked its officials to be extra careful accessing their emails. As per a 'propaganda drill' other departments too were asked to be cautious. "We were asked not to click on any suspicious mails and back up all important files and data on the systems," said a government official.
+ 

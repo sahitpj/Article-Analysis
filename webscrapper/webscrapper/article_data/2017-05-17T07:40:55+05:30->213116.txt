@@ -1,0 +1,16 @@
+PALAKKAD/THRISSUR: The computers of the   of   were affected on Tuesday by the  , which has crippled millions of computers around the world. As many as 23 computers were affected and seized to function on Tuesday. The attack took place during the lunch break. 
+
+ The railway division said in a statement here that "no data was lost. Prompt and effective steps have been taken to protect the remaining systems by strengthening the security of Internet at zonal level". 
+ 
+ "The virus threat was found in 23 out of about 500 computer systems available in various departments of the divisional office. Those which were affected ceased to function, displaying the warning message that unless specified ransom money is paid within the prescribed time, the whole data stored in the system are bound to be destroyed," the statement said.
+ 
+ Meanwhile, Information Kerala Mission (IKM) officials on Tuesday examined the computers at the Aanakara and   following reports of   on Monday. According to IKM district coordinator Manoj, it was the client computers which were affected at Kuzhur and consequently there was no data loss there.
+ 
+ The panchayat secretary Vijayan said out of the five computers which were affected by the ransomware attack four were formatted by the IKM experts, while one has been left unformatted to enable the cyber police to collect data. "We have also filed a complaint with the Mala police station," he said.
+ 
+ However, the server and three systems were affected in the WannaCry computer malware attack at Annamanada panchayat, according to the panchayat secretary Stanley Varghese.
+ 
+ Manoj said much of the data could be recovered from the server at Annamanada by the IKM experts.
+ 
+ Asked about reports of ransomware attack at Poyya panchayat, Manoj said their server was down earlier itself, and that had nothing to do with the current cyber-attack.
+ 

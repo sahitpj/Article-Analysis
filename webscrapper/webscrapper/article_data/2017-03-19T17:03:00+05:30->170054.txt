@@ -1,0 +1,30 @@
+LONDON: Scientists have developed a new wireless internet based on harmless infrared rays that is 100 times faster than existing   network and has the capacity to support more devices without getting congested.
+
+ Slow wi-fi is a source of irritation that nearly everyone experiences. Wireless devices in the home consume ever more data, and it is only growing, and congesting the wi-fi network, researchers said.
+ 
+ The wireless network developed by researchers at   in The Netherlands not only has a huge capacity - more than 40 Gigabits per second (Gbit/s) - but also there is no need to share since every device gets its own ray of light.
+ 
+ The system is simple and cheap to set up. The wireless data comes from a few central 'light antennas', for instance mounted on the ceiling, which are able to very precisely direct the rays of light supplied by an optical fibre.
+ 
+ The antennas contain a pair of gratings that radiate light rays of different wavelengths at different angles ('passive diffraction gratings').
+ 
+ Changing the light wavelengths also changes the direction of the ray of light. Since a safe infrared wavelength is used that does not reach the vulnerable retina in your eye, this technique is harmless.
+ 
+ If you walk around as a user and your smartphone or tablet moves out of the light antenna's line of sight, then another light antenna takes over, researchers said.
+ 
+ The network tracks the precise location of every wireless device using its radio signal transmitted in the return direction, they said.
+ 
+ It is a simple matter to add devices: they are assigned different wavelengths by the same light antenna and so do not have to share capacity.
+ 
+ Moreover, there is no longer any interference from a neighbouring wi-fi network.
+ 
+ Current wi-fi uses radio signals with a frequency of 2.5 or five gigahertz.
+ 
+ The new system uses infrared light with wavelengths of 1,500 nanometres and higher.
+ 
+ This light has frequencies that are thousands of times higher, some 200 terahertz, which makes the data capacity of the light rays much larger.
+ 
+ Researchers managed to achieve a speed of 42.8 Gbit/s over a distance of 2.5 metres. Even if you have the very best wi-fi system available, you would not get more than 300 Megabit/s in total, which is some hundred times less than the speed per ray of light achieved by the new system.
+ 
+ The system has so far used the light rays only to download; uploads are still done using radio signals since in most applications much less capacity is needed for uploading.
+ 

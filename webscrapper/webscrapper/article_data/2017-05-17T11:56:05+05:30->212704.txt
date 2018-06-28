@@ -1,0 +1,47 @@
+Much like the plot of a sci-fi cybercrime movie, the world woke up to a rude shock last Friday when a malware (malicious software) crippled the operations of big organizations and corporations by hacking into their computers and locking them out of their own data unless they paid a ransom of $300 (over `19,000). The particular malware, aptly titled ‘ransomware’ is named   and was created by hackers after they got their hands on a treasure trove of super-secretive cyber-attack tools from USA’s National Security Agency last month. The cyber-attack has hit more than 2,00,000 computers in 150 countries since Friday, and over $50,000 (around `32 lakh) have paid so far, according to a cyber company.
+
+ 
+ 
+ The malware only affects Microsoft’s Windows operating system, exploiting a vulnerability in it. The infections are deployed via a worm, spreading by itself within a network rather than relying 
+ on humans to spread it by clicking on an infected attachment
+ 
+ 
+ 
+ The cyber attack has not spared anyone — governments, hospitals and major companies are all battling it. Among the organizations that were affected on a big sale worldwide were UK’s National Health Service, Spanish telecommunications operator Telefonica, Germany’s rail network Deutsche Bahn, US logistics giant   and Russia’s interior ministry. Those that were partially affected included universities in China, companies in Japan, France and Australia and hospitals in Indonesia. In India, the police computer systems in   and some companies in Bengaluru, Mumbai and Hyderabad were hit.
+ 
+ 
+ 
+ While Microsoft has come under the scanner, the company cannot be held accountable. A month prior to the exposé about its vulnerability, they had released a free patch — an update that is designed to strengthen security vulnerabilities to counter the exact weakness that the   is exploiting. Users who had their Windows system up-to-date were safe; it was only the ones who hadn’t installed the patch that suffered.
+ 
+ 
+ 
+ WannaCry only infects machines that run on Windows operating systems. If users do not update Windows, or open suspicious emails and click on unverified links, then you could be at risk. Users can protect themselves by running updates, using firewalls and anti-virus software, although home users are at a lower risk to this worm
+ 
+ 
+ 
+ The cyber attacks have slowed down, thanks to the ‘heroics’ of Marcus Hutchins, a 22-year-old British security researcher. While investigating the attack, he noticed that the malware was trying to contact a specific web address each time it infected a new computer, and that the web address it was trying to contact had not been registered. So, Marcus registered it by buying it for $10.69 (`685). By owning it, he was not only able to see where computers were accessing the ransomware from, but it also triggered part of the ransomware’s code — a kill switch — that stopped it from spreading. The kill switch is basically a code used by attackers to halt the spread of their software if things get out of hand.
+ 
+ 
+ 
+ Banks in Karnataka remained unaffected by the ransomware because they adhered to the advisory issued by the Union ministry of electronics and information technology, and by installing the latest patch.   (CERT-In), the nodal agency to tackle hacking phishing, and secure defences of the Indian internet domain, issued a red-coloured critical alert on Saturday to all organizations, asking them to take necessary precautionary measures against the malware.
+ 
+  
+  
+ 
+ 
+ 
+ While the identity of the attackers or the country of its origin remains unknown, the attacks have slowed down, thanks to Marcus. Security experts around the world are still wary about it; they are almost certain that either new variants of the malware that ignore the kill switch will appear or that similar malwares by copy-cat authors will. Besides, the registration of the web address does not repair computers that are already infected. The cyber attack has also reignited the debate over whether or not governments should disclose vulnerabilities that they discover, instead of stockpiling them to use it to their advantage as and when needed.
+ 
+ 
+ 
+ l Top five cities in India affected by WannaCry: Kolkata, Delhi, Bhubaneshwar, Pune and Mumbai 
+ l Top five states with the highest number of infections:  , Maharashtra, Gujarat, Delhi-NCR and Odisha
+ l In India, 60% of the attempted attacks were aimed at enterprises and 40% at individuals
+ l More than 700 isolated ransomware cases across India
+ l Systems can get infected by clicking or downloading malicious files
+ l Ransom to be paid only via  
+ l Seven-day deadline to erase data forever
+ l In England, 61 National Health Service ( ) organizations reported problems at hospitals. 
+ l Many surgeries were cancelled due to the lock out
+ 
+ 

@@ -1,0 +1,18 @@
+NEW DELHI: A burger can cost you a lot. 
+
+ Personal data of more than 2.2 million users has leaked from McDonald’s India app,  ,   firm Fallible said.
+ 
+ The leaked data includes name, phone number, email addresses, home addresses, accurate home-coordinates and social profile links. 
+ 
+ Cyber security experts said hackers could use the information to access financial details of users, including credit/debit card information and e-wallet details. 
+ 
+ The compromised app and website of the US burger chain is operated by Westlife Development, which runs McDonald’s operations in the south and west India. 
+ 
+ The official spokesperson of McDonald’s India (west & south) said, “We would like to inform our users that our website and app does not store any sensitive financial data of users like credit card details, wallets passwords or bank account information. The website and app has always been safe to use, and we update security measure on regular basis. As a precautionary measure, we would also urge our users to update the McDelivery app on their devices. At McDonald’s India, we are committed to our users’ data privacy and protection.”
+ 
+ Amit Singh, co-founder of Yitsol, which provides cloud migration services, said, “Security is the last priority of many firms in India. I know of incidents in Hyderabad, where hackers stole user information from startups and demanded ransom in Bitcoins.”
+ 
+ With the country going digital and app usage on the rise companies could not afford to relax when it comes to cyber security, he said.
+ 
+ Fallible said it contacted McDelivery about the data leak on February 7 and received an acknowledgement from a senior IT manager at the firm. “The McDonald’s fix is incomplete and the endpoint is still leaking data,” Fallible wrote on its blog on Saturday.
+ 
