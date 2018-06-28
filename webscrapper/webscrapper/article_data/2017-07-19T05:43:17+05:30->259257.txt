@@ -1,0 +1,18 @@
+CHENNAI: With a PhD in mathematics, Bharat Ramakrishna was preparing content for school children when suddenly he found a well-paying job in the machine learning & data sciences space.
+
+ No longer is a mathematics background purely academic. Maths majors are now in demand for a job in   and data sciences. “After graduating from the  , I was into preparing question banks for students. Now, concepts such as matrices, linear algebra and calculus are being used in artificial intelligence and it is easier for a mathematics graduate to learn coding than vice versa,” said Ramakrishna, data scientist at Skillenza.
+ 
+ Ramakrishna, who has seen a 20% increase in the remuneration from his earlier job, says that the current job also offers a better learning curve and application of concepts learnt. A background in mathematics helps the engineers understand algorithms, which form an essential part of artificial intelligence in machine learning. Graduates in statistics and computing are also seeing jobs in data sciences.
+ 
+ “Today, every other company wants a math-oriented student. We see a lot of demand from financial services where companies are looking for someone who comes with math and finance integrated background,” said Rajeeva L Karandikar, director, Chennai Mathematical Institute.
+ 
+ As demand exceeds supply, Karandikar says traditional math programs are not equipped to prepare students in taking up industry positions. “Areas like  , big data, analytics are on the lookout for math students. However, a big shift in the curriculum is required,” he said.
+ 
+ “A math graduate doesn’t have too many options besides research and academics. With the support of the industry, universities can do much more to prepare these students,” he said.
+ 
+ Retail tech company   is on the lookout for maths graduates and currently has interns from students pursuing post-graduation in mathematics and computing at IIT Kharagpur. “We have made pre-placement offers to them and these interns who know maths and programming do well. They will join us once they finish their course,” said  , principal data scientist, Capillary.
+ 
+ Realising the need for understanding in math and computing, engineers take up short-term courses to have a basic understanding on statistics and coding. “About 70-80% of the applicants are engineers and we have seen a high demand since we launched the course on data analytics that has statistics and coding in its syllabus. They are generally strong in coding, but they are generally weak in basics of computation,” said Mayank Kumar, co-founder, Upgrad.
+ 
+ Another area that has employers scouting for math talent is blockchain. “Blockchain involves a lot of prime number theory and other math concepts. There is a big need for number theorists in this space,” said Karthik Iyer, founder, Blockchainmonk.
+ 

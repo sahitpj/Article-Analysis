@@ -1,0 +1,9 @@
+MUMBAI: The   ( ) has clarified that, where the recipient of a service is required to deduct   (TDS) when making a payment to the supplier, the amount of   shall be computed without grossing up for the goods and service tax ( ) component, which is also part of the bill.
+
+ To enable TDS to be computed exclusive of the GST component, it is vital that the GST component is indicated separately, adds the CBDT in its circular issued on Wednesday. The CBDT is continuing with the stand adopted by it earlier in case of service tax, where the amount payable was not grossed up with the service tax component for determining TDS.
+ 
+ There are several payments, such as works contracts which attract GST (at 18%) and which also attract TDS (at 10% on fees for technical services) under the Income Tax (I-T) Act. Agreements in the construction sector are prime examples of works contracts, which entail both a supply of goods and services.
+ 
+ To illustrate, if the payment under a works contract is Rs 10 lakh, GST will be Rs 1.8 lakh. The issue posed to the CBDT was whether the TDS would be on Rs 11.8 lakh or Rs 10 lakh. If the GST component is indicated separately, CBDT clarifies that TDS will be against Rs 10 lakh which is the income of the service provider. In other words, Rs 1 lakh will be the TDS component. The CBDT has clarified that this circular will also apply to existing contracts entered into before July 1, when GST was introduced.
+ 
+ 

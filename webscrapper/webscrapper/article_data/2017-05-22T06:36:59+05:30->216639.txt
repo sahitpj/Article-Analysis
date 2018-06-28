@@ -1,0 +1,15 @@
+KOCHI: In an attempt to modernize computer science learning in   schools, 14 schools in Kochi have opted to introduce the new   in schools for the academic year 2017-18. 
+
+ The alternative syllabus, 'CSpathashala', intends to change the priorities of the existing computer science syllabus which is more instructive. The new programme will be more focused on developing the technological skills of the students. The CSpathashala is currently available for grades I-VIII.
+ 
+ "Currently the computer education in schools are based on computation skills. Students are learning how to execute exclusive commands on MS Excel and get the programme to act upon it. Under the CSpathashala students will be taught how MS Excel is the making these calculations. That way they will understand to execute these operations," said Premlata Shaji, a member of the CBSE   group.
+ 
+ The curriculum for CSpathashala designed by the  's (ACM) India, a non-profit organization comprising technological professionals, in order to inculcate problem-solving skills in school children. ACM India plans to take CSpathashala to all schools in India by 2030.
+ 
+ "CSpathashala intends to develop the problem-solving skills, step-wise thinking and decision making, which can be used in all computing languages, hence making them easier to understand," she said.
+ 
+ "We have been making our computer syllabus software independent for a while now. Introducing CSpathashala will help in that process," said Susanna Sunil, vice-principal of  , which will implement CSpathashala this academic year.
+ 
+ "Currently the programme is being implemented in several schools in Pune and it has been a massive success," said Premlata Shaji.
+ 
+ 

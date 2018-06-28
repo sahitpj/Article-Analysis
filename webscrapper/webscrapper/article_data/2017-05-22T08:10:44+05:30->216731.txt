@@ -1,0 +1,4 @@
+KOHIMA:   Pankaj Kumar said   should be careful about protecting the   of any person, be it beneficiaries or otherwise, while   on websites. 
+
+ Kumar said agencies using Aadhaar must strictly follow all security guidelines specified by UIDAI with regard to 'Storage and data protection guidelines'. If Aadhaar numbers are stored in databases, data must be encrypted, no Aadhaar data is to be disclosed to external agencies or unauthorized persons, and regular audits must be conducted. 
+ 

@@ -1,0 +1,14 @@
+NEW DELHI: The government has sounded an alert for a possible onslaught on its information technology apparatus, warning that loopholes in software and the set-up at large could be exploited by assailants to paralyse the system.
+
+ Such a cyber assault, where a system’s vulnerability is exploited by   to gain unauthorised access to infiltrate malware or spyware, is known as a ‘zero-day’ attack.
+ 
+ The government’s heightened vigil comes amid increased concerns about malware attacks on critical installations, especially in the wake of the recent ‘Wannacry’ ransomware attack that crippled hundreds of thousands of systems in at least 100 countries.
+ 
+ Union information technology minister   said that a National Cyber Coordination Centre (NCCC) was being set up to counter security threats and strengthen the IT security apparatus. “We are strengthening the cyber-security walls, and this is being undertaken on a proactive basis,” Prasad told TOI, “It is a 24X7 vigil.” A government report has pointed at “security threats” to official infrastructure through laptops, desktops and mobile phones being used by senior officers.
+ 
+ According to the report, there should be a “central control” on the browsing, and these measures should be rolled out through the National Informatics Centre (NIC) and the Indian Computer Emergency Response Team (CERT-In). Prasad said that the cyber coordination centre was being set up in order to have real-time situational awareness and mount a rapid response to cyber security incidents. “It will generate the necessary situational awareness of existing and potential cyber-security threats, and enable timely sharing of this information for proactive preventive and protective actions by individual entities,” he added.
+ 
+ It was the government’s prompt response to warnings that minimised the impact of WannaCry in India. Prasad said that CERT-In had issued a “vulnerability note” regarding a potential cyber attack as early as March 15, and came out with a response on May 13 when the attack hit computers and software systems in the country. CERT-In also alerted the RBI as well as Sebi, besides key organisations in banking and finance, power, defence, telecom, income tax, and central and state governments.
+ 
+ The government has also formulated a crisis management plan to counter hackers, cyber terrorists and online attackers. “This will be implemented by all the ministries and departments of the central and state governments as well as organisations in critical sectors.”
+ 

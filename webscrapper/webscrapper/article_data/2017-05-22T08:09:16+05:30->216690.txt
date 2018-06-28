@@ -1,0 +1,17 @@
+KOZHIKODE: Stepping up their guard against   and  , universities in the state will maintain backup of their entire data in remote-location data centres located in each other's campuses as part of disaster recovery plan. 
+
+ Also the varsities in the state are on track to migrate their operations to a unified integrated software (ERP solution) that will manage all aspects of varsity administration - from student admissions to academics, examinations, planning and finance - by next financial year under the e- governance project being implemented by the state higher education department.
+ 
+ "Currently each varsity is storing their data, including student and examination- related data, in their own servers and if some disaster strikes the facility, there will be no backup of data. Under the e-governance project, varsities will allot space in their secure data centres for other varsities to maintain a backup to enable data recovery in the event of an eventuality," said Madhu V T, chairman of the state-level project level committee (PLC) formed for implementation of the e-governance project. 
+ 
+ He said that  ,   and Sree Sankaracharya University of Sanskrit have already set up their own dedicated data centres.   has its full- fledged data centre in two months' time while the two other varsities would also have their own data centres soon. 
+ 
+ "As per the plan, the entire data of Kerala University data will be backed up and stored in Calicut University's data centre and vice-versa. CUSAT and Kannur University will share space in their data centre among themselves for backup purposes and MG University and Sanskrit University will host each other's data in their data centres," he said.
+ 
+ Madhu said that apart from six varsities, the directorate of collegiate education (DCE) and directorate of technical education (DTE) will be part of the e-governance platform. It will see the development of a common ERP application with separate modules for digital office procedure, administration, planning, finance, academics, examination and teaching for all the six varsities.
+ 
+ "Apart from enhancing the quality of varsity services, the unified software platform would make available accurate data and information at a single collaborative space which helps in making faster and informed decision making," he added.
+ 
+ The trial implementation of the first module- digital office procedure- is underway at CUSAT, Sanskrit University and directorate of collegiate education. 
+ 
+ 

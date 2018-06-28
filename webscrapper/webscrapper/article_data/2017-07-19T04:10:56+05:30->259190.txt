@@ -1,0 +1,28 @@
+GURUGRAM: The   like (thumbs up) symbol is synonymous with the brand, and has been there since February 2009. Thus, when the social media behemoth launched Facebook reactions in February 2016, it came as a surprise to one and all. The introduction of five reactions, depicting love, anger, wow, laughter and sadness generated a lot of discussion both online and offline.
+
+ A year and a half later, these reactions have become ubiquitous. Few would know that it took over a year of research and design engineering for Facebook to come up with these.
+ 
+ 
+  
+ 
+ “As popular as it is, the sole Like option did not go with a lot of posts. So we reached out to users, asking them what they would want to use instead,” said Satyajeet Singh, who handles Product Partnerships at Facebook India. He highlighted the importance of user research in building a product or feature, while delivering the keynote speech on ‘Designing for Emotions’ at the Design4India summit in Gurgaon on Friday. 
+ 
+ The summit is a   initiative in association with Facebook. It aimed to create an impact on software technology product circuit by bringing design and product ecosystems together, It was addressed by eminent speakers like Satyajeet Singh, Patrick Newbery, CSO of Method and chief design officer at Practice Lead Globallogic and Saurabh Das, GVP (marketing, experience platforms), SapientRazorfish. 
+ 
+  Singh said the first step of building reactions is to reach out to users, asking what emotions they wished to use instead of a Like. 
+ 
+ The company’s primary research yielded a list of 125 emotions, said Singh, which were shortlisted to 25. The Facebook team then went back to look at data they had collected, on short comments — of either a few words or an emoticon/GIF to assess which emotions users most wanted to express. 
+ 
+ “Our research and data showed users were looking for options which were somewhere between a Like and a Comment. From this, we zeroed in on seven reactions, which were further whittled down to five after testing,” said Singh. 
+ 
+ The next challenge was localising reactions across geographies, since the same things can have different meanings across countries and languages. “The Love reaction, for instance, could be interpreted in several ways. Localising reactions for all languages was challenging. So we went back to data and found that reactions got more engagement when displayed with labels,” he continued. 
+ 
+ So all reactions were launched with labels like Love, Haha, Wow, Angry and Sad, because a symbol can otherwise be interpreted in many ways. While the team was researching and analysing data, few prototypes were being tested in a few markets on controlled audiences.
+ 
+ For testing, people from different countries were selected. The countries were chosen keeping in mind the social characteristics vis-a-vis expressiveness and contentedness of its population, as also types of devices citizens use in that part of the world.
+ 
+ In the testing phase, there were two more  , a Yay and a Wow, which were tested in certain countries on a certain user base. They were finally dropped to avoid decision fatigue for users. Yet another challenge was to design reactions to make them compatible with different software platforms, such as Andriod and iOS, without making the app heavy.
+ 
+ Summing up the journey of designing Facebook reactions and elaborating on how to design emotions, Singh said when designing products, companies must focus on asking open questions (to customers) and exploring their options as much as possible.
+ 
+ 

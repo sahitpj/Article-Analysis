@@ -1,0 +1,14 @@
+Bengaluru: Former   chairman   said he was deeply concerned that data would create a new set of monopolies and a model of colonisation.
+
+ With smartphones spurring data explosion, Nilekani said aggregation of data in a few concentrated platforms or aggregators is a big risk. “A big part of public policy all over the world is going to be how we enforce a policy regime where data is open, shared and it’s portable. The data is yours and you have the right to get it back. In India, we don’t have anything like a policy yet,” Nilekani said in a fireside chat with  , who was the chief data scientist for the Obama government. The chat, on how data analytics would transform India, was organised by learning platform Upgrad on Tuesday.
+ 
+ Prior to joining the US government, Patil held senior positions at LinkedIn, eBay and RelateIQ. He holds a PhD in mathematics from the University of Maryland and did his undergrad in mathematics from the University of California.
+ 
+ Providing a US perspective, Patil said almost $45 billion was spent on moving traditional healthcare data to electronic medical records. “People build tech that is not user-centric. In this case, nurses and physicians didn’t like it, it was CIO-centric. The challenge is far more difficult in the US. If those records are inside hospitals and pharmacies, they are not likely to give it up,” he said.
+ 
+ Nilekani took pride in India creating a digital consent architecture where one can store financial or health records in a digital locker. “You can call out your ultrasound data and give it to the specialist,” he said.
+ 
+ DigiLocker ties into the   vision of providing citizens a shareable private space on a public cloud and making all documents/ certificates available on this cloud. Indian citizens who sign up for a DigiLocker account get a dedicated cloud storage space linked to their Aadhaar number. Organisations that are registered with DigiLocker can push electronic copies of documents and certificates (like driving license, voter ID, school certificates) directly into citizen’s lockers. “The government has notified the digital locker authority which licenses different people to set up lockers which is completely interoperable,” Nilekani said.
+ 
+ Both Patil and Nilekani have worked in the private sector and with the government and shared their experiences on working with the latter. “In the private sector, the rules of the game are well-defined. The language of business is the same. In the government, how do you carve out what passes muster with everyone is a tough problem. The amount of time you spend in the government in consensus-building is huge. You should pick your battles. You can’t go and fight everyone. You have to evaluate if that particular battle is strategic to your goals,” Nilekani said. Patil said as one gets closer to a decision, many stakeholders show up. “Everybody has veto power,” he said.
+ 

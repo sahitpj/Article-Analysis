@@ -1,0 +1,22 @@
+BENGALURU: George Ugras is managing director of   Ventures. Ugras joined IBM from venture fund Adams Capital Management last year, where he was general partner managing investments across big data infrastructure, cloud computing and analytics. IBM Ventures has so far invested in four companies, ploughing $75 million in companies including genetic testing company Pathway Genomics. In an interview with TOI, Ugras talks about actively engaging with the developer community in India, a community that is expected to become bigger than that in the US and China by 2018. Excerpts:
+
+ 
+ 
+ There’s a big change in the way corporates in general think about corporate venturing. The way I think of our effort in IBM Ventures is to be an interface for IBM with the startup community with a goal of being a transformation effort for the corporation. And what that means is, impacting in a positive way every aspect of our business – how we deliver products and services to our clients, ensuring innovation that now is being distributed across so many great   is accessed by us and by our clients. We are looking at many innovative models of how we put those things together.
+ 
+ 
+ 
+ In the very early stages, startups are trying to figure out where and how to construct their product and that tends to be a decision made around the developers’ stack. We are extremely excited in India where we’ve recently appointed a chief digital officer, and his goal is going to be to reach out to the developer community in India. At the early stages of construction, there are decisions they make around infrastructure, data, and as they get closer to an application, choosing a cognitive platform to leverage machine learning and AI and choosing emerging technologies like blockchain where IBM has great offerings. We have developer enablement capabilities that we are going to unleash upon that community. For the more mature startups in the enterprise space, IBM has great reach into the Fortune Global 2000 companies and we have demonstrated in the past that we can form a great conduit for startup technologies into that client base through partnerships.
+ 
+ 
+ 
+ Our interactivity with three architectural areas around data, cloud, cognitive is all driven by open APIs. You want those to be easily consumable by startups, that’s critical. There are activities that we are initiating where the stack that I described earlier can have a significant impact around healthcare, financial services, around supply chain and logistics. One example is the work that we have done in blockchain in financial services. We are inviting startups to build on our blockchain.
+ 
+ 
+ 
+ We are enabling startups to leverage Watson in a developer focused manner. But what we are doing differently now is articulating, communicating and broadcasting globally because there is some misconception around that being a more of a closed system. We are seeing a lot of startup use cases emerging in the healthcare space – startups in the US have successfully leveraged Watson. To me, the playbook needs to be around the product being put out there to the developer community and with local advocates.
+ 
+ 
+ 
+ Zoho was a smaller company then. If you look at the Israel model, a country of 6 million people and those entrepreneurs had to think global from day one. In the enterprise space, it was rare to see Indian originated companies. I think we are seeing some of the activity now. I brought up that name (Zoho) because I met with the company years ago, we had hosted a round table on disruption in the software space and invited the CEO to participate.
+ 

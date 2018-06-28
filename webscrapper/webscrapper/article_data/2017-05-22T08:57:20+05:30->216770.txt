@@ -1,0 +1,10 @@
+HYDERABAD: Ever wondered where all the malware and  , that can infect your systems and hold the entire world to ransom, come from? 
+
+ While the latest bombardment of   have left most companies running for cover and IT teams scrambling to counter the attacks, it is in fact cybersecurity companies that invest heavily in developing malware and viruses, said industry experts.
+ 
+ "All malware and anti-viruses are   through years of research.   are developed first, following which viruses are developed and released   This sends the demand of anti-virus software soaring as people rush to buy it to protect their systems. The trade of malware and its anti-virus solution is a multibillion dollar industry that thrives on information theft," said the top official of a city-based cyber security firm.
+ 
+ The reason why ransomware attacks are the most difficult to counter is the fact that the brightest brains in the cyber security space are behind the development of ransomware, which is the most sophisticated and lucrative form of information theft.
+ 
+ "It is almost certain that data once lost to a ransomware attack can never be retrieved. This is because the data is locked by multiple levels of encryption that have been devised by the top brains in the industry," said Zaki Qureshey, founder, E2 Labs Cybersecurity Academy.
+ 
