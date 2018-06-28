@@ -1,0 +1,19 @@
+NEW DELHI: A study on Delhi’s odd-even trial has suggested that the   did improve air quality during the trial hours — especially during peak traffic hours — but those gains were lost due to heavy car and   during the non-trial hours between 8pm and 8am. 
+
+ In addition to emissions from commercial vehicles, increased traffic at night after the odd-even hours may have led to the increase in the 24-hour average particulate matter (PM) values, reveals the study by IIT Delhi in collaboration with University of Surrey, University of Birmingham and others. It also found that the baseline concentrations —those excluding local emission sources such as vehicles estimated by IIT Delhi — at various locations were already high and masking the improvements from the odd-even trial. 
+ 
+ The study used data from Delhi Pollution Control Committee (DPCC) to make their assessments for Anand Vihar, Mandir Marg, RK Puram and Punjabi Bagh. Except for RK Puram, all are near heavy traffic zones. It considered hourly averages for the odd-even days in January and April 2016 and the PM data for the same dates in 2015. 
+ 
+ Researchers also found that meteorological factors like wind speed and direction played an important role. So while overall PM levels may have been higher during the odd-even phase in 2016 compared to same dates in 2015, it doesn’t mean that the scheme failed to make a difference. “Observations clearly indicate that the comparison of the trial periods... will be affected by different background concentrations. Therefore as a necessary step, we estimated the baseline (local site background) concentrations at our selected sites.” 
+ 
+ Baseline PM concentrations at all of these locations are taken and subtracted from the actual hourly concentrations to arrive at the net concentrations that can be attributed to vehicles. The team found there was a reduction in both net PM2.5 and PM10 concentrations during January and April trial hours but concentrations were much higher during the morning hours of odd-even and non-odd-even hours. “This seems likely to be related to the time taken for dispersion of the pollutants emitted overnight. The effect of the odd-even hours during winter ranged from a minimal reduction of -2% to a maximum reduction of -44% during peak traffic hours across the studied sites. This effect was relatively larger during summer with the corresponding reduction of -2% to -74% for PM2.5 compared to the 2015 levels.” 
+ 
+ Professor Mukesh Khare of IIT Delhi, co-author of the study, said, “If the government is considering implementing the scheme again, they should consider staggered timings so that there is no sudden jump in emissions.”
+ 
+ “The real gains can only be achieved by restricting the entry of heavy goods vehicles during night hours,” said the study, adding that commercial vehicles contribute to nearly half of the PM10 emissions from the exhaust of on-road vehicles in Delhi.
+ 
+ This is the first study to have singled out vehicular emissions to assess the impact of odd-even. Based on data assessment of previous years, scientists arrived at a baseline for each of these stations. The baseline PM2.5 was found to be the lowest and the highest at 12 and 113 micrograms per cubic metres at RK Puram and Anand Vihar, respectively. 
+ 
+ Before another round, measures should be taken to “enable either full source apportionment of the particulate matter, or as a minimum, measurement of chemical tracers for road traffic emissions”, the study concluded.
+ 
+ 

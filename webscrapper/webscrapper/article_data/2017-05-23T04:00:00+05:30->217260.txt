@@ -1,0 +1,7 @@
+Chennai: Cisco announced on Monday that it has acquired Chennai and US-based Saggezza, a privately-held technology services company for undisclosed sum. The company founded in 2003, has operations across the world, and employees about 1,000 people. 
+
+ “The acquisition is aligned to Cisco’s strategic goals to develop innovative big data analytics, and cloud technologies, while also cultivating top talent,” the Cisco spokesperson said. By adding a team of analytics experts, Cisco intends to augment its current analytics capabilities and improve insights into network performance and automation, accelerate Cisco DNA development efforts, and enhance its cloud and SaaS analytics offerings. The Advanced Analytics team at Saggezza will join the Cisco Enterprise Networking Engineering Group, led by Ravi Chandrasekaran, SVP.
+ 
+ The Advanced Analytics team is a select group of platform analytics experts within Saggezza with capabilities in cloud and secure platform development. This team has been responsible for developing technology that powers Saggezza’s internal analytics platform, which enables customers to rapidly acquire and analyze data, creating complex rules and new data visualization applications.
+ 
+ 

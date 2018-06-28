@@ -1,0 +1,12 @@
+BHUBANESWAR: A school dropout, who used to make his ends meet by pulling rickshaw in Delhi, prompted the commissionerate police to examine at least 50 lakh phone call details before identifying him and arresting him from Uttarakhand on Sunday in connection with some recent  .
+
+ The accused Ajay Choudhry, a resident of   area in Uttarakhand, became tech-savvy without undergoing any higher education. Police said he learnt the tricks of hacking ATM software and stealing cash from a hacker in Banglaore jail in 2014. Choudhury, whose father is a petty contractor in Rudrapur, was lodged in jail in connection with an ATM theft case.
+ 
+ DGP K B Singh said 26-year-old Choudhury is part of a four-member gang that took the help of a Chinese malware to reboot and deactivate software of ATMs. Between February and March, the gang allegedly hacked at least five ATMs and stole cash to the tune of nearly Rs 48 lakh cash in Puri, Bhubaneswar and Cuttack.
+ 
+ Singh said the four accused, who were not residents of Odisha, never caused damage to the ATMs that were unguarded. “Using the malware, they connected a cell phone to the USB port of the ATMs. The accused took screen shot of the ATM and sent it to their gang member, operating from different cities in India. The sender sent Choudhury a password using which the accused took control of the ATM and withdrew heavy cash,” Singh said. Police said the ATMs were equipped with old version of software, vulnerable to hacking. Out of total 6125 ATMs in Odisha, nearly 1200 are susceptible to hacking, police said.
+ 
+ Police got clue about the hackers by examining the voice over internet protocol (VoIP), a technology using which the accused interacted with each other via broadband internet. “We examined over 50 lakh calls (both outgoing and incoming from India and abroad) in the areas where the ATMs were targetted. We will soon arrest the other three accused,” commissioner of police Y B Khurania said. Police said Choudhury got 50 percent commission of the stolen money.
+ 
+ Khurania said the malware is designed in such a way that all communication details between the gang members and the cyber related evidences in the affected ATMs were destroyed within 16 hours. “We, for the first time, came across such peculiar situations and succeeded in cracking the case. We recovered nearly Rs 8 lakh from Choudhury, whose criminal antecedents are being verified,” Khurania said. 
+ 

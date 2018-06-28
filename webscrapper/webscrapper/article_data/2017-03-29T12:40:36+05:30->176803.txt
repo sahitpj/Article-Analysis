@@ -1,0 +1,15 @@
+JAIPUR: Tall claims of Rajasthan State Road Transportation Corporation (RSRTC) in implementing online reservation system (ORS) to check corrupt practices were punctured by the CAG in its report on public sector undertakings. 
+
+ In its findings, CAG observed that   for ORS by firm Trimax IT Infrastructure and Services Limited failed to map business rules and provide to insufficient in validation control. This led to   to the corporation which is already reeling under heavy debt. 
+ 
+ CAG report noted discrepancies in allowing concession to female passengers that resulted in losses of Rs 11.49 crore to RSRTC. “Data of online reservation system through booking windows disclosed that 55.50 lakh tickets with concession meant for females were issued to male passengers during 2014-16,” said the report. 
+ 
+ Free journey of female passengers during Women’s Day (March 8) and Raksha Bandhan was also not properly mapped in the software. Data analysis disclosed that RSRTC issued tickets to female passengers with ‘zero’ value during 2014-16 for journey other than the given two days. 
+ 
+ Similarly, corporation issued concession cards under senior citizen category even to the persons whose age range between 20 to 59 years. “The deficiency occurred due to the inadequate mapping rules which led to non-validation of age by the software,” noted the report. 
+ 
+ Several irregularities emerged in concession to students and monthly pass passengers. In many cases journey was allowed on zero balance monthly passes without receipt of fare. Also to-and-fro journey more than once in a day was allowed to monthly and student pass holders which otherwise is an offence. 
+ 
+ Free journey to the MPs and MLAs (former and sitting) along with one attendant were also   Free journey was allowed to the attendant only when accompanying with the MLA/MP. However conductors issued about 6,466   allowing journey to someone else resulting into loss of Rs 19.84 lakh in 2014-16. 
+ 
+ 

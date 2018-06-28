@@ -1,0 +1,14 @@
+THIRUVANANTHAPURAM: In a first, Kerala-based startup 'Recipe Book' is selected by Google Launchpad Accelerator among the six startups from across the country.
+
+ Selected startups will get funding and six-months' mentoring at Google in California, among other benefits. 'Recipe Book', incubated at  , uses artificial intelligence (AI) to tailor recipes according to the tastes and preference of users.
+ 
+ “Currently, the startup has a mobile app which can be downloaded by any smartphone user with android, windows and Apple iOS,“ said Recipe Book co-founder and chief executive officer  . “Key AI features of this mobile app include 'Snap n Cook' which uses AI to find recipes by uploading images of ingredients. 'Shake n Make' feature helps to discover recipes which can be prepared with ingredients you have in hand. The `Smart Search' discovers recipes which can be cooked with ingredients through voice commands,“ he said. It aligns to the user preference tracking the user behaviour patterns, he said.
+ 
+ The company plans to up grade it further to the next step of food vision application program interface which can detect a product at a major store or in a refrigerator, he said. Over 300 recipes put up by food bloggers across the globe can be found.
+ 
+ With Anoop, this startup was co-founded by Arun Ravi and  , former students of SNG College of Engineering in Kochi. “This mobile app is our third innovation. In 2012-13, we developed the first app `Wiki' for Blackberry . Later, we developed a platform service app for   and then the app for recipes,“ Anoop said.
+ 
+ “In a first from the country, 'Recipe Book' got the Google Editor's Choice tag, and it's chosen from among 400 apps.Now, our app has 2.7 million downloads with users from105 countries across the world,“ he said. “We will get a six month free mentorship to work with Google at Mountain View in California along with two-weeks of free training at  , among other benefits,“ he added.
+ 
+ The startups will receive 50,000 USD which is roughly Rs 35 lakh grant and 100,000 USD worth (roughly Rs 67 lakh)   credits which offers more server space on Google Cloud.
+ 

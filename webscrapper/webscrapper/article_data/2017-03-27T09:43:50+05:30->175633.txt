@@ -1,0 +1,13 @@
+RANCHI: It’s been a year since the  ,   came into force but   in its operating mechanism are yet to be ironed out.
+
+ Cyber experts and tech gurus have already raised question about the security breach of data, since the collection of biometric information by private agencies puts it at risk of unauthorized access, and now   and former member of National Advisory Council,  , has raised privacy concerns. 
+ 
+ Talking to TOI, Dreze said section 8 of Aadhaar Act, which deals with ‘authentication’, has some inherent problems. 
+ 
+ “There was a massive foundational change between an earlier draft of the Act (the National Identification Authority of India Bill, 2010) and the final version — The Aadhaar Act, 2016. While the draft spoke about ‘yes or no’ response of the authority for the purpose of authentication, the 2016 Act includes transfer of information about the individual to agencies,” Dreze said. 
+ 
+ He added that any requesting entity (agency or individual seeking authentication of a person) can seek demographic and non-core biometric details from Unique Identification Authority of India (UIDAI) after paying a certain fee. “If you use your Aadhaar number to buy a SIM card, the company can use it to access all your identity information, minus the core biometrics,” he pointed out. 
+ 
+ According to the provisions of the Act, agencies seeking authentication of an individual from UIDAI have permission to publish or share demographic or non-core biometric details (except iris scan and finger print), by informing the individual. Dreze said this consent can be obtained from the individual by just making him/her tick the box ‘I agree” appearing at the end of a voluminous text even while installing an app.
+ 
+ 

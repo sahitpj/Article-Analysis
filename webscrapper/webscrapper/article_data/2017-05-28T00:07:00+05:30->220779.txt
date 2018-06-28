@@ -1,0 +1,30 @@
+Excerpts:
+
+  
+ 
+ Promptly installing security updates is one of the most important things you can do to improve your security. That was true well before Wannacry, and it’s still true. Most people follow this advice, and it’s the primary reason Wannacry wasn’t nearly as devastating as it could have been. Hopefully this very public malware attack will convince everyone else.
+ 
+  
+ 
+ No, people have not given up. Every study and survey conducted confirms that people are no less concerned about their privacy today than they ever were. People install apps that spy on them because they see no alternative. They want what the apps provide, and don’t fully understand the surveillance implications of what they’re giving up. The app makers like this, of course. They don’t want people making informed decisions; they prefer learned helplessness. It doesn’t have to be this way, of course. We decided that surveillance is the business model of the internet. We can change it. All it takes is regulation.
+  
+ 
+ 
+ It’s not a good combination. Internet of Things devices will be lower cost and will have even worse security than our computers and phones. Many of them are not patchable, even if there were engineering teams at the companies to write the patches. And they will have implications to life and property. Researchers have already demonstrated ransomware against home thermostats. Imagine them against your car, your home appliances, or medical devices.
+ 
+ 
+ 
+ It’s very hard to find and prosecute malware writers, even without Bitcoin. Bitcoin does provide ransomware makers with an untraceable payment system, which makes it harder to find these people. But law enforcement has other techniques at its disposal. The more serious problem is that cybercriminals like to operate out of countries with ineffective police and laws, making it hard to prosecute them even if we can identify them.
+ 
+  
+ 
+ Ransomware is a business, albeit an illegal business. If people can’t pay, the ransomware makers don’t make money. So it makes perfect sense for those businesses to set up call centres to assist their victims. That they can’t be stopped even with this is another illustration that Bitcoin isn’t the only reason they can get away with their crimes.
+ 
+  
+ 
+ The suspicion lands where the evidence points. In recent months, we’ve seen many attacks attributed to both   and China. The North Korean attribution, still tentative, is based on forensic analysis of the code. As we learn more, we’ll know whether it is a proper attribution or not.
+ 
+  
+ 
+ I think he is being judged fairly. What he did is public, and the effects of it — both positive and negative — are largely public. Different people have different opinions of his actions, but I don’t think that either “side” is being unfair. I believe history will judge him a whistleblower and a positive force for change, because history will better see the big picture.
+ 

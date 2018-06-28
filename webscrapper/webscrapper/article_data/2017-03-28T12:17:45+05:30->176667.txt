@@ -1,0 +1,32 @@
+WASHINGTON: Scientists have developed the first rapid blood test that can diagnose tuberculosis and measure the severity of the deadly infection within a few hours, an advance that may help combat the worldwide epidemic.
+
+ Despite USD 6.6 billion spent for international tuberculosis (TB) care and prevention efforts,   remains a major risk to human health, particularly for the developing world and people with HIV infections.
+ 
+ Making matters worse, TB bacteria can lurk dormant in a person's lung tissue, often for decades, before spontaneously producing full-blown TB disease that can then spread to others.
+ 
+ Currently, the   ( ) estimates that up to one-third of the world's population may have such dormant TB infections.
+ 
+ "In the current frontlines of TB testing, coughed-up sputum, blood culture tests, invasive lung and lymph biopsies, or spinal taps are the only way to diagnose TB," said Tony Hu, researcher at   in the US.
+ 
+ "The results can give false negatives, and these tests are further constrained because they can take days to weeks to get the results," said Hu.
+ 
+ In 2016, an estimated 10 million people worldwide still develop TB each year according to the WHO's most recent report, resulting in almost two million deaths.
+ 
+ TB remains a worldwide epidemic due to the lack of an effective TB vaccine, the rise in drug-resistant strains and the relatively poor performance of available TB diagnostics.
+ 
+ The new blood-based TB test outperforms all others currently on the market and takes just hours to complete.
+ 
+ This is critical since effective TB control requires that patients start treatment as soon as possible to reduce the risk of spreading TB.
+ 
+ This test also holds promise for rapid assessment of TB treatment, an important factor in reducing the development and spread of drug-resistant TB strains, researchers said.
+ 
+ "We are particularly excited about the ability of our high-throughput assay to provide rapid quantitative results that can be used to monitor treatment effects, which will give physicians the ability to better treat worldwide TB infections," said Hu.
+ 
+ "Furthermore, our technology can be used with standard clinical instruments found in hospitals worldwide," he said.
+ 
+ Current TB assays often demonstrate reduced performance with HIV-positive TB patients or those with TB infections in non-lung tissues, and these patients can require tissue biopsies for diagnosis.
+ 
+ The new assay detected lung- and non-lung-resident TB cases with similar sensitivity (about 92 per cent) regardless of patient HIV status, and revealed good specificity to distinguish patients with related disease cases (latent TB and nontuberculous mycobacterial infections; 87 and 91 per cent, respectively) and healthy subjects (100 per cent).
+ 
+ The strategy used to generate this assay may also be adaptable to other infectious diseases, researchers said.
+ 

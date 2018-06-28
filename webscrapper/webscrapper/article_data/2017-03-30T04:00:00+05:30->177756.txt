@@ -1,0 +1,17 @@
+Mumbai: You are on the road to meet a client and realise you have forgotten to bring your pen. Fortunately, you spot a kiosk; you buy a pen costing Rs 10 and drive away. When you claim the expenditure as it was a purchase made for the company, the accountant tears his hair in frustration. Is he over-reacting? Unfortunately, he is not.
+
+ Even as   is being welcomed by India Inc and tax experts, a few sections are being regarded as impractical and challenging. Section 9(4) of the GST Bill provides that if a supplier (say, a stationery store) is not registered, and there is a sale to a registered entity (say, a company), then the buyer shall bear the GST on such sale under what is technically referred to as a  .
+ 
+ “Not everyone who is unregistered is a GST defaulter. A seller may be unregistered because his entire output (product being sold) is exempt or because he falls below the threshold limit set for application of GST. The reverse charge mechanism will impact working capital. Continuing with this illustration, the company will have to bear this tax and then seek a credit (for input tax) against its own tax liability,” says Badri Narayanan, partner, Lakshmikumaran & Sridharan, a law firm. Currently, the exemption limit for GST is a turnover of Rs 20 lakh (with Rs 10 lakh in NE states). “The buyer, such as this company, will have to ascertain the GST rate for each and every product it buys from an unregistered party and then pay this tax,” adds Uday Pimprikar, indirect tax partner at  . 
+ 
+ “Another section, section 31(3)(f) makes this even more cumbersome. The buyer has to ‘self-invoice’ — in other words, he has to issue an invoice for the purchase made by him from the unregistered seller. This invoice is to be uploaded in the GST system. Creating an invoice has its own complexities as the   (classification number) is required to be known,” says Sunil Gabhawalla, chartered accountant and indirect tax expert. “The government doesn’t gain anything from the GST paid under the reverse charge mechanism, as the buyer will claim an input credit. Further bringing such a reverse charge defeats the purpose of having a threshold limit for registration,” adds Gabhawalla.
+ 
+ Even on a formal basis, companies procure some goods from smaller players who will be outside the ambit of the GST system. Given the hassles involved when purchases are made from unregistered sellers, its likely that the business of the smaller players will be hit.
+ 
+ The other issue relates to challenges in claiming input tax credit. “A proviso to section 16(2) provides that, failure to make ‘payment’ to the vendor for supply of goods or services, within 180 days from the issue of invoice, will result in reversal of input tax credit.
+ 
+ “The complexity arises because the Bill provides that the amount equal to the input tax credit availed shall be added to the output tax liability together with interest thereon. The current rate of interest is 15% per annum. When the buyer ultimately pays the vendor after 180 days, there is an adjustment for the input tax credit that had been added back, but not for interest. The interest liability remains a sunk cost,” explains Narayanan.
+ 
+ Under the matching concept provisions, the onus continues to remain on the buyer to check whether the seller has paid GST.
+ 
+ 

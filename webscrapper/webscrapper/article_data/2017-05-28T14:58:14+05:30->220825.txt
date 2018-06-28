@@ -1,0 +1,44 @@
+They try to break into computer systems and secure networks, and make thousands of dollars out of it. None of this involves holding data to ransom, or misusing credit cards. Rather, large tech, banking, and finance companies serve them up with rewards or bounties for highlighting software bugs that let them break in. They participate in formal “bug bounty” programmes held by the likes of Uber, Facebook,  , and even government institutions. These pay bug bounty hunters anything from $100 to $22,000 and more as prize money. 
+
+ After the recent spate of Wannacry ransomware attacks affecting business and government operations globally, an anonymous independent British security researcher “accidentally” activated a “kill switch” slowing the virus from spreading. For this, bug bounty hosting platform HackerOne gave him a bounty of $10,000.
+ 
+ Interestingly, in the case of the recent data theft at restaurant search and food search portal Zomato, the hacker allegedly asked the company to hold a “healthy” bug bounty programme. 
+ 
+ Information security expert Anand Prakash is among the most sought-after bug bounty hunters in India. He shot to fame after Facebook paid him $15,000 in March last year for reporting a critical bug. “You can have an in-house team with limited know how to handle security issues. But if you open up with a bug bounty programme, you can have the best experts from everywhere to analyse your systems,” says the former   employee, pointing out that companies usually pay bounties to the first valid reports – duplicate reports that come later are not regarded. “It turns out to be a fraction of the cost for the company,” says Vinod Senthil, who runs an infosec startup in Chennai. 
+ 
+ How it works is this: a company may host a bug bounty programme either on a hosting portal like Bugcrowd or Hackerone or independently where hackers can try and break into their website or network. The caveat is that the hacker reveals the chinks in the armour only to the company. This is what the information security community calls “responsible disclosure”. There are prizes up for grabs including hundreds to thousands of dollars. 
+ 
+ Others offer only bragging rights in the form of certificates and acknowledgements, which security researchers can add to their profile to build credibility. The bounty or the prize depends on the seriousness of the bug reported, and also on the quality of the “vulnerability report” filed by the hacker. These reports can be made public for all to read and learn from, but only once the bug has been fixed. 
+ 
+ The first reported bug bounty programme was held by   in 1995. In India, mobile wallet Paytm introduced a bug bounty programme in 2014, and cab aggregator app Ola in 2015. Manish Bhattacharya was in college when he took part in a bounty hunt. His first payout was $100. “It was like tasting blood,” he recalls. 
+ 
+ The ethical hackers that TOI spoke with for this story feel that participating in international bug bounty programmes is a better use of time. “You don’t get to hear much about Indian startups or other companies holding bug bounty programmes. If you still report a bug to them, they are likely to regard you with suspicion,” says the 24-year-old. 
+ 
+ Senthil says Indian companies can be stingy. A phone company, for example, once gave him a neck pillow for reporting a bug. “Sometimes, you won’t even get an acknowledgement mail,” says Senthil, whose startup InfySEC has been consulting with international banks and power companies.
+ 
+ In the case of Zomato, its earlier bug bounty programme only rewarded hackers with a “Hall of Fame” recognition -- that is, bragging rights. “At least with companies like Mozilla or  , you can make $500 on an average,” says Bhattacharya. “If you think security is expensive, try having a breach. It’s not just your data, but even your reputation that is at stake,” says Senthil.
+ 
+ There is a conundrum here. Bug bounty hunters from India are among the top performers globally. According to a June 2016 report from US-based information security portal Bugcrowd that hosts bug bounty programmes, India tops the list for submissions of bug reports by country. Yet, Indian companies holding bug bounty programmes are few and far between. “India has the right skills to participate in bug bounty programmes. It is only a matter of time before more Indian companies start holding them as well,” says Burgess Cooper, partner - cyber security at EY India. 
+ 
+ 
+ 
+ What is bug bounty?
+ It is a reward given to hackers or security researchers who discover and flag bugs in software or networks 
+ 
+ Who holds bug bounty programmes?
+ Tech companies, banks, and even government agencies
+ 
+ How does it work?
+ Hackers reveal the bug or security flaw to the company and keep it under wraps until it is fixed
+ 
+ 
+ 
+ •Malware Tech, an anonymous security expert got $10,000 in bounty from bug bounty hosting platform HackerOne earlier this month for discovering a “kill switch” in the ransomware Wannacry
+ 
+ •Snapchat paid 125 researchers $70,000 between 2014 and 2016
+ 
+ •The US Government’s Hack the Pentagon program also paid $70,000 in all to researchers in March 2016, with a maximum bounty of $3500
+ 
+ 
+ 
+ 

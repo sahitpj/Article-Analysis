@@ -1,0 +1,15 @@
+NEW DELHI: Five days after  's user database was breached and put up for sale on a dark web marketplace for $1000, the restaurant search and food delivery portal explained how the hack took place. 
+
+ In a blog update on Tuesday night, Zomato explained that the hacker got their developer's credentials from an October 2015 leak of a webhosting service's details. 
+ 
+ 
+ The developer used the same username and password combination on Github, a portal that is popular among software developers for sharing code. It was here that the hacker got to a part of the code that this developer had access to. Interestingly, Zomato says the hacker managed this breach last year, but highlighted it only now.
+ 
+ After finding user name and encrypted or "hashed" passwords of its users for sale on a dark web marketplace on May 18, Zomato claimed it had contacted the hacker who had executed the data theft. The hacker, the company claimed in an official bog, only wanted to highlight bad information security practices, and had asked Zomato to hold a better "bug bounty" program, where security researchers and ethical hackers are rewarded for highlighting bugs in the system. Zomato claimed that the hacker took the data off the marketplace after they agreed to his/her demands. They also promised to update users about how the hack took place once they had plugged all loopholes that the hacker highlighted.
+ 
+ "It all started in November 2015, when 000webhost’s user database was leaked online (with plain text passwords). One of our developers had his personal hosting account with the service. As a result of 000webhost’s user account data breach, his email address and password also became available publicly. Unfortunately, the developer was using the same email and password combination on Github," Zomato founder Deepinder Goyal said in the blog update.
+ 
+ It was here that the hacker was able to scan through the code and exploit a vulnerability without needing physical access to a system on a set of IP addresses defined by Zomato. Goyal says in the blog post that Zomato made two-factor authentication on Github mandatory for its employees "a few months back". However, in what he terms "extraordinarily bad luck", the hacker had this access last year itself. It was only now that s/he chose to exploit it.
+ 
+ "Yes, someone has some of our code, and that’s a risk. But we have taken every step conceivable to us to make sure that the code cannot be exploited in any way possible to breach Zomato’s infrastructure. Also, one more thought that gives us comfort - with every passing day, the leaked code is getting more and more out-of-date," Goyal writes in the blog post. Zomato says it now wants to establish a "working group" of Indian internet companies to deliberate on "best practices" for information security. 
+ 

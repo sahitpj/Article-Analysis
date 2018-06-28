@@ -1,0 +1,22 @@
+NAGPUR: Senior technical experts from global information technology firm   (AWS) interacted with representatives of fresh startups and addressed their concerns related to the firm’s cloud storage services.
+
+ A conference was organized by Visvesvaraya National Institute of Technology’s (VNIT) Center for Innovation on Thursday, where entrepreneurs were invited.
+ 
+ Around 20 startups in sectors like IT, heavy engineering, automobile, medical technology as well as social welfare attended the conference. CIVN’s chief executive officer   was the coordinator of the event.
+ 
+ AWS is a division of American e-commerce company amazon.com which provides cloud computing services to small and large scale companies and individuals, according to one of the representatives. “We work in a true democratic manner without discriminating on the scale of companies and provide services as per requirements,” the representative said.
+ 
+ Indian corporations like Reliance and Ola are using AWS’s platform to manage and store their data pertaining to their operations, the representative added.
+ 
+ Aditya, one of the participants, revealed his plans on developing a smartphone application using Amazon’s Alexa software which can alert its user when someone visits his/her house in case the former cannot hear the doorbell. The representative advised him that the technology can be incorporated in his application since it is already performing in home automation systems.
+ 
+ The device uses an artificial intelligence software called ‘Alexa’ which is capable of machine learning and performs functions by recognizing its users voice, informed the representative.
+ 
+ “The device can detect its user’s voice among other sounds even from a distance. For example, if you want to switch the light off in the room you are in, you have to say ‘Alexa, please turn off the lights’ and the software will switch the light off on its own,” he said.
+ 
+  representing his firm called ‘Healthcoco’ which runs an online platform aimed at connecting doctors, patients, pathology labs, diagnosis centers, etc. “Our goal is to help doctors write intelligent prescriptions in a matter of a few seconds and suggest proper medication to their patients,” said Saluja.
+ 
+ The representative said, “We do give some perks to our customer because we want to encourage new business idea and have businesses benefit from our services.”
+ 
+ The AWS representative said the company does not offer financial support to fresh startups since it only provides IT solutions to companies.
+ 

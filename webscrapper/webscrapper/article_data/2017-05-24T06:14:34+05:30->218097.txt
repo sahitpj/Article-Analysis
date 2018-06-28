@@ -1,0 +1,13 @@
+HYDERABAD: Days after the Centre sounded an alert about the accounts of senior   being vulnerable to cyber attacks, experts said ransomware attacks could get bigger with most government offices still being very susceptible.
+According to  , ransomware has moved from the 22nd most common variety of malware in 2014 to the fifth most common this year.
+ 
+ “From now on every zero day vulnerability which is discovered will be used to develop a ransomware. Ransomware attacks are inevitable and this will get bigger and bigger,“ said Zaki Qureshey, chief executive officer, E2 Labs, a cyber security company. A zero-day vulnerability is an computersoftware vulnerability that hackers can exploit.
+ 
+ Any machine or gadget ­ mobiles, laptops, tabs, desktop which is not patched is susceptible to such attacks, Qureshey said, adding that most of the attacks are `targeted' which makes things worse.
+ 
+ An alert in this regard sounded by the Indian Computer Emergency Response Team (CERT-In) had pointed out that the   (RBI),   ( ) as well as key organisations in banking and finance, power, defence, telecom, income tax, and central and state governments will be on the target list of such attacks.
+ 
+ `Groups with key info hunted'
+ 
+ Warning orgnaisations that are vulnerable, a senior official said, “attacks are usually launched against organisations or people holding critical information.Anyone in possession of crucial financial information, especially of large number of people, are being hunted.“
+ 

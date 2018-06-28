@@ -1,0 +1,25 @@
+Mumbai: TOI spoke to tax experts to decode some grey areas in some provisions in the   bills tabled in Parliament on Tuesday.
+
+ Supply made without consideration (to employees): The taxable event under GST is the supply of goods and services. Supply of goods or services to a related party (a term that includes employees) without consideration, when made in the course of furtherance of business, is taxable under GST. 
+ 
+ An exception is carved out in the GST Bill. Schedule 1 provides that ‘gifts’ not exceeding Rs 50,000 in value in a financial year by an employer to an employee shall not be treated as supply of goods and services. 
+ 
+ “Amenities provided to an employee, which is not part of his or her cost to company (CTC) package, could now possibly attract a GST levy,” says Sachin Menon, indirect tax leader at  . While cost to company structures differ, typically, free lunch, car drops, scholarship to employee’s children are not part of the   package, which leaves India Inc to grapple with GST complexities.
+ 
+ “The moot question is whether provision of a certain facility is a ‘supply of goods and services’ or is it a provision of a benefit to employees arising out of an employment contractual obligation?” asks Sunil Gabhawalla, CA and indirect tax expert. According to him, certain benefits that are made available to employees, like a shared car for dropping employees back home or even food provided in the cafeteria should be out of the purview of this provision and not subject to GST.
+ 
+ The term gift has not been defined in the GST bills. Going by its dictionary meaning, a gift is something voluntary supplied without any consideration. It does not stem from any contractual obligation. Seen in this light, given that the term ‘gift’ has been used for carving out the monetary exemption, only items incidental to employment, like an award to an employee, or Diwali gifts should come under the GST levy, if these exceed the monetary limit per employee,” says Uday Pimprikar, indirect tax partner,  .
+ 
+ “While employers could include various amenities as part of CTC, it would result in practical difficulties. For instance, if free food is included as part of CTC, would employees who bring their own lunch, seek compensation? The added problem is classification and application of the correct GST rates” adds Menon.
+ 
+ Use of assets: Schedule II relates to activities to be treated as supply of goods and services. Here, clause 4(b) provides that where goods held for the purpose of the business are put to any private use, whether or not for a consideration, such usage would result in a supply of services and a GST levy.
+ 
+ “Going by the strict interpretation, if a company provides a car to an employee for his use (both official and private) the usage could be considered as a supply of service to the employee, which is a taxable event for GST. In such a case, the company should be given the benefit of input tax credit and proper valuation norms must exist to ensure that GST is levied fairly and not on the fair market value, but rather the cost or depreciated value of such assets, says Pimprikar. “Based on past judicial decisions, it can be argued that levy of GST would apply only if it is the proprietor himself who has put a business asset to use for personal purposes,” says Gabhawalla. It remains to be seen how the authorities will interpret this provision.
+ 
+ Denial of input tax credit: The final bill includes a list of services for which input tax credit will not be available. Some of these are facilities extended to employees such as free or subsidised food and beverages at the workplace, sponsorship of club or fitness centres membership, cab facilities, group life and health insurance. The only silver lining is that input tax credit will not be denied in cases of services to be notified by the government, these will be those where the employer is obligated under any law to provide the same to its employees. Input tax credit will also not be available as regards the cost of travel benefit extended to employees on vacation. Currently, an input tax credit was not available for such employee related facilities, but India Inc was hoping for a seamless input tax credit mechanism under GST.
+ 
+ “GST has widened the definition of input goods or services to mean any goods or services used in the course of furtherance of business. Thus, in the absence of this restrictive clause, an employer could have set off the GST incurred on providing free lunch at the cafeteria, against his other GST liability. Perhaps, owing to this wide definition, the government has sought to deny the input tax credit in certain cases,” says Pimprikar.
+ 
+ For now, India Inc is waiting to see which facilities get notified for which they could then claim an input tax credit. Input tax credit is the credit available for taxes paid on inputs (procurements) which can be set off against the tax liability.
+ 
+ 

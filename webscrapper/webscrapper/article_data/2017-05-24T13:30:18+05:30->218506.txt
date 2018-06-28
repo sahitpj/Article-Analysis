@@ -1,0 +1,16 @@
+THIRUVANANTHAPURAM: Computers in the Thiruvananthapuram division of   were hit by   ransomware on Tuesday. Around eight computers the division office at Thycaud were affected in the cyber-attack. This is the first major WannaCry attack in institutions reported in the capital.
+
+ It was only last Tuesday, that 23 computers in Palakkad division of   were affected by WannaCry.
+ 
+ Six computers in the accounts wing and two in the electrical wing were hit by the ransomware around noon hours on Tuesday. Railway authorities said that the train operations and ticket reservation facilities were not affected by the cyber-attack.
+ 
+ “At around 12.05pm, WannaCry ransomware affected six computers of accounts department of Southern Railway, Thiruvananthapuram division. Network was immediately disconnected and affected computers were isolated,” said the statement issued by the Thiruvananthapuram Division.
+ 
+ While the staff were working, suddenly pop-up window displaying warning message of the ransom attack appeared on the screen and system ceased to function.
+ 
+ By evening, the cyber-attack was noticed in two more computers in the electrical department of the division office.
+ 
+ Railway sources said the computers were used for clerical work which had regular backup, so there had been no loss of data. In the preliminary enquiry the officials inferred that the attack was not caused by the use of pen drive or such devices by the staff.
+ 
+ “The affected computers were functioning in Windows 7 operating system, which was found vulnerable to these cyber-attacks. The division plans to upgrade all the computer system to Windows 10, as they were found to be safer. Though there was a delay, the staff managed to complete the work by using other computers,” said an official from the railway division.
+ 

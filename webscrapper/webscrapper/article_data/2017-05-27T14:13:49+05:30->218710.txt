@@ -1,0 +1,11 @@
+Mumbai:   plans to widen the scope of the country’s first mobile-only bank account to include desktop banking. The Indian arm of Singapore’s largest bank had recently unveiled the country’s first open architecture platform for distributing insurance policies from multiple companies through one bank’s application.
+
+ DBS Bank last year pioneered ‘digital only’ banking by launching a ‘zero balance’ account that operates without paper or signatures. Since then, the Digibank account has seen over a million users. “The adoption of Digibank has been in line with our expectation. In January, we added  . We have now brought in BhartQR scan and pay, and are in the process of introducing   which can enable customers to access all their bank accounts through our app,” said Surojit Shome, CEO,   India. 
+ 
+ He added that the bank plans to add desktop access to the Digibank account. “The reason we did not have this facility was because mobile is turning out to be the primary channel for accessing accounts and we did not want to give an impression that this is an omni-channel account,” said Shome. However, the bank found that there was a section of users who wanted a desktop option.
+ 
+ According to Shome, a lot of effort has gone into building the open architecture platform. In addition to its earlier partnership with Aviva, the bank has tied up with Tata AIA and Birla Sun Life for distribution of life insurance products. The bank plans to soon tie up with multiple non-life and health insurance companies as well. “When the insurance regulator allowed open architecture (allowing banks to sell policies of three companies instead of one), we saw this as an opportunity given our digital capability,” he said. 
+ 
+ The open architecture platform launched by DBS enables customers to compare not just products and prices but also qualitative features such as how the insurer fares in claim settlement. At a time when most multinational banks are scaling down their physical presence, DBS has been expanding its network and has applied for a licence to establish a wholly owned subsidiary in India. Besides building a large retail network through digital channels, the bank is also eyeing the SME segment.
+ 
+ 

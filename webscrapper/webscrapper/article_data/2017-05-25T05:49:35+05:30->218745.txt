@@ -1,0 +1,13 @@
+BELAGAVI: Final-year engineerin g students of   (GIT) have introduced   for the   project as well as for  ,  , water management and other sectors. 
+
+ They exhibited about 200 projects at the exhibition on Wednesday on the college campus. 
+ 
+ Vishal Kamat, Vinayak Basgod, Vedant Boob and Shubham Teware devised a waste management system which helps in better disposal of garbage. Normally, we see garbage containers kept in residential areas. But residents often complain that the civic agency doesn't clear the garbage. These students have prepared a special kit using an ultrasonic sensor and a GSM module. When the container is full, this kit sends an SMS to the corporation that the container needs to be emptied. Vishal Kamat said this kit which costs Rs 1,200 can save the authorities time and garbage can be disposed of quickly.
+ 
+ A vehicle system management tool is another innovative project designed by Radhika Bulbule, Manjunath Gulgule, Mallikarjun Khyadi and Mayura Patil which makes for safer rides. The bike starts only when their special helmet is worn. It also detects if the person is drunk, in which case too, the bike doesn't start. They have also used air quality sensor for the bike which checks the level of carbon dioxide emitted by the bike. If the level is high, an SMS is sent to the RTO and if the bike meets with an accident, an SMS is sent to the police control room with location information. The students said this kit costs Rs 3,000. 
+ 
+ Similarly, projects based on nanotechnology, solar concentrator, solar streetlight, solar-based grass cutter fabrication, multi-purpose agriculture equipment and were on display.
+ 
+ T Siddanna, joint director of district industrial centre, Belagavi was the chief guest for the inaugural function. The best projects from all departments will be get awards. 
+ 
+ 

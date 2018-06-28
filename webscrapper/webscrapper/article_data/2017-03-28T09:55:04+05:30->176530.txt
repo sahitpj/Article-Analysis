@@ -1,0 +1,17 @@
+MUMBAI: The government is gearing up to roll out   , a digital payment platform for merchants, with 20 banks expected to go live at the launch on April 14.
+ 
+  While the government launched   as a payment application for peer-to-peer transactions post  , Aadhaar Pay is meant for merchants to receive digital payments from customers over the counter through  .
+  
+  Following the popularity of BHIM (Bharat Interface for Money), the government plans to name the merchant payment scheme BHIM-Aadhaar Pay and has requested banks to rename their applications accordingly , said people aware of the matter. “The government is planning to go live with Aadhaar Pay on April 14, the day of the event around   and  . As of now, we have nine banks live on Aadhaar Pay and 16 more are in the process of certification,“ said one of the persons, who did not wish to be identified.
+  
+  The government has requested all public sector banks to go live with Aadhaar Pay and the National Payments Corporation of India ( ), the implementing agency for Aadhaar Enabled Payments Systems, has extended help to the banks to ensure smooth on boarding.
+  
+  A query emailed to NPCI did not elicit any response till late evening on Monday .
+  
+  “We are confident of getting 20 of the major banks of the country on board by middle of April,“ said another person.“The more banks we will get, the more merchants will accept Aadhaar Pay .“
+  
+  The technology has been designed in such a way that customers do not need any device to make a payment. They will need a bank account seeded with Aadhaar and will be able to use their thumb impressions for authentication.
+  
+  The merchant needs a smartphone and has to download his or her bank's Aadhaar Pay app from the   and accept payments by sending a pull notification to the customer's bank account. For Aadhaar Pay transactions the merchants will have to pay to their respective banks the merchant discount rate, or MDR, which has been fixed at 0.25% of the transaction amount, the people cited earlier said.
+  
+  “The move is aimed at getting people who are not comfortable using cards or mobile wallets also to make digital payments by just leveraging the Aadhaar database and using thumb impression as the authentication factor,“ said a banker who manages Aadhaar Pay for a leading private sector bank. “Every bank is in the process of seeding as many customer accounts as it can with their Aadhaar numbers,“ he added.

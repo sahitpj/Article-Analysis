@@ -1,0 +1,16 @@
+THIRUVANANTHAPURAM: Isro is set for the launch of the first developmental flight of Geosynchronous Satellite Launch Vehicle ( ) -Mark III- D1, capable of placing satellites weighing four tons in geosynchronous transfer orbit (GTO), on June 5. Boosted with fully indigenous cryogenic upper stage (CUS), it is set to launch the GSAT-19 communication satellite which will be integrated next week. 
+
+ "The indigenously built CUS will boost the launch of GSLV   by June first week and the target is set for June 5. It will place the 3.2 ton GSAT-19 communication satellite in orbit," said   ( ) director K Sivan.
+ 
+ The satellite is incorporated with advanced spacecraft technologies including indigenous Li ion battery and bus subsystem, he said.
+ 
+ "GSLV-Mark III-D1 is a three-stage vehicle with two solid motor strap-on boosters, a liquid propellant core stage and a cryogenic upper stage (C25). When the two solid motors burn it can cause huge sound and to prevent that an acoustic suppression system will be in place," Sivan said.
+ 
+ "The cryogenic upper stage with 20 ton thrust is fully indigenous with subsystems, turbo pump and the cryo tests were completed in the last 1.5 months," Liquid Propulsion Systems Centre (LPSC) director S Somnath said. Though GSLV Mk III launch is designed with a payload of 3.2 tons, it is a four-ton class vehicle with a provision to increase it up to seven tons, he said.
+ 
+ The GSAT-19 satellite will carry Ka-band and Ku-band payload along with a geostationary radiation spectrometer (GRASP) payload to monitor and study the nature of the charged particles and influence of space radiation on spacecraft and electronic components.
+ 
+  Upcoming missions include PSLV-C38, planned for launch of earth observation satellite Cartosat-2E by June last week; GSLV Mk II for launch of GSAT-6A satellite in September; and Chandrayaan-III Moon mission in December this year.
+ 
+ On the concerns by a section of the Isro staff over increased outsourcing of production as a move towards privatization, VSSC director K Sivan said private sector participation is part of Isro and the plan is to bring together more industries in a joint venture in the production of space components. 
+ 

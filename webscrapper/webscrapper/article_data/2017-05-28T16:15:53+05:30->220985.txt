@@ -1,0 +1,28 @@
+NEW DELHI: From next year onwards if you ever lose your way in any part of the country or anywhere in the Arabian sea, 
+  and help you find your bearings. Yes, India’s very own   (GPS) is operational and is set to hit the market for public use in early 2018. 
+
+ "The   (IRNSS) with an operational name of NavIC is currently being tested for its accuracy and is most likely to be available in the market for public use early next year," said Tapan Misra, the director of Ahmedabad-based Space Application Centre (SAC). 
+ 
+ India needed a constellation of seven satellites in space to complete its 
+  (IRNSS), a feat the country was able to achieve on April 28, 2016, when Indian Space Research Organisation (Isro) successfully launched IRNSS-1G, the seventh satellite in the series, and guided it to its orbit.
+ 
+ 
+ 
+ 
+ NavIC (‘Navigation with Indian Constellation’ whose Hindi meaning is ‘sailor’ or ‘navigator’), the name given by PM Narendra Modi after the launch of IRNSS-1G, is designed to provide accurate position information to users within the country. "Though American GPS with 24 satellites in a constellation has wider reach and covers the entire world, NavIC with seven satellites covers only India and its surroundings but is more accurate than the American system. NavIC will provide standard positioning service to all users with a position accuracy of 5 metre. The GPS, on the other hand, has a position accuracy of 20-30 metre," the SAC director said. The less the distance more is the accuracy of the navigation device in finding the real location.
+ 
+ For many years now, India had been dependent on GPS, a project that the US began in 1973. However, when the US denied GPS information during the Kargil war in 1999, the nation felt an urgent need for an indigenous navigation system. NavIC has helped India enter the club of select countries, which have their own positioning systems. Besides America’s GPS, Russia has its GLONASS and European Union, its Galileo. China is also in the process of building Beidou Navigation Satellite System.
+ 
+ Misra said, "Academic institutions have been roped in to do ground verification and calibrate data of NavIC to find its accuracy. We have developed digital chips to miniaturise technology (for use in mobiles and handsets) and experiments are on them. The system is being tested all across the country." He said, "After the desi navigation system comes to market, big thing will be to popularise it (as American GPS dominates the navigation system market across the world)." 
+ 
+ Explaining the scientific reasons for NavIC’s superiority over GPS, Misra said, "Our system has dual frequency (S and L bands). GPS is dependent only on L band. When low frequency signal travels through atmosphere, its velocity changes due to atmospheric disturbances. US banks on atmospheric model to assess frequency error and it has to update this model from time to time to assess the exact error. In India’s case, we measure the difference in delay of dual frequency (S and L bands) and can assess the actual delay. Therefore NavIC is not dependent on any model to find the frequency error and is more accurate than GPS." 
+ 
+ The indigenous navigation system, which cost Isro Rs 1,420 crore, will aid terrestrial, aerial and marine navigation, vehicle tracking and fleet management, disaster management, mapping and geodetic data capture, visual and voice navigation for drivers. The service can also be integrated with mobile phones and can be a navigation tool for hikers and travellers. The restricted service will also be used by the military for missile delivery and navigation and tracking of aircraft. In fact, the IAF has already started moving in this direction and made receivers for using the indigenous GPS.
+ 
+ "NavIC will cover the entire country,   and its surroundings. In the west, the system will have a reach till eastern parts of Arabian peninsula and in the east, some parts of China. In the south, NavIC signals will work till Malaysia," Misra said.
+ 
+ 
+ 
+ 
+ 
+ 

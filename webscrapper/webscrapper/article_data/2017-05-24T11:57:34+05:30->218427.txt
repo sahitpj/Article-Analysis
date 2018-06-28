@@ -1,0 +1,27 @@
+ is no stranger to the mysteries of the   Being a yoga teacher and also the   of the  ,  , requires that he unravel mysteries, if there are any.
+
+ Sitting in the department, Dr Omkar sports a black head-mounted device to demonstrate to Bangalore Mirror the latest offering from his team and him in this direction -- a drone. Look at the drone - a quadcopter to be precise-- as it takes off and floats in the air and it is just like any other.
+ 
+ But a look at Omkar, under whose command the drone is moving up, down, left and right, tells you what is so mind-boggling about this drone. There is no joystick in his hand. It is just the head-mounted device and a laptop that is manoeuvring the drone. There are no gestures or commands, but the drone dances to his tunes.
+ 
+ It is the country’s first mind-controlled drone, developed by the IISc’s Department of Aerospace Engineering.
+ 
+ The drone operates just based on the thought of its operator, who wears an electroencephalogram (EEG) headset. “The focused thought of the brain or the electrical activity of the brain is captured by a head-mounted EEG device and the signals are wirelessly sent to a laptop. Algorithms residing in the laptop convert these signals into command inputs for the drone (quadcopter) for suitable action,” explains Omkar.
+ 
+ The working of the drone is purely driven by thought, he says. When the first mind-controlled drones hit the scene, the doors to the future were thrown open. Other than competitions featuring mind-controlled drones -- the University of Florida conducted the world’s first mind controlled drone race in 2016 -- a possibility of robots controlled by the mind became closer to reality.
+ 
+ For India, the department of aerospace engineering’s is the first such attempt.
+ 
+ Omkar tells us these types of drones can primarily be used for military operations as the operator can guide the drone into enemy territory and carry out surveillance or any other job done stealthily. 
+ 
+  
+  
+ 
+ 
+ Omkar and his team worked on the drone for a year and as of now the team can make it move up and down and hover left and right.
+ 
+ “Once the technology reaches maturity, it can be used for a wide range of applications. The EEG headsets can be of great help to the visually-impaired. Using this technology without the requirement of vision one can accomplish many tasks be it turning switches on or off and even drive a vehicle,” he says.
+ 
+ An EEG headset costs about Rs 70,000.
+ 
+ 

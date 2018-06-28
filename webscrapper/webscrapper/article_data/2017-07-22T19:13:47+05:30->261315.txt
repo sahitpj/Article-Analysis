@@ -1,0 +1,24 @@
+BENGALURU: From the global   attacks that hit hundreds of systems to phishing and scanning rackets, at least one 
+  was reported every 10 minutes in India in the first six months of 2017. That’s higher than a crime every 12 minutes in 2016.
+
+ According to the Indian Computer Emergency Response Team (CERT-In), 27,482 cases of cybercrime were reported from January to June.
+ 
+ These include phishing, scanning or probing, site intrusions, defacements, virus or malicious code, ransomware and denial-of-service attacks.
+ 
+ With more Indians going online, cyber experts said putting in place critical infrastructure to predict and prevent cybercrimes was crucial.
+ 
+ India has seen a total of 1.71 lakh cybercrimes in the past three-and-a-half years and the number of crimes so far this year (27,482) indicate that the total number is likely to cross 50,000 by December, just as in 2016.
+ 
+ “It is not just enough to make efforts at the government level, which is, in some sense happening, but cybercrime affects hundreds of individual systems and firms, all of whom need to be ready with specialised teams,” cybercrime expert Mirza Faizan Asad said.
+ 
+ While India has been dealing with crimes such as phishing and defacement, ransomware attacks have come as a surprise. Analysis of data from 2013 to 2016 shows that network scanning and probing — seen as the first step to detect vulnerabilities in systems so that sensitive data can be stolen — formed 6.7% of all cases while virus or malware accounted for 17.2%.
+ 
+ Experts pointed out that these were indications of increasing cybercrime-asa-service (CAAS), besides attempts at ransomware.
+ 
+ “There has to be a concerted effort to treat   seriously... The vast majority of organisations are looking at cyber security as a compliance task and thus do the minimum possible to achieve that,” Asad said.
+ 
+ Increasing ransomware threat and the demand for ransom in bitcoins — a crypto-currency which attackers feel is the safest way to get paid — saw the SC direct the RBI to take cognisance of the matter. The RBI has also been issuing regular warnings on bitcoins.
+ 
+ 
+ 
+ 

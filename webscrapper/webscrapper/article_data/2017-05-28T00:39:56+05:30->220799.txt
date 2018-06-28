@@ -1,0 +1,10 @@
+MUMBAI: Next time you feel that   in your area is breaching the limits, you may not have to call activists to get a real-time update. A final-year MBA tech student,  , has created wearable devices that can detect   and record decibels. 
+
+ Bhatnagar, who studies at NMIMS College in Vile Parle, decided to create the device after the continuous noise pollution around his campus affected his studies. He joined hands with some of his friends from the college to study noise pollution and its effects on society. The team was in for a shock when they realised how hazardous noise pollution can be. This is when they decided to make a device that could detect noise pollution and would be in a simple wearable form like wristbands or handy gadgets.
+ 
+ The device senses noise pollution around the set perimeter and sends the details to the cloud and the servers. The details are continuously tracked by a specialist team. The device also displays real-time noise levels at a particular location. “Companies that manufacture soundproofing equipment and materials and law enforcement agencies can use the data. People can wear a badge that will record sound levels they are exposed to during work hours. The colour of the badges can inform workers when the environment turns hazardous,” said, Bhatnagar.
+ 
+ Earlier, the device was just part of a college research program, but later, he and his partner, Varnali Sharma, decided to patent it
+ 
+ Despite the initial success, work is far from over. “We have to set up a demonstrative installation in the city and understand the social impact of noise pollution. Also, we are working closely with the Central Pollution Control Board to improve health parameters in public areas as well as in industries,” he said.
+ 

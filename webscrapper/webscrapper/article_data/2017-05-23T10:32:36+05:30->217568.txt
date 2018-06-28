@@ -1,0 +1,22 @@
+MOHALI: A   that assembles   was conned of $ 25,200 (approximately Rs16 lakh).  , the company's  , filed a complaint with police alleging that he was  .
+
+ The Mohali firm has long been dealing with a Chinese firm, Chongqing Power Machinery'. Payments are routinely made through wire transfer.
+ 
+ The Mohali firm had earlier purchased 500 gasoline engines from Chongqing Power Machinery. These were worth $ 36,000.
+ 
+ Just as the firm was about to make the payment, an email was received that said that the Chinese company's bank account had changed ­ a new account number was given, and the money to be deposited in it was revised downwards, to $ 25,200.
+ 
+ Amit Kumar said his client deposited the money, but later discovered that Chongqing Power Machinery had not earlier sent any email regarding a change in the bank account number.
+ 
+ The legal advisor said this could be a scam that is spread worldwide -the fraudster creates a copycat email address and raises fake invoices that look just like the real thing. The fake email, Kumar said, appeared to be a followup email from the same employee, even written in the same style and containing all the same logos and formatting and the same email signature.
+ 
+ “We have changed who we bank with from account number ... to this and further we forgot to alter the changes on the invoice we sent to you. We have attached the new invoice with new banking details and payment of $25200 should be made instead of $36000... We are sorry for any inconvenience these changes may have caused,“ the email said. The firm paid $25,200 into the new account. A few days later, they received an email from the company asking for the payment. That is when realisation dawned that the earlier email was from a cheat.
+ 
+ Sources said the company may have downloaded malicious software which enabled the fraudster to intercept daily emails.
+ 
+ SSP Mohali KS Chahal said on Monday , “We have registered a case under Section 420 (cheating) of IPC and under Section 66D of IT Act (cheating by personation using computer resource).“
+ 
+ How they hack
+ 
+ Fraudsters infect customers' computers with malicious software that allows criminals to spy on emails sent between them and a contractor. Hackers wait until an email is exchanged regarding a payment. The crooks then send a parody email to the victim, asking for fresh payment saying that the bank details provided first were wrongly sent. Once the payment has been made, the money is quickly drained from the bank account by the fraudsters.
+ 

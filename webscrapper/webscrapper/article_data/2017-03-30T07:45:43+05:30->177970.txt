@@ -1,0 +1,23 @@
+CHENNAI: While visions of setting up GPS in   buses are yet to materialise leaving commuters grappling with a public transport system devoid of technological upgrades, a city-based app is trying to plug the gap in its own way. 
+
+ The mobile-based application Icommute, which relaunched in the city last week, is trying to streamline the travel experience and ease the difficulties of commuters by using the wisdom of crowds. 
+ 
+ The app has begun relaying live information on buses, local trains and metros by crowdsourcing GPS points. This is the result of low tech penetration in the public transport segment, says co-founder  . 
+ 
+ "If the MTC, for instance, had successfully carried out the GPS initiative pitched years ago and relayed live information on all buses in an open-data format, it would have been useful for so many people who depend on buses for their daily travel," he explains.
+ 
+ The app currently sources information from hundreds of its daily users who mark sighting and availability of specific modes of transport, which go live on the homescreen. 
+ 
+ Based on parameters like route, length and traffic, the application gives an ETA ( ) letting users plan their commute more efficiently, and save time. 
+ 
+ By aligning travel options on a multi-modal basis, the app also seeks to encourage people to take up public transport, instead of just cabs and autos. 
+ 
+ "More and more people take a multi-modal approach to their daily commute," he says, explaining that many young office-goers have workplaces which are a long way away, often needing multiple modes of transport to reach there. 
+ 
+ This, he adds, is particularly true of IT sector offices which are often located in tech-clusters and SEZs (Special Economic Zone) in suburban localities.
+ 
+ Additionally, the app has launched a feature to enhance women's safety through which users can live relay their course of commute minute-to-minute much like a live-stream for a desired amount of time. 
+ 
+ "For women who travel long distances back home, this option lets a relative or friend check which route their vehicle is taking each second," adds Revanth.
+ 
+ 

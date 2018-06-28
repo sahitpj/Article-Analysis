@@ -1,0 +1,16 @@
+CHENNAI: When a hospital in a   in Odisha sends out a distress signal having been infected with ‘Wannacry’ ransomware (the virus reportedly infected around 2,00,000 computer systems in 150 countries in two days), it is time to sit up and take note of the threat we face while embracing digital technology that has become an   of our lives.
+
+  in simple terms is the practice of protecting networks, systems, programmes and data from theft, damage or unauthorised access. As we become more dependent on mobile phones, internet, artificial intelligence, Internet of Things, machine learning, the risk of data and identity theft looms over us.
+ 
+ “Pervasive technology will mean proportionate increase in security needs for providers and consumers of these technologies. In India itself, analysts forecast the need for more than 10 lakh cyber security professionals. Today between the organised (university/colleges) and unorganised sector the output is less 50,000 per year,” said Pankit Desai, cofounder, Sequretek IT Solutions, a startup dealing with IT security and management.
+ 
+ Obvious but often neglected aspects like taking regular backups, knowing what precautions to take while reading emails need to be ingrained into our minds like wearing a seatbelt. Similarly, corporates are handling systems and data at a much larger scale and are constantly battling attacks by hackers across the globe. Last week, a hacker stole 17 million users’ data from Zomato’s database and put it up for sale for on a dark web marketplace.
+ 
+ “No system is 100% secure. Hackers are constantly developing new ways to steal data and hold it for ransom. Our efforts are towards securing systems as far as possible and mitigating damage if and when it happens,” said Vinod Senthil, founder, Infysec. Senthil works with companies like IBM, Dell, Hitachi, Airtel and Nissan while offering training in areas such as  .
+ 
+ For Ruchi Yagnik, part of the security operations team at Sequretek, cyber security was a clear choice. “When we buy a computer, the first thing we think about is installing an antivirus. I was curious as to why it was needed and started reading and was drawn into it. The field is constantly evolving and that keeps me motivated to keep learning,” she said.
+ 
+ With security being a growing industry, the opportunities in this space are endless. From working with companies like IBM, Accenture to consulting companies like KPMG and EY or joining startups or even government departments, the omnipresence of technology opens roles for cyber security specialists. “Niche skillsets in this area such as analytics, malware analysis, forensics, active threat hunting find a very good off take with customers,” says Desai.
+ 
+ While several universities and organisations offer courses in the area of cyber security and ethical hacking, industry experts say it is practical experience that holds one in good stead. “Industry participation with universities in curriculum formation, internships, training are still much to be desired,” adds Desai.
+ 

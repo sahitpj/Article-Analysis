@@ -1,0 +1,27 @@
+Mumbai:   has played a major role in developing India’s   — first as head of Reserve Bank of India’s newly-created department of payments in 2005 and, since 2008, as the founding CEO of the   ( ). In an interview with TOI, Hota speaks on the future direction of payments and the evolving regulatory approach. Excerpts:
+
+ How did regulation turn out to be friendly towards innovation in payments?
+ 
+ The starting point has been the Sudarshan Sen committee on regulating   companies constituted by the RBI. Regulations are changing all over the world — gradually central banks are moving from rule-based regulation to principle-based regulation. When you adopt the principle, you allow a lot of flexibility in allowing innovation. The clearly articulated approach is one of making payment systems safe, secure, universal, affordable and accessible to all. The RBI has been very proactive so far as new payment technology like mobile is concerned. Only one area where the RBI has not clearly articulated is on  , but they have given a broad hint that they are open to new technology.
+ 
+ There has been debate on whether the demonetisation boost to digital transactions can be sustained...
+ 
+ During demonetisation, point of sales transactions peaked to 5.9 crore in December 2016 from an average 1.3-1.4 crore a month earlier. Since then, it fell to a low of 2.7 crore but is on the rise again. Monthly volumes are higher when compared to the same period in the previous year. So far, monthly volumes have been lower than peak level of December 2016, but I am sure it will soon touch the peak level. Also, demonetisation has seen several new innovations like   — the first time ever that four networks  ,  ,   and   came together to create a common acceptance infrastructure. A target was set to increase the number of credit card swipe machines, which was at 15 lakh, to 35 lakh by September 2017. There are already 32 lakh merchants accepting cards and we should achieve the target.
+ 
+ Some industry players say that they should be free to determine pricing of transactions…
+ 
+ When I was heading the payments system department in 2005,   (RTGS) was introduced and banks were charging as much as Rs 20,000 for sending Rs 1 crore. Banks had just moved from demand drafts to   and they were replicating the charges. Banks had to be persuaded and finally forced to bring down their pricing to Rs 50. The first major intervention was in pricing of RTGS because no bank would take the lead. The RBI has always had the authority to intervene in pricing if they find it arbitrary, usurious or monopolistic.
+ 
+ Going by the vision document set out a decade ago, has NPCI succeeded in what it set out to do?
+ 
+ The vision has been largely met with. Last year, of the five products we planned, we launched three —   ( ),   ( ) and   ( ). The two we narrowly missed — the RuPay Credit Card and RuPay Contactless card — were launched in the first quarter of FY18. Our vision is to touch every Indian with one or more electronic payments product by 2020. Even today, at least 40 crore people have been either beneficiaries or users of electronic payments. Rupay Contactless is an unfinished agenda as the plan is to use the contactless feature as a common mobility card which can be used in public transport like metros and buses all across the country.
+ 
+ There are many who worry about Aadhaar number and biometric being used for payments. The fear is that the fingerprint image may be stored...
+ 
+ That problem has been addressed with UIDAI by coming out with security guidelines. There are level 0 guidelines and level 1 guidelines. Level-zero is software-based security and level 1 is hardware-based. Now biometric readers have to be registered devices. Also, when the fingerprint is captured it gets encrypted and goes with a time stamp to the UIDAI server. If the gap is more than a few seconds, it is not considered a valid fingerprint.
+ 
+ How will the creation of the Payments Regulatory Board (PRB) change regulation?
+ 
+ As per recommendation of the Watal Committee, the PRB should not be part of the RBI’s central board. It should be autonomous like the monetary policy committee — three persons from the government, three persons from the RBI and the government would also nominate some people. Ultimately, all decisions will be taken by the PRB and the department of payments and settlements would be its operating arm.
+ 
+ 

@@ -1,0 +1,17 @@
+NEW DELHI: The fight against cybercrime in Delhi is set to become mobile with police commissioner   approving a plan to equip the economic offences wing with a van equipped with the latest forensic capabilities to probe illegal hacking, digital extortion,   and identity theft.
+
+ Capable of deep computer forensics — which cops likened to conducting an autopsy on an electronic device — the van will be equipped with software for extraction and analysis of email and data from SIM cards from Android and iOS devices. Apart from this, it can retrieve active data like calendar, text files and meta data such as file author, date and time of file creation and file history as well as chat logs.
+ 
+ Delhi Police is looking at tools like   and Field Forensics Triage to create forensic images of the suspected storage device, retrieve deleted data, copy an external hard drive with ease and preserve volatile data.
+ 
+ A source said that the mobile cybercrime van will be used to analyze the registry of computers to extract vital information like typed web addresses, USB device information, saved passwords, and details about the operating system. “It will have a built-in module to recover passwords for more than 100 applications. It will also allow the examiner to perform distributed password recovery by harnessing idle CPUs across the network to decrypt files and perform dictionary attacks and generate biographical dictionary for password attacks.” 
+ 
+ The software will also support analysis of encrypted images using encryption technologies such as Credant, SafeBoot, Utimaco, EFS, PGP and Guardian Edge with known passwords, the source added.
+ 
+ The programs will analyse emails on clients like Outlook, Exchange EDB, Notes NSF, EML (Microsoft Internet Mail), Eudora, Thunderbird, Quickmail, Netscape, AOL, etc. The software will also have integrated add-on malware analysis facility.
+ 
+ In January, TOI had reported that Delhi Police had taken the first step in upping their game against cyber criminals after procuring computer suites like EnCase Forensic, a forensics software of global repute for the force’s forensic workstations and digital intelligence servers. 
+ 
+ Soon after taking over as police commissioner, Patnaik had made it clear that tackling cybercrime was a priority. In addition to the van, a plan to have well-equipped district investigation units, with proper technology and adequately manned, is also being chalked out. 
+ 
+ 
