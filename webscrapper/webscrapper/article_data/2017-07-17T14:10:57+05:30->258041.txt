@@ -1,0 +1,23 @@
+
+
+ While most 20-something, college-going students of the city spend their weekends at movie halls and malls, Rohit Dey, a first-year BSc student at  , prefers to hang out on the grounds of   (NAL) in Kodihalli. Here, he is involved in piloting unmanned aerial vehicles (UAVs) – or drones – developed by the state-run institution.
+  
+  Dey (20) calls himself the unofficial drone test pilot of NAL, and has been involved in flying drones for the last eight to nine years. He is called on a regular basis by scientists whenever a new drone emerges from NAL’s labs.
+  
+  Over the last few months, he had been called by NAL’s   to flight-test three UAVs — the SkySurfer, a fixed-wing airplane, and two Quadrotors with auto pilot.
+  
+  “They did not have a pilot to test the UAV prototypes and called me to do the testing. Before entrusting me with the job, the scientists had only tested them in the laboratory. Apart from tuning and fixing the UAVs, I also wrote the algorithm for the ArduPilot (a professional grade open source, unmanned vehicle  ) and test-flew it within a span of three days,” said Dey, who is a member of the Aero Modellers Association of India. He said his fascination with airplanes and drones since a young age has veered him towards design, developing and testing drones.
+  
+  “Being associated with NAL gives me a high. I not only get to test the drones but also troubleshoot and understand the technology,” he said. For his services, Dey does not charge a fee and he cannot become an official test pilot or an employee of NAL either due his age and the fact that he is still pursuing his graduation.
+  
+  
+  
+  
+ 
+  
+  But his skills have already evinced interest of private drone manufacturers. A city-based drone solutions company had offered him a full-time job as its drone test pilot. However, he turned down the offer as it would hamper his studies.
+  
+  Apart from testing drones, he is also building UAVs and Micro Air Vehicles at home in Marathahalli. There’s special emphasis on energy efficiency, durability and state-of-the-art technology.
+  
+  In 2015, Dey was awarded the Young scientist, Best UAV Pilot and UAV Designer by NASA and also received appreciation for research on UAV development by the University of Central Florida.
+  

@@ -1,0 +1,19 @@
+PUNE:   have increased by about 1.5 times in volume and 1.4 times in value since  . Occurrence of financial frauds has increased too through   
+
+ A concrete data on the rise in number and type of frauds, however, remain opaque and one has to rely on anecdotal evidences, which at this point suggest that online tricksters are on the prowl.
+ 
+ The RBI operationalised a   in January 2016 for banks to report frauds involving Rs 1 lakh and above within three weeks of detection. For amount over Rs 5 crore, the deadline for reporting was a week. The banks were also asked to give case-wise quarterly progress reports. The report on the same is yet to be made public.
+ 
+ “The information on online frauds and its types is not very clear. This is something which affects so many citizens in the country. The entire community should come together to make things more transparent. Unfortunately, we are not even close to that,” said Atul Gupta, KPMG’s global cyber security lead.
+ 
+ Gupta said a KPMG survey found that people keep away from digital transactions because they fear security of their transactions and do not trust the grievance management system. 
+ 
+ In the debit card fraud case that shook the banking industry from its slumber in October last year in which the data of 32 lakh debit cards was compromised, a malware attack on ATMs installed by Hitachi Payments Systems originated predominantly from China. The overall transaction loss was Rs 1.3 crore across 19 banks, according to National Payments Corporation of India. The outcome on how and when the systems were fixed, the efforts in repatriating the lost money remain unclear.
+ 
+ In the UPI fraud case, a set of 50-odd individuals looted Pune-based Bank of Maharashtra of Rs 25 crore, by exploiting a loophole in the bank’s application. This came to light only when the bank filed an FIR on March 8, 2017.
+ 
+ Closer home, a case filed with Yerawada Police Station recently brought to light fraudsters in West Bengal and Jharkhand wiping out over Rs 1 lakh from a Pune-based account holder of ICICI Bank.
+ 
+ “Even in case of a malware or Trojan attack, it is possible to carry out a fraudulent transaction only when the customer initiates a transaction. Most often, the customer unknowingly parts with the information,” said Sameer Ratolikar, senior vice-president and chief information security officer, HDFC Bank.
+ 
+ 

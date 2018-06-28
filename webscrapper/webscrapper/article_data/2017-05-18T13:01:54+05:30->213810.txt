@@ -1,0 +1,10 @@
+HYDERABAD: WannaCry ransomware that is creating havoc the world over has hit the computers of the   (TTD) too. On Wednesday the computers being used by the   staff fell prey to WannaCry ransomware. TTD officials said that 30 systems, which were running on old version of operating system, were affected. 
+
+ There was no interruption to services related to devotees as they were loaded with the latest operating systems. These systems are being used by various administrative offices of the TTD located in Tirupati. 
+ 
+ TTD executive officer Anil   Singhal on Wednesday said though a few systems were affected, officials are taking precautionary measures to prevent damage or further attack.
+ 
+ TTD authorities said the TTD has about 2,000 computers and of them 500 systems are used for booking and online services for devotees. The TTD used Windows 8.2, 10 version of operating system. Only a few are loaded with outdated versions. 'They were being used for the data entry purpose by clerks. We did not lose any data. We have printed versions of the data," they said. 
+ 
+ When IT wing noticed WannaCry in some computers, it immediately disconnected the systems. Officials said that they have taken all the measures including disabling the virus, which breaks the firewall and corrupts the systems. "We have also loaded patches released by Microsoft for further protection of all the systems as advisories from agencies have said that even computers with the latest software may be affected," said officials.
+ 

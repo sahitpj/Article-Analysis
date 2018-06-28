@@ -1,0 +1,11 @@
+The   is the latest victim of ‘Ransomware’, after six computers and two Jan Seva Kendras went down. This rendered the   of the collectorate work impossible, leaving no option but to return to  . It is suspected that land files and their status have got deleted from the computers. The virus which wreaked havoc across the world, blocked access to six computers in the head office of the collectorate.
+
+ The virus has corrupted computers of Chitnish branch, were movement of land related files is tracked and noting on important land related issues are made. The branch handles about 200 files every day and the movement of each file is recorded in a dedicated software so as to maintain transparency in the office. The attack is not focused on any particular industry as the virus has infected computers connected to the internet. Confirming the attack district collector Avantika Singh said, “The affected computers are isolated.
+ 
+ A technical team is trying to recover the data that was lost due to the attack.” She further added about precautionary measures, “We have installed anti-virus in all the systems now and regular functioning has started.” Singh stated that no records were lost due to the virus as all files are maintained manually. Only file movement database from that particular office may have been lost due to the virus.
+ 
+ However sources at the collector office also confirmed that, computers in   that issue caste certificate and income statement is also affected. Two out of four computers in the seva Kendra have crashed due to the virus, however there are no reports of data loss, as it is maintained centrally. Also sources in the collector office confirmed, that important computers are disconnected from internet to protect them from the attack.
+ 
+ A Technical team member at the collector office confirmed the attack on the condition of anonymity and said, “we have formatted the computers as there is no other way to get them operational. A similar attack took place in computers at Surat collector office and Palsana Mamlatdar office in last three days. The issue was dealt in same manner. Over 150 computers in Surat government office are reportedly affected by same attack.”
+ 
+ 

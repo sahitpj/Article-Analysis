@@ -1,0 +1,32 @@
+WASHINGTON:   will refrain from sending commands to its three orbiters and two rovers on   later this month, as movement of planets will curtail communication between the Earth and the red planet.
+
+ This month, movement of the planets will put Mars almost directly behind the Sun, from Earth's perspective, causing curtailed communications between Earth and Mars, NASA said.
+ 
+ The US space agency said it will refrain from sending commands to the three Mars orbiters and two rovers during the period from July 22 to August 1.
+ 
+ "Out of caution, we would not talk to our Mars assets during that period because we expect significant degradation in the communication link, and we do not want to take a chance that one of our spacecraft would act on a corrupted command," said Chad Edwards, from NASA's Jet Propulsion Laboratory (JPL) in California.
+ 
+ Data will keep coming from Mars to Earth, although loss or corruption of some bits is anticipated and the data will be retransmitted later.
+ 
+ "We will continue to receive telemetry, so we will have information every day about the status of the vehicles," Edwards said.
+ 
+ As seen from Earth, Mars periodically passes near the Sun about every 26 months, an arrangement called "Mars solar conjunction."
+ 
+ During most solar conjunctions, including this year's, Mars does not go directly behind the Sun, NASA said.
+ 
+ Viewers using proper eye protection to watch the total solar eclipse on August 21 will gain a visible lesson in why Mars does not need to be directly behind the Sun for communications between Earth and Mars to be degraded.
+ 
+ The Sun's corona, which always extends far from the surface of the Sun, becomes visible during total eclipses. It consists of hot, ionised gas, which can interfere with radio waves that pass through it.
+ 
+ To prevent the possibility of the ionised gas near the Sun corrupting a command radioed to a spacecraft at Mars, NASA avoids transmitting for a period including several days before and after Mars gets closest to passing behind the Sun.
+ 
+ Teams that operate Mars orbiters and rovers have been preparing for weeks in anticipation of the moratorium that will begin on July 22, NASA said.
+ 
+ "The vehicles will stay active, carrying out commands sent in advance," said   Chief Engineer Hoppy Price, of JPL.
+ 
+ "Orbiters will be making their science observations and transmitting data. The rovers would not be driving, but observations and measurements will continue," Price said.
+ 
+ The rover teams are determining the most useful sites for the rovers Curiosity and Opportunity to remain productive during the solar-conjunction period.
+ 
+ This will be the eighth solar conjunction period for the Mars Odyssey  , the seventh for the Opportunity rover, the sixth for the Mars Reconnaissance Orbiter, the third for the Curiosity rover and the second for the MAVEN orbiter, NASA said.
+ 

@@ -1,0 +1,12 @@
+CHANDIGARH: After "wannacry", hackers have launched another major global attack with " " ransomware, which is six times more powerful than its predecessor. 
+
+ On June 28, swindlers launched Petya attacks in   and other European countries. According to cyber experts, Petya locks up data and important files and for now, there is no solution. Even formatting the system does not help.
+ 
+ IT experts said online swindlers lock up victims' data and do not restore it even after payment of ransom, leaving no way of salvaging the system. Like Wannacry, Petya spreads rapidly through networks that use MS words windows, experts said. IT experts warned people not to pay ransom if their data was locked because their files would not be unlocked after payment. 
+ 
+ Last year, Amit Jain, a businessman from   was attacked by the Wannacry virus and lost all data and important files. IT expert Rajesh   said when the computer is infected, the ransomware encrypts important files and online swindlers demand ransom in   to unlock files. If victims don't have a recent back-up of files, they often agree to pay ransom to release important data. But no one can unlock or recover data, Rana said.
+ 
+ Responding to the claim of many antivirus companies of developing updated software that can detect and protect against Petya infection, the IT expert said there is no anti-virus that can protect the computer from Petya. Only precautions can be taken to save important data or files. Rana advised people to back up important files and data in another system. 
+ 
+ Rana said a businessman came to him to unlock files and data attacked with Petya and he advised him to format the system and not to pay ransom to the hackers.
+ 

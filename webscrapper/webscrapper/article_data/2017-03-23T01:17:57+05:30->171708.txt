@@ -1,0 +1,13 @@
+NEW  : Long queues and slow tests are on their way out of the  . In a bid to speed up the  , which sees over 30 lakh transactions every year, the department has got itself a 100mbps line as its digital backbone. Until now, the department was dependent on a measly bandwidth of 2mbps for all its online processes. 
+
+ Transport commissioner Vikram Dev Dutt said, “We have recently digitised 10 of the most used services. Moving to a much faster bandwidth will eliminate the need for a human interface as we make more services go online.” This would help the department go cashless too. 
+ 
+ Before de-monetisation, the bulk of transactions was done through cash with digital transactions accounting for a mere 9%. By February 28, the figure was 73% cashless, Dutt added.
+ 
+ One of the services that would benefit is the learner’s  , which has an online application and test. However, slow speed ensured that the 10-question test took a while to complete. “Now, the processing time will come down drastically. This means that more number of transactions can take place in the same amount of time. Long queues at RTOs will come down,” said a government official.
+ 
+ So far, the department has had data-intensive applications like Sarathi and Vahan running on 2mbps bandwidth. Other services that have been digitised include transfer of ownership, driving licence transactions, change of address, fitness inspections, duplicate registration certificates etc. 
+ 
+ Department data shows in 2016, there were 22,87,432 transactions in the 13 regional transport offices apart from over six lakh licence-related activities. “The department uses web based applications for the delivery of services. This will make delivery quicker,” said an official. The department has spent over Rs 1.34 crore on the project. 
+ 
+ 

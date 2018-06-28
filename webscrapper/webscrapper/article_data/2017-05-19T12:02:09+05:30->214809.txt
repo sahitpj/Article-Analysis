@@ -1,0 +1,10 @@
+THIRUVANANTHAPURAM: To bring in  , the motor vehicles department (MVD) will introduce an   for payment of tax for inter-state vehicles.
+
+ The software for the same has been developed by  . It will be sent for software code quality checking (SCQC) audit and after which it will be implemented at 19 checkposts of the regional transport office (RTO).
+ 
+ At present, documents for in-bound and out-bound vehicles are verified by the officer at RTO   and permit fee is levied. This procedure could take more than 30 minutes depending on the rush of vehicles, resulting in traffic bottlenecks. Around thousand vehicles pass through each checkpost daily, of which nearly 200 vehicles require travel permit.
+ 
+ In the pilot stage, the facility will be introduced at the RTO checkpost in Amaravila (Kerala-Tamil Nadu border). Since the data of vehicles registered in the state is available with the MVD, the e-payment facility will be introduced for out-bound contract carriages in the first phase. However, the facility for out-bound goods carriages will be delayed due to pending technical work.
+ 
+ “We plan to roll out the system in two months. There has been complaints from checkposts related to payment of tax,” said an official from MVD.
+ 

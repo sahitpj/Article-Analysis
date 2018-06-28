@@ -1,0 +1,8 @@
+BENGALURU:   10,000 Startups, an initiative by the software industry body, has launched a mobile app ‘Startup Jobs’ that alerts tech professionals about vacancies. The app offers a curated selection of job openings across various roles in startups, including technology, sales, marketing and operations. It allows candidates to upload their video profiles, get status updates in real time after companies have reviewed their profiles.
+
+ Bengaluru-based HR tech startup e-Poise Systems has created the app. Founded by London Business School alumni Sachin Agrawal and Bishan Singh, the firm counts HP, Siemens, Flipkart, Firstsource, Harman, Lowe’s, Ola, HDFC Bank and Reliance as customers.
+ 
+ The app provides an alternative channel for job seekers in a tough market where employees are bracing for performance-related separations as digital has altered the scope of doing business significantly. The app, for instance, has listed job openings for front-end developers, full-stack developers and designers.
+ 
+ Separately, Nasscom said it will launch a programme to reskill senior software professionals, who have been laid off on performance grounds. “Startups can absorb some of these engineers. Together with our programme to re-skill this experienced workforce coming out of some of these IT services firms, our app will serve as an alternative channel to find them suitable  ,” said K S Viswanathan, head of the 10,000 Startups initiative. Nasscom’s job hunting platform is free.
+ 

@@ -1,0 +1,26 @@
+Ahmedabad:  , 23, an expert who has been working with the cyber cell of the city   since July 2016, is definitely the hero of the moment. 
+
+ In face of the worldwide ransomware attack, where for many, paying cyber criminals to get the encryption key was the only option, Patel has proved that he can change the rules of the game.
+ 
+ 
+ In the last 72 hours, Patel has already retrieved 40% of files encrypted by the ransomware on government and police computers, said senior crime branch officials.
+ 
+ Enthused by Patel’s extraordinary success, crime branch feels confident it can also help out others whose computers have been affected by ransomware.
+ 
+ “We will also help anyone who want to us to retrieve their encrypted data,” said Deepan Bhadran, DCP, crime branch.
+ 
+ Crime branch said they had been entrusted to retrieve some extremely important government files and police data that had been affected by the ransomware attack, which has already affected around 130 government computers.
+ 
+ “We gave the task to Patel who holds an MS in digital forensics from   (GSFU). He regularly works with us to solve cyber related crimes” said DCP Bhadran.
+ 
+ Explaining the working of the ransomware, Patel said, “The backend process first copies files in the computers and encrypts them, and then deletes the original ones.”
+ 
+ “Many were able to de-encrypt the data only after paying the ransom, as they were virtually helpless,” Patel added.
+ 
+ Patel said that by careful application of cyber forensics it was possible to identify the operations performed by Wannacrypt.
+ 
+ “We prepared a model and tested the working of ransomware through which it was possible to identify traces of the original date left behind, though deleted by the virus,” Patel said.
+ 
+ The model enabled them to recover their affected files up to a considerable extent. “However as the ransomware also overwrites original files it will take time to retrieve the total lost data” said Patel.
+ 
+ 

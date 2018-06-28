@@ -1,0 +1,28 @@
+BENGALURU:   have done more damage to   in Bengaluru than the   attack, which is feared to have infected over two lakh computers across 150 countries. Hesitant to carry out  , panicky   are postponing digital payments.
+
+ Businesses which were on a path to recovery after demonetization have slumped again. Even banks are under pressure as more and more customers are lining up to withdraw money from the counter. Shortage of cash supply to ATMs is only adding to the problem. 
+ 
+ “The stress is due to two factors. Many ATMs have been closed for want of cash and the fear of the ransomware attack is keeping people away from the internet. They are choosing to withdraw cash from the counter and long queues at bank branches are overburdening the staff,” said a senior official at a public sector bank.
+ 
+ Experts, however, said there’s no reason to worry as there is no threat to online bank transactions from the ransomware. They suggest customers turn a deaf ear to rumours. 
+ 
+ “It is important for people to know that the ransomware is designed to infect computers through links or attachments in malicious messages known as phishing emails. Its software is hidden in such links/attachments. Since online bank transactions don’t involve emails or links, this virus doesn’t affect computers when they are used for the transactions,” said R Vijay Rajesh, an ethical hacker working with a reputed software company.
+ 
+ Rumours, however, are spreading faster than the good word. As a result, traders, including retailers, have hit the pause button and held back payments.
+ 
+ “Traders are holding back payments due to the fear of losing money. One can pay in cash up to Rs 2 lakh; if the amount is more, one has to do online transactions. This has impacted circulation of money in the market, hitting businesses which are dependent on short-term money transactions,” said Rameshchandra Lahoti, president, Bangalore Wholesale Food Grain and Pulses Association.
+ 
+ He said various other technical issues are also hindering digital transactions. “For instance, servers of many banks were down for five days after the ransomware, WannaCry, hit headlines. Traders couldn’t transfer or receive money from customers,” Lahoti added.
+ 
+ Admitting that customers were being put to hardship, bankers said the servers were not in continuous operation for a couple of days as they were following the Centre’s advisory and installing the latest antivirus patch to secure their computer systems. The   (CERT-In), a nodal agency that works under the ministry of electronics and information technology and deals with cyber security, issued a critical alert on Sunday to all organizations, including banks, asking them to take precautionary measures against the ransomware.
+ 
+ “It is true the servers were down for a while because of the software installation process. The disruption was only temporary and the systems are working now. Those who had postponed online payments can now resume transactions,” said a bank official. “However, ATMs were not closed for software-related issues,” he clarified. 
+ 
+ Even in the retail business, card payments were not a problem as Point of Sales (PoS) machines are in no way connected to vulnerable computer systems.
+ 
+ 
+ 
+ 
+ E-commerce firms seem to be impacted by WannaCry to a certain extent as people are choosing to stay away from the internet and not place orders online. An e-commerce firm which organized a special weekend event was only able to achieve a moderate sales target. An email to Flipkart officials elicited no response. 
+ 
+ 

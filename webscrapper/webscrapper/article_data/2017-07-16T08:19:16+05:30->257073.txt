@@ -1,0 +1,30 @@
+For Paresh Parmar, 24, it is a perennial di lemma when his visiting relatives ask him what he does for a living. “I stay home almost all day for work. As I work on a laptop, they think I am involved in data entry or share trading. When I talk about application security, they say, 'Oh security guy!' and I bang my head,“ he chuckles.
+
+ But they are not entirely at fault. Paresh is a penetration tester or `pen tester' who searches out security glitches and weak points of specific websites or applications through which hackers can gain access to a system's features and data. As recently seen during the global ransomware attacks and a number of previous instances, vulnerabilities exploited by hackers can now affect the economy of an interconnected world.
+ 
+ Thus, a bunch of young people from the city has found its calling in identifying such vulnerabilities and are getting paid for it -in dollars! There are fewer than 30 bounty hunters in   and only a handful of them are involved full-time.They make between Rs 50,000 to Rs 1.5 lakh and beyond per month by claiming the bounties.
+ 
+ PAYING FOR SAFETY
+ 
+ Jigar Thakkar, 26, a fellow full-time bounty hunter, said that bounty programmes are not initiated by companies alone. The US and the Netherlands governments also have open bounty challenges such as hacking the   or the air force sites to encourage penetration testers to report security threats.“The trend started about a decade ago when firms realized that it is better to allow testers to find the bugs before the hackers exploit them,“ said Sunny Vaghela, the CTO of a city-based cyber security firm. However, there are not many Indian companies on the scene because of the lack of awareness and probably less willingness to pay bounties.
+ 
+ PARESH PARMAR | 24 MAXIMUM BOUNTY CLAIMED | US $3,000
+ 
+ He decided to drop out of a college course to pursue a career in cyber security. “My expertise lies in mobile applications because I believe that it's the future with more and more users accessing the internet through hand-held devices,“ he said. “I was able to find a security glitch in a popular browser after which it was plugged.“ He said that there is always a worry that someone else will report the glitch at the same time.
+ 
+ DAKSH PATEL | 22 MAXIMUM BOUNTY CLAIMED: US $3,000
+ 
+ Patel is a computer engineer and a gaming enthusiast. “I was interested in internet tricks and hacking since class XII. I started from basics like SQL injection and then explored various bounty platforms,“ he said. “I got completely hooked and started it fulltime. I had reported a security breach in a major financial institution; I could access user data and passwords,“ he said.
+ 
+ JIGAR THAKKAR | 26 MAXIMUM BOUNTY CLAIMED: US $2,500
+ 
+ After completing his BSc Computer Science he also took a course in cyber security. He worked in a firm and started penetration testing on the side. “But soon, hours kept expanding with more and more bounties coming my way,“ he said. “I left the job to pursue it full-time.I could enter the database of a US-based technology firm and also tweeted on behalf of the CEO to point out the threat.“ He believes that a stable career is possible in the field.
+ 
+ NIKHIL SHRIVASTAVA | 28 MAXIMUM BOUNTY CLAIMED: US $5,000
+ 
+ He started very young while pursuing BTech from Jaipur. He began by pointing out security problems on the state government website. Today he is among the top 10 bounty hunters on Synack and Cobalt and has won trips to the US and a customized   Surface Pro 4, a touchscreen computer not yet launched in India. “I have been a part of group projects where hunters of various countries come together to find security problems,“ he said. “I had found bugs in a popular mobile brand platform and an operating system.“
+ 
+ PRIZE FOR BREAKING IN
+ 
+ Nikhil Shrivastava, 28, a security analyst with a city-based cyber security firm, said that a number of online platforms such as HackerOne, Synack, Bugcrowd, Cobalt, etc have major companies including Microsoft,  , Google, Yahoo!, Facebook, Twitter,  , PayPal, Adobe, Uber, and   listing the `bounty' -monetary reward -for finding and reporting the bugs. The reward ranges from US $100 to US $15,000 (Rs 6,500 to Rs 9.64 lakh) depending on the nature of bug. “Bounty hunters get to know about the bounty and then start penetration testing with authorized access to company systems with various tools,“ said Daksh Patel, 22, a professional Ahmedabad-based bounty hunter. “You find the bug and report it in the stipulated format. Then the company's experts replicate it on their own. If it's a success, you get a notification and bounty through fund transfers or through online wallets. It can take a few hours to a fortnight.“
+ 

@@ -1,0 +1,22 @@
+PUNE: The   is in the process of procuring multi-functional radio sets known as “Software Defined Radio (SDR),“ which will increase the versatility and flexibility of communication and provide a safe and secure communication  , a top defence source told TOI.
+
+ The source, who did not wish to be named, said, “The army has already initiated the process in this regard. The request for information (RFI) has already been specified and sent to the global manufacturers. We expect the global manufacturers to respond to RFI in the coming months.“
+ 
+ Defence sources said that soldiers can exchange voice messages, data and images in real time by using these SDR radio sets. Commanders of infantry battalion can also easily and precisely track soldiers' location.
+ 
+ “The deployment of army troops is mainly in the north and northeast regions. These regions have high altitude areas. The SDRs can operate effectively at high altitude too, which will be a big relief for the troops,“ the sources said.
+ 
+ Presently , the army is using purely hardware-based separate high frequency, very high frequency and ultra high frequency radios, which have little or no data capability. A senior army officer from   told TOI, “The current radio communication technology is quite old. The maintenance of these radio sets is the biggest challenge for the corps. Power consumption of these sets is also high. Considering all these aspects, the SDR will act as a force multiplier for the force, particularly for infantry units, who will use it in their operations extensively .“
+ 
+ Lt Gen   (retd), signals officer-in-chief of the army , told TOI, “The US army has been using SDR radio sets effectively in their operation. These radios can be upgraded through software programming, which increases the lifecycle of the radio system and enable users to adapt quickly to new capabilities, challenges and threats.“
+ 
+ According to the veteran, it is quite easy to compromise single frequency , “But the SDR radio operate on different frequency , thereby giving less scope to the enemy to compromise it,“ he added.
+ 
+ They can also effectively tackle the threat of Chinese malware.
+ 
+ “A recent report of the   (ADB) has specifically warned that imported communication equipment has highlighted the threat from virus.In this scenario, the SDRs can play a pivotal role for the army ,“ the defence sources said.
+ 
+ The weight carried by infantry soldiers has always been an issue as it can affect how quickly army personnel can move on the ground.Now, soldiers have to carry multiple sets of radio on the front lines, which affect their movement.
+ 
+ “The portability of these radio set is easy and, hence, will reduce additional burden on the soldiers,“ the sources explained.
+ 

@@ -1,0 +1,29 @@
+How often do we see students enrolled in their first year working on projects which are sensitive to the needs of society? Mostly, students are asked to work on projects in their final year, but students of  , Greater Noida, were given government schemes to choose from as topics to get a hands-on experience on various projects in their first year itself. From topics like Digital India to women’s safety, students worked on different projects, which are currently in their initial stages, and will be put to public use when ready. 
+
+  
+ Two groups from BTech (Computer Science) worked on projects related to women’s safety. While the first group created an app called B-Safe, the second group created an app called Suraksha. "Once you log in to B-Safe, it will ask you to register the phone numbers you want to send an alert to in an emergency. When you log in, the app will send an SMS to your registered contacts along with your location. We understand that it might not be possible to log in at the time of an emergency, hence we are trying to come up with alternatives. Perhaps people can shake the phone three times or press the lock key three times to send an emergency alert to the registered contacts," says Rakkhal Rapolu, a first-year student who worked on the project with a team of four members. 
+ 
+  
+  
+ 
+ 
+  Mayank Anand, who has worked on the Suraksha App along with other three group members tells us that their project is similar to the B-Safe App. "Our app sends an email to your registered contacts along with your location. The users can shake the phone or tap the lock key thrice and the app will send emails to the registered contacts. We have also developed a 20-second self-defence tutorial through which people can learn basic techniques to escape in an emergency," says Mayank. He adds, "The users might not have the time to learn self-defence techniques during an emergency, so they can learn the basic techniques as and when they have time."
+ 
+ 
+  
+  
+ 
+  
+ Some students are also working on drones to widen the scope of their use, and trying to make them available at convenient prices. Nandana Varshney, a first-year student of BTech (Computer Science) who has six more members in her team, says, "We are trying to make an army of drones that can take our commands and work accordingly. We are also trying to make them available at cheaper prices. Today, a drone doesn’t cost less than Rs30,000, but we are trying to make them available in the price range of `10-12,000. We are also trying to engineer drones that can detect faces in a crowd."
+ 
+  
+ Another group which also worked with drones applied them to provide first-aid kits at the time of a medical emergency. "We all know that traffic is a major problem in developed cities. Often, due to traffic, people are not able to get help at the right time. So we can deploy drones in such areas and as soon as we receive a call, we can send a drone with a first-aid kit, blood, etc, to the location. We are also installing a camera on a drone and working on a live streaming facility so that we can send it to the exact location," says Krishna Kaashyap, a BTech first-year student.
+ 
+ 
+  
+  
+  (L) The B-Safe app alerts the registered contacts of a user through SMS in case of an emergency, (R) The Suraksha App sends an email alert to a user's registered contacts in an emergency. It also teaches quick self-defence techniques 
+  
+ 
+ 
+ 

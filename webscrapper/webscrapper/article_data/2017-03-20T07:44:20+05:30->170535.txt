@@ -1,0 +1,10 @@
+HYDERABAD: Now, you can lock your Aadhaar   to keep it safe and unlock it whenever you want to use it.
+
+ With digital payments using Aadhaar data on the rise and cases of misuse being reported, officials of the   (UIDAI) have come out with the new security feature to lock the biometric details (fingerprint and retinal scan data).The   introduced the lock and unlock facility following an uproar that Aadhaar deprived people of their right to privacy.
+ 
+ Biometric data of citizens is being collected on various platforms for government schemes, often without much safeguards. Aadhaar identification has become almost compulsory in some cases. Banks, mobile phone operators and others have access to it. “People can hack into this data and access individuals' details, including bank accounts,“ a UIDAI official warned.
+ 
+ “Each time you shop and pay using your fingerprint, the data processed by   can be hacked. Fingerprint details can be captured as well,“ the official said.
+ 
+ The lock and unlock facility is purely voluntary. “If a person wants to lock his data, he or she can do it. No other person can unlock it. One can keep it locked as long as one wishes,“ the official said Once the Aadhaar data is locked, even banks cannot access the biometric information stored in the main server.This will lead to failed transactions due to non-verification or non-authentication of the Aadhaar. The UIDAI is also planning to introduce a mobile application to lockunlock biometric data.
+ 

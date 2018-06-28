@@ -1,0 +1,16 @@
+Chennai: An industry-wide   to the latest Microsoft Windows OS would roughly cost upwards of Rs 2000 crore, said V Balasubramanian, president, transaction processing and ATM service, FSS and member of Confederation of ATM Industry (CATMI) over the latest furore in the industry after   hit 150 countries worldwide. 
+
+ The RBI on Monday issued directives for all ATMs running on Windows XP to close down and not open shop till the necessary software has been upgraded. More than 70% of India's 2.2 lakh ATM network is believed to be running on outdated software, which is vulnerable to WannaCry. 
+ 
+ Banks, which have shutdown their ATM network, said they are likely to resume operations over the next few days. 
+ 
+ Industry body CATMI has set up a taskforce with ATM original equipment makers (OEMs). “OEMs are currently testing the patches. Once the tests are done, we will be deploying it at our ATMs,” said Balasubramanian. Will operators have to visit each and every ATM in India’s 2 lakh plus network for the upgrade? “We hope it does not come to that. We are evaluating options, so that central deployment, changes from our servers are possible,” said Balasubramanian. 
+ 
+ “About 25,000 ATMs of our 40,000 network are running and are in compliance with the new regulation Reserve Bank of India (RBI) over ransomware. The remainder are shut, awaiting the technical upgrade. Some of our ATMs are shut because of the persisting, general shortage of cash since January post-demonetisation,” he added.
+ 
+ Some of the newer entrants to the field such as BTI Payments have benefited as since inception they have been using Windows 7 or later versions. “All our 4,000 ATMs are operational as we are compliant with RBI regulations, mandating Windows 7 or later versions.We are currently discussing with the OEMs on deployment of the patches on the ATMs -- whether it has to be done machine by machine or centrally,” said K Srinivas, MD & CEO, BTI Payments."More than 75-80% of our 4,000 ATM network are not working because of shortage of cash. This has been the situation since mid-January," added Srinivas.
+ 
+ Apart from the software upgrade, the ATM industry is likely to spend an additional Rs 2,000 crore on the EMV upgrade, mandated by RBI. With September 2018 being the deadline for all ATMs to be EMV compliant (be able to read the new EMV debit/credit cards), there more costs uphead awaiting the industry — which has already been severely battered by lower volumes, higher costs since demonetisation.
+ 
+ 
+ 

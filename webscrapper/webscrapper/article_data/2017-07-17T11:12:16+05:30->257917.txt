@@ -1,0 +1,22 @@
+MUMBAI:   plans to double its headcount in India for its cloud business this year as it gets ready to battle it out with Amazon and Microsoft’s dominance in the country, its top executive told ET.
+ 
+  The public cloud services market in India is projected to grow 38% in 2017 to $1.81 billion, according to Gartner, as the market in country remains vastly untapped.
+  
+  “We are building our go-to market, which spans across segments and industries. This year we are doubling our team here and we will probably double this again as we move forward,” said  , country head - India,  . He did not disclose the headcount in India at present.
+  
+  Google, which has invested $30 billion on its cloud platform over the past three years in building infrastructure, will open its first cloud region in India this year. This is where customers can choose to locate their applications to meet their requirements. Google has 10 regions globally at present and seven, including India, are coming up.
+  
+  
+  
+  
+  Rivals Amazon,   and IBM already have public cloud data centres in the country.
+  
+  “India is a large market for us, also a very strategic market. We are investing a lot in India, we are opening acloud region, we are investing in sales, marketing, customer engineering teams, professional services and partner network. We are building this ecosystem as India is a significant part of our strategy,” said Pande.
+  
+  The Google Cloud enterprise offering is made up of the cloud platform, G Suite applications for workplace productivity, Google Maps for companies relying on location-based services and   devices for business.
+  
+  “These are early days for cloud. It is a very large market and we think less than 10% of workload has moved to the cloud. Most of the market is for everyone to play. We see a big momentum coming in,” said Pande.
+  
+  Google, which is seen as a late entrant to the cloud storage business, is relying on its artificial intelligence and machine learning capabilities to beat the competition.
+  
+  “We also think that as the overall environment for cloud improves in India, internet infrastructure is improving significantly. We are seeing the cost of data go down. We are seeing mobility moving in India big time. Corporates in India are jumping ahead and right now is a great time for any cloud company to be in India,” said Pande.

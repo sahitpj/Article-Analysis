@@ -1,0 +1,22 @@
+MOUNTAIN VIEW (CALIFORNIA): Aspiring to introduce products for the next billion first-time internet users through smartphones,   is upping its ante with designing the operating system, play store and few apps available on low data and storage space. In an exclusive interview to TOI,  , VP, product management, speaks about   (as it is internally called), which is designed for entry level smartphones. Samat is responsible for Google’s product, design and engineering team for Google Play and product team for   Excerpts:
+
+ 
+ 
+ There are more Android users in India than in the US and most of them are from tier-2 and tier-3 towns, who operate in their regional languages. So, there is a need to make the software data and language compatible for them. Android Go, the updated OS will be available in phones with a memory of 512 mb to 1 gb and the rollout is in 2018.
+ 
+ 
+ 
+ Besides the apps occupying less space, the new version would be smart on data. For instance,   will automatically have a data saving option and users will know about the prepaid data available to use and they can top up on the device. Beyond the OS, apps are also getting smarter. For instance, YouTube Go, which is currently in beta in India, has a preview experience that lets users decide whether to spend data watching the video. There are options to decide streaming quality and even there, one can see how much data is consumed. For now, data saving options on chrome and YouTube Go are the additions. Other additions would follow later in the year.
+ 
+ 
+ 
+ The response has been phenomenal and we have some key takeaways from India, which we are being incorporated. For instance, some of the improvements such as the app having the option of P2P sharing of video links and the option of watching videos offline, have been made using inputs from India.
+ 
+ 
+ 
+ Android has offerings for all tiers of users with varying price points of phones. Whereas the app store is available only for select price points. This gives us an edge over the competition.
+ 
+ 
+ 
+ 
+ 

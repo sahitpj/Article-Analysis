@@ -1,0 +1,17 @@
+NAGPUR: Paediatrician Dr   has developed the world’s first iWatch app for critical care treatment of patients on ventilator, based on Arterial Blood Gas (ABG) diagnosis. The app can be used for any patient right from neonatal age to an adult for measuring the ABG (also known as acid base levels with oxygen monitoring in blood). He has also written an interactive digital book on this issue.
+
+ Dr Deopujari presented his research for the app on May 2 at  , and at the John Hopkins University on May 5, to very good response. He was honoured with the ‘Master Physician Educator’ award at Rochester University. The app and interactive book on ABG will be formally released on Sunday at a function in the city. 
+ 
+ Dr Deopujari has an engineering mind with the skills of a doctor. His love for mathematics helped him develop 10 similar apps for facilitating diagnosis and treatment in children and adults in intensive care. All of these apps are Android and iPhone apps whereas the ABG app is available in both  
+ 
+ “I call it a point of care technology, as it helps the doctor diagnose and treat the patient when he is nearest to the patient. All one has to do is put the carbon dioxide level in blood, oxygen level in blood, pH of blood and the amount of oxygen the patient is receiving through the ventilator into the ABG app. The watch gives the most accurate diagnosis of the patient’s condition based on the levels of these vital parameters. In fact, the iWatch immediately also gives the treatment protocol,” explained Dr Deopujari.
+ 
+ The process otherwise involves a lot of mathematical equation solving. However, the book and the app solve the equations in seconds and give the diagnosis immediately. Thus, there is no scope for subjectivity or an error on the part of the doctor involved in the process since it is all based on numbers. So far, the app has been downloaded 22,000 times.
+ 
+ Dr Deopujari has sought help of ‘rg blossoms’, a US-based company to develop the software for the process. Others who helped in developing the app and the book include Dr Lawrence Martin from Cleveland University, Dr  , and Dr Deopujari’s daughter Dr Shruti, who is based at Eastern Virgina School of Medicine.
+ 
+ The 10 apps developed so far by Dr Deopujari have been included in the ‘Assisted Ventilation of the Neonate’ book published by renowned publisher Elsvier in its sixth edition published recently. It also has a chapter on neonatal ventilation by Dr Deopujari.
+ 
+ The digital book written by Dr Deopujari is an interactive one. “You can put the numbers of various parameters on the book and derive inferences about relationship of all these parameters to each other in the human body. It is like playing and learning from it,” said Dr Deopujari. The interactive book is the first such global effort.
+ 
+ 

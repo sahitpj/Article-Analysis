@@ -1,0 +1,15 @@
+HYDERABAD: Ransomware   is living up to its name by giving sleepless nights to thousands of techies, particularly systems engineers and server maintenance teams in IT offices dotting the cyber city. 
+
+ Though the cyberattack has not yet affected servers in the city, techies are burning the midnight oil upgrading security patches and anti-virus systems on computers ever since the first report of the attack broke out on May 12. 
+ 
+ This is in addition to the regular targets for deliverables that the teams are chasing. In fact, staff at many companies have been on the job for six straight days and nights now. 
+ 
+ Companies dealing with crucial financial data, particularly IT, insurance and banking services providers, are not taking any chances and are upgrading their entire network of systems and servers. 
+ 
+ “Almost all companies have put aside routine work and taken up upgrade of their servers and individual systems with the latest security patches and versions of software on a warfooting. We are doing this for our 11 servers and over 20,000 systems. Our teams have been working overtime for the last five days now,” said a senior official from a mid-sized IT company in the city.
+ 
+ “Since WannaCry is dependent on the route vulnerability of HP, we have blocked ports like   137, 445 and   ports on every connected system,” said  , director, Vividha IT solutions.
+ 
+ With many companies having fallen prey to   attacks in the past, none of the IT companies are willing to take any chances, said IT industry sources. “From the weekend, employees of almost every company are busy updating software patches, servers and machines connected to the servers. Once upgraded, each application has to be checked individually to see whether they are functioning properly or not, if there is any data loss and whether the appearance of the applications is perfect or not. For instance, a change in colour of an application page can mean danger,” said  , president of Telangana Information Technology Association.
+ 
+ 

@@ -1,0 +1,19 @@
+MUMBAI:   in India is poised for a digital leap. In a country where patients spend months before getting the right diagnosis and treatment, a digital network — courtesy an initiative between   hospitals, led by the city’s  , and one of the country’s biggest IT companies — will help patients reach the right doctor quicker.
+
+ On Sunday, the digital nerve centre will be inaugurated by Tata Sons chairman N Chandrasekaran at Tata Memorial Hospital, Parel, as a network linking the hospital with the Tata Medical Centre in Kolkata, the   in Chennai and the Regional Cancer Centre in Thiruvananthapuram. “Soon, the digital centre will connect all 108 hospitals that are part of India’s National Cancer Grid,” said Tata Memorial Centre director Dr Rajendra Badwe.
+ 
+ Cancer is one of India’s biggest health challenges. Around 10 lakh new cancer cases are detected every year, with seven lakh patients in various stages of treatment succumbing to its complications. A recent study from PGIMER-Chandigarh showed the average time between a patient noticing a cancer symptom and the diagnosis is four months, but could even extend to three years. 
+ 
+ The grid, which only needs a patient to make a call from his mobile, has the potential to change these grim statistics. “The digital nerve centre will act as a one-stop centre for anyone who suspects he has cancer or has just been diagnosed,” said cancer surgeon Dr C Pramesh from Tata Memorial Hospital. 
+ 
+ “All a person has to do is call up a phone number where trained individuals, including doctors, will speak to him/her about the symptoms and suggest an oncologist at the nearest cancer centre.” Thereafter, the digital aide will also fix up appointments with the doctor, send reminders about follow-up visits and laboratory tests. The patient’s entire medical file will also be available in a digital format, making it easier to seek second opinions. “The nerve centre can be used not only for oncology, but can similarly link up heart or infectious diseases specialities,” said Dr Pramesh.
+ 
+ The idea of a digital nerve centre came up a year back when the 108-hospital National Cancer Grid approached software giant TCS. The grid already has a virtual tumour board which meets virtually monthly to discuss most challenging cases and likely treatment. 
+ 
+ The nerve centre will also bring “indirect” benefits to patients: it can cut down a doctor’s administrative duties and decongest cancer care. “At present, between 40-60% of a doctor’s work is administrative, writing patient files or treatment plans,” said doctors. The nerve centre has a programme that enables doctors to make voice recordings of their patient’s treatment plan. The voice file is then converted into a document and uploaded onto the patient’s electronic health records. 
+ 
+ Tata Consultancy Services (TCS) vice-president Girish Krishnamurthy said the oncologist-to-patient ratio is abysmally low in India at 1:1,600. “Around 32% rural patients travel far to access basic healthcare. The nerve centre will help the National Cancer Grid improve outcomes of cancer care while enabling patients to easily access healthcare at their doorstep,” he said.
+ 
+ At present, most patients especially from the northern and eastern parts move to the west or south for treatment. “In Indian hospitals, not everything that is done is documented. With the digital nerve centre, doctors can document treatment plans and options in real time. As this becomes the norm, uniformity in care will follow,” said Dr Badwe. So, patients will get the same treatment at the cancer centre nearest to their home as doctors at Tata Memorial Centre or Chennai’s Cancer Institute would prescribe.
+ 
+ 

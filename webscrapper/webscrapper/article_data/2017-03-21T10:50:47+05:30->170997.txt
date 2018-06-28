@@ -1,0 +1,24 @@
+JAIPUR: For a state with rich heritage as Rajasthan, preservation, in view of rapid urbanization and consequent destruction of its historical monuments, has become paramount. 
+
+ Moving a step beyond physical preservation, the government has started digital preservation of its heritage in a one-of-its-kind project in the country.
+ 
+ The project, which began in the last quarter of 2016, has already digitally scanned seven historical monuments, inch by inch on a 1:1 scale, to be preserved for posterity.
+ 
+ “Preservation involves a unique set of challenges as one of the most crucial facets of the process is to keep the cultural heritage intact. Several projects have been undertaken across the globe to preserve culture and heritage. Taking the lead in India, Rajasthan, which is home to ancient forts and architectural marvels, is preserving them to attract more tourists with the help of architectural model and 3D walk-through videos. These are interactive and have informative games weaved around them. These will help students and history lovers know more about the culture and heritage of Rajasthan in a fun way,” said Akhil Arora, commissioner & principal secretary, Department of Information Technology & Communication (DoIT&C).
+ 
+ Technically supported by DoIT&C and Autodesk Inc, this is a novel initiative to recreate heritage structures through the LiDAR scanning technology using 3D with special cameras fixed on drones.
+ 
+ According to the department, it is more a digital preservation on a large scale where building information modeling (BIM) will provide accurate measurement of structures.
+ 
+ “The project could dovetail the project for creating a 3D city. Backed by chief minister Vasundhara Raje’s initiative, Rajasthan State GIS Application ‘Rajdhaara’, it aims to establish an effective and integrated GIS infrastructure of the state to enable good governance. In the context of ‘Smart City’, the 3D city along with the National Heritage City Development and Augmentation Yojana (HRIDAY) scheme can work towards the holistic development of heritage cities,” said Arora.
+ 
+ So far Autodesk has completed as-built 3D models of Albert Hall Museum, Jantar Mantar, Hawa Mahal, Udaipur City Palace, Jaipur City Palace and the seven gates of the   in Jaipur. And while that of Amber Fort is nearing completion, the Kumbhalgarh Fort is next in the pipeline.
+ 
+ “Nearly 25 historical monuments will be covered under the project. Over a hundred other places of importance will also be digitized with the town planning and disaster management perspective,” said  , senior product manager, Emerging Technologies, Autodesk.
+ 
+ While the 3D walk-through videos will help tourists experience the old world with just a click, the digitization will go a long way in preserving history and safe guarding monuments against damage.
+ 
+ In case of natural calamity, this information will come in handy to restore damaged monuments to its true state.
+ 
+ “Besides, new buildings, structures coming up around heritage monuments too can be modelled on them so as to be in sync. The project will also help architecture students and add yet another aspect to tourism in the state,” Arora said.
+ 
