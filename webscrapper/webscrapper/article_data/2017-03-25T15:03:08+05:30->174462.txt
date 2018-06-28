@@ -1,0 +1,20 @@
+LONDON: A 17-year-old schoolboy in the UK has pointed out an error in the data recorded by   on the   ( ), earning him appreciation from the US space agency.
+
+ Miles Soloman, an A-level student at Tapton school in Sheffield, contacted scientists at NASA, telling them that radiation sensors on the ISS were recording false data.
+ 
+ Soloman said it was "pretty cool" to email NASA, adding the correction was "appreciated" by the space agency, which invited him to help analyse the problem.
+ 
+ The research was part of a project which gives students across the UK the chance to work on data from ISS, looking for anomalies and patterns that might lead to further discoveries.
+ 
+ The detectors had recorded the radiation levels on the space station.
+ 
+ "I went straight to the bottom of the list and I went for the lowest bits of energy there were," Soloman was quoted as saying by BBC News.
+ 
+ "We were all discussing the data but he just suddenly perked up in one of the sessions and went 'why does it say there is -1 energy here?'" said Soloman's teacher and head of physics, James O'Neill.
+ 
+ What Soloman had noticed was that when nothing hit the detector, a negative reading was being recorded.
+ 
+ However, you cannot get negative energy. So Soloman and O'Neill contacted NASA.
+ 
+ NASA said it was aware of the error, but believed it was only happening once or twice a year. Soloman had found it was actually happening multiple times a day. 
+ 
