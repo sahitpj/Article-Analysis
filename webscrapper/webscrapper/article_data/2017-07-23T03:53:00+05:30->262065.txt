@@ -1,0 +1,16 @@
+NEW DELHI: In the next few years, India will face increasingly sophisticated “destructive”   as compared to the “disruptive” attacks in the Indian cyberspace that are currently adding up to 200 million malware-related and 1,90,000 “unique” intrusions in any given week.
+
+ India’s   chief Gulshan Rai told Parliament’s finance standing committee recently that cyber threats had evolved swiftly from viruses and “nuisance” attacks in the early 2000s to sophisticated malware and advanced denial of service, and could pose the risk of severely destructive attacks by 2020.
+ 
+ The government — the Centre and states — is the main target of  , driven by motives ranging from theft, espionage and data extraction to counterfeiting. In 2015 and 2016, the government sector accounted for 27% and 29% of all cyber attacks, the chief of the Indian computer emergency response team (ICERT) informed the committee.
+ 
+ Other sectors high on the priority list of cyber criminals are banking, energy, telecom and defence, which along with the government, account for three-fourths of all cyber attacks. The emergence of new services and apps, cloud and cognitive technologies, has made cyber security more challenging even as the value of data and its applications in commerce grows by the day, making cyber security a major task.
+ 
+ The incidence of e-transactions is rising with India logging in an estimated 2 billion such dealings a day as compared to around 54 billion worldwide, according to World Payments Report 2016.
+ 
+ Cyber attacks use techniques and tools that help criminals evade detection with increasing refinement, and this has led the government to recognise cyber security as a “strategic domain” and devise strategies aimed at deepening cooperation at the international level. The PMO and the national security adviser are key elements overseeing a range of civilian and defence agencies with cyber security mandates.
+ 
+ The government has suggested several measures for the financial sector, where the impact of cyber threats can be severe or even catastrophic. Mandatory reporting of cyber incidents, audits and risk assessments, capacity building, and the setting up of a CERT dedicated to the financial sector are some of the initiatives under consideration even as manipulation of information on networks is a worry.
+ 
+ The presentation was made to the committee as part of its study of demonetisation and transformation to a digital economy.
+ 

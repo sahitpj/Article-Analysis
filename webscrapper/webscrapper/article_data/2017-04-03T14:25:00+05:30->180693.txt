@@ -1,0 +1,10 @@
+NAGPUR: The confession of one of the three arrested in last month’s   recruitment   case has revealed that a lower ranked personnel who was good with computers had retrieved a deleted document from a computer, leading to the paper leak. The police had arrested three personnel below officer’s rank in the case.
+
+ The accused has told cops that even as the file containing question papers was deleted by his superiors, he could still get a printout. This was possible since he could retrieve the data in the   manager, which remains there even after the file is deleted. This happened at the ARO in Nagpur. Due to paucity of machines, he got a chance to use the same computer for his official work.
+ 
+ The computer expertise in a person at such a rank in the Army came as a surprise to investigators. The Army has already written to Microsoft, asking whether the point that data can be retrieved in this manner was divulged when the software was sold, said sources. 
+ 
+ The question papers are handled with high security. To a centre like Nagpur, the file is sent online through the zonal office in Pune. The file is not accessible to officials of the Army   Office (ARO) here, which conducts the tests. A separate board headed by an officer of colonel’s rank opens the file. The colonel gets the password a day before the test. A team of officers alone can take the printouts and further photocopies behind closed doors. The papers are later sealed, and opened only on the day of examination. The attachment having question papers is deleted from the computer.
+ 
+ The accused said that though the print outs of the paper are taken behind closed doors, he could still use the same computer later. His work was to access the candidates’ details, which were fed in the same machine. During this process, he managed to take the print outs of the paper deleted earlier, he said. A change in the Army’s cyber security policy is expected after the incident. 
+ 

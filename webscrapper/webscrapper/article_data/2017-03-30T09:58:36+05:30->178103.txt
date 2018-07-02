@@ -1,0 +1,15 @@
+BENGALURU: Baburao Mule, a 67year-old Maharashtrian farmer, has spent the last three months capturing images of his crops in Narayan village through   startup  's mobile application feature crop doc.
+ 
+  "Within a minute, through the app, I can understand what pest has attacked my tomatoes and what solution can be used. This has been extremely useful in crop protection. Besides, I also get weather predictions, as well as rates of our crops in cities like Mumbai, so we don't get cheated when selling to the vendors," says Mule.
+  
+ Agritech start-ups, from Accel-backed   to IvyCap-funded RML AgTech, among others, are investing approximately Rs 5 crore each in building groundbreaking image recognition technology that enables farmers to receive real-time data on the pest or disease that has affected a crop, offering solution in a minute, by just using a picture clicked with a smartphone.
+  
+  While players like Agrostar are investing in creating the technology and carrying out pilot programmes in Gujarat, others like RML AgTech have up to 8,000 farmers across Maharashtra and other states already using the technology feature to find problems with tomatoes and other crops. Agrostar plans to provide the image recognition feature free to farmers. RML AgTech, however, offers a basic version of the app free, but charges anywhere between Rs 1,000 and Rs 3,000 annually for the app with the image-recognition feature.
+  
+  Agrostar, which recently raised $10 million in a funding round led by   Partners, plans to scale up and develop the image recognition technology over the course of this year. "We are targeting crops like cotton and groundnut, we are getting data in terms of images from the farmers themselves. More than technology, the biggest challenge currently is having a repository of images that can be mapped to the image that a farmer has taken on his phone and determining the problem and solution in real time, without any manual intervention," said  , cofounder of Agrostar.
+  
+  The services offered by the platform are used by over 10 lakh farmers; over 1 lakh farmers have downloaded the the app. The startup is targeting less than 1,000 farmers in Gujarat for its pilot programme.
+  
+  The image recognition feature on RML AgTech's paid app, called crop doc, is available in varied regional languages. The company, which raised $4 million in a funding round led by   Ventures in January, focuses on identifying pests and solutions related to tomato crops with this feature.
+  
+  "In addition to technology , one needs to have insights. Tomato has close to 48 issues. If one wants to deploy image recognition tech for each problem, you have to have a minimum of 200 different images in the database to reach a 90% accuracy level, but to reach 99% accuracy level, we should have at least 6-700 images per problem. We want to cover all Indian crops by the first quarter of 2018," said  , CEO, RML AgTech. The company says it has over 12 lakh farmers using the app.

@@ -1,0 +1,47 @@
+
+
+ 
+ We need a lot of payload capacity (satellites) for various activities. We have to make sure we achieve the required capacity as early as possible. Towards that we have been working on. 
+ 
+ 
+ 
+ We have done the first development flight test of capacity launcher (GSLV MkIII launch on June 5). We will repeat its launches to make it operational. We are also working on semi-cyrogenic engine for the launch vehicle — making use of liquid oxygen and kerosene as fuel. We are also trying to streamline activities of satellite launchers. We’ll see eight   launches and two GSLV Mk II and Mk III launches in coming months. 
+ 
+ We are also working on the next phase of the reusable launch vehicle whose experimental test is likely within one to five years. Isro is also building high throughput satellites like Gsat-11, Gsat-29 and Gsat-20 with high beam (a special kind of transponder that operates on a high frequency) that will increase our communication capabilities. We are also trying to improve weight capability of our satellites with the help of electric propulsion technology (which helps a satellite reduce its conventional fuel intake and instead draw energy from solar energy in space). Gsat-9 (South Asia satellite) has this technology.
+ 
+ 
+ 
+ Our focus on indigenous development of space technologies, which were not easily available, helped us come this far. We have been consistently pursuing to achieve these technologies. Persistence definitely pays. 
+ 
+ 
+ 
+ Initially, Isro had faced the problem of developing cryogenic engine and also witnessed a couple of GSLV failures. This hurdle actually delayed the GSLV Mk II and Mk III programmes. 
+ 
+ 
+ 
+ We are trying to achieve more within the resources available to us. Our methodology is different from other countries. But we have also benefitted from what others had done. 
+ 
+ 
+ 
+ Money that we are earning from satellite launches is small. But what is significant is Isro has made a mark in the small satellite launch market — those ranging from less than 100 kg to 500 kg. PSLV-class of launch vehicle is not available every where. And as we are engaging in frequent launches and have the capacity to carry small foreign satellites along with our primary satellite, PSLV is the best choice available in the market. By carrying small foreign satellites, we are also able to cut the cost of launches. Globally, small satellites are becoming the order of the day.
+ 
+ 
+ 
+ Individual space agencies, including NASA, are not getting enough funds from their respective governments for their space programmes. Collaboration between space agencies is, therefore, the order of the day. India and NASA are currently working on NISAR (NASA-Isro Synthetic Aperture Radar) project.
+ 
+ 
+ 
+ Progressively, the budget for space programmes is being increased. In the last three years, the outlay has been increased. With the resources available to us, we will prioritise missions. 
+ 
+ 
+ 
+ It is not possible for Isro to look at all locations of the country 24x7. For example, if one satellite covers an area of 10 km once a day, how will you scan the total area of the country in a day. Therefore, by pooling resources (with images from NASA), we can get what we want. 
+ 
+ 
+ 
+ We are working to increase the frequency of launches so that we can have more (communication) capabilities. Inter-planetary programmes like Chandrayaan-2 and Aditya (solar) missions are on track. Chandrayaan-2 launch expected in the first quarter of next year and Aditya mission by 2018-end or beginning of 2019. 
+ 
+ 
+ 
+ During the first development flight of GSLV Mk III, we didn't want to use the full heavy-lift capacity of the rocket and therefore kept an extra margin. The rocket therefore launched only a 3.1- ton Gsat-19. With a couple of launches, GSLV Mk III will be able to carry the full capacity 4-ton satellite. Isro will go ahead with the launch of its 5.8-ton Gsat-11 from French Guiana scheduled later this year. But thereafter, I don't see any reason for Isro to depend on foreign spaceport for launching its heavier satellites. 
+ 

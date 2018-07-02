@@ -1,0 +1,17 @@
+WASHINGTON: Scientists have developed an internet crystal ball -a   that can predict a patients' risk of developing   and diabetes more accurately than traditional methods.
+
+ The tool will prompt patients to make lifestyle changes that would spare them the suffering and expense of avoidable illnesses, researchers said. “This boils it down to telling a patient, `On the risk spectrum, you are here, and you're in a position where we're worried you're going to have a cardiovascular event in the next 10 years,'“ said Mark DeBoer, from University of Virginia in the US.
+ 
+ “My hypothesis is that the more specific information you can give to individuals at risk, the more they will understand it and be motivated to make some changes,“ said DeBoer.
+ 
+ Doctors usually predict risk for cardiovascular disease, type 2 diabetes and stroke by looking for five factors: obesity , high fasting triglycerides, high blood pressure, low HDL (good) cholesterol and high fasting blood sugar.
+ 
+ Patients with abnormalities in at least three of these are diagnosed as having   syndrome and told that they are at elevated risk for future health problems. The problem with that approach is that it is blackand-white, DeBoer said.
+ 
+ “As is true in most processes in life, the reality is that this risk exists on a spectrum. Someone who has values in each of these individual risk factors that are just below the cutoff still has more risk for future disease than somebody who has very low values,“ he said.
+ 
+ The traditional approach also fails to consider variables such as race, ethnicity and gender.
+ 
+ On the other hand, the metabolic crystal ball, developed by DeBoer and Matthew Gurka from the University of Florida in the US, weights the traditional risk factors and also takes into account race, gender and ethnicity to produce an easyto-understand metabolic severity score.
+ 
+ 

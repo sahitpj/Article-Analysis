@@ -1,0 +1,17 @@
+Mumbai:   ( ) on Thursday launched a new retail initiative, which enables payments in shops using the   ( ) platform by scanning QR codes. Reliance Retail has become the first organised retail chain to accept payments under the new facility.
+
+ The initiative is live in over 200 Reliance Retail stores across various formats, including   and  . The facility will be extended to all Reliance Retail stores across the country. In-store UPI payment has been enabled through a dynamic QR-code interface, designed by payment aggregator Innoviti, which runs on existing point of sale (PoS) terminals—card swipe machines.
+ 
+ “The payment options being offered by Samsung and Apple are all card-based and expensive. Under UPI, the merchant discount rate (MDR) — the fee borne by the seller to provide services—is 0.25% for payments below Rs 1,000 and 0.65% for all other charges,” said AP Hota, MD & CEO, NPCI. 
+ 
+ Hota added that the MDR on UPI could come down if the   reduces the fee on debit cards. The RBI on Thursday said it needs more time to decide on new rates on debit cards. 
+ 
+ NPCI has also developed the   app, which is among the various applications for UPI payment. 
+ 
+ According to Rajeev Agarwal, MD & CEO, Innoviti, the application makes it possible to enable QR code-based acceptance without any additional capital. “All that is required is an upgrade of the software on the card swipe machine. In some of the newer machines it can be done by a remote, while older machines may require a visit from our representative,” Agarwal said.
+ 
+ Reliance Retail, which stands to gain from lower charges, is incentivising customers to use the new mode of payment by offering discounts in form of cashback. According to V Subramaniam, director, Reliance Retail, the initiative will enhance the digital transaction ecosystem in the country and help improve customer experience.
+ 
+ “With the fast growing popularity of UPI-payment apps like NPCI’s BHIM app which has seen close to two crore downloads, this initiative will increase UPI payment acceptance points in retail stores. It is expected to play a vital role in driving a more cashless future,” said Hota.
+ 
+ 

@@ -1,0 +1,36 @@
+BENGALURU:  , Apple’s senior vice president of worldwide marketing, was one of Steve Jobs’s closest friends and confidantes, and a product keynoter. He came up with the spin-wheel interface for iPods, led the digital music revolution with iPod and iTunes, and helped reinvent mobile phones with the iPhone and the  . Schiller, who reports now to CEO  , was in Bengaluru on Friday – his first trip to India – for the launch of the company’s  , a platform that will support iOS developers on design, quality and performance of their apps. The accelerator will assist developers to build apps using its programming language Swift that was created for iOS,   TV and Apple Watch. In an interview with TOI, Schiller talks about how they want to offer the best for Indian customers and developers.
+
+  
+ 
+ 
+ Hard to say to a day. Over the last few years, it’s grown dramatically in importance to us. This is a very exciting change, we see the opportunity for a huge market and a very young population and we want to be important here. We want to make products that this market loves. Our driving ambition in every market is to be the best, and not the cheapest, with whatever that means to customers. In India, we want to be the best provider of the things we do. We have started asking ourselves what it means to be the best in India – how is it like other markets and how is it different. Distribution can be different, network infrastructure is different.
+ 
+  
+ 
+ 
+ We have a large base of developers here in India. The software talent is remarkable and the entrepreneurial spirt is second to none. Our rough estimate is just under half a million registered developers and if you include the extended number of people that are working with them on their apps, that should be somewhere around three quarters of a million people in the iOS app economy. We want to help them be more successful in the local market and there is a great opportunity for developers in India through our App Store to reach to the world. We want to use things that Apple is good at to assist these developers, like user interface design, we also want to give them our knowledge of the latest tech, the new frameworks and the new APIs.
+ 
+ 
+ 
+ 
+ I would always like to think that we have a love-love relationship. But we have certainly had to get better as to how we run the business and listen to developers. And over the last year and a half, we have put a concerted effort to say that our App Store has been open for 8-9 years and so much growth is in front of us. And developers tell us that our effort has been showing. They have seen it in our review times, in the business models that we are opening up with subscriptions. 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ Steve was a truly remarkable person and a great mentor for all of us at Apple. Over the years, he worked hard to put in place people and a system to try to keep alive the spirit of the company he founded. And I would like to think that still matters to all of us who work at Apple. His passion for great products, sensitivities of the intersection of tech and design, customers and experiences, and taking responsibility for everything – from the chips we use to the buying experience – are some of the many things that he taught us.
+ 
+ 
+ 
+ 
+ Apple was almost out of business. Steve tried to bring together a bunch of us to save the company and it seemed an impossible task at that time. One of the great things Steve did and taught us all was how to stay focused, how to make tough choices and to say no to a lot of things that were going on and that were good but were diluting resources and we needed to all come together and just make a few great things that could help save Apple at the time. We had to first get back to doing things that mattered. One of the things he did that’s fascinating to me organizationally is he reorganised Apple in a way like a startup. Apple was then divisionalised, like most large corporations are, and in order to pull everyone together, he got rid of that division structure. And no one ever imagined Apple could grow to become a large company maintaining that functional structure like a startup.
+ 
+ 
+ 
+ 
+ We are really excited about the work we are doing with Homekit and IoT (internet of things). Our homes are going to get smarter and smarter. There are so many everyday things we can do at home with technology and what’s critical is making it secure for customers. We are working with content creators so that Apple TV not only provides a great experience, but apps on the phone work together with Apple TV so that it knows what you really like to watch.
+ 
+ 

@@ -1,0 +1,19 @@
+NEW DELHI: The government has ordered central departments and states to ensure that the   numbers of people and their bank account details are not published anywhere, including online platforms, and any such personal information available in public domain must be taken down immediately.
+ 
+  The directive follows a backlash on   last week over the online publication of personal information such as Aadhaar numbers, bank account details, names and addresses. Several privacy advocates alleged that information collected by ministries, departments and state governments were easily accessible through an online search.
+  
+  The notice issued on March 25 was sent to secretaries to the government of India, chief secretaries and IT secretaries of all states and union territories, along with web information managers of websites managed by the National Informatics Centre.
+  
+  Concerns over the security of personal data have increased of late. Former Indian cricket captain MS Dhoni’s wife Sakshi complained to IT minister   on Tuesday about how their Aadhaar information was leaked online by a representative updating their details. The agency, which enrols citizens for Aadhaar and updates the information on behalf of the government, has been blacklisted for 10 years.
+  
+  Any act of publishing personal identity or information such as Aadhaar number and demographic details, along with personal sensitive information such as bank details, is in contravention of the Aadhaar Act, 2016, and the Information Technology Act, 2000, and is disallowed with immediate effect, the ministry of electronics and information technology said in the notice reviewed by ET. It added that such content already published and still appearing publicly should be discontinued with immediate effect.
+  
+  The notice said the publishing of identity and demographic information violates provisions of the Aadhaar Act, 2016, specifically section 29 (2, 3 and 4), and constitutes an offence under sections 37, 40 and 41, punishable with imprisonment up to three years.
+  
+  According to reports, a central government ministry accidentally published the personal data of beneficiaries of a welfare scheme including their name, address, gender, family details, Aadhaar number, bank account number and IFSC code. A state government that runs a subsidy scheme for minors published online their name, address, gender, religion, caste and bank account details.
+  
+  Publishing of financial information, including bank account details, contravenes provisions of the Information Technology Act, 2000.
+  
+  The Dhoni incident figured in a debate in Parliament between finance minister   and former finance minister P Chidambaram on Aadhaar and privacy concerns. Chidambaram wanted to know what guarantee there is to prevent the hacking of bank accounts and   details that are being linked through Aadhaar when even the Pentagon can be breached.
+  
+  In response, Jaitley said that if firewalls are to be breached, they can happen anywhere and are not necessarily because of Aadhaar. On the Dhoni complaint, he said that it was an act of immature behaviour on the part of the person who updated their details. 

@@ -1,0 +1,13 @@
+Chennai: Thanks to Apple’s affluent customer base, iOS will remain the most lucrative app store in 2021, generating $60.3 billion, according to a report by App Annie. However, 2017 will see Android stores surpass iOS as Google Play and third-party Android stores are expected to see downloads grow at an annualised rate of 23% to 299.9 billion by 2021.
+
+ “While iOS has been known for a more price-inelastic class of users and hence typically higher revenues on the store, with more high end Android devices in the market and growth in android adoption, Play store revenues will soon overtake App Store revenues,” said Atishe Chordia, cofounder, Doodleblue, a design and development startup. 
+ 
+ The growth of android markets is being driven by increasing smartphone penetration and app adoption in emerging markets, particularly India, Mexico, Brazil and Indonesia. Also, unlike iOS where there is only one store, Android has multiple stores. Particularly in China which is the market leader in downloads and revenues, localised app stores from companies like Tencent and Baidu dominate the market. While Android revenues can surpass iOS this year, the revenue per device from Apple’s comparatively well-to-do user base will ensure that iOS retains the crown, the report says.
+ 
+ “This had to happen eventually. Android stores are also exploring different ways of processing payments. In India, this will include integrating with PayTM and adding carrier billing (where you purchase from prepaid mobile credits, or it gets added to your postpaid bill). This will be a significant driver in increasing store revenue in countries like India where most people do not have credit cards,” said Anand Rajkumar, CFO, Hasura, an app development platform company.
+ 
+ App Annie forecasts consumer spend on apps to reach $139 billion in revenue in 2021 as maturing markets see strong growth in spend per device and increases in in-app subscriptions. The five largest mature markets, which include the U.S., China, Japan, South Korea, and the United Kingdom, are expected to account for 85% of global consumer spend in 2021. Emerging markets, particularly India, Mexico, Brazil and Indonesia, are projected to fuel downloads in mobile app stores.
+ 
+ “Apps are transforming the way consumers interact with products, services, content and brands, across verticals globally,” said Danielle Levitas, SVP of Research, App Annie. “Apps are creating an intimate, highly-personalised environment for brands to engage with users. Consumers are already spending twice as much time in apps than they did two years ago, which means it is increasingly critical for companies to build a successful business on apps if they haven’t already.”
+ 
+ 

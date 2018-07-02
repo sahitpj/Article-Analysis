@@ -1,0 +1,12 @@
+LONDON: Do you have   friends or co-workers? Their attitudes toward   and impatience can rub off on you, a study has found.
+
+ Researchers found that people not only pick up on other's attitudes toward three personality characteristics -laziness, impatience and prudence -but they may even start to imitate these behaviours, suggesting a strong social influence. The findings are notable, says lead author Jean Daunizeau, a researcher at the French National Institute of Health and Medical Research (INSERM), because these three traits are typically thought to be unique among individuals. “They drive most of our daily decisions, which are made of trade-offs between the prospect of reward, and costs such as risk, effort and delay ,“ Daunizeau said. What's surprising here is that these seemingly unique behaviours “are so volatile and prone to others' influence.“
+ 
+ Prudence, impatience and laziness are the personality traits that guide how people make decisions that involve taking a risk, delaying an action and making an effort, said Daunizeau.Prudence is a preference for avoiding risk, and impatience is a preference for options that involve little delay and a strong desire for a payoff now rather than later.   are those who determine that the potential rewards are not worth the effort.
+ 
+ For the study , researchers recruited 56 people. To measure the participants' attitudes to ward risk, delay and effort, they were asked to choose between a 90% chance of winning a small payoff in three days or a higher payoff in three months with lower odds.
+ 
+ Then, they were asked to guess “someone else's“ decisions on a similar task, and after making a selection, they were then told which choice this “other“ participant had made. However, the “someone else“ was in fact a computerised model developed by the researchers.During the final phase of the experiment, the participants repeated the first task, in which they were asked to make their own decisions.
+ 
+ The researchers found that after the participants observed the prudent, impatient or lazy attitudes of “others“ on the task, their own choices about putting in effort, waiting during a delay or taking a risk drifted toward that of others. In other words, the participants started acting more like the computer-generated study participants. The study was published in the journal PLOS Computational Biology.
+ 

@@ -1,0 +1,32 @@
+WASHINGTON: Scientists have developed a new disposable, colour-changing sensor that can accurately distinguish between alcohols, a device that may come handy for people who are very particular about their drink.
+
+ Vodka tastes different from brandy, and connoisseurs can distinguish among different brands of whiskeys. The flavors of spirits result from a complex bouquet of volatile compounds.
+ 
+ Researchers from the   at Urbana- Champaign in the US have developed an inexpensive, colourimetric, disposable test strips based on strong interactions between the sensors and analyte molecules.
+ 
+ Unlike existing  , a variety of chemically reactive dyes are arranged into a sensor array and are simply printed like "chemical ink."
+ 
+ Different analyte molecules bind to the individual reagent areas with different degrees of strength, causing the reagents to change colour.
+ 
+ The result is a characteristic pattern of colour changes that can be detected and analysed by common pattern recognition techniques with a hand-held device.
+ 
+ Inspired by classic spot tests used to indicate the presence of aldehydes and ketones through colour changes in aniline and phenylhydrazine dyes, researcher expanded the repertoire of their colourimetric sensor arrays.
+ 
+ The new array was able to detect and differentiate numerous different aldehydes and ketones at concentrations below 0.0001 per cent.
+ 
+ This type of sensitive, fast, and inexpensive method for detecting volatile aldehydes and ketones is of use in many fields: from the detection of chemical toxins like formaldehyde, to safety and food inspections, and preventative screening.
+ 
+ For example, detection of acetone and acetoacetate could indicate dangerous ketosis in diabetics.
+ 
+ Substances like vanillin, diacetyl, and furfural, which are produced in the fermentation and ageing of beers and spirits, contribute significantly to their flavours.
+ 
+ To highlight potential applications for quality control in the food and beverage industries, the researchers developed a sensor array for spirits.
+ 
+ It includes indicators for aldehydes and ketones as well as a number of other classes of substance such as carboxylic acids, sulfides, amines, and polyphenols, registering a broader palette of the aromatic compounds that make up the specific flavors of spirits.
+ 
+ For the sophisticated consumer, this complex mixture, the bouquet, has to be just right to guarantee the quality of the beverage.
+ 
+ It was possible to unequivocally distinguish whiskies from brandy or vodka and even among different brands of whiskeys, bourbons, and scotches.
+ 
+ The study was published in the journal Angewandte Chemie.
+ 
