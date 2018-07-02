@@ -1,0 +1,12 @@
+THANE: In a major breakthrough in the multi-crore fake call centre scam, police arrested a 43-year-old who aided and pieced together the technical setup at the Mira Road call centres busted by the crime branch in October 2016. Rashesh  , a close aide of main accused, Sagar Thakar (24) aka Shaggy, provided the centres with direct inward dialling (DID) and voice over internet protocol (VoIP) used by employees to call US citizens and extort money, posing as   (IRS) officials.
+
+ Thane crime branch, based on a tip-off, had busted the fake call centre racket based in Mira Road on the midnight of October 4. TOI first reported the raids on October 5 last year.
+ 
+ Police claimed Choksi's arrest will help nail the other ac cused in court, as they have sufficient evidence. “Choksi has shared all details of the call records and how the accused running the centres were in regular touch with each other, including Shaggy,“ said a senior offi cer.
+ 
+ The officer, however, refused to comment on other aspects of the evidence. He said Choksi provided the DID service to the call centres. DID is a service of a phone company that provides a block of telephone numbers for calling into a company's private branch exchange (PBX) system. “Using DID, a company can offer customers individual phone numbers for each person or workstation within the company, without requiring a physical line into the PBX for each possible connection,“ said the officer.
+ 
+ By using VoIP, calls were made to the   without revealing the caller's actual identity as they would get numbers of callers from Washington, Maryland or California on the caller ID, the officer added.
+ 
+ Thane police commissioner   said several missing links in the case were now getting connected. “ All efforts are being made to arrest the main accused, as our investigating team recent initiated the process to issue a red corner notice against Shaggy,“ Singh told TOI.
+ 

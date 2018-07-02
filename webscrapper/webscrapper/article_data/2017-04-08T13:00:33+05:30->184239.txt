@@ -1,0 +1,15 @@
+PATNA: The   ( ) would soon get 20 terabyte (TB) space in state data centre (SDC) for hosting its website, which has not been functioning properly due to space crunch for the past several months. The space, according to sources, would be enough to keep it running for another decade.
+ 
+  At present, the SCRB website is running from a central government approved server established in Bengaluru, but that, too, has run out of the allotted space.
+  
+  Sources said the data-heavy website was operating on 3 TB space which resulted in a situation that the website became almost non-accessible to public. The website displays details of FIRs, names of the accused, complainants, arrested persons, missing persons, besides other details related to cases in Bihar.
+  
+  Scanned copy of more than 50,000 FIRs and details of more than 20,000 arrested persons are available on the website.
+  
+  According to the   order, all FIRs and details of arrested persons should be available in public domain. While hearing a writ petition of one Basant  , the Patna high court in January this year also ordered the government to facilitate access to common man the FIRs by typing names of the accused persons on SCRB website.
+  
+  IG (SCRB)  , when contacted, said the space has been sanctioned for hosting the SCRB website at SDC. ”Bihar’s SDC is a state of the art centre. System integrators would be hired soon to provide technical support in operating the website,” he said.
+  
+  Sources said this facility provides access to common man to search FIRs simply by typing the name(s) of the accused or complainant(s). “A security audit is also being made for transferring the website’s server from Bengaluru to SDC. SCRB uses around 3TB space annually,” sources said.
+  
+  Meanwhile, Singh also said SCRB would act as a nodal agency once the Crime and Criminal Tracking Networks and System (CCTNS) becomes functional in the state. “In future, the website would become a single-point source for all kinds of police data, including database for fingerprints, criminals’ photographs and several other details,” the IG added. The SCRB website is also linked to the website of the Patna high court and Bihar police.

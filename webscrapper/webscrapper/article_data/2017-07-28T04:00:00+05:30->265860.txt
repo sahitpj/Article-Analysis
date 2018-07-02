@@ -1,0 +1,11 @@
+Chennai: Facing an interview is always a tough proposition. But, would it unnerve you more if it was a bot not a human, scanning your resume or asking you questions on a video call. 
+
+ More companies are now leveraging the power of artificial intelligence and machine learning in weeding out prospective candidates before calling them to their offices. After the first-level of video assessment, global platforms such as HireVue and their Indian counterparts such as Talocity, Interview Air employ an algorithm to read the suitability of a candidate. “We want to reduce costs and time per hire. Machine learning helps our systems learn real-time why we accept or reject certain candidates,” said Mamta Vasan, senior VP-HR, Fidelity National Information Services. 
+ 
+ Players say that their costs have come down by 50-60% by using robotic assistance. When it comes to mass hiring, candidates who have 0-7 years experience, get interview codes and questions. Talocity’s recruitment technology assesses the candidate based on 48 parameters to measure how fit for the job the candidate is. Chatbots ask the questions to the interviewee, who needs to answer them in the language they are comfortable with. “Using deep learning and AI, the system needs close to 5 minutes to assess a profile, once they have uploaded their 2 minute video. Large corporates as well as startups use the system to sift through a large number of profiles in our 71% automated system. The system can also analyse non-verbal cues such as eyeball movement, hand gestures to assess the candidate’s temperament,” said Ketan Dewan, CEO, Talocity, which has over 12 corporates using their services.
+ 
+ Candidates are save time as they don’t have to travel to the venue and await their turn, adds Dewan. “It works well in hiring a few from a large pool of applications and saves a lot of man hours wasted in physical interviews. The probability of landing a job doubles when the AI filters candidates compared to conventional methods. We have hired freshers and mid-level employees for operations and customer facing roles,” said Vikas Chauhan, VP, strategic initiatives at 1mg, an online pharmaceutical store. 
+ 
+ The company hires 5-10 employees a month through video interviews.
+ 
+ 

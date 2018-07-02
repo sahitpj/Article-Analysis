@@ -1,0 +1,23 @@
+Chennai: As crypto currencies gain prominence, the technology behind it, Blockchain, is also being closely watched by governments and industries. 
+
+ Consulting major EY’s analysis of blockchain suggests it may have the most impactful potential of the entire portfolio of disruptive technologies that are now emerging, but it also has the most obstacles to success. Sachin Seth, partner, digital advisory services, EY India talks to TOI on the potential blockchain offers and what EY is doing to leverage skill in the area. Excerpts:
+ 
+ Bitcoins and blockchains are often considered one and the same. Has this impacted adoption of blockchain?
+ 
+ Bitcoins have gained tremendous interest especially in the last few months because of the price fluctuations and the discussions on its regulation. Given that bitcoins and blockchain are interrelated, there is scope for confusion. This was the case a year back. In the business world, most people are well aware that bitcoin is one of the many applications of blockchain. Currently, organisations are looking at how best to leverage the technology.
+ 
+ Financial services are coming as the first adopters of blockchain. How about other industries.
+ 
+ Blockchain enables people to do transactions in a secure and traceable manner. Internet of Things (IOT) and blockchain offer a powerful scenario for application in other industries. IOT is being deployed in transportation, manufacturing, supply chain and other industrial applications and with blockchain as the underlying platform, a lot of efficiencies can be achieved. For example, in the case of a car accident, if the driver and car details are on the blockchain and the car is fitted with telematics devices, authentication of the driver, car, location can be done in no time. Further, if the insurance claim is based on a smart contract, the claim process can be cut down significantly.
+ 
+ Blockchain has use cases in any industry that needs authenticity and validation of transaction. For example, in the case of diamond trade, diamonds change multiple hands before reaching the end consumer. If the entire process is recorded on the blockchain, the end user can easily pull out past 5 transactions on the diamond. This is already being deployed in some countries.
+ 
+ Given that blockchain is an emerging technology in India, are you seeing a skill gap? What is EY doing to bridge this gap?
+ 
+ Talent is available. The issue is finding people who have business acumen and a strong technical background. Blockchain can offer business solutions and one needs to see where best it can be applied to solve a painpoint. For any technology to see wide adoption, it needs an ecosystem, a concerted effort by the industry to leverage it.
+ 
+ At EY, we have a distributed team across countries that works on blockchain. We want to encourage developers and tech talent in the country and have organised a hackathon for the first time. EY Hackathon on Blockchain, which will commence on Friday, will focus on exploring this evolutionary digital technology, which increases trust and transparency to develop pointed solutions across telecom, government services and financial services sectors.
+ 
+ We have also unveiled our Blockchain Lab in New York, aimed at helping financial organizations commercialize the use of blockchain. This is in addition to the presence of two other EY Innovation centres in London and Trivandrum, India that direct research and innovation in blockchain apart from other disruptive technologies.
+ 
+ 

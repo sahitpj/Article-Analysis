@@ -1,0 +1,22 @@
+UDAIPUR: Problems occurring in nature find solution on their own which are not only effective but also prevent their reoccurrence.
+
+ Engineers and scientists are now looking more closely at natural processes for inspiration and to find solutions to engineering problems. Inspired by the natural model of healing things, an Udaipur-based research scientist has developed solutions in the field of network and  .
+ 
+ Dr Heena Rathore, who is working in the field of cyber security at IIT ( ) Jodhpur has developed a solution inspired by biology. Her solution for the next generation network security was inspired by two processes in the natural world-human behaviour and the immunity system.
+ 
+ By combining the two processes, Rathore has developed a unique and novel network security system to identify and eliminate the hostile elements and threats in the network.
+ 
+ The problem:- Wireless Sensor Network ( ) is a network made up of a set of sensor nodes and gateway nodes where sensor nodes monitor physical parameters such as temperature, moisture etc. and send it to gateway nodes.
+ 
+ Security in WSN plays an important aspect since it provides sustainability to the network. Security threats can be introduced in WSN through various means, where the ongoing data transmissions can be tampered with or the nodes can be altered to behave in an unpredictable manner.
+ 
+ The research work uses biological inspirations and takes aspects from machine learning and social psychology for improving security in WSNs. “A two part mathematical system or model has been developed. The first part of the system mimics the behaviour of human beings living in a society. To be more precise, the model mimics the process of establishing trust among humans. The trust between individuals depends on several factors like cognition or understanding through senses or experience, benevolence, integrity, and affection. If these factors are satisfied among individuals, through communication and observation, trust will be established” Heena told TOI.
+ 
+ The researcher incorporated all these factors mathematically into her model, which works to establish trust among different components and elements of a network. Once trust is established among the components, all the components in the network will run smoothly and successfully. But, if any component is attacked by a virus or a hacker, trust will deteriorate for that component. The model, after identifying the threat and the affected components, moves on to the second phase.
+ 
+ In the second phase, the system isolates those components, that lost credibility, and works on removing the threat. The second phase of the system works in the same way as the human immune system work.
+ 
+ The human immune system first isolates the virus that entered the body, and then kills it with the help of antibodies or body’s natural defence system. Just like the immune system, the second phase of the mathematical model isolates the affected components and deteriorates its outgoing signals.
+ 
+ By deteriorating the signals, the component gets isolated and actions are taken to remove the threats. During an attack, normal operations are not affected because Dr Rathore’s security system maintains the integrity of the network while preventing further damage caused by the attack.
+ 

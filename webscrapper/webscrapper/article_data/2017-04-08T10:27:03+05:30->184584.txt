@@ -1,0 +1,24 @@
+MUMBAI:   has ordered a forensic   into an automated teller machine in   that spewed out cash without any card being swiped. It’s one of about 10 cash dispensers around the country belonging to various banks that have behaved in this manner.
+ 
+  The suspicion is that these are localised hacks on machines running outdated software but don’t involve any wider network infections.
+  
+  “A forensic audit is currently underway and we are trying to understand whether a software malfunction caused the glitch in its systems,” said a senior State Bank of India official.
+  
+  “Typically, an audit takes around four to six weeks to be completed we should get the report within the end of this month.”
+  
+  Experts said the ATMs may have been subjected to a ‘physical’ malware attack that involves plugging a device — say a laptop or phone — into the dispenser’s USB port to transfer an infected file or virus that causes the machine to behave erratically. The anomalies have been witnessed in states such as Odisha, Jharkhand, Uttar Pradesh, said people with knowledge of the matter.
+  
+  
+  “Around 10 ATMs have been affected as per preliminary information,” said Navroze Dastur, managing director of India and South Asia operations at NCR Corporation, which sells and maintains ATMs.
+  
+  “The Reserve Bank of India is aware of the situation and we are closely working with National Payments Corporation of India to tell banks what security measures are needed to protect the machines.” The note spewing hasn’t caused a big dent but   is looking to get to the root of the matter.
+  
+  “This has not caused a significant loss to the bank because the money kept in a single machine is usually less than Rs 10 lakh and directly no customer account has been affected since no card was swiped,” said the SBI official.
+  
+  “The audit is being done to understandhowit canbe rectified.” Experts pointed out that a number of machines are running obsolete   XP software, which   has stopped updating. “Banksmostly donot service and update these machines on time, which makes them vulnerable to highly sophisticated attacks as fraudsters use the most advanced technology available,” said a top executive at an ATM deployment company.
+  
+  Initial reports suggest the criminals target machines in remote locations that are usually left unguarded, allowing them to   the outer casing to access the USB port. Once infected, the machine can be remotely controlled by a virtual keyboard and instructed to spew out cash.
+  
+  “There are keys available which allow an ATM to be opened by unauthorised persons as well and then it needs to be connected to a system through a cord to transfer the virus,” said Altaf Halde, managing director for South Asia at Kaspersky Labs, a   firm. “Leading banks and ATM service providers of the country have reached out to us to understand the threat and how it can be dealt with.”
+  
+  

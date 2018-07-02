@@ -1,0 +1,14 @@
+NEW DELHI: In order to keep a track of agricultural assets in the country through online recording and monitoring, the Centre has decided to geo-tag all such infrastructure in a phased manner. The agriculture ministry will on Thursday sign a memorandum of understanding (MoU) with the   ( ) to do this job. 
+
+ The Isro has assigned this task to the National Remote Sensing Centre (NRSC), Hyderabad. The NRSC will geo-tag (add latitude, longitude and location-specific information to photo/video) all the assets, using its 'Bhuvan' platform in association with states and Union Territories (UTs). The 'Bhuvan' is the geo-platform of the country's space agency ISRO.
+ 
+ "The NRSC has already given training to the states\UTs officials of Bihar, Karnataka, Odisha and   on a pilot basis. Officials of other states\UTs are also being trained on specified dates, keeping in mind the upcoming MoU", said an official. 
+ 
+ Under the MoU, the NRSC will geo-tag all agriculture assets which are created under the ' ' (National Agriculture Development Plan) in different parts of the country. Such assets include seed processing units, seed farms, soil testing labs, bio-fertilizer production units, seed storage godowns, seed certification infrastructure, labs for production of bio control agents, state pesticide/residue testing labs, machinery to reduce post-harvest losses, poly houses\shade-nets and orchards among lakhs of such facilities across the country.
+ 
+ Besides monitoring of assets, the application of technology will also help in planning and execution of new agriculture infrastructure projects in a transparent manner. "The data collected could also be used by farmers/entrepreneurs in planning their activities including best utilisation of available resources of a cluster, pack houses and cold storage among others in a particular district or region", said the official.
+ 
+ All information will be available on the Bhuvan mobile platform (Bhuvan-RKVY) so that the geo-tagged assets can be monitored anytime from anywhere. The decision to geo-tag the assets is a testimony of how the space technology is increasingly being used in the country for not only visualisation of the assets but also for terrain mapping to undertake other developmental works like watershed and drought-proofing measures.
+ 
+ The NRSC is currently also geo-tagging the assets created under the MGNREGA in each gram panchayat. The move will not only check leakages but also help in effective mapping of terrain for future developmental works. Around 30 lakh assets are created annually across the country under the rural job scheme.
+ 

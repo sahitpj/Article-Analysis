@@ -1,0 +1,24 @@
+BENGALURU: Five students from MS Ramaiah Institute of Technology (MSRIT) have come up with a solution to the perennial problem of ambulances being stranded on clogged roads. 
+
+ The device, which has to be placed at traffic junctions and in ambulances, will help patients or their kin access the nearest ambulance and travel to hospital through a virtually created green corridor, well within the golden hour. 
+ 
+ The creation has catapulted the students — Karthik Raj, Navaneetha Krishna, Anish Hegde, Taksh Oza and   — into the quarter finals of the India Innovation Challenge Design Contest (IICDC), which saw 11,000 students from 624 engineering colleges participating.
+ 
+ According to Navaneetha, all citizens need to do is download a mobile application to call the ambulance to their doorstep. “The module, consisting of a transmitter and processor, has to be placed at the traffic junction, where it can communicate with the ambulance to know the direction it is coming from. Once the vehicle is close enough, the system will turn the traffic light green. Computing the location of the closest hospital happens on cloud, after which the ambulance driver is alerted,” he said.
+ 
+ The students say though this isn’t a new concept, the reason previous ideas weren’t taken up was because they required all traffic junctions to be integrated into a single hub. “In our system, each traffic junction acts as a standalone unit and when an ambulance approaches, it does its job allowing by the vehicle to pass by smoothly,” said Karthik.
+ 
+ The driver has the freedom to decide the route he wants to take. “We want the driver to use his road experience to decide how he wants to reach the hospital. Also, by placing one module at every junction, we will be able to control the movement of the ambulance anywhere in the city through a single system,” said Anish.
+ 
+ As the competition progresses, the 428 quarter-finalist teams from across India will have to make their solutions evolve from mere projects to products, with the assistance of faculty from Indian Institute of Management, Bangalore (IIMB). “We interacted with the faculty members and mentors from NSRCEL, their entrepreneurial centre, to get guidance on budgeting and cost concerns. Our product costs Rs 4,000-5,000 at present, but if we use more specific components, the cost can be drastically reduced,” said Taksh.
+ 
+ The boys are students of electronics and instrumentation and electronics and communication engineering at MS Ramaiah Institute of Technology. Having worked together on several collaborations, they are hoping to turn their idea into a reality.
+ 
+ THE CONTEST
+ 
+  (TI), along with IIMB and the department of science and technology (DST), Government of India, conducted the 10-month design contest. TI has been organizing IICDC for the past six years. TI provides technical resources and guidance throughout the challenge, while DST will provide funding of Rs 3.5 crore, which will go towards the product development fund of Rs 1.5 crore and seed fund of Rs 2 crore for the top teams to incubate their startups.
+ 
+ MSRIT ranked 45th by NIRF
+ 
+ In the latest National Institutional Ranking Framework (NIRF) released by the human resources development ministry, MS Ramaiah Institute of Technology bagged the 45th rank in the country.
+ 

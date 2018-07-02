@@ -1,0 +1,12 @@
+HYDERABAD: Data collected during a state-wide survey of households carried out last year by the AP government is finally ready, but will not be put in the public domain.
+
+ Information from the Praja Sadhikara Survey or the Smart Pulse Survey will be hosted by the AP State Enterprise Architecture (APSEA) -envisioned as a digital repository of state's data.Different departments can access the information by logging into   and use the same to formulate schemes and assess beneficiary needs. This is the second ITenabled database of its kind in the country after   took up a similar initiative. “The survey covered more than 4.34 crore individuals from 1.38 crore households. As many as 70 parameters on socio-economic aspects of people were studied,“ J Satyanarayana , IT ad visor to the government, said, adding, “The APSEA will be inaugurated by chief minister   soon."
+ 
+ The data will only be used for official purposes, as it includes personal and aadhaar information of people. The Smart Pulse Survey will enable the government to record information about the 'core people of AP'.
+ 
+ As part of the initiative, field surveyors were deployed to enter data directly into tablets connected to a portal. Various departments have been vetting the information. Sources say the government appointed Oracle as the consultant for the project.
+ 
+ After the APSEA is ready, initially all land records, including those from the survey department, will be updated on this server. This 'land hub' will provide single-window services to citizens. After this, an 'education hub' will be created with information on all schools and colleges. This will also serve as an e-learning platform. The next, will be an 'agri hub', containing the minutest information on soil health and farmers.
+ 
+ In two months, four hubs will be ready, sources said.The remaining hubs will created depending on the data processing. Though the data will not be shared in public domain, officials are planning to releases important statistics after they get approval from the chief minister.
+ 
