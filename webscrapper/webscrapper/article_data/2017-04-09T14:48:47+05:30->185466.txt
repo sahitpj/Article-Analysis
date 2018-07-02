@@ -1,0 +1,45 @@
+NEW DELHI: The electronic voting machines ( ) are robust and 
+  and even the manufacturers cannot manipulate them at the time of production, the   said Sunday, countering allegations that the machines are unreliable.
+
+ With the Opposition's 
+  getting louder, the Commission has come out with a list of 'frequently asked questions' to put across its views in public domain.
+ 
+ Recently, the 
+  . The FAQs are the third attempt by the poll watchdog to counter the doubts on the machines' reliability.
+ 
+ One of the first questions the FAQ addresses is whether the machine can be hacked?
+ 
+ No, asserts the Commission.
+ 
+ "The M1 (model one) of EVM was manufactured till 2006 and had all necessary technical features it "non-hackable contrary to claims made by some activists", it said.
+ 
+ The M2 model of EVMs produced after 2006 and up to 2012 incorporated additional safety features. It can detect "malicious sequenced key presses".
+ 
+ "Further, the ECI-EVMs are not computer controlled, are stand alone machines and not connected to the Internet or any other network. Hence, there is no chance of hacking by remote devices... also do not have any frequency receiver or decoder for data for wireless or any external hardware port for connection to any other non-EVM accessory or device. Hence no tampering is possible," the poll panel said.
+ 
+ The Commission also rejected suggestions that the machines can be manipulated by the manufacturer itself.
+ 
+ "Not possible," it said. The EVMs have been manufactured in different years since 2006 and sent to different states. The manufacturers --   and   -- would not know several years ahead which candidate will contest from a particular constituency and what will be the sequence of the candidates on the ballot unit," it said.
+ 
+ It also asserted that no 'trojan horse' can be injected into the EVM in the field. In fact, the new M3 EVIN produced after 2013 have additional features like tamper detection and self diagnostics.
+ 
+ The tamper detection feature makes an EVM inoperative the moment anyone tries to open the machine. The self diagnostic feature checks the EVM fully every time it is switched on. Any change in its hardware or software will be detected.
+ 
+ It said contrary to "misinformation and as alleged by some", India does not use any EVMs produced abroad.
+ 
+ The EVMs are produced indigenously and the software programme code is written in-house and not outsourced.
+ 
+ "The programme is converted into machine code and only then given to the chip manufacturer abroad because we don't have the capability of producing semi-conductor microchips within the country.
+ 
+ "Every microchip has an identification number embedded into memory and the producers have their digital signatures on them. So, the question of their replacement does not arise at all because microchips are subjected to functional tests with regard to the software. Any attempt to replace microchip is detectable and can make EVM in-operative," it said.
+ 
+ Ruling out the possibility of manipulation of the machines at the place of storage, the Commission said security measures and double checks that such a possibility does not arise.
+ 
+ It said due to different level of stringent checks and balances, neither 'ECI-EVMs' can leave the EC system nor any outside machine -- non-ECI-EVM -- can be inducted into the system.
+ 
+ Why have developed nations such as the US and the   not adopted EVMs and some have discontinued?
+ 
+ To this, the Commission said the problem faced with the machines in these countries was that they were computer controlled and connected to the network, which in turn, made them prone to hacking.
+ 
+ Moreover, adequate security measures and safeguards in their corresponding laws were not present. Hence the use of EVMs were struck down by their courts.
+ 

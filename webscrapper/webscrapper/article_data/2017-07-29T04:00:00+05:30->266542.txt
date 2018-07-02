@@ -1,0 +1,17 @@
+TNN
+
+ Mumbai:   has decided to go in for a comprehensive review of technology and systems at all market intermediaries, including  , to thwart cyber attacks and technical glitches. 
+ 
+ Sebi’s Technical Advisory Committee will undertake this review, a release from the regulator said.
+ 
+ On Friday, Sebi chairman Ajay Tyagi met MDs and CEOs of stock exchanges, depositories, clearing corporations, including from GIFT City in Gujarat, to get a first-hand update about their technology preparedness against cyber threat. The meeting was called within days of a case of technical glitch at NSE, the largest bourse in India in terms of turnover. On July 10, the technical glitch on   had forced the bourse to halt trading for around three hours.
+ 
+ On Friday, NSE informed Sebi that based on its internal assessment, processes were being strengthened to further reduce the response time for recovery and also adoption of automated processes.Sebi told the market intermediaries that they should have well laid out standard operating procedures that should encompass all areas related to technology and operations. It also stressed on the need for sharing information on instances of technology-related disruptions, cyber threats and attacks among market intermediaries so as to enhance their situational awareness, the release said. “(The intermediaries) were advised to have a collaborative approach in dealing with technological challenges, including cyber threats,” Sebi said.
+ 
+ The regulator also told the heads of market intermediaries to have a mechanism to report, promptly and diligently, every technical issue including cyber attacks to the relevant agencies including CERT-In and Sebi.
+ 
+ Soon after the technical glitch on NSE, the finance ministry and Sebi, both had asked NSE to submit a detailed report about the glitch and the subsequent trading shutdown. Recently, NSE submitted its report on the technical glitch to the regulator.
+ 
+ Earlier, in May,   joined hands with global technology major IBM to enhance the exchange’s   systems. Under the multi-million dollar, 5-year deal IBM had offered to use its global expertise to secure BSE’s trading engines, data and hardware for all of the bourse’s trading platforms. IBM now monitors security events at BSE on a round-the-clock basis, analyses security-related threats, manages incidents and responses along with synchronized management of devices, networks and applications. During the signing of the agreement, top BSE and IBM officials had told TOI that the need for a robust, state-of-the-art technology set up was being put in place to protect the digital assets of the exchange, of its customers and stakeholders.
+ 
+ 

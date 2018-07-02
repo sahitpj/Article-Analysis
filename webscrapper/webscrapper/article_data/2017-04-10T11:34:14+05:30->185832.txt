@@ -1,0 +1,18 @@
+BENGALURU: Skills in data visualisation, data science and machine learning are among the most valued for technology recruiters today. This is because of the humongous amount of digital data being generated nowadays - companies' need to glean insights from them, present them in ways that are easily understandable, and also make predictions.
+
+ This is being reflected in the number of working professionals signing up for specialised courses in these spaces. Candidates, who complete the courses, tend to get between 20% and 50% increase in salaries. Kashyap Dalal, chief business officer at online learning platform  , says big data and analytics courses were the big growth drivers in the past three years.
+ 
+ While data science continues to remain popular, accounting for 30% of all learners, courses on visualisation tools and machine learning have become very attractive over the past six months, he says. Almost 25% of Simplilearn's applicants have opted for machine learning.
+ 
+ Machine learning reduces the need for human intervention and speeds up analysis. With machine-learning algorithms easily available on the cloud, the opportunity to use them has increased dramatically. Data-visualisation solutions enable even the technologically-less literate to quickly understand correlations and other insights gleaned from data. And data science allows users to go beyond analytics, to making predictions.
+ 
+ AcadGild, another online training course provider, has seen 300 students applying for the course on the data visualisation tool Tableau in the past nine months. "The number was just 40 in the pre ceding nine months. We are seeing similar numbers for the courses on Spark," says co-founder Vikalp Jain. Apache Spark is a real-time analytics tool for big data. Tableau and Spark apart, specialised courses gaining ground include DevOps (development operations), a method of delivering IT systems faster, the Python programming language, which is needed in building machine-learning solutions, and Selenium, an automation testing tool.
+ 
+ For   , which provides online analytics courses, courses on data science and machine learning account for more than half their customer base. "The analytics space is fast changing. While courses on   and R used to be popular five years ago (for analytics), newer courses in big data and machine learning have replaced them," says co-founder and CEO Gaurav Vohra. Jigsaw recently tied up with Graham School, University of Chicago, to launch an integrated course on data science and machine learning.
+ 
+ Those applying for newage courses are mainly software programmers, who have done their engineering and are earning Rs 5-8 lakh in annually. Simplilearn's Dalal says a person who was earning Rs 6 lakh annually can move on to a position like data scientist and earn more than Rs 10 lakh after going through the courses on DevOps or machine learning.
+ 
+ Lovleen Bhatia, co-founder and CEO of online course provider  , says that for an IT company , the billing rate for the new skills would be $250 an hour, compared with just $20 an hour for older technologies. Many IT companies, including Fortune 500 ones, are reskilling their employees, training them in new technologies through four-to-six week boot camp programmes.
+ 
+ The courses are of four months to nine months' duration. A single course would cost around Rs 25,000, while a combination of different courses could be as much as Rs 60,000. All platforms advise students to have strong mathematical skills. "They should also have a basic knowledge about programming languages," says AcadGild's Jain.
+ 

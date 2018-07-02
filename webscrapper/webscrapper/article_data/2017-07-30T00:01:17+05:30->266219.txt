@@ -1,0 +1,13 @@
+New Delhi:   cops will soon go hi-tech with a   developed by students of the Indira Gandhi National Open University that will monitor the pattern of accidents and traffic snarls in the city.
+
+ The students were attached to the traffic control room for a month and created a log of activities, which helped them build the software. The data analysed from the software will help Delhi Police understand the pattern involved in vehicular snarls in the city and enable them to take precautionary measures.
+ 
+ As a part of a two-month internship programme, the 10 girls — who were pursuing their master’s degree in computer applications — will also work on developing an app-based system to help policemen analyse and categorise traffic complaints. This, police officers said, could reduce their response time by as much as half.
+ 
+ Cops now plan to take the students’ help in data analytics as manual analysis engages a lot of its personnel. “We approached the university for an internship programme for their students and they came up with this idea,” said Garima Bhatnagar, joint commissioner (Traffic).
+ 
+ The students will work with the IT cell of Delhi Traffic Police to collate complaints received on Facebook, Twitter and WhatsApp. Actionable posts will then be separated from non-actionable ones. For every 10 complaints received on social media, officers said, just three are deemed actionable. However, they have to sift through all of them manually. 
+ 
+ The proposed app will automatically detect complaints on which action can be taken.
+ 
+ 

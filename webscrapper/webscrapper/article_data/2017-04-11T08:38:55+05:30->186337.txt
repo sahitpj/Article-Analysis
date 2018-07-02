@@ -1,0 +1,18 @@
+AURANGABAD:   Pataskar is a proud father of his 18-year-old son,  . The teenager recently became the talk of the town for developing a wireless helmet-controlled ignition system for two-wheelers.
+
+ A few weeks ago, Rohit witnessed a fatal accident on Jalna Road. The fact that the person riding the two-wheeler died on the spot because he was not wearing a   prompted Rohit to invest his energies into coming up with an ingenious solution to curb helmet-les driving. “My idea is simple. Through my device, you will only be able to turn on your bike engine if you wear a helmet,” the youngster says, as he explains the functioning principle behind his invention.
+ 
+ The project makes use of an infrared system and has two components. The infrared transmitter is smaller than a matchbox and is fitted into the helmet. The infrared receiver is the size of a notebook and is placed near the ignition switch.
+ 
+ “The transmitter operates on a battery similar to what we use in wall clocks. It is switched on by the pressure exerted on a buttom located in the helmet when the rider uts it on. This emits a signal captured by the receiver. A relay connecting the receiver and the ignition system ensures that the engine turns on or off,” Rohit said. 
+ 
+ The infrared receiving range has been adjusted in a way that any movement of the head does not obstruct the signals received. “A beep sound is heard for 15 seconds when the helmet is taken off and the vehicle engine is about to turn off,” says Rohit, adding that the entire system was developed at an expenditure of only around Rs 300. However, fine-tuning the system to achieve the desired results was not cake-walk, says the young inventor. Umpteen trial and error attempts were made before hitting bullseye.
+ 
+ “Designing the receiver circuit was a tough task. It took me over 150 failed attempts, but I kept trying. Circuits were either burnt down or went haywire while trying to synchronise it with vehicle speed and maximum running time of the engine. But after several attempts, the desired circuit finally took shape,” said Rohit, a student of the ndo-German Tool Room (IGTR).
+ 
+ Aakash Naik, a faculty with IGTR, hailed Rohit for his innovation. “Even if he is studying tool and die-making currently, he is passionate about electronics. He has devised this infrared-based technology in no time. Even if the rule of helmet compulsion is being enforced across the state, many wore the protective headgear only in front of traffic cops. Such mindset can be tackled if the general application of   technology is made,” he said.
+ 
+ Rohit’s work has earned praised from many including   police commissioner Amitesh Kumar. The project was recently demonstrated before the police official, who pressed the need for taking it forward for public benefit.
+ 
+ Shrikant, a teacher, says this is not the first time his son has developed devices with a social cause in mind. “My son has a range of innovative projects to his credit in the past, including a solar e-bicycle, suicide preventive ceiling fan with alarm, foldable solar crutches and staircase luggage carrier. He has achieved prestigious awards and showcased his projects at different levels including national exhibitions,” he said.
+ 

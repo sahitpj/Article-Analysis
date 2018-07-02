@@ -1,0 +1,6 @@
+AHMEDABAD: The Indian Institute of Management, Ahmedabad (IIM-A) inaugurated the 5th ‘IIM-A International Conference on   Analysis, Business Analytics and Intelligence (ICADABAI)’ at its   on Saturday.
+
+ As part of the conference initiative, IIM-A and IBM conducted a hackathon titled ‘Sentiment analysis and stock performance’. Participants worked on real data from  . 
+ 
+ They were given over a month, between February-March 2017, to develop models for capturing the association between   and  .
+ 

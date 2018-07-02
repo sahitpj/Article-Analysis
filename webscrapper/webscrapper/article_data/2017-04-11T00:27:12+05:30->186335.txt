@@ -1,0 +1,15 @@
+MUMBAI: Western Railway (WR) may soon use high-speed   cameras to spot any abnormality in the undergear of a running train. 
+
+ The cameras have been installed at Vasai station as an experiment, which, if succesful, will help reduce failure and accidents.
+ 
+ A senior WR official said, “Currently, rolling-in examination is done manually by deploying personnel at platform ends, who look for unusual hanging part, sound, unconformity, signs of heating or smoke in passing  .”
+ 
+ In the manual system, reading may not be accurate as it depends on the alertness, reflexes and attention of the deputed personnel and also the weather conditions. Inspection has to be done at mandated speed of 30 kmph but large number of trains failed to adhere to this speed limit in order to maintain punctuality.
+ 
+ The high-speed CCTV cameras with video analytic software are more robust. He said, “The cameras are cased in a protective shield to prevent damage or theft. They are equipped with sensor motion detection that allows the   to switch on only when train approaches the inspection spot. It has capability to zoom and play at variable speeds for close scrutiny.”
+ 
+ The system also comes with LED flood light for illumination of train trolleys for CCTV inspection at night and microphone to record the audio. The cameras can also map the coach or wagon numbers with corresponding undergear images. In future, this technology can be upgraded with applications like heat sensing or heat mapping of trains for prediction of unusual things like brake binding, hot axle.
+ 
+ Sources said, “The cameras can capture images even if the train is running at 120 kmph. The person monitoring the images relayed by camera can analyse the visual through slow motion technology so that every detail can be assessed.”
+ 
+ 

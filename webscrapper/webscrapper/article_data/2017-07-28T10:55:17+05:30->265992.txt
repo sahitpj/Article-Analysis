@@ -1,0 +1,19 @@
+MUMBAI: The government is contemplating the establishment of a defensive firewall aimed at protecting data servers supporting state-owned banks and enterprises against   launched by criminals and countries seeking to undermine India’s key institutions. This follows recent global   attacks that led to data destruction and blackmail demands, said two people aware of the development.
+ 
+  “A meeting was held which was attended by some senior members of ministry of electronics and information technology and (  chief) Gulshan Rai,” said one of the persons. “Pros and cons of a national firewall were discussed at the meeting.” The meeting was held in June soon after the   or   attacks. Rai and AK Garg, a scientist at the ministry of electronics and information technology, didn’t respond to queries.
+  
+  The government is looking at a firewall for government infrastructure, at least initially, since non-state entities, particularly multinationals, may be concerned about being watched.
+  
+  “One point which was raised in the meeting was mistrust of multinationals of such a firewall since their sensitive data could be monitored by a country,” said the person cited above. Many multinational banks are sceptical about operating in countries where they fear data could be compromised.
+  
+  Cyberattacks on government infrastructure have risen in the last two years, said the person. “State-owned companies, banks and government websites and servers would first be protected by the national firewall.”
+  
+  Such a defence would help protect many Indian companies that may not be prepared for organised, high-level attacks, experts said. “What India needs is not just a post-incident reaction but proactive monitoring and defence mechanisms against cyberattacks, whether state sponsored or by hackers,” said Amit Jaju, partner, cyber forensics, data analytics, EY.
+  
+  
+ 
+  “Many developed countries as well as countries in the Middle East are already monitoring cyber risks at national level and taking defensive measures,” said Jaju. “A national firewall could be a good idea as it could stop attacks and filter out known sources of cyber risks. This will also facilitate a response team to protect Indian companies and take action before the attack actually happens.” Petwrap, believed to be an advanced version of an old ransomware known as Petya, hit computers across the world including those at India’s largest container port Jawaharlal Nehru Port Trust. This was the second major ransomware attack after the   ransomware raid that locked up computers in May.
+  
+  Apart from ransomware and botnet attacks, the number of cyber strikes suspected to be sponsored by foreign governments has increased in the last few years, according to experts. For instance, hackers suspected to be based in China, managed to break into two of India’s most prominent IT firms in 2015.
+  
+  “There is a spike in the cyberattacks emanating from countries in the last few years, and while these attacks are planned, they take an opportunity of an incident and happen around that time,” said  , MD for South Asia at Kaspersky Lab, a Russian cyber security and anti-virus provider. “While a firewall may be able to give some protection, but the way we use internet, the attackers may be able to bypass these protections, and so it is important to have a multi-layered protection.” 

@@ -1,0 +1,18 @@
+Bengaluru:   has appointed a chief digital officer (CDO) for India, one of the first countries outside the US to have such a position, and marks the importance the country holds as IBM morphs into a platform company with the focus on cloud and cognitive.
+
+ IBM veteran   is the CDO for India/South Asia, and the appointment comes with months of Bob Lord, IBM's first ever chief digital officer, being charged with bringing together the digital business group (DBG). Digital is the buzz word in the IT industry today, and describes the whole new set of technologies and capabilities that have been enabled by the internet and the phenomenal increase in computing power that is available now at very low costs.
+ 
+ Mehrotra’s mandate is to transform the way IBM engages and partners with startups, developers, investors, academia and businesses.
+ 
+ “This role is interesting because it’s a combination what IBM is good at – deep tech – and where do we want to move towards, which is the ecosystem and platform developers. The role has an interest in everything that IBM does – research, cognitive, cloud, work that we do with ISVs (independent software vendors) and startups,” said Mehrotra. Over the past two years, as the VP for strategy / growth initiatives, he led IBM's transformational strategy across several areas in Asia & India.
+ 
+ One of the objectives of DBG is to make startups, developers, academia, investors and incubators embrace IBM’s digital tools and platforms like Bluemix, Watson and its commerce platforms. A team is being set up to catalyse this. For businesses, Mehrotra’s team will build proofs of concept around digital.
+ 
+ One of the ventures it has worked with is product engineering company Oxyent that has built an integrated neonatal intensive care unit (iNICU) and integrated child health record (iCHR) to create a comprehensive solution that takes care of the child right from birth till he/she reaches adolescence. The automated system has integrated Bluemix into its solution to efficiently fetch live clinical vital parameters of a baby in a NICU and securely push it to a remote dataset for analysis.
+ 
+ IBM globally has now seen 19 successive quarters of declining revenue growth, but its newer revenue streams like cloud and cognitive are growing well, and India is one of its best performing geographies.
+ 
+ Mehrotra thinks it’s also a good time for India to adopt artificial intelligence, or cognitive, solutions. “This is our opportunity as a country – the Indian developer backed by big Indian SIs (system integrators) is at a point of inflection where the business models are changing, and as the market transforms towards AI, this is the opportunity for us to seize AI as a country. Ginni ( ) said the same thing at Nasscom (Nasscom Leadership Forum in February). In her estimate, 10% of the global (AI) applications will be developed by Indians, which is a huge number,” he said.
+ 
+ IBM’s cognitive computing platform Watson uses data mining, pattern recognition and natural language processing to mimic the human brain in some respects. It has capabilities like dialogue framing, knowledge validation, voice synthesis, language modelling and visual analysis. It has been used in finance, healthcare and retail. “We have even done some work around fashion. We are teaching cognitive the taxonomy and anthology of fashion. We have taught Watson the difference between tangerine and burnt orange. We have also taught Watson the differences in fabric, material, style and what’s trending,” Mehrotra said.
+ 

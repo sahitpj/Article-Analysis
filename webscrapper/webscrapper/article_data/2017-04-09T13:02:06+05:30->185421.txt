@@ -1,0 +1,13 @@
+AHMEDABAD: Commuters in the city are well-aware of the dangers stray animals pose on the road. To prevent drivers from   and other animals on the road, a doctoral student at   has developed a real-time automatic   and alert system that will help cars avoid colliding with cows on the road. Sachin Sharma, a PhD student of   and his supervisor   have filed for a patent of the product they have developed.
+ 
+  Shah, former dean at GTU who is now into business, said the idea was to help drivers by alerting them. “Foreign countries have many innovative measures like fencing the highway to restrict animals, or placing RIFD chip to locate strays and warn cars on the highway. These measures may not be feasible for India and that is why we thought of developing this system. The system uses a dashboard camera and an algorithm that can determine whether an object near the vehicle is an on-road cow and whether or not its movements represent a risk to the vehicle,” said Shah. A timely audio or visual indicator can then be triggered to nudge the driver to apply the brakes whether or not they have seen the animal, he added.
+  
+  
+ 
+ 
+ “The proposed system has achieved an overall efficiency of 80 per cent in terms of cow detection. With the system, we can alert the driver if there is a cow within a distance of 30 metres on the road. We are working on improving the distance alarm to around 60 metre to 80 metre,” said Sharma. The study has been published in the   and Computer Science. The proposed system is a low-cost, highly reliable system which can easily be implemented in automobiles for detection of cow or any other animal after proper training and testing on the highway, the article in the journal states.
+  
+  
+ 
+ 
+  “With the camera and laptop, the system may cost Rs 50,000 as of now. We have tested this on road at Chandkheda,” Sharma said. The product is considered to be extremely useful in foggy weather. The algorithm requires optimisation and the issue of night-time driving is yet to be addressed, the team states in the article.

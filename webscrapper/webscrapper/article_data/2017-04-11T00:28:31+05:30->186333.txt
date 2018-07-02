@@ -1,0 +1,13 @@
+MUMBAI: Mumbai has a potential of 1,720 MW of   energy across rooftops–more than 50% of its peak consumption of about 3,200 MW generated through conventional sources (during summer). While attaining the maximum potential could be impossible at this stage, experts believe realising even 20% of this potential would be good enough for the city. Five organisations got together to assess this potential and put their findings in the report ‘Estimating the Rooftop Solar Potential of Greater Mumbai’, which was released on Monday at IIT-Bombay.
+
+ While the major share, according to the report, can come from the rooftops of residential buildings, targeting government buildings should be the first move, say experts. “The easiest way to achieve 20% of the 1,724 MW would be to target government buildings. They generally are directed to reduce energy consumption. Railways too have a reasonably good potential,” said Professor  , department of electrical energy at IIT-Bombay, and member of the project team.
+ 
+ According to an estimate, the peak demand for Mumbai is expected to increase to 4,108 MW in 2019-20 an alternative source of energy could prove helpful. 
+ 
+ The National Centre for Photovoltaic Research and Education and Centre for Urban Science and Engineering from IIT-Bombay, Observer Research Foundation, Bridge to India and IEEE Bombay section worked on the project. “The team employed GIS mapping of all structures in Mumbai, ward-by-ward division, BMC’s existing land use (ELU) maps and 3D mapping to discount areas covered by shadowing. The computer-based analysis was supported by site visits to some locations,” said a statement issued by the institute. “This methodology is available in open source and can be accessed by anyone who would wish to replicate it in urban, semi-urban towns, municipal organisations,” said Vasi.
+ 
+ While solar energy is freely available, putting up the panel could be expensive. While the report does not delve in to the total cost that will be involved in generating 1,724 MW through rooftop panels, a panel that could generate power of 300 MW could cost around Rs 9,000. A room with minimal electric appliances could require about 1KW and a flat would require around 3-4KW, estimated a professor.
+ 
+ A survey conducted by the team shows that 37% of the respondents are not interested in setting up solar panel , while 38% agreed to do it if the government provides subsidies. Among the ones who are interested in installing it, over 60% are doing so to support green initiative.Among the people who are not keen on adopting solar rooftop photovoltaic systems, over 30% claimed they are unaware of the solar technology.
+ 
+ 
