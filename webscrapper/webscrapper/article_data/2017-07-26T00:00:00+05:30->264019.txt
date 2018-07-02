@@ -1,0 +1,12 @@
+Of the many features that Microsoft   software has introduced to the human race, Paint holds a special place in most people’s hearts — its simple-yet-captivating interface has brought to life the imagination of many aam artists around the globe.
+So it’s understandable that when news broke out that the venerable application, which was launched 32 years ago as a monochrome, bitmap Windows 1.0 drawing programme to facilitate digital creativity, might no longer be available with upcoming versions of Windows, it caused many people to go ‘What!’
+ 
+ 
+ In Microsoft’s official Deprecated list (defined by the company as ‘might be removed from future releases’) of features that are removed or deprecated in Windows 10 Fall Creators Update,   Paint is on it. While the news is shocking, it’s not surprising, considering the company demoted the age-old app by releasing 3D Paint in the Windows 10 Creators Update earlier this year. As the name suggests, 3D Paint, apart from having many of Paint’s original features, will allow users to add 3D objects and imagery to their creations in a completely new interface.
+ Paint’s possible removal is sure to make early users of Windows software nostalgic. Ranjan Kumar, a 27-year-old copywriter, says, “If Paint is going to be discontinued, it really will be the end of one of the most nostalgic parts of our childhood. It has been such an intrinsic part of the early years of almost every person of my generation. Sure I have no practical application for the programme today and might have last used it over a decade ago, but to think that it won’t be around for the kids of this generation to explore the simple pleasure of drawing basic, digital art saddens me.”
+ 
+ 
+ 
+ But with the outpour of support flowing in, there’s a good chance that the company will not go ahead with the plan to discontinue it, as reports have been coming in to retain the app and just move it to Windows Store. This means the programme won’t popup if users type “mspaint” in the Run command, and will have to download it from the store first. This is very similar to  , Microsoft’s original web browser that’s still a part of Windows 10, but not the default browser or even on the task bar.
+ As the last remaining drawing application designed for mouse-only input, Paint is definitely one of a kind, valued for its relative simplicity. But only time will tell whether the company chooses to go ahead with it, or see fit to discontinue it. As for its die-hard fans, they can only hope for the best.
+ 

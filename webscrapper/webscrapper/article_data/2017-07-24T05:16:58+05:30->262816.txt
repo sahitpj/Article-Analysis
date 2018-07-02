@@ -1,0 +1,28 @@
+In deciding the constitutional status of ‘right to privacy’, nine judges of our   face a maze that has tested the best minds around the world since 1890, when Harvard Law Review published an article titled ‘The Right to Privacy’ by Warren & Brandeis (later Justice Brandeis).
+
+ Thirty-eight years after coauthoring the article, Justice Brandeis gave a dissenting opinion in Olmstead vs US in 1928 and held that interception of telephones violated  . This dissent in the field of   would stand on par with Justice H R Khanna’s golden dissent in ADM Jabalpur case, holding that right to life can never be suspended by the state, even in the face of Emergency.
+ 
+ India’s Supreme Court participated in the debate for the first time in 1954 in M P Sharma case, which was contextually limited to surveillance of a person by police. As in Olmstead majority judgment, the eightjudge SC bench said right to privacy was not a fundamental right. A six-judge bench followed suit in Kharak Singh case.
+ 
+ Neither judges nor general public was sensitised to the sensitivity and cardinality of an individual’s ‘privacy’. In a visionary dissent, Justice Brandeis had said, “Subtler and more far-reaching means of invading privacy have become available to the government. Discovery and invention have made it possible for government, by means far more effective than stretching upon the rack, to obtain disclosure in court of what is whispered in the closet. “The evil incident to invasion of privacy of the telephone is far greater than that involved in tampering with the mails. Whenever a telephone line is tapped, the privacy of the persons at both ends of the line is invaded and all conversations, between them upon any subject, and, although proper, confidential and privileged, may be overheard.”
+ 
+ The prime example of it is the infamous telephone interceptions of a woman corporate communication professional, which revealed the journalistpolitician-industrialist nexus.
+ 
+ Investigations on the basis of these intercepts, which surreptitiously found their way into newspapers and magazines, are yet to throw up an accused. Revelation of private conversations forced a noted industrialist to approach the SC seeking protection of his right to privacy, the first-of-a-kind case in which an individual approached the highest court with an Article 32 petition. The SC is yet to decide the petition.
+ 
+ The industrialist had raised pertinent issues. He had said an investigating agency after due authorisation could intercept telephone calls for the purpose of investigation. But it was duty bound to safe keep the intercepted call details. Leaking details of purely private conversations to titillate the public was a gross assault on an individual’s right to privacy.
+ 
+ Justice Brandeis’s premonition about “subtler and more far-reaching means of invading privacy” has come true in the last decade given technological advancements, especially the apps in internet-enabled mobile phones. It is no longer the government alone which is capable of intruding into the privacy of citizens.
+ 
+ Thousands of private companies providing app-based services collect personal details of mobile and internet users almost by force as they deny access to services unless the person grants them access to sensitive personal information.
+ 
+ Worldwide, there is growing concern over the manner which right to privacy is being blatantly abused by apps which seek access to mobile phone user’s email address, phone book contact list and even to photographs stored in the phone. The meta-data so collected by apps is commercially traded, allowing other companies to bombard mobile phone and internet users with unwanted offers.
+ 
+ During the ongoing debate over right to privacy, the SC bench realised that Indians are a soft target of the apps which commercially exploit the information by analysing the metadata. “Most citizens are unconcerned why apps are collecting personal data and for what purpose,” it had observed.
+ 
+ WhatsApp counsel Kapil Sibal came close to confirming this before a five-judge bench during the hearing on a PIL by Karmanya Singh Sareen, who has questioned change in privacy policy of the messaging platform after its acquisition by Facebook. Sibal said, “Millions of users have no complaint (about change in WhatsApp privacy policy). Why is the petitioner alone concerned?” In asking this to doubt Singh’s locus standi, Sibal almost agreed with the nine-judge bench’s observation that “most Indians are unconcerned” about “why and for what purpose” their personal data is being collected by companies providing appbased services.
+ 
+ Lack of awareness about privacy and data protection in India, which has the world’s highest (118 crore) mobile phone users and 35 crore internet users, presents a fertile area for app-owning companies to dig gold by trading meta-data for commercial exploitation by private companies. The bench will examine the constitutional status of right to privacy.
+ 
+ But it is the prime responsibility of the Centre to take a closer look at privacy policies of companies providing app-based services, which routinely and regularly coerce mobile phone and internet users to provide them access to personal data.
+ 

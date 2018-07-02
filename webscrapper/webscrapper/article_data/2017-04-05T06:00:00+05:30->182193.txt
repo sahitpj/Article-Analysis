@@ -1,0 +1,19 @@
+What if we tell you that your apps can be your colossal enemy? These tools of convenience, without which the meaning of life wouldn’t be the same for many, can be used to rip you off your most essential entity — money. Don’t believe us? Read on.
+Recently, Indian app users of a popular American fast food chain were in for a rude shock, as personal data of more than 2.2 million Indian users were leaked after the food chain’s app’s security mechanism was compromised.
+ Although the brand said that its app doesn’t store any sensitive financial data (like card details, e-wallet passwords, bank account information), experts opine that there is reason to worry. With the leaked data including name, phone number and emails, experts feel that hackers could have access to people’s financial details.
+ 
+ 
+ One of the major problems that Indian app users face when dealing with the issue is the dearth of strong data privacy policies and provisions in the cyber law. “Apps without proper security should not be promoted. Patent and trade mark laws are still in a budding stage in India now. Those app developing companies or service providers who don’t follow rules should be blacklisted,” said,  , cybercrime expert. 
+ 
+ 
+ With rapid advancement in app-based business today, hackers tend to exploit the point when the data is getting transferred from the app to the server.
+ Though service providers stress that they try their best to maintain high levels of discretion, experts opine that most apps are actually vulnerable and users need to very careful when installing them.
+ Vijay Surya J, app developer, Think Tankers Innovative Solutions Pvt.Ltd, Hyderabad said that it is the sole responsibility of the companies to ensure effective discretion in their apps. “A developer should make sure that once the transaction is complete confidential information gets erased, and only the necessary data is stored. These necessary details won’t be visible to a normal person. But hackers, can extract the details. So for each and every app there should be an authentication mechanisms,” he said.
+ “I often use apps for various purposes such as to book a cab, order food, shop and so on. I’ve heard about app’s vulnerability and am aware of the risk factors, but sometimes it’s difficult to read through all the clauses and conditions before installing an app,” confesses  , a student of  .
+ But  , cyber law expert and a practicing advocate in High Court of Telangana and Andhra Pradesh stresses on the importance of reading terms and conditions before installing apps. He said that whenever a user clicks on “accept” it’s understood that the user have gone through the agreement. “Users should only sign the agreement which discloses all the details about the liability of the company and security of the user, after carefully going through it. As far as possible users should avoid storing any sensitive information on their mobile. This is not a good practice because unknowingly while installing some apps the user might give permissions to access the data,” says Chandra.
+ 
+ 
+ 
+ 
+ 
+ 

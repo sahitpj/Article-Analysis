@@ -1,0 +1,20 @@
+Chennai: Credit rating agencies like CIBIL, Experian, LexisNexis, are often the first to spot instances of duplicate PAN cards, but today even chartered accountants (CAs) are finding their clients unearthing information on duplicate PAN cards. 
+
+ With the government mandating that citizens must link their Aadhar, GST registration to their PAN card, such cases are surfacing as inter-mapping of databases gains ground. 
+ 
+ Typically, duplicate PANs are used for fraudulent loan applications. Last year, Experian realised a loan applicant at a bank had two PAN cards, one of which had surprisingly good credit scores. When called, the applicant said he had surrendered his original PAN card. On investigation, the agency found out the person had lied and managed to obtain as many as three PAN cards for defrauding banks — with the third PAN showed the real story that he had availed of multiple loans earlier and skipped payments
+ 
+ “Its been tough on investors. We’ve had clients, who have noticed duplication of their PAN cards, when they tried to link their GST registration with the IT database. In the case of Aadhar cards our clients face more difficulties from mismatch of names, small discrepancies because of the use of apostrophes or other special characters,” said Surya Bhatia, a New Delhi-based chartered accountant. 
+ 
+ CAs said that a decade ago there was no digital platform to apply for PAN cards, so clients would have to wait for as long as two-three months before they were issued the same. “Earlier, there was no digital platform for PAN application. Clients would apply through mail and have to wait for few months before they got their PAN. There was also no mechanism to track the PAN card application process — so clients in some cases would apply few times before they received the PAN card. Some people would realise there was a duplicate PAN card only when they receive a notification from the IT department. But that does not always happen,” said Bhatia.
+ 
+ Security experts voice concerns that in India there is no method for taxpayers to independently verify whether there are duplicate PAN cards in their name.
+ 
+ “Currently, the only way you can know is if you ask for your credit report; or when when you apply for a bank loan and the bank’s database/fraud mechanism pulls up the duplicates. Or as it happens when you try linking Aadhar-PAN,” Mohan Jayaraman, managing director, Experian Credit Information Company of India Pvt. Ltd. And the issue of duplicate PANs is more prevalent than one might have thought. “In 2016, out of all fraud cases reported to us, 22% were because the customer had multiple PAN or the PAN card didn’t belong to the customer — indicating impersonation by somebody else,” said Jayaraman.
+ 
+ But duplicate PANs can also wreck havoc on genuine taxpayers. “We had the head of a mutual fund approach us for help. When he first applied for a PAN card, he never got one. Two years later he filed again and a second PAN card was issued. He started filing all his returns from the second PAN. Then one fine day, the IT department updated its records and realised two PAN cards had been issued to him and they cancelled the second one,” said Cyrus Khambata, MD, CDSL Ventures Ltd. 
+ 
+ “Now, they could have sensibly cancelled the first PAN and let him use the second PAN as he’d been filing IT returns for many years on that. But they didn’t. What followed was hilarious, as the IT department would not even share with him - his own PAN card details. Finally, we had to intervene and get it sorted. But imagine if it was a common man without financial clout?” asked Khambata.Experts said that citizens should be independently able to verify if there are two PAN cards in their names. “Currently the IT department will provide details only if you can give the PAN card number and date of birth. What if you don’t know your PAN number? Or have applied multiple times? Or someone has fraudulently used your name to obtain a PAN — well there is no recourse,” said Khambata.
+ 
+ 
+ 

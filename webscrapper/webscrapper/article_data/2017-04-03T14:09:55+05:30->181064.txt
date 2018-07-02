@@ -1,0 +1,11 @@
+   has also collaborated with Europeana (The Umbrella Library of Europe for Culture & Museum). There was an initiative called  , which was started more than 12 years back with a charter to digitize one million rights-free books and make them available. This has also been integrated in NDL. 
+
+ "NDL has launched its   app and is on its way to launch an app for   soon," said Partha Pratim Das, a senior faculty member and coordinator for the NDL app project. 
+ 
+ Schools and colleges can go for institutional registration, wherein a nominated person of the institution, called 'Institutional Nodal Person' can collect the details of students, teachers and non-teaching staff of the institution and get them registered in bulk on the web client, ndl.iitkgp.ac.in. On approval of the application by the NDL team, an e-mail intimation will be sent and the institutional nodal person can register students, teachers and non-teaching staff, Das explained. 
+ 
+ The repository can be accessed from anywhere in the world through the app or web versions. The app has features to search, browse, filter, tag, comment and view metadata. The desktop/laptop version - which already has 9 lakh users - is also enabled with an 'Advanced Search' feature.
+ 
+ "With the exponential growth in mobile usage, the NDL app will enable access to rich digital content of libraries across the country and even foreign repositories to users even in remote areas, which is a unique feature. The world has never seen a digital repository like NDL, which is focused on education," said P P Chakraborty, director of the institute. "NDL integrates contents of any domain as long as it has learning value to somebody. The NDL team is also conducting a lot of cutting-edge research in natural language processing, machine learning, search technologies, metadata engineering, experience tracking and data analytics to provide state-of-the-art facilities to users," he added.
+ 
+ 

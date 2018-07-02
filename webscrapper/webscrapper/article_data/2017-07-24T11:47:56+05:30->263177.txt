@@ -1,0 +1,18 @@
+AURANGABAD: The city police department is planning to introduce e-challan application, which will send details of any traffic violation though a text message directly to the offenders. 
+
+ The contents of the message will include the offender’s vehicle registration number, the area where   were allegedly violated, the imposed fine as well as the sections under which the action is being taken. The move is another step taken by the traffic police to go hi-tech.
+ 
+ The Android-based smartphone app will be connected to the centralised computers installed at the traffic branch and the police commissionerate. This will promote transparency and make it easier for police officials to monitor and supervise.
+ 
+ After the violator has been nabbed, the traffic policeman will have to click a photograph of his vehicle, take down the offender’s cellphone number and key in the vehicle registration number. Following this, the policeman will have to select the sections under which the suspect has been held guilty.
+ 
+ The system will send a text message to the offender’s cellphone number, allowing him to know the fine amount and the sections under which it was imposed. 
+ 
+ About the implementation, a police official said “The only glitch we are facing is that every traffic policemen will have to have an Android cellphone. We have some policemen in the age group of over 50 years, who are not that comfortable such cellphones.”
+ 
+ An official said that once ready, the app is likely to save thousands of rupees each year that goes into printing of challan booklets.
+ 
+ Aurangabad commissioner of police   said, “We are working hard to start this system as it will not only save paper, but also help us maintain transparency in the entire process.”
+ 
+ The officer said that traffic policemen often face serious allegations of either being corrupt or for not doing their duties properly. “This application will help us bring a check on such allegations. Using this app, we plan on checking the GPS location of the policemen to ensure that they remain at the given point and do their duties honestly,” Yadav said.
+ 

@@ -1,0 +1,19 @@
+Mumbai: The financial sector in India is driving investments into   and   (AI) to augment customer service, but bankers are convinced that there would not be job losses as these new tools will only complement staff.
+
+ When it comes to AI it is not upstarts but big guns of banking with resources, which are driving investments.   (SBI) is working with IBM to make use of   — an answering computer software to assist staff and employees.   has tied up with artificial intelligence firm   (funded by Ratan Tata and Ronnie Screwvala) to bring in conversational banking. Last week,   partnered   to launch AI-led digital initiatives. Among other things, the bank is looking at AI solutions based on speech recognition. The bank has also launched Yes Tag—a chatbot-based app to seamlessly engage in chat banking on five messaging platforms: Facebook Messenger, Twitter, Skype, Telegram and WeChat. 
+ 
+ SBI is also looking at using artificial intelligence to address some of the standard requests at call centres. “We find that chatbots are useful for employees. For instance, if an employee has entered a particular screen and does not know how to proceed, the software will sense inactivity and a bot will pop-up offering assistance,” said Mrutyunjay Mahapatra, deputy MD and chief information officer, SBI. 
+ 
+ According to Nitin Chugh, digital banking head HDFC Bank, the website chatbot has seen one lakh conversations in one week, with the bot concurrently running 700-750 conversations. Chugh, however, points out that bots are not there to replace customer executives but to complement them and to provide customers with a richer experience. “In any case the routine queries are moving to the self-service mode. Most of the calls now pertain to when the caller is worried about a transaction and wants to speak to a human,” said Chugh.
+ 
+ ICICI Bank has found success in using chatbots for answering queries on remittance to India. “In remittances using Swift we have noticed that customers are always concerned on whether the money has reached the beneficiaries banks account. The queries are standard,” said B Madhivanan, chief technology and digital officer of ICICI Bank. 
+ 
+ The bank is also using artificial intelligence to replace “dumb search” on its website with something that is more intuitive. Madhivanan said, “We are still at level one when it comes to the stage of maturity. The next level would be the equivalent of Apple’s Siri or Amazon’s Alexa.”
+ 
+ According to Ritesh Pai of Yes Bank, the future capacity addition at call centres might taper off as standard queries can get addressed by bots. The advantage of using technology to answer customer queries is that there is a high degree of standardisation in responses, he adds. 
+ 
+ Insurance companies, too, are catching up. Earlier this month, HDFC Life launched the first life insurance chatbot in collaboration with   — a conversational commerce platform powered by chatbots. The company said that the bot would recommend best suited plans after quizzing the user for 60 seconds. Couple of days later, Birla Sun Life launched a chatbot, which it claims, was much faster than any other customer touchpoint and can instantly generate a quote, register a claim, and can engage in a natural conversation with the customer to help them understand coverage details better. 
+ 
+ Another insurer PNB MetLife Insurance launched Dr Jeevan — an AI-powered interactive chatbot solution on Facebook messenger that provides information on health. In the NBFC space, Fullerton became the first to launch a loan acquisition and fulfilment chatbot — Asha.
+ 
+ 

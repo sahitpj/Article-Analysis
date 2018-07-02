@@ -1,0 +1,17 @@
+BENGALURU: In the past three years and three months,   lost Rs 88,553 every hour on an average to  . The total money lost from April 1, 2014 to June 30, 2017 — Rs 252 crore — could have written off 50,400 farm loans of Rs 50,000 each.
+
+ Nearly 40 cases of cybercrime costing Rs 21.24 lakh a day on an average have been reported by banks in the said period, shows data of 102 banks of all categories obtained from the Reserve Bank of India. In all, 46,612 cases were reported in the said period.
+ 
+ The data is compiled from frauds related to credit, debit and ATM cards and internet banking.
+ 
+ From card skimming to hacking of bank systems, the growing number of cybercrime cases is not just an indication of vulnerable backend systems but also a warning that the financial system cannot underestimate the threat any longer.
+ 
+ Analysis of data for the first quarter of 2017-18 (April 1 to June 30) shows that banks reported 56 cases a day, against the average of 40 in the past three years.
+ 
+ Banks are also losing more money per day: Rs 21.57 lakh (Rs 89,880 per hour) from Rs 21.24 lakh (Rs 88,553 per hour) in the past three years. These cases are from 23 banks which reported to RBI.
+ 
+ Sanjay Kaushik, managing director of Netrika Consulting Private Limited, which counts several banks as clients, said the majority of these crimes were likely to be debit and credit card frauds to deal with which banks are putting systems in place. The RBI, on its part, has been regularly advising banks on the need for a strong   setup to deal with attacks, while creating awareness among people to prevent them from falling for fake offers used by fraudsters.
+ 
+ Nearly 70% of the ATMs in the country, which operate on the outdated Windows XP software, are seen to be sitting ducks. Microsoft stopped providing support — security patches and other tools — for the Windows XP System in 2014.
+ 
+ 

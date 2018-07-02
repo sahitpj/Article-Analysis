@@ -1,0 +1,22 @@
+BENGALURU: With an aim to improve administration, the   ( ) is working on a smart system to integrate public services.
+
+ UDD secretary V   said they are looking at integrating 60 services provided by urban local bodies by linking them with a property identification (PID) number. “The system will benefit all ULBs in Karnataka, except Bengaluru,” he added.
+ 
+ A pilot project will soon be taken up in five or six cities and will be expanded to the entire state gradually. Services like water connections, underground drainage, birth/death certificate and khata transfers will be linked to the PID numbers of citizens. 
+ 
+ “When the same set of documents are provided for both water and electricity connections, why does a citizen have to make rounds of two different agencies,” asked Ponnuraj, justifying the initiative.
+ 
+ The UDD secretary said they have undertaken a re-engineering process, wherein independent smart services provided by the department’s subsidiaries and agencies are being evaluated and replaced/linked with the new software.
+ 
+ How system works
+ 
+ UDD will use the unique PID generated for each property in the state, which has been mapped by the geographic information system since since 2006. The documents submitted by owners of residential and commercial properties for generation of the PID number, which have been verified by UDD for building plans and khatas, will now be provided to agencies —municipalities, corporations, Escoms, Karnataka Urban Water Supply and Drainage Board (KUWSDB) and urban development authorities (UDAs).
+ 
+ With the help of the new software, the department will ensure that SMSes are sent out to citizens on document verification and approvals. “The system will facilitate transparency, and prevent frequent inspections and harrassment by various departments. Citizens won’t have to run around for every small service,” said a senior UDD official. 
+ 
+ Fees for the services can be paid via a payment gateway or bank transactions. According to Ponnuraj, the department is in talks with a private foundation, which has technocrat   at the forefront, for providing back-end solutions.
+ 
+ PID may be linked to Aadhaar, voter IDs too
+ 
+ The department is also looking at linking the property identification (PID) number to Aadhaar and electoral photo identity cards (EPIC). "The owner of a house with a specific PID number can seek the birth certificate of a newborn by uploading the relevant documents online. Once the child is 18, his/her details will be linked to the EPIC or voter ID database and a message will be sent to the the PID number holder. After that, one needs to do upload a photo and an EPIC card will be generated at any location in the state," said a UDD official. The government also intends to link the PID number with the Aadhaar number, which will help keep track of pending taxes, if any.
+ 

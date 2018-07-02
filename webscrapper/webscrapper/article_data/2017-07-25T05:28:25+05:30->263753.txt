@@ -1,0 +1,11 @@
+KOLKATA:   has teamed up with the West Bengal Transport Corporation to add   about   for  , making it easier for commuters to plan their daily trips. The app made its debut on Monday. The service is currently enabled for key WBTC transit routes and will be expanded to the remaining routes soon. This is the first launch of real-time transit information for Google Maps in India. 
+
+ So, the next time you plan a trip between Park Street and Bhowanipore, or anywhere else in the city, you can simply type the two locations into Google Maps to get information about which   to catch and you’ll see when the next bus is actually arriving at your stop. You’ll also get an estimation of how long your trip is going to take, and if your bus is delayed, Google Transit will automatically update the times. 
+ 
+ “By sharing the real-time transit information of our buses with Google Maps, we are striving to deliver an enhanced level of service for our commuters. We are confident that the practical use of this technology will facilitate better trip planning, resulting in greater convenience to commuters. We expect this to help increase the passenger count in our buses and improve revenue realisation,” said Narayan Swaroop Nigam, managing director, WBTC. 
+ 
+ “This is yet another attempt to bring smart public transport to Kolkata and to improve WBTC’s performance. We are committed to improving public transport.” said Suvendu Adhikari, minister-in-charge, transport department.
+ 
+ Alternatively, it is possible to access real-time bus information by searching for a particular bus stop. On tapping the icon, the app will display a list of all arriving buses. 
+ 
+ 

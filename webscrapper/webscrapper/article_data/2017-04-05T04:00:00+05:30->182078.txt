@@ -1,0 +1,11 @@
+Mumbai: In a first, a payment gateway will be facilitating credit to customers at   sites. Naspers-backed  , which facilitates 25% of all transactions in the online space, has launched a deferred payment service which allows debit and credit cardholders to delay being charged for their purchase. The company, which has a 55% share in e-commerce sites following a merger with rival  , has developed a model for scoring individuals-based on payment behaviour. 
+
+ PayU CEO   said, “We think the credit system in India is broken and we want to disrupt the credit market.” Rau said the company will be pursuing an   licence to get into the credit business. The new service   involves giving small amounts of credit for short tenures.
+ 
+ According to Jitendra Gupta, MD, PayU, there are 50 lakh e-commerce customers, who are eligible for credit. “We process three million transactions every day. Each transaction generates 15 direct variables, which helps us to draw up a profile of the customer and come up with a ‘trust score’. This trust score helps to identify creditworthy customers, who are allowed to check out using LazyPay without going through the payment process,” said Gupta . 
+ 
+ PayU has tied up with merchants, where those using this service will get the equivalent of a priority checkout. The advantage for the merchant is that the risk of customer dropping out due to a transaction failure is eliminated. Gupta estimates that e-commerce merchants lost $4.4 billion in revenues in 2015, due to transaction failures. “By separating purchases from payments we have removed the risk of transaction failures,” said Gupta. PayU has been trying out this product for one month with online merchants like Zomato, Box8, Jazz Cinemas, Netmeds and Innerchef. As a payment gateway, PayU processes transactions for online majors like Amazon, Bookmyshow, Jet Airways, Airtel, Jabong, Ola and a host of insurance companies.
+ 
+ Customers can build up an outstanding balance ranging from Rs 3,000 to Rs 10,000 from various transactions, and pay it in one go, later. PayU India plans to invest $50 million in LazyPay over the next couple of years. The company aims to get over 5 million users onboard in the next one year. PayU India has largest merchant distribution network in the online payment space, which it will utilise for expansion
+ 
+ 

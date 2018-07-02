@@ -1,0 +1,35 @@
+MUMBAI: Digital payments through the Unified Payments Interface (UPI), the mobile-based national payment system, continue to surge even after the end of demonetisation-induced cash shortage, latest data from Reserve Bank of India shows.
+ 
+  UPI-based transactions jumped almost 20% to Rs 2,000 crore in March, up from Rs 1,660 crore in January. The figures boost Prime Minister Narendra Modi's agenda of ending black money through digital payments and the penetration of formal finance in the hinterland of the country.
+  
+  "We already have 44 banks on UPI, of which 35 have their own applications available on the (Google) Play Store;   is seeing around 80,000 transactions per day; and we are registering almost 2 lakh transactions on the entire UPI railroad," said  , managing director at  , the body that runs the UPI platform and BHIM app.
+  
+  The growth in UPI-based transactions is driven majorly by the government-promoted BHIM (Bharat Interface for Money) and non-bank payment apps such as PhonePe and Trupay, industry experts say.
+  
+  Backers of digital payments believe that it may be just the beginning as the government appears determined to push digital transactions.
+  
+  While 90% of transactions on UPI are coming from peer to peer modes of payments and remittances, the share of merchant transactions is expected to go up sharply after the full scale rollout of BharatQR — a common QR code developed by all major card payment companies to enable digital payments without card swiping machines — and UPI@PoS — or, point-of-sale machines configured to enable payment through UPI interface without swiping cards.
+  
+  "We have already tied up with Reliance Retail for   on point of sales terminals and are planning to get more merchants on board to start accepting UPI-based payments," Hota said.
+  
+  While banks have launched their own UPI apps, industry observers said a major chunk of transactions are coming from non-bank apps such as Trupay and PhonePe that have gone live on UPI through a sponsor bank.
+  
+  Sameer Nigam, CEO at Flipkart's payment app PhonePe, said the app accounts for almost half the number of all UPI transactions and 22-25% of total value of such transactions.
+  
+  "For us because of the Flipkart partnership we are observing a significant chunk of this payment for merchant transactions as well besides only peer to peer payments," he said.
+  
+  "Together with UPI and our wallet-based payments we will reach around $1.3 billion worth of payments in an annualised manner," he said.
+  
+  Rahul Gochhwal, cofounder of Trupay, said the UPI-based payment app saw around `500 crore worth of transactions in March, up from less than `1crore in September. "90% of these transactions are in the remittance space," he said. Trupay is in the business of UPI-based payments in partnership with YES Bank.
+  
+  
+ 
+  The digital payment surge since demonetisation is, however, not helping mobile wallets or prepaid instruments.   data shows that mobile wallets have not been able to pick up in the merchant payment space, with less than Rs 1,800 crore worth of transactions reported in March, down from Rs 2,100 crore in January.
+  
+  "As per our industry numbers, domestic remittance through wallets has reached almost Rs 4,000 crore per month, but UPI in such a short period of time having reached Rs 2,000 crore shows phenomenal growth," said a top executive with a digital payments firm.
+  
+  Major growth is being seen on wallets in the domestic remittance space supported by companies like  ,   and others.
+  
+  Experts said that mobile wallets are still being used predominantly for smallticket online recharges and bill payments as PoS terminals deployed at retail merchant locations increase and cash comes back into the system.
+  
+  According to RBI data, the average wallet transaction is worth less than `250 while average UPI transaction amount is around Rs 4,000. 

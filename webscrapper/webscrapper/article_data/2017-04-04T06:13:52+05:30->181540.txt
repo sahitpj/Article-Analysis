@@ -1,0 +1,17 @@
+LUCKNOW: According due importance to  ,   and  , UP Police has roped in the best brains in country to develop a   for UP-100, the emergency response centre which caters to a population of 22 crores.
+
+ While use of   (English) calendar will continue, the Hindu calendar, which shows the moon phase as well as the phases of the solar year will be integrated within the IT framework of the facility developed on a budget of more than Rs 2,000 crore last year. The Hindu calendar will act as a reference point for effective police deployment as per local traditions across 75 districts.
+ 
+ Elaborating on the concept, additional director general Anil Agarwal, who heads the facility said, “We have sought help of IIT Kanpur professor Sandeep Shukla and team of PhD scholars who work with him on computer applications.”
+ 
+ A faculty of the department of computer science and engineering, Shukla was upbeat about the project. About 24 IITians and Shukla visited UP-100 on Saturday to see things closely. As no application has been developed so far which integrates Georgian and Hindu calendar seamlessly, Shukla sees the task as a tough challenge.
+ 
+ “Basically, we will have to conduct exhaustive research, collect lots of data and create algorithm parallel to Georgian calendar. We will also take into account the regional festivals,” said Shukla saying the calendar will mark events celebrated in particular parts of the state.
+ 
+ For example, according to Hindu calendar, during the month of Kartik, 14-kosi parikrama takes place in Ayodhya, Faizabad and it is a local event. “If we get such hyper local feeds in advance, it will be easier to deploy of force in Ayodhya on the particular day. We will be able to see this feature on the usual calendar, ” said Agarwal.
+ 
+ The algorithm experts at IIT will write down will also cover other important events such as Eid, Bakarid, Christmas, Guru Nanak Jayanti, among other festivals. The memorandum of understanding between department and IIT is expected to be signed in the coming week.
+ 
+ “The only person who attempted to draw calendrical calculations was a professor of University of Illinois at Urbana–Champaign in US in 1996. Through it one could see Hebrew calendar on the computer screen,” said Shukla, who hopes to develop Hindu calendar in a similar manner alongside the Georgian.
+ 
+ 
