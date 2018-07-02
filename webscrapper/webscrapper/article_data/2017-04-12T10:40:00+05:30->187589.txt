@@ -1,0 +1,13 @@
+BENGALURU:  , the Silicon Valley data management company founded in 2011 and which became the fastest-ever software venture to touch $100 million in revenue, has opened a new office in Bengaluru that can house over 120 employees.
+
+ The centre will have engineering and support teams. Co-founder  , who was in the city for the launch, said the office also signals the launch of commercial business in India.
+ 
+ Hortonworks specialises in development and support of  , the open source software framework used to store and process vast quantities of data. Murthy said Bengaluru has a lot of talent around Hadoop. Murthy, who grew up in Bengaluru and did engineering at RV College, was among the pioneers of Hadoop. Soon after graduation, when he joined Yahoo’s R&D centre in the city, he was part of the small team at   that was then beginning to develop the open source architecture that is now integral to many big data projects.
+ 
+ Hortonworks, which had touched a billion dollars in market capitalization when it listed in 2014 (the market cap is now down at about $700 million), does R&D on Hadoop and other open source projects, and makes money by supporting those using the architecture. It also makes money from providing consulting in the space. The India centre will do R&D, and provide consulting and support services.
+ 
+ Kamal Brar, head of Asia Pacific at Hortonworks, said India is also emerging as a major user of Hadoop, thanks to governmental projects like Digital India and IndiaStack, as also because of e-commerce and telecom companies that deal with millions of customers. “When you are at that level (of usage), commercial contracts become necessary,” he said, indicating that companies like Hortonworks would be needed to ensure the mission critical processes never fail.
+ 
+ Murthy noted that the Indian government has been among the first to say clearly that they prefer open source. Most governments are now moving in that direction. “It’s partly for reasons of safety, you can see the code,” he said. It’s also a huge opportunity for companies like Hortonworks.
+ 
+ 

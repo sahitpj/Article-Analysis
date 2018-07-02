@@ -1,0 +1,31 @@
+In a new book, economist and data scientist Seth Stephens-Davidowitz tries to answer questions about human behaviour by looking at our search habits. For example, how racist are people actually? Or, do searches on committing violent crime translate into actual crime? In ‘Everybody Lies — Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are’, he touches upon a central theme — people lie about themselves on social networks and in offline surveys, but are more honest in private online searches. He spoke to 
+  about data science, and why people lie
+
+ 
+  
+ Someone did a study after the Edward   leaks, and there was a reduction in searches on sensitive topics. It may be that some people determine they don’t feel their data is safe and they change their search behaviour. But I think there is something in   searches that makes people more honest on some topics than they otherwise would be, say, in surveys. One, you’re alone, and two, you have an incentive to tell the truth.
+  
+  
+ I’m actually just studying that now, so we will see. One does see that in Iran or parts of Russia where there is a lot of anti-gay attitude, gay porn searches are as high as anywhere else. So it does seem like despite the anti-gay attitudes of the government, people still do search for gay porn on Google in the privacy of their own homes. If everybody saw each other’s Google searches, they’d realise they all hate the regime. One of the reasons repressive regimes stay in power is that citizens tend not to know that other citizens feel the same way as they do. So it will be interesting if Google searches help people realise that everybody doesn’t like this leader.
+ 
+  
+ 
+ Well, the big thing was the breastfeeding. Everyone I have talked to in India has been shocked by this. But a lot of the porn stuff is really more universal than I thought. Like, the interest in incest, women watching rape porn — that is true in every country in the world. That has nothing to do with attitudes towards women or anything.
+ 
+ I had a study on pregnancy — the questions that pregnant women ask. In India, they search for how to have sex. American women wanted to get rid of stretch marks. So that was kind of interesting.
+ 
+  
+ 
+ The internet has created this enormous dataset of who we are and we can use this data to turn calming an angry mob into a science. It is something we haven’t previously been able to do. We are going to learn so much more about how to lower racism, how to lower hate, how to calm anger, how to lower violence. These audacious goals make sense with all this data that now exists.
+  
+  
+ It could be a problem. In general A/B testing, which is this fast, cheap way to do tests, is not really used in academic research. It is used in corporate research. I think it should be used a lot more in academic research. It may get to a point where it is so cheap and easy that people might forget that sometimes you need different, more comprehensive, expensive methods. But I think we are very far from that point. Right now, the basic issue is that A/B testing is not used enough in academic research. Academics tend to rely on slower, old-fashioned processes that are largely outdated.
+  
+  
+ 
+ I think it’s striking for someone who has been playing around with big datasets and has some experience in philosophy and psychology, that if you read a book by Freud or  , you realise a lot of their claims are about data. But they don’t analyse data. It will be increasingly difficult for one to have social science theories that are not based on data because so much data now exists.
+ 
+  
+ 
+ I think in the future we are going to use a lot of Google searches and other net data sources to answer some of these questions. It’s a little early for predicting elections in particular. We need some more elections to build our models. But in future we will rely less on polls and more on internet data to predict elections. And I think that is true for a lot of areas. Polls will be a part of the conversation, but they won’t be the whole conversation.
+ 

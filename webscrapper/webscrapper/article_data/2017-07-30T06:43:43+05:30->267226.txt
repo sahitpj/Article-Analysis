@@ -1,0 +1,17 @@
+HYDERABAD: With cyber attacks holding the world to ransom with alarming regularity , it's not just defence organizations, paramilitary forces or big corporates that are beefing up their networks with multilayered security systems, smaller SMEs too are queuing up to secure their networks with sophisticated solutions.
+
+  According to  , while players from Delhi and Mumbai are top buyers of security solutions, companies from Hyderabad too are now showing keen interest in securing themselves with complex security solutions, pushing the city to fourth position in the country in this regard after Bengaluru.
+ 
+ 
+ In fact, among the city-based SMEs, pharma companies and consulting firms are emerging as some of the prominent buyers of   security products, point out experts.
+ 
+ “While the bigger organizations like DRDO would typically buy solutions from a well-established   , the smaller companies and SMEs are going for products developed by startups. This is because the products are way cheaper. Many smaller buyers are coming forward to install complex security solutions from Hyderabad's pharma sector,“ explained Prashant Surana, founder Snapple Technologies, that offers data  
+ 
+ Many organizations are opting for authentication solutions that use facial and speech recognition software along with passwords and regular filters, pointed out experts.
+ 
+ “In the last three years, we have seen a 75% increase in companies opting for complex solutions. The reason is that there have been instances of critical data being compromised due to official emails of mid and senior level executives being hacked.For instance, two companies in the country ended up paying millions of dollars to hackers after their data was taken by hackers via email ,“ said Tarun Vij, co-founder of cyber security company , Innefu Labs.
+ 
+ While facial and speech recognition is used for authenticating the customer's identity while carrying out mobile and online payments, retail and point of sale transactions, ATM transfers and the like, data encryption is used for securing SAP , official emails and other networks. Sometimes a combination is also used, experts added.
+ 
+ “An increasing number of companies are trying to secure their  , emails as well as any and every application on their network being used by employees, cutting across various levels,“ added Vij, whose company's solution ` Auth Shield', which uses facial and voice recognition, is being used by the DRDO.
+ 
