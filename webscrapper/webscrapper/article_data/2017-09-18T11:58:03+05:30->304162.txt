@@ -1,0 +1,12 @@
+The symbol “0“ is a familiar sight, but its origins are far from certain. A recent batch of carbon dating is causing the history of mathematics to be rewritten, as it has discovered zeros dating back to a period 500 years before previously seen.
+
+ The numbers appear in an   called the Bakhshali manuscript, which consists of 70 leaves of birch bark, filled with mathematics and text in the form of  ."It seems to be a training manual for Buddhist monks," says   at the  .
+ 
+ The manuscript was first discovered by a local farmer in 1881, and was named after the village it was found in, in what is now Pakistan. It's been housed by the University of Oxford's Bodleian Library since 1902.
+ 
+ Now, the manuscript has been carbon da ted -and this has immediately upturned commonly held beliefs. It was originally thought that the manuscript was from the 9th century, but the dating methods revealed that the oldest pages are from somewhere between 224 AD and 383 AD. This means that the manu script predates a 9th cen tury inscription of zero on the wall of a temple in Gwalior, India, which was previously considered to be the oldest recorded example of a zero.
+ 
+ Across the text there are hundreds of zeros denoted using a dot. It's this dot that later evolved to be the symbol with a hole in the middle that we know today . The dot was originally used as a placeholder, like how "0" is used in the number 505 to denote that there are no tens, but was not yet a number in its own right. The use of zero as a placeholder appeared in several different ancient cultures, such as the ancient Mayans and Babylonians. But only the Indian dot would eventually go on to gain true number status, first described in 628 AD by the Indian astronomer and mathematician Brahmagupta.
+ 
+ "Some of these ideas that we take for granted had to be dreamt up. Numbers were there to count things, so if there is nothing there why would you need a number?" says du Sautoy. The concept of zero, initially banned as heresy , was eventually allowed for the development of calculus, and underpins the digital age. "The whole of modern technology is built on the idea of something and nothing," he says.
+ 

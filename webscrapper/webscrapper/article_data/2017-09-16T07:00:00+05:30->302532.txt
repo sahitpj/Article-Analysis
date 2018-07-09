@@ -1,0 +1,11 @@
+Mohali: M-PUDA, a mobile application has been developed by PUDA/GMADA to facilitate common citizens in accessing property details. 
+
+ The application launched by Punjab chief minister and PUDA chairman Captain Amarinder Singh was selected for SKOCH Order-of-Merit award which was presented to PUDA general manager (IT) Parmod Kalia by SKOCH chairman Samir Kochhar recently at a function held at Constitution Club of India, New Delhi.
+ 
+ This mobile application has been designed on a modular concept which comprises the modules including property module, RTI-grievances-single window, central diary, department login and feedback/location depicting image, longitude and latitude based complaint. The mobile application is available on Play Store (Android) as well as on App Store (IOS).
+ 
+ The mobile application would facilitate user or allottee easy access to the property details, ledger in a transparent and hassle-free manner. There will be a grievance redressal system to ensure that the user grievances are attended in an efficient and effective manner. Also the user will be able to track his or her application.
+ 
+ The appplication provides a facility to the organization employees to access their service book online and a facility to receive feedback from general public for enhancement of the services.
+ 
+ 

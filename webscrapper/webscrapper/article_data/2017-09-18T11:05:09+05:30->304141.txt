@@ -1,0 +1,28 @@
+BENGALURU: The festive season is not just a crucial time for ecommerce companies, but also for financial technology firms which are also preparing to reap a bonanza during the period. 
+ 
+  From payment gateway companies to lending  , everyone in the fintech space is preparing for a surge in consumption and transactions, with industry watchers expecting the total value of festive sales on   and  , which kick off this week, to reach $1.5-1.7 billion.
+  
+  While Flipkart and Amazon process a large part of payments directly, overall, there would still be a lot left for third-party payment companies, according to BillDesk director MN Srinivasu. "We expect the total ecommerce industry sales during the festive season to grow by up to 50% over last year. The top two players will continue to take a dominant share of this," Srinivasu said. BillDesk works with Amazon and Flipkart for processing payments.
+  
+  The first 15 days of the festive season, starting with Flipkart's Big Billion Day and Amazon's   sales, are likely to bring about 70% of the volumes for the month, he said.
+  
+  BillDesk is setting up a higher degree of support and monitoring for the season, especially since there will likely be many first-time consumers on ecommerce, he said.
+  
+  
+  Amazon and Flipkart are also expected to push their payment arms - Amazon Pay and PhonePe, respectively - with steep cashbacks and incentives for shoppers.
+  
+  During Flipkart's five-day Big 10 sale in May, PhonePe recorded 2.5 million transactions worth a total Rs 250 crore, with its wallet recording 1-million transactions and the rest coming from credit and debit cards.The Flipkart-owned company had offered steep cashbacks of up to 30% for all transactions for the sale made through its app.
+  
+  While payment companies working with Flipkart and Amazon as well as the in-house payment teams did not participate in the story, Flipkart is said to have asked them to test for as many as 5,000 orders per second so as to avoid payment failu res during peak sales. The company did not comment on this until the time of going to print.
+  
+  Payment gateway companies such as Razorpay, which works with  ,   and other startups, is also conducting load tests and audits for a surge in transactions. “We are preparing for as much as 1,000 transactions per second, compared to the usual 50 transactions per second,“ said Razorpay CEO Harshil Mathur, adding that usually at the peak it goes to about 300 transactions per second.
+  
+  Cashback platforms such as Cashkaro expect to see a 300% increase in gross merchandise value, or gross sales, during the festive season over the normal period. "We expect to see Rs 100 crore in sales through our portal during this festive season," said Cashkaro cofounder Swati Bhargava.
+  
+  The company works with several ecommerce companies on commission for driving customers to their platforms.The commissions, largely similar across Amazon and Flipkart, varies from 4% for sales of mobile phones and electronics to 12% for fashion.
+  
+  The festive period is also likely to give a boost to lending platforms and banks offering instalment-based payment options to online shoppers. "(Equated monthly instalment) payment methods may get a greater push this year from banks and ecommerce players. Consumers will likely spend more when availing EMI payment facility, so the ecommerce players will push this payment product," BillDesk's Srinivasu said.
+  
+  "For banks, with cost of funds currently at their lowest in recent years and credit card interchange fees remaining the same, this would be one way to make up for lower fees on debit and earn good margins."
+  
+  "(Small and medium enterprises) across the country are gearing up for the upcoming festive season. Consequently, over the last 3 months, their working capital requirements have seen significant growth," said Vishal Chopra, chief revenue officer,  . "We have seen the number of loan applications double, and with ecommerce platforms also planning sales, we are expecting consistent growth in the coming months as well."

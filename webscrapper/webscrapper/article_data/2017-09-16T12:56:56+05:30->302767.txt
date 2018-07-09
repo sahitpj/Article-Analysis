@@ -1,0 +1,32 @@
+HOUSTON: Alteration of the gut microbiome with   may help prevent and treat   by reducing inflammation and suppressing colon tumours, a study in mice suggests.
+
+ Researchers at  , Texas Children's Hospital and   in the US found that administration of histamine-generating gut microbes reduced inflammation and tumour formation in mice which lacked that ability to produce histamine on their own.
+ 
+ These results suggest that alteration of the gut microbiome with probiotics may become a new preventative or therapeutic strategy for patients at risk for colorectal cancer associated with inflammatory bowel disease.
+ 
+ "We are on the cusp of harnessing advances in microbiome science - the study of the microbes living in our body - that would facilitate diagnosis and treatment of human disease," said  , Professor at Baylor College of Medicine.
+ 
+ "By simply applying diet-based cancer prevention strategies, such as supplementing microbes that provide missing life substances, we can potentially reduce the risk of cancer," said Versalovic.
+ 
+ Previous studies had shown that histamine, a chemical produced by the body that is well-known for its role in allergic disease, also may have a potential antitumour effect.
+ 
+ In the new study, researchers investigated whether the probiotic L reuteri 6475, which is able to generate histamine, had the ability to reduce the frequency and severity of inflammation-associated colorectal cancer in mice that were not able to produce histamine on their own.
+ 
+ The researchers conducted a series of experiments using mice that were deficient in histidine decarboxylase, the enzyme required to convert L-histidine to histamine.
+ 
+ Experimental mice were orally administered L reuteri 6475, which has the gene for histidine decarboxylase to produce histamine; control animals received L reuteri that lacked the gene to produce histidine decarboxylase.
+ 
+ The probiotic was administered both before and after the mice received a single treatment to induce tumour formation.
+ 
+ Fifteen weeks later, the mice were sacrificed and the tissues removed for study.
+ 
+ The animals treated with L reuteri 6475 showed increased expression of bacterial histidine decarboxylase enzyme and of the amount of histamine in their colons.
+ 
+ Positron emission tomography (PET) used to visualise the tumours showed that these mice had fewer and smaller tumours than control mice.
+ 
+ L reuteri strains deficient in histidine decarboxylase activity did not provide protective effects; the mice showed increased numbers of "hot spots" indicative of tumour formation, researchers said.
+ 
+ Treatment with the histamine-generating probiotic also reduced inflammatory responses typically associated with increased risk of tumour development.
+ 
+ "These observations are consistent with the conclusion that histamine-generating probiotic L reuteri may attenuate development of colorectal cancer in the animal model, at least in part, via reduction of a pro-cancer inflammatory response," said Versalovic.
+ 

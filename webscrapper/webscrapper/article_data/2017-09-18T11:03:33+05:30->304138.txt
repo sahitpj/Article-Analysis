@@ -1,0 +1,11 @@
+NEW DELHI: Sunil Mittal-driven   Sunday integrated the Unified Payments Interface ( ) on its digital platform, allowing customer choice and convenience to facilitate secure digital payments.
+ 
+    Payments Bank has become the first payments bank in India to integrate the UPI on its digital platform, the company said in a statement, adding that it would secure digital payments to online/offline merchants and instant money transfers to any bank account in India. In January, Bharti Airtel launched Payments Bank in India to enable transactions on digital platforms.
+  
+  The initiative will allow bank customers to link their bank accounts on   and make UPI payments.
+  
+  “We are pleased to announce UPI integration with Airtel Payments Bank. This would allow all our 20 million bank customers to create their personalised UPI handles on the Airtel app, and enable them to make digital payments in both the offline and the online space,” Airtel Payments Bank chief executive Shashi Arora said. For UPI-based payments and transfers, customers are not required to furnish their bank details to enable transactions.
+  
+  Customers can also use MyAirtel app (bank section) to scan any UPI QR code for making merchant payments. Online and offline merchants can leverage Airtel Payments Bank as a payment mode to accept payments seamlessly from their customers, the Gurgaon-based company added.
+  
+  “Payments banks are capable of facilitating remittances and payments to a large user base especially to underserved area as per RBI’s vision. We are happy to on-board Airtel Payments Bank on BHIM/UPI platform,” National Payments Corporation of India (NPCI) chief operating officer Dilip Asbe said. 

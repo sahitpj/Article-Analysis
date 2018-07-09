@@ -1,0 +1,4 @@
+HYDERABAD: Using only the concepts of physics he learnt in school and a few basic coding skills, a 17-year-old Hyderabad-based high school graduate   has designed an ' ' for women that will give an assaulter a   and also send out an alert message to the nearby police station and family members.
+
+ An aspiring tech entrepreneur, Mandala says that using such a product will help a woman thwart rape attempts. The shoe inflicts a 0.1amp “power kick“ on the attacker. “All a woman needs to do is ensure that the battery is sufficiently charged. When the shoe makes contact with an attacker's body , the attacker will be electrocuted,“ he said. Call for help is automatic. Explaining the concept behind the ElectroShoe, Mandala says, “The shoe was created by using a unique circuit board that uses footsteps to charge itself with the help of a concept called the 'piezoelectric effect'.The more the user walks, the more energy is stored in the  .“
+ 

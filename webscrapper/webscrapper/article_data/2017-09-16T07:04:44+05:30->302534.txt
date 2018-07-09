@@ -1,0 +1,16 @@
+BENGALURU: The security of five   has been compromised allegedly by two Europeans, who were caught retrieving a skimmer they had installed in a cash vending kiosk of a private bank at Kempegowda International Airport in the early hours of Wednesday , CID police said.
+
+ Suspecting that the stolen data may have gone beyond the Indian shores, CID cybercrime officials said they have asked customers who have used these ATMs between September 1 and 12 to change their password. The banks have also been asked to alert their customers. Canara Bank general manager MN Chinawar said they have instructed the bank's IT department to block the affected cards.
+ 
+ Citibank said it will continue to take all steps to safegu ard its customers' interests.
+ 
+ Dan Sabin Cristian, 40, of Angeles City in Romania, and Mare Janos, 44 of Ciorbalina, Hungary are part of a gang based in the United Kingdom.The duo was picked up from the ATM of Kotak Mahindra Bank at the Bengaluru airport, CID DGP HC Kishore Chanrda said. The duo confessed to installing skimmers in the ATMs. While they managed to steal data from the skimmers installed at four ATMs, their luck ran out at the fifth cash kiosk where police lay in wait for them. The CID officers suspect the duo might have shared the sto len data with their associates in the UK. Not a single case of data compromise has been reported yet, CID sources said.
+ 
+ “Data downloaded from their laptop is encrypted, and it will take time to find out whether they have shared the information with their gang.We've decided to inform banks to alert customers who have used the compromised ATMs to change password immediately. We, too, request the public to change their password,“ CID additional director general of police Pratap Reddy said.
+ 
+ Kotak Mahindra Bank had complained to the CID's cybercrime wing that its cashloading staff had noticed a device -suspected to be a skimmer -at the MG Road ATM. Police swooped down on the ATM by which time the skimmer had been retrieved by the  .
+ 
+ No compromise of customer data, says Citibank
+ 
+ “Security of customer information is of paramount importance to Citi. To the best of our understanding, there has been no compromise of any customer data due to this fraudulent activity as on date, and we shall continue to take all possible steps to safeguard our customers' interests. We are monitoring the situation and co-operating with the law enforcement agency ,'' a Citibank spokesperson said.
+ 
