@@ -1,0 +1,19 @@
+Las Vegas: Data vulnerability on the Internet has triggered a bigger challenge in cyber forensics, with hackers finding the   a happy hunting ground. In May, the WannaCry ransomware attack shut down critical infrastructure and crippled networks across Europe, pushing up the odds of an organisation falling victim to data breach to 1 in 4.
+
+ This spurred worldwide spending on IT security and accentuated the anxiety of chief information security officers (CSIOs), who are increasingly facing an uphill task securing data in increasingly dynamic, distributed IT environments.
+ 
+ Take for instance, WannaCry. Somebody clicks on a link and malware gets downloaded on the machine. It executes a couple of new processes, which get created in the cloud operating system, and tries to establish links with other machines to trigger serial infections.
+ 
+ There is also a threat of false alarms, forcing security operations teams to waste time manually investigating non-existent threats. Worse, threats can be missed entirely.
+ 
+ “The growing frequency and cost of security incidents points to a fundamental flaw in security models that focus solely on chasing threats,” said Tom Corn, senior vice-president (security products) at VMware Inc.
+ 
+ Transforming security through virtualization, VMware’s AppDefense is uniquely poised to tackle twin challenges, said company officials, adding that it’s a data center endpoint security product that embeds threat detection and response into the virtualization layer that houses apps and data.
+ 
+ “AppDefense swiftly detects new processes. Suspicious network connections also kick off. If we have a policy that says I don’t want to allow anything that I don’t pre-authorize, then we block them immediately. And the malware no longer spreads,” said Rajiv Ramaswami, COO, products and cloud services, VMware.
+ 
+ A system firewall can check the network traffic, but cannot monitor computing processes. “If you do Control Alt Delete on your PC, it will show a list of processes running on your operating system. We create that birth certificate, specifying an allowed set of processes that you’re allowed to run. And if a new process creeps up and if you start apps that aren’t supposed to be run, we detect it. It’s the compute side of detection that is new. AppDefense uses the full power of virtualisation to figure out how to respond,” explained Ramaswami.
+ 
+ So how does one know that an app, that shouldn’t run, is a malware? To this query, Ramaswami said, “We don’t know if it’s a malware. All we know it’s not intended to be there. We leave this to end-point security providers who track malware signatures. What we know is that a virtual machine is running something different and it just got created, when it got created and we alert. The user can figure out through our third-party integrations with end-point security whether it’s a malware and then tell AppDefense to shut it down. You can quarantine the virtual machine, suspend it, stop all network connections with network security platform. Appdefense is an attestation, detection and response.”
+ 
+ 
