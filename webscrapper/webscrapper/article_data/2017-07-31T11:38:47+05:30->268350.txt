@@ -1,0 +1,105 @@
+Here are some sections of the IT Act under which you can get a tax notice.   tells you what to do if you get one.
+ 
+  
+ 
+  You will get a notice under this section in case of defective filing of tax returns. The errors can include the following: if you have used the wrong ITR form; if you haven’t paid the entire tax due; if you have claimed a refund for deducted tax but have not mentioned the relevant income; if there is a mismatch in the name on the form and PAN card, or if you have paid taxes but not listed income. In such cases, a notice under this section will be sent to you.
+  
+  
+  NA
+  
+  
+ 
+  Within 15 days of date of intimation by assessing officer. You can seek an extension by writing to the local assessing officer. If you don’t respond, the return will be considered invalid.
+  
+  
+ 
+  Go to the income tax filing site (https://incometaxindiaefiling. gov.in/e-Filing/) and download the right ITR form under the given assessment year. Then select the option ‘In response to a notice under Section 139(9) where the original return filed was a defective return.’
+  
+  Fill in the reference number and acknowledgement number, and fill the form with rectifications. Under ‘e-file’, select ‘e-file in response to notice u/s 139(9)’ and upload it using the password in the notice.
+  
+  
+ 
+  More than a notice, this is an intimation about the returns filed by you. You can get three types of notices under this section:
+  a) It can be simply the final assessment of your returns as your tax calculation matches that of the assessing officer.
+  b) It can serve as a refund notice, where the assessing officer’s computation shows excessive tax paid by you.
+  c) It can be a demand notice, wherein assessing officer finds a shortfall in your tax payment.
+  
+  
+ 
+  Before the expiry of one year from the end of financial year in which the return has been filed.
+  
+  
+ 
+  If tax is due, you will have to pay it within 30 days.
+  
+  
+ 
+  If there is no discrepancy in the returns, you don’t have to do anything. If a refund is due, it will be transferred to the bank account mentioned in the return. If it is not, request a reissue of the refund. If tax is due, you will have to pay it within 30 days.
+  
+  
+ 
+  “Though this provision existed earlier, the computer-assisted notices are being sent to a large number of taxpayers only this year,” says Chetan Chandak, Head of Tax Research, H&R Block, India.
+  
+  This is essentially a communication on proposed adjustments, which means that if there is a discrepancy in the income mentioned in the return and Form 16, or deductions given under Section 80C or Chapter VIA and Form 26AS, then verification will be sought through this notice.
+  
+  
+  NA
+  
+  
+ 
+  30 days from the date of issue of the communication.
+  
+  
+ 
+  You will have to log in to the tax filing portal and, under the ‘e-Proceeding’ section, explain the discrepancy along with the supporting documentary proof that will have to be uploaded.
+  
+  
+ 
+  You will get this notice if any income has escaped assessment or calculation.
+  
+  
+ 
+  If the income that has escaped assessment is Rs 1 lakh or less, it can be sent within four years of the end of the assessment year. If it is more than Rs 1 lakh, the notice can be sent within six years.
+  
+  
+ 
+  The return will have to be furnished within 30 days or in the specified duration as per the notice by the assessing officer.
+  
+  
+ 
+  You will have to file the returns for the relevant assessment year, as directed by the assessing officer.
+  
+  
+ 
+  This is a scrutiny assessment notice that follows preliminary assessment of returns. “This can be of three types, with the first two coming under computer assisted scrutiny selection (CASS), while the third is a manual scrutiny notice,” says Chandak.
+  
+  “The timeline for the completion of this assessment is 18 months for assessment year 2017-18, down from 21 months in 2016-17, and is likely to be further brought down to 12 months from next year,” he adds.
+  
+  a) Limited purpose scrutiny: “This is not a full-fledged scrutiny and is meant to highlight only one or two points and verification is sought on these,” adds Chandak.
+  
+  b) Complete scrutiny: This entails a complete, detailed scrutiny as serious discrepancies have been identified in the tax returns.
+  
+  c) Manual scrutiny: This notice is handpicked by the assessment officer, but it can be sent only after the approval by the Income Tax Commissioner.
+  
+  
+ 
+  Before the expiry of six months from the end of the financial year in which the return is filed.
+  
+  
+ 
+  The taxpayer will have to appear in person or through a representative before the officer on the date specified in the notice.
+  
+  
+ 
+  Get all the income and expense-related documents and other relevant papers, and do not miss the hearing. If you fail to comply with the section’s provisions, it may result in:
+  a) ‘Best judgment assessment’, which means the officer will confirm the assessment and decide the tax liability as he sees fit, or;
+  
+  b) Penalty under Section 271(1)(b), that is, Rs 10,000 for each failure or;
+  
+  c) Prosecution under Section 276D, which may extend up to one year with or without fine.
+  
+  
+ 
+  This is a new section that has been introduced in the Income Tax Act, according to which a fee or penalty will be levied in case returns are not filed by 31 July of the relevant assessment year. “So far, salaried taxpayers were lax about not filing returns by 31 July if taxes had been paid, but now it is mandatory to do so,” says Amit Maheshwari, Partner, Ashok Maheshwary & Associates. Till date, a penalty of Rs 5,000 was levied at the discretion of the assessment officer if the return was not filed.
+  
+  Starting with assessment year 2018-19, a fee of Rs 5,000 will be charged in case returns are filed after the due date, but before 31 December of the relevant assessment year, or Rs 10,000 if it is filed after 31 December of the relevant assessment year. However, for those earning less than Rs 5 lakh a year, maximum penalty of Rs 1,000 will be levied. 

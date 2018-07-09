@@ -1,0 +1,20 @@
+PANAJI: In order to be well-prepared for  , the state fire and   has developed an   system, statistical and analytics mapping along with a volunteer  
+
+ The project titled, “Safe Goa 24x7”, emergency monitoring system (EMS) is developed using IoT-based platform (Internet of Things) and by integrating IT applications and digitization.
+ 
+ The EMS will help monitor the health of the fire protection system, which includes fire-detection, alarm and firefighting system. These will be monitored in real time and facilitate immediate dispatch of appropriate resources, thus saving on time lost in different rounds of response.
+ 
+ Industries, hospitals, hotels, banks, high-rise buildings, etc. which have fire-protection systems will be urged to connect with this system. Fire and emergency services also intend to integrate the EMS with the smart city plan.
+ 
+ EMS will also optimize the use of manpower needed for periodical fire safety audit and limiting it to physical inspection, and thereafter online monitoring of the functional efficacy of the fire protection system.
+ 
+ Fire and emergency services will also be collaborating with Goa University’s department of Earth Science to utilize their expertise in statistical and time service analysis. This project would aim at developing two important analytics knowledge tools: hot spot mapping of recorded fire incidents, and creating a new fire hazard index to help identify locations that have higher exposure to fire-causing factors.
+ 
+ This data/analytics based approach increases public safety from fire because it helps to understand, assess and measure fire incidence and its patterns leading to cost effective solutions.
+ 
+ In order to strengthen their bond with citizens, a volunteer support programme is being looked at by way of the disaster response ‘cadet corp’ volunteer programme. This training programme is being drawn up along the lines of the national skill development programme. This programme will be named as, Goa disaster response cadet corp (GDRCC).
+ 
+ According to fire and emergency services, GDRCC will enable the volunteer cadets to secure employment in related fields.
+ 
+ Besides enhancing the volunteer’s employability, GDRCC will also provide the department with a dependable set of citizens in every fire station jurisdiction who can be relied on to assist the fire and emergency personnel responding to any incidents.
+ 

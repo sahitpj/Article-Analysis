@@ -1,0 +1,19 @@
+AHMEDABAD: In keeping with the Digital India initiative, you might visit the website of city or district police (for eg. 
+  or 
+ ) hosted by the state administration if you live in the city areas or suburbs like Bopal, to register your domestic help or tenant.
+
+  The first step, to register yourself and generate a user ID, you need to fill in a form with your name, address, phone number, etc. Everything seems normal till you get to the vocation/profession (vyavsay in Gujarati) section. The list is exhaustive, with 124 options. However, the list gives you an idea of what the developers consider a  .
+  
+  
+ Among regular   such as doctor, engineer, teacher and trader, users will find options that will raise eyebrows. The website provides  ,  ,  ,   and   as vocations/professions to choose from. Some other unusual ones include beggar, mercenary, nomad and tourist.
+ 
+ The same drop-down menu is available for all police districts and four city police commissioner offices, hosted on the gujarat.gov.in domain. Some of police units such as Ahmedabad Police have their own websites, which don’t have these unusual options.
+  
+  
+ Vivek Upadhyay, director of e-Governance with Gujarat Informatics Ltd (GIL), the agency responsible for maintaining government websites, said they are concerned with web hosting and not the content. “We put up content provided to us by the respective department,” he said.
+ 
+ Manoj Agrawal, secretary (home), was not available for comment.
+ 
+ Senior state police officials said the online option is not widely used and those who have used it have not raised the issue so far. “It is indeed an issue where criminal acts have been shown as vocations, but I am sure that the users can ignore them and choose the relevant option. In fact, the vocation section doesn’t have any implication on the basic purpose, to register on the website,” said a senior police official.
+ 
+ 

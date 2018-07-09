@@ -1,0 +1,26 @@
+UNITED NATIONS: An Indian software engineer has won the top prize at a global challenge for an open-source tool that enables users to interactively view UN   resolutions and gain a deeper understanding of the voting patterns of member states.
+
+ Abdulqadir Rashik, also an entrepreneur, won the 'Unite Ideas UNGAViz Textual Analysis and Visualisation Challenge' for his 'Global Policy', an open-source tool that enables users to search and interactively view General Assembly resolutions to gain a deeper understanding of the voting patterns and decisions made by   Member States.
+ 
+ Rashik's prototype will be made public and shared with United Nations bodies and member states. He will also receive recognition from the   and the Office of Information and Communications Technology.
+ 
+ Rashik is a frequent contributor to Unite Ideas challenges and he previously won the top prize in the LinksSDGs challenge for his 'Links to Sustainable Cities', an interactive visualisation that identifies and maps the links between various Sustainable Development Goals.
+ 
+ The world body said the project was the first collaboration between the UN Office of Information and Communications Technology (OICT) and the US Department of State.
+ 
+ The UNGAViz challenged developers worldwide to create an open-source tool capable of providing greater visibility into member state voting patterns, as well as greater public transparency about their voting choices. Solutions were judged not only on their technical merits, but also on their potential to support policymakers dealing with humanitarian challenges, peace and security issues, and other international matters, sometimes under extreme time pressure.
+ 
+ A State Department official Andrew Hyde said the UN General Assembly has drafted and passed thousands of resolutions affecting people in every corner of the world since its establishment in 1946.
+ 
+ "In support of transparency and accountability, we believe that everybody, from the general public to policymakers to diplomats, should have easy and timely access to this vast body of knowledge," he said.
+ 
+ The first runner-up position was awarded to  , an information technology consultant from Argentina, and the second runner-up was Thomas Fournaise, an information technology manager from France.
+ 
+ The Chief of the Global Services Division in the Office of Information and Communications Technology Salem Avan said the global network of talented open-source developers responded with insightful and practical solutions that can be easily implemented and made available to United Nations offices and Member States.
+ 
+ UNGAViz is the sixth challenge issued by Unite Ideas, a big data crowd-sourcing platform developed by the Office of Information and Communications Technology to facilitate collaboration among academia, civil society and UN offices, and to mobilise data scientists and software developers around the world to help tackle the complex issues faced by the Organisation and its member states through the creation of open-source technology solutions.
+ 
+ To date, academia, the general public and private companies have responded to the Unite Ideas challenges with more than 50 open-source solutions, many of which will be used by the United Nations or shared with member states. 
+ 
+ 
+ 

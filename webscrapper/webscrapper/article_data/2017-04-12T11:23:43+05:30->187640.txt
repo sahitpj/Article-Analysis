@@ -1,0 +1,34 @@
+PUNE: Smartphone users across the city are in a fix after spending quite a few thousands on cellphone handsets to enjoy 4G services and ultimately ending up with 3G speed, and sometimes even lower. 
+
+ Theoretically, 4G assures speeds above 100 megabytes per second (Mbps). But in most places, no matter on what sites or apps one conducts a speed test, the average range is between 0.5 Mbps and 20 Mbps - considered 2G/3G performance.
+ 
+ All major operators have together added over 6,000 base transceiver stations (BTSs), popularly called mobile towers, between April 2016 and February 2017 across the district. This is about 30% more than what existed till March 2016. Reliance Jio alone has added 3,500 BTSs in the district, reveal data available with the government.
+ 
+ When Vodafone launched its service in February, it gave a demonstration of its 4G speed capabilities to the press at the ground floor of a hotel in Pune. The speed had then touched a dream 140 Mbps. 
+ 
+ Other operators, including Airtel and Idea, had also launched their 4G services in the city with much fanfare. In reality, multiple speed tests by users on various applications across the city show that no operator could cross the 20 Mbps mark. A recent test by TRAI revealed that the maximum speed that an operator could achieve was 18 Mbps. 
+ 
+ "Speed depends on a number of factors and there is a need to appreciate all these. Among the factors is the radio link between a device and tower, a phone's (chip) capability and the number of subscribers on a particular network," said S N  , deputy director general of the Telecom Enforcement Resource & Monitoring Cell (TERM), Pune.
+ 
+ The Telecom Regulatory Authority of India (TRAI) periodically tests the speed of various operators and publishes the results. This is, however, done under standard test conditions and leaves out various factors that play into a real-life environment.
+ 
+ According to a report by market intelligence provider   (IDC), seven out of every 10 smartphones sold between July and September period of 2016 were 4G-ready.
+ 
+ Cellphone makers are also moving swiftly towards manufacturing 4G-ready devices.
+ 
+ At a recent meeting in Pune, Vishal Malik, business head (retail) Intex Technologies Limited told TOI that the company was moving away from manufacturing 3G devices and would focus only on 4G devices in the smartphone category. 
+ 
+ Telecom operators such as   have been luring customers with lucrative discounts on data if they upgraded to a 4G-enabled device.
+ 
+ With the government's recent push towards digitisation of even payment services, it has become an imperative to ensure quality of service.
+ 
+ One of the ways, said Gopal, could be addition of more BTSs to augment the existing ones. All telecom operators have earmarked huge money to expand capabilities on the ground. While they do not provide with area-wise break up of investments, it seems that they are yet to undertake massive network expansion to cater to the rapidly growing 4G additions.
+ 
+ In a recent letter to consumers (carried by most prominent newspapers), Mukesh Ambani, chairman of Reliance Industries (of which Jio is a part), said, "We are acutely aware that we have 'small pockets' of congestion on our network. With our investment in network expansion, you will see a 'dramatic improvement' in service quality in the coming weeks." 
+ 
+ However, one of the most common concerns of most users across the city is why can't the operators commit to a minimum speed. 
+ 
+ "The issue in India is that TRAI has not mandated or defined the minimum speed for any generation of network. The service providers claim and advertise as per network capabilities. Necessary speeds or bandwidth should be maintained," said Kapil Yewale, a software engineer based out of Pune.
+ 
+ While telecom operators have not come forward to make any concrete assurances so far, sources in the industry said that TRAI might soon announce ("a not-too-high") minimum speed criterion that the operators will have to adhere to. 
+ 

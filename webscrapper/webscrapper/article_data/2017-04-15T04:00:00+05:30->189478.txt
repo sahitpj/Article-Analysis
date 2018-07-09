@@ -1,0 +1,37 @@
+ is the chief technology officer of   Watson and IBM cloud.   is IBM’s artificial intelligence software in use by various businesses. At the sidelines of the IBM Interconnect Conference earlier this month, Koehler spoke with TOI on IBM’s strategy and expectations in   computing and the state of its India operations.
+
+ What kind of Indian startups working on machine learning and cloud computing are you interested in currently?
+ 
+ There are several agricultural IoT (Internet of Things) startups in India that I have been talking with and watching for a little bit of time that I think are fascinating. We are looking at how to leverage this to help agriculture in India become more efficient. A lot of gap there that machine learning can’t solve is because we don’t have a lot of that data to feed the machines to be able to learn.
+ 
+ So what exactly are you doing in the agri sector?
+ 
+ So, helping farmers understand when to fertilise, how much fertiliser to put — using AI. I can use crop yield, weather pattern, soil moisture to figure out what is really going on. If you look at the average margin of the farmer in India, they make very little on an annual basis. The decision on how much fertiliser to put down can make or break the profit for that entire year. It’s amazing.
+ 
+ Recently, several top level executives left from your India team. This was a time, when you were aggressively pushing your cloud and AI businesses. Did this affect your plans in India?
+ 
+ No. I’d say India is a massive focus for us. Both in the opportunities we see, and also from the developer community perspective. In engaging the developer community...I’d say India is the top of our list. We’re probably more excited about that now than probably a year ago. In terms of building out additional capabilities, launching new features — we’re continuing to see that grow. I really believe globally and also in India, the developers are the kings. They are making the decisions. We have a small window of time to engage them, to excite them, and to have them choose our product.
+ 
+ In a recent report, Greyhound Research said that they found the cloud and AI growth in India to be less than satisfactory for IBM. How do you respond to that?
+ 
+ I don’t know the basis of their study to know what they look at. But I would say that the developer strategy that I spoke about is critical to us for accelerating our growth. This isn’t about massive things, but about really engaging the engineers and the developer community. Whether somebody is working for a startup in India, or for an ISP...we have to engage these developers, so that they are aware of the richness of our capabilities. Where we haven’t grown with the speed that somebody says we should, I would say we approach that with awareness, engagement, and excitement of the developer community.
+ 
+ There are several younger, smaller, nimble companies working in the AI and cloud sectors. IBM is over a hundred years old. Does the “legacy” tag become a problem sometimes?
+ 
+ I think in the world of cognitive (computing), data science and AI, trust is at the core of what companies would look to in terms of where they are going to put their data. A startup is going to have to sell their product. They are going to have to be trusted themselves.
+ 
+ And yet you see yourself competing with 20-something year old companies as a 100-year- old one...
+ 
+ Sure, but I think IBM’s brand reputation, brand strength and our hundred-year legacy of being a trusted partner plays to our strength in a world that is increasingly focused on. To use cognitive (computing), AI, machine learning, you have to move your data to the public cloud. That is a decision somebody is making based on who they trust with their data. I believe IBM’s hundred-year legacy plays core to this strength and is actually a benefit.
+ 
+ In the broader trends in cloud computing, what are the things one should be looking out for in the future?
+ 
+ What we are going to see, generally speaking, is the excitement around the fact that the cloud goes from being someone’s security concern to being, “wow, the cloud is more secure, safer, and more compliant.” I think that is a big shift.
+ 
+ The security concerns are not misplaced. Products like Bit Torrent’s Sync are marketing themselves as a safer alternative to the cloud...
+ 
+ They are not misplaced. Bit Torrent Sync is syncing data across machines, but the data is still somewhere. Where is it harder for me to take your data from? I absolutely believe that with the public cloud and the focus on security and compliance...there are more security engineers using machine learning and AI to automatically respond to threats in real time. I just fundamentally believe that the cloud is a safer place. A lot more attacks happen on on-premise environments than on the cloud. Let’s also keep in mind that a lot of data loss is from bad acting employees or malicious activity from within.
+ 
+ (The writer was in Las Vegas at the invitation of IBM)
+ 
+ 

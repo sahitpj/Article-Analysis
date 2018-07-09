@@ -1,0 +1,29 @@
+KOLKATA: Doctoral students in the electronics department at   have taken up research on cellphone  , a field that few dare to tread fearing the powerful cellular lobby. 
+
+ Academics dealing with electromagnetic radiation have long held the view that intensity of radiation from cellular tow-ers in India needs to be lowered to levels in other developed cou-ntries to reduce potential health hazards. But in the absence of long-term research data, the cellular industry has challenged the arguments and rubbished their claims. 
+ 
+ That may well change with PhD students of JU studying various facets of electromagnetic radiation and cell towers. Though most of the studies are at a nascent stage, they have already thrown up some disturbing findings. 
+ 
+ One student is doing a survey on whether celltowers in Kolkata are following the safe limit prescribed by telecom watchdog TRAI. 
+ 
+ Another student is doing a study on whether the radiation effect is localised or distributed. Yet another student is looking at the effect of radiation on the city's flora and fauna. A study is also underway on absorption rate (SAR) of cellphones. 
+ 
+ While TERM Cell, an agency of the telecom department that is meant to look at cellphone radiation, declared that it did not find any tower to be violating the prescribed limit, students and teachers at JU questioned the flawed methodology that led to it issuing a clean chit.
+ 
+ “The near field measurement was taken with an e-field probe. However, no magnetic field probe was used. I believe the measurements are , therefore, erroneous. Also, the International Commission on Non-Ionizing Radiation Protection (ICNIRP) guidelines that the cellular industry quotes to justify its radiation limit is for 6 minutes exposure at a time, much lower than the kind of exposure that people in cities like Kolkata are exposed to day and night,” said JU electronics department associate professor  , who is mentoring two students on studies in the field.
+ 
+ Another research by a student showed that when cellular radiation passes through the human body, it does not do so uniformly, thereby harming those sections through which they pass while leaving others unaffected. 
+ 
+ Former chairman of  , prof Bhaskar Gupta, who also teaches in the electronics department and has students conducting research in cellular radiation arena, said only research and data could foil the efforts of cellular firms to camoflage the hazard. 
+ 
+ “We have a strange situation in the industry where those who are supposed to check radiation go about handing out certificates. There is simply no doubt that celltower radiation is causing harm. But to prove it conclusively, we need data. That is what the new generation of health and environment conscious students are doing,” said Gupta, who also has students researching the affect of radiation on flora.
+ 
+ He wants the government to create a radiation map and outline the radiation intensity of densely populated localities like central Kolkata. "We have to move beyond conjecture and present facts. The tobacco industry was getting away till the studies were carried out. We have to do the same," said Gupta.
+ 
+ IIT-Kharagpur professor Sudarshan Neogi who had carried out a study on celltower radiation in Kolkata in 2011, said there was enough direct evidence that radition did pose a health hazard and caused irregularity among humans. “There is sufficient volume of literature to raise the red flag. But more studies are welcome. We need to raise awarness without causing panic,” he remarked.
+ 
+ Professor Girish Kumar of IIT-Mumbai, who has been crucading against the high intensity of radiation in Indian celltowers, came to JU last month end and gave a talk to motivate the students. 
+ 
+ “I am glad students in Kolkata are taking up research on this very important subject that affects everyone's health. We have been constesting the government's claims on safe limit. It must be reduced from 20 watt now to 1 watt. This will mean doubling the number of towers and installing more repeaters,” he pointed out.
+ 
+ 

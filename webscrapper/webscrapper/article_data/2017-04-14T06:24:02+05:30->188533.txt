@@ -1,0 +1,22 @@
+PUNE: The   Election Commission will be ready with the Voter Verifiable Paper Audit Trail ( ) for the   Lok Sabha and assembly elections in Maharashtra.
+
+ A preliminary meeting and a   was given by Electronic Corporation of India Limited ( ) authorities to the commission.
+ 
+ State election commissioner JS Saharia told TOI on Thursday that the VVPAT system would be introduced for all the constituencies for the general election in 2019.
+ 
+ ‘We could not have it in the recent corporation and council elections as there was a multi-member system. The technology could not be installed on all the machines,’’ Saharia said.
+ 
+ It could not be included in the final round of civic elections for Latur, Parbhani and Chandrapur on April 19 as it was on short notice, he added.
+ 
+ Saharia said EVMs are tamper-proof and the possibility of hacking them was baseless. With the state reporting similar complaints, he said there is not a single place where such an allegation can be proved and the system is foolproof.
+ 
+ In the VVPAT system, when a voter presses the button for a candidate of his choice in the EVM, a paper ballot containing the serial number, name of the candidate and poll symbol would be printed for the voter.
+ 
+ The system is intended as an independent verification system for voting machines designed to allow voters to verify that their votes were cast correctly, to detect possible election fraud or malfunction and to provide a means to audit the stored electronic results.
+ 
+ The system was used for the Goa election for all the assembly constituencies and the process was smooth. A similar run would be on an experiment with the state elections if it is demanded, ECIL authorities said. 
+ 
+ ECIL’s in-charge of corporate business development AC Rao told TOI they are ready with the technology. “It was experimented with in some assembly constituencies in Uttar Pradesh, Punjab and Goa. When Maharashtra places its demand for the elections in two years, we will be ready with more machines,’’ he added.
+ 
+ The slip will be visible for seven seconds after voting after which it would go back into the machine for storage. The stored slip can be rechecked if any discrepancy comes up.
+ 

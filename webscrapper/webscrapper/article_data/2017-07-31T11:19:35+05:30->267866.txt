@@ -1,0 +1,33 @@
+NEW DELHI: Demonetisation and the subsequent push for digitisation has escalated risks relating to cyber crime and India needs to urgently upgrade its defences by setting up a cyber security commission on the lines of the Atomic Energy and Space Commissions, according to an   study shared with Parliament’s committee on finance.
+
+ Noting that the government has initiated a number of programmes to enhance the participation of citizens in the fully digitalised economy, the study said cyber security centres set up by the   would be insufficient. “While RBI centres often come to IITs such as IIT-K for expert opinion, IITs do not engage in relevant research on cyber security,” the study said.
+ 
+ Incidents of   are rising sharply, recording an increase of over 100% in 2015 from 2014. The number grew from 71,780 in 2013 to 1.49 lakh in 2014 to 3 lakh in 2015. 
+ 
+ The study said attacks from the ‘Equation group’ — which   reports said was a clandestine   and NSA programme — infected India’s telecom and military sectors and research institutes.
+ 
+ The committee was briefed by Profs Manindra Agrawal and Sandeep Shukla from   Kanpur.
+ 
+ The study pointed out that since the government was pushing Aadhaar-based financial transactions, securing the Aadhaar database against unauthorised usage must be looked at carefully.
+ 
+ It has come to light that certain banks were making hundreds of transactions on the Aadhaar numbers of unsuspecting citizens.
+ 
+ 
+ 
+ Recent revelations about leakage of Aadhaar data and corresponding transaction data are serious concerns as the government is integrating Aadhaar number to various services,” the study said.
+ 
+ Post-demonetisation, digital wallets such as PayTM and   gained prominence.
+ 
+ However, with increase in online transactions, last year also saw cyber attacks that compromised more than 3 million ATM and debit cards through Hitachi-engineered ATM machine hacking.
+ 
+ The experts said a wider net needed to be cast by the Indian banking system and the government to engage cyber security experts from top institutes as an advanced layer of protection was missing in most financial institutions.
+ 
+ Quoting a report, IIT-K experts said India may need $4 billion investment in the private-public model.
+ 
+ In their recommendations, experts said companies must have a chief cyber security officer and data systems should function on a need-to-know basis. 
+ 
+ The experts felt that existing cyber security frameworks like CERT-IN was inadequate as there were insufficient inter-disciplinary connections and the government-private sector partnership was neither deep enough nor did it provide the required expertise.
+ 
+ 
+ 
+ 

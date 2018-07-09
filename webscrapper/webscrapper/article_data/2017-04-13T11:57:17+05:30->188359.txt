@@ -1,0 +1,24 @@
+Technological advancements coupled with innovations have notably been city students’ pursuits when it comes to their final- year projects. A team from a city-based college delivered their project on a similar strain as they showcased a   that can aid druing earthquakes and terror attack situations. They were the finalists at this year’s e-Yantra symposium at   that was conducted in association with   (MHRD).
+
+ The four-member team from Pune Institute of Computer Technology (PICT) was the only team from the city that made it to the finals. The students are currently in their third year of electronics and telecommunications course. At this year’s symposium, which was held on April 7 and 8, 16 proposals out of the total 302 made it to the last round.
+ 
+ The team has named the robot Saviour. The work on this automated all terrain rescue robot began in January 2017 under the mentorship of Shridhar Dudam, assistant professor at PICT. Dudam shared that it is the third time in a row that a team from PICT has reached the finals consecutively.
+ 
+ Mansi Deshpande, one of the team member, informed that the Rs 14,230-worth robot travels at a rate of 0.125 metres per second and can sport an overhead camera to survey the terrain. Its movement is autonomous.
+ 
+ Umang Deshpande, another team members, said, “We wanted to minimise the casualty that occurs during terror attacks, where defence personnel have to put their lives in danger to understand the situation. In such circumstances, Saviour can be sent with cameras mounted atop it, so that information can be shared with the base station or can be used to shoot if situation arises.”
+ 
+ 
+  
+ 
+ 
+ The robot is independent of power supply and network, which probably plays to its strength. During disasters these resources are cut off, a fact which prompted the team to figure out a wireless module for its operation. At present, it can work within a 30-metre range.
+ 
+ A lot of thought has gone behind designing as well. According to Snehal Mangire, the six semi-circles, which act as legs of the robot were inspired by the movement of insects, to conquer rugged terrains. “These legs have been cast in such a way that enables Saviour to take step that measures 15 cm. The shape of the legs was chosen as such to avoid toppling and help the robot carry payload of 12 kg while maintain stability and balance,” Mangire added.
+ 
+ Team member Aditya Bomale shared that the robot’s applications can be modified as per situation to aid in disaster and rescue operations. In the future, they would want to configure Saviour to navigate extreme terrain while simultaneously providing valuable information.
+ 
+ These qualities impressed the jury at e-Yantra, with two members even picking out endearing qualitites. Kavi Arya, the principal investigator and an associate professor at the computer science department,   Bombay, said, “The team from PICT was selected for their novelty, they were realistically able to demonstrate the robot’s movement on rough terrain. It is a promising project, which showcased versatility in terms of applications.”
+ 
+ While Preethi Jyoti, assistant professor, computer science and engineering department and one of the jury members, said that the project was impressive due to its design and structure. “The students did a good job from a structural point of view. The semi-circle legs, especially, was an interesting element,” Jyoti added.
+ 
