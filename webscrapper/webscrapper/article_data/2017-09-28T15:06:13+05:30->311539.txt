@@ -1,0 +1,29 @@
+BENGALURU: Unlike several big ticket global science projects where India joined in late,  , which has detected 
+  since 2015, has had Indian scientists contributing significantly.
+
+ In fact, the larger project will also see an observatory in India. The planned  , that received in-principle approval from the Union cabinet in February 2016, has made rapid progress, scientists associated with the project say
+ 
+ 
+  , they say will join the global observations by 2024.
+ 
+ "This will greatly enhance the scientific capabilities of the international network of observatories for astronomy, primarily by enabling precise pointing to the location of the gravitational wave events in the sky," a statement shared with TOI read.
+ 
+ Scientific and engineering teams at IPR Gandhinagar, IUCAA Pune and RRCAT Indore are actively engaged in the pre-construction activities of LIGO-India.
+ 
+  
+  — something that existed only in Einstein’s theory for a century — in quick succession may have put team LIGO on cloud nine but it wouldn’t have been possible without some techniques developed by Indian scientists.
+ 
+ Team LIGO has made no secret about the fact that unlike the first detection, which was stronger and louder for the detectors to spot, the second gravitational wave had weaker signals buried in noise. The process of the black holes’ merger lasted only for about a second in LIGO’s frequency band.
+ 
+ It is here that the foundational work on developing data-analysis techniques used to detect weak signals hidden in noise done by the group led by Sanjeev Dhurandhar at the Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune helped.
+ 
+ Also, a group of scientists led by Bala Iyer, who heads the India Ligo team that pioneered the theoretical modeling of gravitational-wave signals from black holes. Iyer’s team worked in collaboration with a group of French scientists, Parameswaran Ajith and his team also worked on similar modeling. His team significantly contributed to obtaining estimates of the mass and spin of the final black hole, and the amount of energy radiated as gravitational waves.
+ 
+ Sixty seven scientists from 13 Indian institutions are part of the  , under the umbrella of the Indian Initiative in   (IndIGO). The Indian team in LIGO includes scientists from CMI Chennai, ICTS-TIFR Bengaluru, IISER-Kolkata, IISER-Trivandrum, IIT Bombay, IIT Madras, IIT Gandhinagar, IIT Hyderabad IPR Gandhinagar, IUCAA Pune, RRCAT Indore, TIFR Mumbai and UAIR Gandhinagar.
+ 
+ Some of the data analysis work were carried out using the high-performance computing facilities at IUCAA Pune and ICTS-TIFR Bengaluru. 
+ 
+ LIGO is an international collaboration with members around the globe. Its observations are carried out by twin detectors in the USA — one in Hanford, Washington, and the other in Livingston, Louisiana. Funded by the National Science Foundation (NSF), LIGO is operated by MIT and Caltech, which conceived and built the project.
+ 
+ Financial support for the Advanced LIGO project was led by NSF with Germany (Max Planck Society), the U.K. (Science and Technology Facilities Council) and Australia (Australian Research Council) making significant commitments and contributions to the project.
+ 

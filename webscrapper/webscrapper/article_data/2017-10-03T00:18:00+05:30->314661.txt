@@ -1,0 +1,19 @@
+Chandigarh: You will be able to book a parking space before even arriving at the parking lot within this month. The company that is managing paid parking lots in the city is expected to launch an app for parking lots by October 15, an official of the firm told The Times of India on Monday.
+
+ The company is going to launch the app in collaboration with the municipal corporation of Chandigarh. The move is one of the segments of introducing the concept of ‘Smart Parking’ in Chandigarh, an area that the UT administration is looking to work on as part of the Centre’s Smart City Project. “We have been working hard to launch a mobile-payment gateway, which is one of the technology features in the project. By using this feature, motorists would be able to book a parking space in advance in any of the MC’s paid-parking lots. We won’t charge extra for this facility. To begin with, we have decided to keep 15 to 20 parking spaces in each parking lot of the city, which will be later enhanced by assessing the requirement. If all goes well, we may launch this app by October 15,” said Sandeep Vohra, project head of the company, Arya Toll Infra.
+ 
+ The company, Vohra said, had almost completed laying wires in parking lots for displaying their availability electronically, and were not setting up a server room. The CCTV cameras in most of the lots have already been installed. “As per agreement, we have already started most of the things. We have kicked-off electronic ticketing system in each lot, fixed CCTV cameras in most, set up 102 booths and kept 20 spare in case of requirement, and over 70% marking of parking spaces in each lot has also been completed,” Vohra added.
+ 
+ Box:
+ 
+ Dedicated server
+ 
+ As per agreement, the company managing parking lots will set up a dedicated server room in the city to capture each moment or activity of every paid-parking lot of the city, falling under the jurisdiction of the MC. This room will either be set up in a building of the municipal corporation, Chandigarh, or at the underground multi-level parking lot in Sector 17.
+ 
+ Box:
+ 
+ How the app will work
+ 
+ People will have to download the app and, after selecting a particular parking lot, they have to book the space. After this, a message will be sent to the staff of the parking lot, who would book the space as per given time. In case you don’t reach at the stipulated time, the app will remind you after 15 minutes.
+ 
+ 

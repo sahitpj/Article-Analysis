@@ -1,0 +1,47 @@
+On September 18, the world’s largest internet company, Google, launched digital payments app Tez in India. Tez is yet another payments platform that joins a long list of   payment platforms — from BHIM to AadhaarPay — offered since   11 months ago. The launch came at a time when digital transactions are showing mixed trends — up some weeks and flat on others. Overall, though, cashless payments are much higher than in the pre-demonetisation months. 
+
+ The billion dollar question, however, is whether that’s enough to meet the government’s lofty goal of 25 billion digital payments by end of this fiscal. With half the year gone, less than a third of the total targeted transactions are via digital modes. Take, for instance, debit cards. It is the most ubiquitous cashless option in circulation (about 700 million) and surprisingly among the least in use – other than at ATMs . 
+ 
+ Low penetration of point of sales (PoS) terminals or card swipe machines and concerns over security make debit cards less attractive. So, if there are 700 million debit cards, there are only 2.5 million PoS machines for these cards, which are concentrated in large metros. 
+ 
+ Parag Rao, head, cards payment products and merchant acquiring services,  , says, “Pre-demonetisation, if debit cards in use were X, they rose to 3X afterwards but have now come down to 2X. Debit card is a substitute for cash but many people have gone back to cash.” 
+ 
+ Noting that digital payments have come down Ritesh Pai, chief digital officer,   says, “Use of cash is a behavioural issue. People pay vendors, suppliers on a daily basis and many pay via cash. Often the only bread-earner may not be tech savvy to use an app to pay. Yet, demonetisation has helped fast-track digital payments by almost four years.” 
+  
+  
+ 
+ 
+ Despite mixed growth of digital payments the future is less cash, at least far less than the current 95%-plus transactions via cash and cheque books. According to a report on digital payments in India, total payments via digital instruments are expected to touch $500 billion by 2020. By then the fintech companies will be worth about $2.4 billion. 
+ 
+ Diana Layfield, vice president, product management, Google, says, “Digital payments are structurally down but still at least 50% higher than the pre-demonetisation days. The trend is up, but you still need to persuade people to pay digitally.” 
+ 
+ The silver lining is that users are at least carrying digital currency along with cash. Tez saw 50,000 downloads prelaunch, which scaled to 0.5 million in just two days after launch. India’s largest wallet player, Paytm, claims around 260 million users and MobiKwik, 60 million. While India’s largest bank,  , has 195 million customers,   claims around 7 million daily transactions and   about 3 million. Also, digital is being encouraged in areas that could push out cash. 
+ 
+ Vivek Belgavi, leader of fintech, PricewaterhouseCoopers (PwC), cites two recent examples — Mumbai traffic fine payments have moved to digital as have property tax payment in Pune. The government has mandated all new vehicles to enable electronic payments at toll gates, a move that is yet to take off. While for daily use there are enough apps and platforms that help pay digitally — UPI, BHIM, AadhaarPay, Paytm, MobiKwik, HDFC PayZapp, SBI Buddy, PayU, Tez, besides   and debit cards — people still seem more comfortable reaching for cash than an app. 
+ 
+ 
+ The card that most people have — a debit card — is hardly used to pay. Says Amrish Rau, CEO, PayU, a payment gateway, “The problem is money is not moving fast enough. I can’t transfer money while I chat. Besides, most campaigns encourage users to pay digitally but are not educating small merchants to accept digitally.” 
+ 
+ Rau, who co-founded Citrus Pay which was acquired by PayU in 2016, has been in digital payments for almost 20 years. He adds, “Government is actually doing a disservice by having so many options. From the government perspective the messaging should be simple: pay digitally, irrespective of the mode.” Despite the multiple options, the ease of doing a transaction as quickly as cash is still not there. 
+ 
+ Satyam Mehra, partner, Bain & Company, points out: “The convenience or trust factor, or even the width and depth of acceptance points, is low.” Adds DD Mishra, research director at Gartner: “Complexity of interface and its process is at times an inhibitor.” Often digital is the last option as users are not comfortable with cashless payments. As Pai of Yes Bank says: “Many people use cashless in assisted mode (that is seeking help to pay). That’s across senior citizens, the unfamiliar users and sometimes even educated users.” 
+ 
+ The problem may also be that more often than not users are being pushed to pay digitally and not the merchant to accept digital payments. “You can’t just say go for digital and not educate the smallest of kirana storeowners or cloth merchants to adopt cashless payments,” adds Rau. Mehra of Bain points to lack of habit and trust, security and safety standards along with the absence of a fast, reliable dispute resolution system that ensures people don’t abandon cash totally. 
+ 
+ Modes of payments are simpler today than the earlier generation ones. The Tez interface is simple and quick to use, as is Paytm and others compared to their versions few years back. But “there’s need for greater simplicity and intuitiveness tailored for certain segments (like users above 60 years) as well as investment in both merchant and consumer education,” adds Mehra.
+ 
+  
+  
+ 
+ While India is trying to leapfrog into digital, it has a long way to go. Sweden, South Korea, Denmark, Canada have high percentage of cashless transactions—as high as 75-85%. Norway has stopped cheques. Of course, these countries are either smaller, or have a more educated population, higher penetration of organised retail and higher awareness about digital than India. 
+ 
+ “They created a mindset of digital first,” says Mishra of Gartner. But they also went through the process of scaling up—starting with tolls & transits and adding more use cases. Transport was the first use case as everybody needs to commute. Says Rau, “These countries targeted mass use cases like transport and worked backwards to enable digital payments everywhere.” 
+ 
+ For instance, Octopus Card in Hong Kong launched in 1997 to pay metro fares is now used by 95% of the population for transport, and at convenience stores, gas stations, car parks, supermarkets and more. Similarly Singapore has EasyLink and SouthKorea has Upass with multiple use cases. Most of such cards started with paying for metro fares. In Delhi, as the metro card is not interoperable and is limited to paying for metro rides, people need other apps or cards or cash to shop. Says Pai of Yes Bank, “Globally tolls & transits are the most common use cases for digital. Digitise this and other use cases will be easier to tackle.” 
+ 
+ The US is still a 50% cash country, says Rao of HDFC Bank, adding: “There’s a change in India, we do see a drop in ATM withdrawals. The digital ecosystem is evolving. In the next 12-24 months adoption of digital will be significantly higher.” By then perhaps there will be a consolidation in payment options as well. In South Korea and China, the QR code is popular. In Japan near field communication (NFC) — a short-range connectivity standard that enables communication between devices brought close to each other — is a popular way to pay. The US, Australia and Singapore have no equivalent of UPI or QR code, but tap-and-pay option are popular. 
+ 
+ Speaking about the outlook to become a less-cash society, Vineet Singh, chief business officer, MobiKwik, says, “People don’t understand the cost of cash and our parents’ generation spent a whole lifetime with cash transactions. Going cashless is also a function of literacy, net connectivity and will take time to scale.” 
+ 
+ India has almost half-a-dozen methods for cashless payments. And yet users can’t leave home without cash. Demonetisation accelerated a shift to digital payments, but will take lot more time to become the prime payment option.
+ 

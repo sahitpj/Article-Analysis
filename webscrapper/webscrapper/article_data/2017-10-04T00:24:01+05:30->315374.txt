@@ -1,0 +1,27 @@
+Pune: City-based Seqrite Cyber Intelligence Labs, the enterprise security wing of Quick Heal Technologies, has tracked an advertisement on DarkNet claiming to have access to 6,000 email IDs Indian public and private companies, besides their internet protocol information, servers and databases.
+
+ This could lead to disruption in internet services in the country, besides compromising sensitive information, Seqrite said, adding that its investigations have revealed that the person (hacker) had access to data of Unique Identification Authority of India (UIDAI) – the central agency that allocates Aadhaar.
+ 
+ The affected entities include UIDAI, DRDO, RBI, ISRO, EPFO, Idea Telecom, Aircel, BSNL, Hathway, Sify, Tikona, BSE, Mastercard/ Visa, SBI, HDFC, ICICI Prudential Mutual Fund, BNY Mellon, IDBI Bank, Canara Bank, Flipkart, Ernst & Young, TCS, Wipro, VMWare, among others.
+ 
+ As per the company, the primary affected organisation was Indian Registry for Internet Names and Numbers (IRINN). IRINN is the country’s national internet registry and deals with allocation and registration services of IP addresses and AS numbers.
+ 
+ Its breach means that IP addresses of entities are at risk and the possessor of this information can try and change the IP address or mount random attacks to disrupt services.
+ 
+ “If an actor gets access to any organization’s IRINN portal, they might be able to de-allocate/delete IP/ASN, therefore, causing outage and denial-of-service for the users and organizations,” the company stated in a blog.
+ 
+ The company’s cyber intelligence team of 40 people first noticed the breach on September 26, 2017 and then sought to engage with the hacker (actor).
+ 
+ “The team then contacted the actor for further details, posing as an interested buyer. Initially, the actor was not willing to disclose the name of affected Internet Registry. However, he agreed to share a small sample of email list from the allegedly compromised database later,” the company said in a statement.
+ 
+ The actor, according to the company, was ready to sell the entire set of data for as less as 15 bitcoins – valued globally at Rs 42 lakh.
+ 
+ Asked if this wasn’t too small an amount for someone wanting to have the data, Rohit Srivastwa, senior director, Cyber Security and Education, Seqrite Services, said, “It could work both ways. The actor has priced it so to get more people interested. Also, he could possible sell chunks of data to more people and make more money.” 
+ 
+ The company said it observed some of the most important and high-profile organizations featured in the list of data that the “actor” possessed. It was then that the company alerted the government agencies and the Asia Pacific Network Information Centre – which allocates IP addresses to companies.
+ 
+ “We notified them and requested them to be alert to any change request and also asked that all change requests be thoroughly verified,” Srivastwa told TOI.
+ 
+ He said entities should undertake periodic risk assessment of their platforms and servers. “We cannot say for sure, but it looks like this is not being done effectively,” Srivastwa said.
+ 
+ 

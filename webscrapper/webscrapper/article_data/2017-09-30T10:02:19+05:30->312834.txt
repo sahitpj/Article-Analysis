@@ -1,0 +1,23 @@
+LUCKNOW:   ( ) is mulling installation of capacitor banks close to the meter of households that have a power load of 5kW to ensure energy efficiency.
+
+ This step will not just cut down on end-point consumption losses, but also result in savings on  . The device also improves voltage supply and reduces the flow of current in the circuit.
+ 
+ A capacitor bank is a set of electrical components that ensure that appliances that have rotating machinery (electromagnetic circuit), like air-conditioners or submersible pumps, do not result in loss of energy by consuming more power than their actual load. 
+ 
+ The energy loss also takes place due to heating up of appliances, wires, switches and boards. In such a scenario, power companies have to supply more current to the user for a given amount of power use.In doing so, they incur more line losses.
+ 
+ Going by a conservative estimate, only 70% of energy supplied is consumed by ho mes or commercial set-ups and the rest is wasted.
+ 
+ A 10MVA capacitor bank for transformers costs around Rs 25 lakh. The devices to be installed at homes may cost around Rs 10,000.
+ 
+ Currently , capacitor banks have been installed at 102 spots on the Low Transmission side of transformers and they have started giving the desired results.Every year, on average, the consumption load increases by 8-10% in Lucknow. 
+ 
+ However, the transformers where capacitor banks have been installed showed a negative growth. Between June 2015 and July 2016, the load increased by 5.4%, but the transformers with capacitor banks reported a growth of 3.5% between June 2016 and July 2017. “One of the reasons was reduced line losses,“ said Lesa chief engineer Ashutosh Kumar.
+ 
+ 
+ 
+ 
+ Electricity meters show both the power being supplied as well as what is used by a household. Electricity being used by a consumer is measured by kWh, while what is being supplied is measured by kVah. 
+ 
+ If the meter shows a reading of 5kwh, it means the consumer has used five units.If kWh and kVah are not the same, it means energy losses and consumers end up paying more than their load.
+ 

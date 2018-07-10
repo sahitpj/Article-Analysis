@@ -1,0 +1,7 @@
+Chennai: HDFC Life Insurance Company has launched Neo — a servicing bot for Twitter that uses artificial intelligence for customer service. The insurer hopes to deploy the bot in answering policy —related queries on social media. Other life insurers like PNB Metlife have launched VR humanoids like Kushi leveraging the power of AI, chat bots, natural language processing. This is the second bot put in operation by HDFC Life, after the launch of SPOK, which was an email bot to answer customer queries. HDFC Life hopes to gain deeper insights into customer behaviour such bots, which have the ability to calculate fund value and balance. T. The Neo bot will be available 24/7 and has the capability to authenticate customers and give frequently sought details, like fund value, sum assured and premium amount.
+
+ “Neo is one of several initiatives undertaken by HDFC Life to streamline and digitise customer on-boarding, policy issuance processes and servicing, with the aim of making such processes convenient and simple for the customers. One main aspect of this is to ensure our customers receive immediate responses to their queries, any time any place – be it email, chat or twitter – as per their convenience,” said Subrat Mohanty, senior EVP and head-strategy, operations, HDFC Life Insurance Company. 
+ 
+ HDFC Life has launched Neo with SmartConnect Technologies.
+ 
+ 

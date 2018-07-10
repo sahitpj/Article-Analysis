@@ -1,0 +1,24 @@
+SEOUL: Scientists have developed an energy harvesting system that can generate   from  , by simply being attached to clothes, windows, and outer walls of a building.
+
+ The device is based on a temperature difference between the hot and cold sides.
+ 
+ The temperature difference can be increased as high as 20.9 degrees Celsius, which is much higher than the typical temperature differences of 1.5 to 4.1 degrees Celsius of wearable thermoelectric generators driven by body heat.
+ 
+ Researchers from Ulsan National Institute of Science and Technology (UNIST) in South Korea expect that the wearable solar thermoelectric generator proposes a promising way to further improve the efficiency by raising the temperature difference.
+ 
+ Energy harvesting is a diverse field encompassing many technologies, which involve a process that captures small amounts of energy that would otherwise be lost as heat, light, sound, vibration, or movement.
+ 
+ A thermoelectric generator (TEG) refers to a device that converts waste heat energy, such as solar energy, geothermal energy, and body heat into additional electrical power.
+ 
+ There has been a great increase in the study of wearable thermoelectric (TE) generators using the temperature difference between the body heat and surrounding environment.
+ 
+ However, one of the main drawbacks of wearable TEG techniques driven by body heat was that such temperature difference is only one to four degrees Celsius and this has hindered further commercialisation.
+ 
+ The research team introduced a local solar absorber designed for optimal absorption of sunlight. This has increased the temperature difference as high as 20.9 degrees, which is the highest value of all wearable TEGs reported to date.
+ 
+ "Through this study, we have secured a temperature difference with the ten-fold increase from the conventional wearable solar thermoelectric generators," said   from UNIST.
+ 
+ "Since the output of a TE generator is proportional to the square root of the temperature difference, one can significantly increase the output with the help of this technology," Jung said.
+ 
+ "Our new werable STEG is expected to be useful in various applications, such as in self-powered wearable electronic devices," said Professor Kyoung Jin Choi from UNIST. 
+ 

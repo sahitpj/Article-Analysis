@@ -1,0 +1,8 @@
+ALLAHABAD: To check cases of fraud by examination centres,   has decided to geographically map them through an app.
+
+ The app will ensure that only genuine examination centres are allotted to examinees. Board officials pointed out that instances had shown that copying mafia, with the help of schools in remote places, provided wrong information to get recognition and then status of examination centre. There after, they used the location for mass copying.
+ 
+ After geo-tagging, all schools which provide wrong information about infrastructure would be automatically rejected as the facilities and location provided by them would not tally with that in the software.
+ 
+ “Heads of schools applying for examination centre status have been asked to download the app from the board's official website and provide details of longitude by , latitude and number of schools around it,“ said Board secretary Neena Srivastava.
+ 

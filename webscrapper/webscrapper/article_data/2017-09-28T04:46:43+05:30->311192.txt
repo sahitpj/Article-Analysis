@@ -1,0 +1,42 @@
+Mumbai: Buyers of residential properties who have been refunded their booking amount plus interest by errant builders, on shelving of the project, find themselves grappling with income-tax nuances.
+
+ In most cases, buyers find that they have to pay I-T at the applicable slab on this interest component. Those having a taxable income of Rs 10 lakh or more fall in the highest tax slab, where the tax rate is 30% plus applicable cess and surcharge—the highest tax rate is 35.53%. Many buyers, especially in metros, who book flats in upper-middle and high-end   projects, tend to fall in the 30% tax bracket.
+ 
+ A properly worded negotiated settlement with the buyer, say tax experts, can help minimise the outgo.
+ 
+  Increasingly, the Supreme Court and several high courts have come to the rescue of investors who have booked flats in projects that were delayed for years, with no sign of completion in sight. Additionally, several errant builders, prior to coming into force of The Real Estate Regulatory Authority Act ( ), have refunded the down payments plus interest to the buyers.
+ 
+ These buyers may have got back their initial investment and also interest as a compensation but they aren’t uncorking the bubbly. “A few friends and I had booked flats in a prominent project in Mumbai. After a delay of nearly six years, the builder recently refunded my deposit aggregating to Rs 1 crore and paid simple interest at 12%. The interest payout is not in tandem with the capital appreciation the flat we would have obtained. Lastly, the I-T liability in my hands on the interest component at 30% is an added sting. To add insult to injury, the errant builder will be able to claim this interest payout as a business deduction and reduce his taxable profits,” says a buyer.
+ 
+ “Under a negotiated settlement with the builder, it may be possible to characterise the sums received as a ‘capital gain’ with a lower tax rate of 20% and other benefits,” says Anil Harish, an advocate specialising in real estate.
+ 
+ Those hoping to avail of I-T deductions under sections 54 or 54F on investments in a new house, now find themselves at a complete loss. If they don’t get possession of the new house, these claims will be denied.
+ 
+ The tax consequences under various scenarios are analysed below.
+ 
+ Negotiated settlement with builder:
+ 
+ If the document is properly worded, the sums received from the builder could be classified as a capital gain, which would result in a lower tax outgo for the buyer.
+ 
+ “A ‘transfer’ of a capital asset results in a capital gain. The definition of ‘transfer’ in section 2(47) of the I-T Act is wide. It also includes ‘the extinguishment of any rights in a capital asset’. At the time of booking, the buyer acquires a right in the ownership of the flat. When he settles with the builder he is extinguishing this right. Thus, the amount paid to him is characterised as sale proceeds of the capital asset,” explains Harish.
+ 
+ “The sale proceeds so received, less the indexed cost, in the case of a long term capital asset, would be a long-term capital gain (LTCG), which attracts a lower I-T rate of 20% plus surcharge and cess,” he adds.
+ 
+ In our illustration (see table), the buyer gave a deposit of Rs 5 lakh and in addition to a refund of this amount, the builder paid interest at 12% for eight years (or Rs 4.80 lakh). After indexation, which is an inflation adjustment to the deposit amount by applying the relevant cost inflation index ( ), the I-T on LTCG works out to Rs 12,216.
+ 
+ On the other hand if the settlement agreement is not properly drafted, while refund of the deposit of Rs 5 lakh would be treated as non-taxable (it is return of one’s own money and in technical parlance it is a capital receipt), there would be an I-T levy on the entire interest component of Rs 4.80 lakh. At a rate of 30% this works out to a steep Rs 1.44 lakh.
+ 
+ In the past, the assessee had to hold an immovable property for three years in order for it to result in long-term capital gains. This holding period is now reduced to two years. In case of refunds by the builder, the holding period will be considered from the date of booking and initial payment by the buyer up to the date of the settlement agreement with the builder. 
+ 
+ Harish adds, “This long-term capital gain can then be invested in eligible bonds under section 54EC or the sale proceeds can be invested in another new house, under section 54F to further reduce the I-T outgo.” 
+ 
+ Interest paid in cases of dispute: To safeguard buyers, RERA requires the builder to pay interest at 2% above SBI’s marginal lending rate, which currently works out to 10.15%.
+ 
+ “Such interest will be part of taxable income and I-T at the applicable slab rate, say 30% plus applicable cess and surcharge, will have to be paid,” says Ameet Patel, tax partner at Manohar Chowdhry & Associates
+ 
+ “It could be provided that such interest would be on a net of tax basis (i.e: tax would have to be borne by the builder, by grossing up of the sum payable),” explains Gautam Nayak, tax partner at CNK & Associates. “Or to mitigate this burden, the government could consider an amendment that instead of an interest component, a premium based on a stipulated rate of return would be paid to the buyer. This premium will be treated as capital gain,” adds Nayak. 
+ 
+ Loss of I-T benefit on investments in a new house: Various provisions of the I-T Act grant a tax benefit when LTCGs arising on sale of certain assets (eg: house, land, commercial property) are invested in acquiring a new house. To the extent of investment in the new house, the LTGCs are reduced and only the balance amount is taxable. Tax tribunals have taken a lenient view and tax benefits have not been denied in case of a delay in possession of the new house beyond the stipulated period of two years from sale of the original asset.
+ 
+ “However, as things currently stand, when there is a closure of a project and refund of the advances paid, the buyer may also lose the capital gains exemption that he has claimed under sections 54 or 54F of the I-T Act for investment in a new house,” says Nayak.
+ 

@@ -1,0 +1,13 @@
+Chennai: Costly, time-consuming and painful, a   in the country often leaves cancer patients exhausted much before treatment begins. In an attempt to simplify the process and alleviate the pain, IIT Ropar has come up with rough sketches of what promises to be, a low-cost mechanism to detect  .
+
+ The   process to detect skin cancer is a mechanism that will make detection of skin cancer considerably cheaper and also ease the existing process, which involves a painful extraction of skin tissues for testing.
+ 
+ The research team, headed by professor Ramjee Repaka, proposes to cuts the process to a painless 20-minute hospital sitting. The technology uses highly-sensitive infrared (IR) thermal cameras to videograph the surface of the skin. The camera designed to capture an ‘image’ of the thermal activity in the body, maps cellular-level temperature changes during the procedure to confirm presence of cancer cells. "It is a noninvasive and non-contact solution that we are working on," says Ramjee, explaining the procedure. In the first step, a patient is made to place a cold gel pack on the surface of their skin to cool the body temperature. Following this, the skin is allowed to transition to room temperature, while the IR camera records the change in thermal state.
+ 
+ "If the human hand is tested, the healthy cells may return to say 37˚C (average body temperature), while the cancerous cells will be 0.1˚C higher, distinguishing themselves from the remaining cells. This is because cancer cells naturally release heat while speeding up metabolisis to metastasize (spread in the body). This difference in temperature, which is picked up by sensitive IR cameras, shows on the screen as a gradient," explains Ramjee. This is especially useful for detecting early stage skin cancer, where tissue lesion only measure 0.2 millimetre, and don’t show any symptoms.
+ 
+ The procedure is relevant since skin cancer is tricky, says the professor. "Many are not aware of the symptoms. While it can be brushed off as a rash, it is only when the cancer metastasizes, noticeably dark pink hues appear. With a lower-cost procedure like this, skin cancer checkups — like other types of cancers — can be done without an exhaustive procedure," says Ramjee.
+ 
+ The challenge, says Ramjee, is the lower occurrence rate of this particular type of cancer in the country when compared to the West, leading to testing being overlooked. "Breast and cervical cancer tests, for instance, are done more rigorously owing to larger occurrence rates, while this is often overlooked. But if testing can be made more accessible, people can stop neglecting symptoms that start out small," he said. 
+ 
+ 

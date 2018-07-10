@@ -1,0 +1,18 @@
+BENGALURU: Campus placements and available job roles for engineering college graduates are going through a big change, given the emergence of a variety of new technologies that are disrupting every industry.
+
+ The soaring demand for jobs in big data and analytics, artificial intelligence (AI), machine learning, digital marketing, and mobile and software development, is pushing companies to offer these roles to those coming out of college campuses. These were roles that were earlier offered primarily to midlevel professionals.
+ 
+ There were around 12,000 jobs available for freshers in India in each of these skill sets during the one year ending August 31, according to data collated from job platforms by online education provider Simplilearn. The numbers are almost double that for roles in cloud computing, quality management, and IT services, which were the leading roles previously .
+ 
+ “These numbers are a combination of what we have seen and the data gathered from our own platform and job listing websites like Naukri and Indeed. We looked at skills that industries have been talking about,“ said Kashyap Dalal, chief business officer at Simplilearn. Dalal said the largest employers of these skills are the top players in the IT services and   (banking, financial services & insurance) spaces. But just about every company , which has recognised that these skills are essential to understand and serve customers better, are hiring for these roles. These include the many MNCs with engineering and R&D centres in India, and the slew of new retail MNCs entering to tap into India's engineering talent. “I am seeing companies like   going to colleges like BITS and IITs to hire for these roles,“ said Kaushik Satish, co founder at hiring firm Belong.
+ 
+ Harishankaran K, co-founder and   of HackerRank, which conducts recruitment tests on campuses for many product companies, including Adobe and Flipkart, says every single company that they work for, including startups, is trying to hire for these roles.
+ 
+ Companies are forming their own teams even in roles like digital marketing that were earlier outsourced to third parties. Other hot roles are in internet of things (IoT) and design of the user interface and user experience. The move to campuses for these roles is primarily because of the shortage of skills in the general technology ecosystem. The roles require basic knowledge in technology skills like advanced Excel, big data, open source data warehousing software Hive, programming languages Python and Java, search engine optimisation (SEO), and  . Digital marketing requires people to have a basic knowledge of   AdWords and SEO.
+ 
+ Some educational institutions teach a few of these skills. But a lot of the main skills are acquired postrecruitment, with in-house training. “Very few colleges have curriculum defined for such roles, so companies look for general problem-solving abilities -like ability to handle data and aptitude for algorithms,“ said Harishankaran.
+ 
+ The salary range for those taken into these roles is in the same Rs 2-4 lakh bracket that other freshers fall in. But the scope to jump to higher salary bands with just a few years of experience is high.
+ 
+ Satish says such disproportionate jumps happened three years ago in product management roles, those who are responsible for the strategy , road map and feature definition of a product or product line. “Many students in the top B-schools were then being hired for product manager roles, especially in e-commerce,“ he says.
+ 

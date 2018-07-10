@@ -1,0 +1,18 @@
+Facing questions over the privacy and security of the   systems in the Supreme Court, the government has decided to conduct an independent   of all 50,000-odd Aadhaar   and inspect them in person.
+ 
+  Three independent auditors will assess if enrolment centres are adhering to   processes and guidelines, if the hardware and software deployed at the enrolment centres are as per UIDAI specifications and check if the enrolment centre is not involved in any corrupt practices and people are not being overcharged for Aadhaar services.
+  
+  Photographs of all staff at the enrolment centre and equipment will be taken and a 5-10 minute video be shot of the ongoing enrolment and update process at the Centre. The three auditors would be allotted 10,000 centres apiece in the first year for the job. The auditors will assess if supervisors and verifiers are present at each enrolment centre to help and guide residents, if the original documents of the resident are scanned and reviewed as per UIDAI guidelines without retaining their hard copies, if the behaviour with the resident is courteous and if the centre is covered by CCTVs.
+  
+  
+  
+  
+  Law and IT minister Ravi Shankar Prasad in an interview to ET last year had said that government planned to appoint auditors across the country to inspect Aadhaar’s systems. The Aadhaar Act, 2016, provides for the same. UIDAI has engaged enrolment agencies as registrars who have set up enrolment centres by hiring operators and supervisors and UIDAI recommended hardware. There have been concerns raised in the past over how the registrars are capturing demographic and biometric detail of residents and uploading them to UIDAI’s Central Identification Data Depository. UIDAI has claimed its systems are secure and it will pass the ‘privacy test’ before SC.
+  
+  UIDAI is also launching a major information drive to impress upon people the benefits of linking their Aadhaar with their bank account, PAN, mobile number or ration cards and put to rest security concerns. In a brief for private agencies to make short films, UIDAI says there have been “wild allegations that CIA has gained access to Aadhaar data” and said nothing could be more untrue.
+  
+  “Even if someone gets hold of a machine on which enrolment took place, it will take a billion years to crack open a single encrypted Aadhaar data packet. So Aadhaar is safe,” says the brief reviewed by ET.
+  
+  The brief further says that linking one’s bank account with Aadhaar “opens a new world of digital payments” and a person can withdraw funds from such a bank account just by using his Aadhaar number and fingerprint. It also claims by linking mobile with Aadhaar, a host of servicessuchase-filingof I-Treturnscan be availed from the comfort of one’s home and one can be rest assured that “no one will be able to forge their identity to obtain a mobile SIM, which can be used to perpetrate frauds or crimes”. The brief stresses that UIDAI does not share Aadhaar details with any entity and databases of banks and telecom firms are not interconnected.
+  
+  “Linking Aadhaar with Mobile SIM will only secure your mobile connection, nothing else,” it says. “Your Aadhaar number can be used to make or receive payments, but to do so, the person will need to have a fingerprint if using an Aadhaar-enabled micro-ATM,” the UIDAI brief says.

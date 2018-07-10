@@ -1,0 +1,37 @@
+NEW DELHI:   on Wednesday announced a limited test-run of 280 character tweets -- double the current character limit of 140. In an official blog post announcing the move, Twitter said that only a "small group" of people will get the 280 character tweet feature before it makes "a decision to launch to everyone." Some on Twitterverse were happy about the move, while others thought it would rob Twitter of brevity. Either way, #280characters was among the worldwide top ten trends.
+
+ "This is a small change, but a big move for us. 140 was an arbitrary choice based on the 160 character SMS limit. Proud of how thoughtful the team has been in solving a real problem people have when trying to tweet. And at the same time maintaining our brevity, speed, and essence!" tweeted Twitter co-founder and CEO   in the small hours of Wednesday morning IST, in what was among the first 280 character tweets.
+ 
+ Co-founder   chimed in with his own expanded tweet: "Originally, our constraint was 160 (limit of a text) minus username. But we noticed @biz got 1 more than @jack. For fairness, we chose 140. Now texts are unlimited. Also, we realize that 140 isn't fair—there are differences between languages. We're testing the limits. Hello 280!"
+ 
+ The expanded character limit will be rolled out to a test group for all languages barring Japanese, Chinese and Korean. Twitter project manager   and senior software engineer Ikuhiro Ihara said in the official Twitter blog post that this was done as tweets in Japanese, Chinese and Korean did not face the problem of running out of space as frequently as those in other languages. "We see that a small percent of Tweets sent in Japanese have 140 characters (only 0.4%). But in English, a much higher percentage of Tweets have 140 characters (9%). Most Japanese Tweets are 15 characters while most English Tweets are 34," says the blog post.
+ 
+ Twitter users often work around the character limit by writing a long draft tweet that spills over the 140 character limit, taking a screenshot, and posting the image to their account. Some even post tweet threads, which is a series of connected and numbered tweets carrying a much longer message. But the most common way to squeeze a thought into 140 characters has been through the sacrifice of punctuation and abbreviation of words and phrases. Rosen and Ihara identified these as
+ major "frustrations" for Twitter users.
+ 
+ However, there was strong resistance to the character limit expansion from various quarters. Writer   said the 140 character limit meant a "masterclass in concision and economy"
+ 
+ 
+  
+ There were many like @Paul_L_Mathews who thought the new move would "destroy" the appeal of Twitter.
+ 
+ 
+  
+ 
+ Others like @Wanderlust11124 wondered what this update meant for the tweet-happy American president Donald Trump.
+ 
+ 
+  
+ American comedian Ellen De Generes put out a tongue-in-cheek tweet about the "honor and privilege" one would feel on receiving the expanded tweet feature.
+ 
+ 
+  
+ Dorsey took it all in good spirit. "We expected (and !) all the snark & critique for #280characters. Comes with the job. What matters now is we clearly show why this change is important, and prove to you all it’s better. Give us some time to learn and confirm (or challenge!) our ideas," he wrote in a later tweet.
+ 
+ The blog post too spoke of anticipating the extreme reaction. "We understand since many of you have been Tweeting for years, there may be an emotional attachment to 140 characters – we felt it, too. But we tried this, saw the power of what it will do, and fell in love with this new, still brief, constraint," it said.
+ 
+ Many tweeted with the request that Twitter introduce an edit button instead of this new update. But not everyone was disappointed at the loss of compulsory brevity. There were those like @EmmaDingle who used the opportunity to post a Lewis Carroll poem.
+ 
+ 
+  
+ 

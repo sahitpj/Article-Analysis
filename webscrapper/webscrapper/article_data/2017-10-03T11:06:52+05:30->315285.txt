@@ -1,0 +1,25 @@
+Bengaluru:   is strengthening its technology base in India. Analysts say it’s a response to the emergence of financial technology challengers and an attempt by the investment bank to grow revenue from its consumer digital finance operation following a slowdown in its bond trading revenue.
+
+ Goldman’s technology talent hiring is visible both at the entry level and in positions that require experienced people. Gunjan Samtani, co-chief operating officer at   Sachs, said the company is ramping up its engineering campus recruits in India by 25-30% this year to make a larger push into technology. Goldman has doubled its engineering hiring from Indian campuses from 120 in 2014 to 250 this year. Summer interns have increased to 370 this time around, from 200 in 2016. 
+ 
+ Last year, the firm visited 27 engineering colleges, including 8 IITs and 4 NITs. This year, the firm plans to expand recruiting to include an additional 9 IITs and 7 NITs, bringing the total engineering colleges it visits to 47 institutions.
+ 
+ Samtani and his engineering team are developing data mining and machine learning algorithms to find correlations between different financial data sets and products. They are also working on workflow digitisation and process automation.
+ 
+ “Hiring in earlier years was focused on areas like accounting, operations and technology. Today we have expanded our hiring to engineers with expertise in the areas of mathematics, statistics and computer science,” Samtani said. 
+ 
+ The company's flagship coding challenge, GS Quantify, is now into its fifth edition. It engages engineering students to participate in programming challenges in areas like computer science, machine learning and quantitative finance. Till date, over 8,000 students have participated in the annual challenge, resulting in over 600 solution submissions in areas including quantitative finance and analytics. 
+ 
+ Teams have developed solutions in predicting bond liquidity, modelling correlations between different financial products, and pricing exotic financial contracts used in risk management. The latest edition gets going this month. A broader range of institutions will be invited, and it will be open, for the first time, to all engineering students and not just the final year batches. 
+ 
+ “Their exceptional engagement and performance to date has now led us to ambitiously further expand the programme nationwide,” Samtani said.
+ 
+ A recent analysis by research firm   openings in Goldman Sachs finds a heavy tech focus. About 46% of the job postings are in technology. It finds that Goldman is actively seeking mobile developers and concludes that mobile consumer banking apps may be next for the company’s digital finance offerings.
+ 
+ “Goldman is actively hiring Android developers to enable the creation of its `all digital retail bank’,” CB Insights says. 
+ 
+ It also notes that Goldman is making a number of engineering hires for its Marquee platform, which provides clients access to its analytics, trading, and data tools. “15+ engineering jobs in New York or India are for developer roles related to Marquee engineering,” it says. 
+ 
+ Globally, engineers and programmers comprise a fourth, about 9,000, of the company’s 36,000 workforce. The Bengaluru centre employs the largest number of engineers after the New York headquarters. Goldman Sachs has about 5,000 employees in Bengaluru and 200 in Mumbai.
+ 
+ 
