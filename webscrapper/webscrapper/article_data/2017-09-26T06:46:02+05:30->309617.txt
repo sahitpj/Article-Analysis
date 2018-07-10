@@ -1,0 +1,10 @@
+MUMBAI: State Bank of India has deployed  , an artificial intelligence-powered software that has the capability to respond to 850 million queries a day , making it the largest-financial sector AI solution in the world.
+
+ The AI banking platform has been provided by Payjo -a company based out of   in US and Bengaluru. SIA or SBI Intelligent Assistant is a multilingual chatbot which can respond in 14 languages in speech or text. In the initial three months, it will provide responses to standard queries like information on products and services and responding to frequently asked questions like ATM locations and IFSC codes.
+ 
+ Speaking to TOI,  , Payjo founder and CEO, said that in two to three months it will evolve to answering transactional statements like `What is my balance?', `Pay my telephone bill' or `Send money to mom'.“In the third phase it will be proactive in telling you that you are leaving money idle and will remind you of bills that are coming up for payments,“ said Njay . “India leapfrogged into the mobile revolution with many people adopting internet for the first time through mobile. The idea is, can we give all these people a simpler new way of interacting with the bank?“ said Njay . According to Njay , Payjo won the bid for SBI over other giants in the reckoning -IBM and other AI providers such as Nuance and [24]7. He added that this is the largest deployment of the AI platform after Google and Amazon.
+ 
+ According to SBI chief technology officer  , SIA is the firstof-its-kind banking application in AI and conversational banking. “It will enhance customer service several notches above. Payjo's expertise in the conversational banking domain helped us build SIA as a superior chatbot in the global banking space,“ said Bhasin.
+ 
+ According to Njay , India's banking infrastructure is ahead of the IT systems in the western world. “SBI has built an application programming interface (API) layer over its banking solution. We use the same layer to gather data,“ he added.
+ 

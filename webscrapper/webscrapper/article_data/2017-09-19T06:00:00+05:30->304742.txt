@@ -1,0 +1,11 @@
+Kolkata: Cab aggregator   has initiated a programme to integrate its mobile app with Kolkata Police so that cops are automatically alerted when a rider hits the emergency button on the Uber platform. 
+
+ In the first phase, Uber will promote Kolkata Police’s app Bondhu through its own platform. Bondhu allows people to connect directly to the Kolkata Police control room in case of an emergency. In the second phase, users can directly access Bondhu from within Uber. The third and final phase will involve an API Integration between both apps so that triggering the emergency button on the Uber app will also alert police.
+ 
+ “We realise that the rider may not be in a situation to make a call. It is best to empower him or her with a one-touch interface on the cellphone. We will also try to share the vehicle’s GPS location with cops so it can be tracked at the earliest,” said Uber GM (Kolkata) Arpit Mundra.
+ 
+ Kolkata Police additional CP Vineet Kumar Goyal said the Bondhu app was an integral technological innovation in providing instant help to citizens in distress. “We welcome Uber’s approach of integrating Bondhu with the aggregator’s platform to improve reach,” he said.
+ 
+ On installation of physical panic buttons in cabs as directed by the transport department, the Uber official said the process was underway and required another three to four months. 
+ 
+ 

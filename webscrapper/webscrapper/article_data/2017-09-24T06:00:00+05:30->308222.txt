@@ -1,0 +1,18 @@
+KOLKATA: If you are finding it difficult to fix a hassle-free route for pandal-hopping, here is some good news for you. Apart from the interactive   Map, which is there for years now, over half-a-dozen mobile apps are up for downloads to provide a live Puja locator-cum-ready reckoner this year.
+
+ Every year, in a bid to outdo each other, a section of big Puja committees influence the traffic movement around their pandals. “Some put up ‘no entry’ boards while others make stretches ‘one-way’. This is nothing but one Puja committee’s target to score over the other in terms of footfalls. Pandal-locator apps can provide a solution to this problem,” said Sweta Bhattacharya, who works in a private sector bank on Park Street. 
+ 
+ Esri India, a GIS provider, has just launched its ‘Pandalhopper’ mobile app that provides a 360° view of a pandal along with the food and shopping stalls around it. The app provides information on the availability of car parking and traffic movement.
+ 
+ “As a GIS major, the challenge was to come up with an app that locates zone-wise top 10 pandals in seconds. The roads with ‘no entry’ and ‘one-way’ signboards can easily be traced on our app, which follows an alphabetical order on the pandal list,” said  , president, Esri India.
+ 
+ “Mobile apps have added flavour to this Puja. I find them to be an offshoot of the Google Map. These are pretty interactive and have an easy-to-use interface,” says  , an electrical engineering student from  .
+ 
+ In 2016, Kolkata Police had come up with the ‘Utsav’ to fix the traffic menace. This year, the app has added new features for better performance. Kolkata Police deputy commissioner (traffic) V Solomon Nesakumar said, “UtsavApp comes with necessary services such as a SOS button, location of nearest police kiosk or hospitals. If one goes missing while pandal-hopping, his or her relatives can share details on the app.”
+ 
+ Titan Sonata has clocked a perfect timing by launching ‘Sonata Sharodia Guide’ this Mahalaya. “The app aims at providing modern touch to the traditional festival,” said Titan CMO Suparna Mitra. 
+ 
+ Keeping the tourist rush in mind, the state tourism department has also launched a navigation app — ‘Sharadotsav’ . The ‘zone-wise Puja’ section is divided into seven groups — North Central Kolkata, Port Area, South Suburban and South West, South and South East, Siliguri, and heritage Pujas in old zaminder houses along with pictures.
+ 
+ “Many football lovers are coming down to Kolkata from different parts of the globe to watch witness Under-17   World Cup. We think the app will give them an idea of what Durga Puja is all about,” said Sekhar Seth, the app developer.
+ 

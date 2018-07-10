@@ -1,0 +1,19 @@
+BENGALURU: At a time when   are becoming frequent, six students from  , Bengaluru, have suggested a cost-effective way to the Indian Railways to eliminate accidents at unmanned level crossings.
+
+ The project - an Internet of Things-based (IoT) multi-tier system - is currently under the railway ministry's consideration. The system is based on three types of sensors and was presented at the Smart India Hackathon 2017, organized by the central government in April.
+ 
+ "We have given an alternative idea of eliminating unmanned railway crossings across India. It's an automated IoT-based multi-tier system based on sensors. This will buttress the security system of the railways and remove human errors," explained Ishaan Abhinav, a third-year student and member of team Gamma, which came up with the model.
+ 
+ The model operates on three sensors -   (RFID) sensor,   - to be placed at different points from the crossing. The 
+ pressure and optical sensors are triggered by the weight and appearance of trains, respectively.
+ 
+ As soon as the train passes through the   located 2.7km from the crossing, an alarm and light system will be activated to signal road users to stop. As the train approaches the pressure sensor - to be placed at 1.75km from the crossing - it's time for the gates to close. By the time the train reaches the optical sensor, placed 1.5km from the crossing, the gates will shut automatically.
+ 
+ "The project doesn't end here. It is often seen that when barricades come down, many walker try to cross the track by slipping underneath. To prevent this, we have added barbed wires to the barricades," said Malvika Vinay, another team member and a third-year engineering student.
+ 
+ The project was readied in two-and-a-half weeks by the team whose members include Madhusoodhanan K M, Adhitya Niranjan, Misha P and Rainy Jain. The students from computer science and mechanical engineering streams were mentored by Sudhir Routray, Sharmila K P and Rahul Nyamangoudar.
+ 
+ "We went till the final round of the hackathon. The PM addressed us and spoke about the problems faced by the Railways," said Madhusoodanan.
+ 
+ Said professor Sharmila, head of the department for telecommunication: "It's a low-budget solution for railways as these sensors don't require much power or battery to run till about four to five years. We are now making changes in the project as suggested by the ministry of railways."
+ 

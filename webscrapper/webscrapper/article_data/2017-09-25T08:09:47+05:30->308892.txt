@@ -1,0 +1,18 @@
+HYDERABAD: Over the coming days, logging on to the  ' website to get the train schedule or any other information will be a better experience.
+
+ Railway authorities are formulating an action plan in sync with the `rail cloud' policy drawn up by the railway board.  , an enterprise under the central government, is implementing the proposed technology , which will reduce the burden on railway coffers by optimizing the server management under the zone.
+ 
+ According to the sources, railway authorities are running the existing IT applications through several servers and this leads to an   of cost in the IT segment. The railway website will be better maintained and people will be updated with all latest information that will cut down on the hassle of turning up at railway offices with a query .
+ 
+ “Once all the departments are integrated through the cloud computing technology , the cost of maintaining IT applications will come down.In cloud, server resources constantly go up or down, given the number of users who have logged on to the system.This will ensure a better experience,“ said a senior official, whose name is being withheld as per the railway policy.
+ 
+ The railway board asked the heads of all zones to send their views on the new policy by September 25 if they want any change in it.
+ 
+ Following the draft of the policy being sent to the general managers of all zones, director of all centralized training institutes and chief managing director of RailTel Corporation of India, Gurugram, the railways are going to install cloud computing for   applications.
+ 
+ “The exception of the policy shall be in rare circumstance when an alternative ICT deployment strategy is essentially required for railways,“ the policy draft stated.
+ 
+ Migration of data and applications will enhance the availability of information.
+ 
+ “The existing applications will be migrated to the cloud through proper mapping. The new system will be equipped with the safety measures laid down by the government recently . The performance of rail cloud will be assessed through service level agreements.
+ 

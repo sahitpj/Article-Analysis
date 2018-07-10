@@ -1,0 +1,25 @@
+Chennai: Despite the recent criticism that IBM Watson has received, Sriram Raghavan, director, IBM Research India defends its applicability across sectors including healthcare, retail and financial services. Raghavan talks to TOI about how the field of research is changing rapidly with co-innovation, multidisciplinary application and blockchain. Exceprts:
+
+ There has been a lot of discussion on whether Watson has delivered on its promise especially in healthcare . What is your view?
+ 
+ I am not sure where the criticism is coming from. We reintroduced AI (artificial intelligence) to the world, we continue to lead in core technologies. Watson has been successfully applied in healthcare, financial service, retail, customer services, to name a few. Every technology takes time to mature till we can identify the best way to deployed it. But there is no reason to doubt the success of the technology. Hospitals in India and Thailand, banks in America, oncologists in Australia are using Watson. AI is still nascent and is emerging. We continue to learn that there are going to be more dimensions to AI like ethics and data security. The good news is that technology can be used to navigate such non-tech areas too.
+ 
+ Do you think researchers are taken more seriously today?
+ 
+ Yes, absolutely. While I can’t speak for other companies, in IBM, there is no part of the company that has not valued the work of researchers. We are empowered to innovate and disrupt. We are also asked to make recommendations to teams and the company has made bets on these recommendations too. Blockchain is an example of a suggestion made by IBM research. We educated the company and told the management that here is an opportunity and they have backed us. 
+ 
+ Blockchain is a major focus area for IBM. Tell us where Blockchain would be best applicable and IBM’s work in the area.
+ 
+ Business networks where controlled sharing of sensitive information will benefit the overall ecosystem and partners – this is an example of where blockchain can be used. Take the example of supply chain finance where there is a financier, supplier and an original equipment manufacturer. 
+ 
+ If you bring these parties onto a blockchain platform, efficiencies from a time and cost perspective can benefit all parties. 
+ 
+ The beauty of blockchain is that it can bring partners, competitors and the regulator on a platform to share information that is mutually beneficial yet control what is shared. We recently announced a collaboration with 12 major food suppliers including Walmart, Tyson Foods and Nestle to identify new areas that can benefit through blockchain. 
+ 
+ For example, food safety is a major issue across the globe and all these companies know they can’t truly solve it on their own. If there is an issue with a product, the consumer will probably blame Walmart because they stocked the product. The fault could lie with the retailer, the distributor or the farmer. Micro- information through blockchain can help here. 
+ 
+ We are working with 7 European banks to build a blockchain platform for trade finance. IBM is also engaging with various regulators and governments. We recently worked with the tech arm of the RBI on a white paper related to blockchain. 
+ 
+ In Singapore, we have set up the IBM centre for blockchain innovation along with the Monetary Authority of Singapore and the Economic Development Board. They see this as a transformational technology and we working them to realise this mission. We work with the smart Dubai office in their vision to become the first blockchain powered government.
+ 
+ 

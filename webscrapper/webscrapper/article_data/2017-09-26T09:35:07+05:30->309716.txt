@@ -1,0 +1,12 @@
+ROPAR: Researchers of Indian Institute of Technology (IIT) at Ropar are working on a new, personalized and cost-effective method for  .
+
+ A team of mechanical engineering department at IIT, Ropar, which is led by  , has successfully managed to perform   by using   (DTI) in a simple clinical setting. “Even today, it is challenging to detect early stage skin cancer due to no lump formation and unavailability of simple imaging systems.
+ 
+ “At present, we are using DTI for detecting small size mimicking tumor in the tissue phantom with subsurface vascular structures,“ said Ramjee.
+ 
+ “The thermal properties of cancer and blood are different due to which a few features appear at the skin surface quickly compared with others under the DTI setting,“ Ramjee added.
+ 
+ In this method, a surface of the skin is cooled with the help of cold gel pack for a short period of time.After this, the skin surface is allowed to recover from cold stress under stabilized room conditions.
+ 
+ During this period, changes in temperature distribution are recorded using a thermal camera. These recorded data is then analyzed to identify the differential changes in the thermal contrast between healthy and cancerous regions. A study reveals that in a physiologically hot region, early cancer small size cancer can be detected within first few minutes of recovery period featuring large thermal contrast.
+ 

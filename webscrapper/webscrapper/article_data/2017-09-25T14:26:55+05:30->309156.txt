@@ -1,0 +1,22 @@
+MANGALURU: In wake of the government’s thrust on moving towards a   economy, companies operating in the financial services domain will have to develop novel preventive control mechanisms and significantly invest in reactive capabilities to keep cyberattackers at bay, suggested a recent ASSOCHAM-PwC joint study.
+
+ “Incorporating a more agile cyber risk management approach may enable such companies to more effectively harness the ongoing digital revolution to their advantage,” said an ASSOCHAM-PwC joint study titled, ‘Securing the cashless economy.’
+ 
+ It also said that with India seeing a shift towards cashless economy, the types of   incidents like  , scanning, website intrusions and defacements, virus code and denial of service attacks will continue to grow.
+ 
+ “As the country is experiencing a digital revolution, the impact of this transformation makes it imperative for financial service players to revisit their cyber security resilience,” it said.
+ 
+ Highlighting that a collective effort is needed to ensure preparedness for the new cashless economy, the study noted that measures like – agile security practices, security of new perimeter mobility, securing hyper-interfaced environment, high velocity identification, containment and eradication, next generation authentication, augmented ecosystem control, protecting context-rich personally identifiable information (PII) and ubiquitous awareness will have to be re-examined to ensure adaptive and real-time cyber defence.
+ 
+ Mastering the areas highlighted above will help financial services companies reach the forefront of industry.
+ 
+ “More intelligent transaction monitoring will have to be carried out as part of continuous surveillance, besides crisis response and recovery strategies will have to step up along with the increased digital footprint,” the study said.
+ 
+ It added that that given the increasing pace and complexity of threats together with clear focus on realising a more cashless economy, we must adopt approaches to cyber security that will require much more engagement from the industry, academia, governments, security establishments and civil society to protect critical business information without constraining innovation and growth.
+ 
+ Considering that until now, cyber security has been treated primarily as a technology issue, the study said that with technology traversing industries, organisations and indeed governments, it can no longer be just be a technology issue.
+ 
+ “The need of the hour is a comprehensive, progressive and forward-looking cyber security strategy at the national level which bridges people, processes and technology, and requires us to deal with questions of technology, law and privacy,” said the ASSOCHAM-PwC study.
+ 
+ There is also the need to focus on the basics that will help keep the growth story on course and ensure that India adopts the right cyber security stance.
+ 

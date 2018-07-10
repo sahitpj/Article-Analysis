@@ -1,0 +1,52 @@
+Chinese semiconductor company Spreadtrum is in talks with several Indian and Chinese handset makers operating in India to supply a chip that it has made for 4G featurephones. 
+
+ US-based Qualcomm has also dedicated some resources towards developing a platform for 4G featurephones, primarily for the India market, underlining the creation of a new segment among the mobile device that till now offered basic Internet capabilities and is generations behind the current crop of smartphones.
+ 
+ In fact, online movie and event ticketing platform BookMyShow is developing an app for  , the newly-launched 4G featurephone from the Reliance Industries that will reach consumers starting this Navratri, and has triggered the creation of the new segment.
+ 
+ The humble featurephone thus is quietly generating activity around it at a time when the   and Galaxy Note 8 are making news. Chipmakers and handset companies to app developers and telecom carriers are putting in money and efforts again in the segment, which has long been overlooked in the push towards smartphones. 
+ 
+ Featurephones still serve about half the country’s billion-plus mobile users but are typically used by low paying customers. In comparison, smartphones with their higher-paying users offer fatter margins for manufactures as well as better scope for telecom carriers to make faster returns on their investment in high-capacity data networks.
+ 
+ JioPhone’s entry has brought some of the focus back to featurephones. The Reliance phone comes effectively free of cost to the consumer. It could entice a large chunk of people who hardly access Internet or are wary of the delicate features of smartphones and the extra expenses on data, to   Infocomm, the only network it supports.
+ 
+  
+  
+ A lot of users in the country are still using mobiles for calls that a featurephone serves well,” said Faisal Kawoosa, an analyst at CyberMedia Research. “For instance, a tea vendor out there in the street uses it only to receive orders. Also, we have a lot many users still averse to touch-based phones, areas where power backup matters, etc. All these factors still make a featurephone relevant.”
+ 
+ According to him, Jio understood the potential and pushed for a case for having a 4G featurephone so that its data-based network becomes meaningful for this segment as well.
+ 
+ For India’s telecom carriers, voice services bring 80 paise in every rupee they make. Jio’s mobile services with free voice calls and dirt-cheap data tariffs have already roiled the industry with rivals taking a huge dent in their financial performance. Prospect of the aggressive rival eating further into their low-paying but large-volume customer base with a handset that costs almost nothing to the user is the latest worry.
+ 
+ To mitigate the threat and keep the users stick with them, carriers are making or working on counter offers. These include services bundled with cheap or effectively free devices. 
+ 
+ Some carriers are also working on to offer entry-level smartphones with low-priced data plans to protect their user base.
+ 
+ Chinese phone maker Itel and home bred Lava and Intex have entered into deals with   India and introduced bundled voice plans and cash back with 2G featurephones. At the lower end, the device s become effectively free as the nation’s second largest telecom company offers free talk-time to cover for the cost of the device.
+ 
+ Market leader Bharti   is working with Lava, Karbonn and other handset makers to devise a roughly Rs 2,500 4G smartphone. The device is likely to come with bundled plans around Diwali. A senior executive at Airtel said the company is backing smartphones as it believes user experience on featurephone s cannot match that of smartphones. 
+ 
+ “We would rather go forward than backward … we have spoken to everybody, like Google, and they are all clear it has to be around smartphones because the experience on featurephone to do stuff like apps and all is really poor,” the executive added. Nevertheless, there is a lot of activity around developing apps for featurephone s, encouraged by the strong consumer interest towards the JioPhone.
+ 
+ The phone, which Reliance says is more than a featurephone, received over 6 million orders when the company’s retail unit opened a booking window for a day and half late last month.
+ 
+ “The biggest advantage for application developers … is that the Jio phone will bring in a huge number of users who were not earlier using any smartphones,” said Shrinidhi Karanth, a cofounder of TrackMyPhones.com that has made more than 50 apps for Google Play and iOS App Store. A large number of these users will be in rural areas, so developers will have a larger opportunity of supporting regional languages, which can open up newer avenues for revenue generation, he added.
+ 
+ The most important criteria for app developers is revenue generation opportunities for their applications.
+ 
+ Development of apps for featurephones like the JioPhone, which uses a new operating system called Kai, will depend on how demand pans out.
+ 
+ “For app developers, there is still a lot of demand to create apps on Android and iOS platform. To create apps for a different platform, it will depend on the phone’s success,” said Phani Kumar Sunnam, the chief executive at Mobileways, an app developer. Karanth sees limited potential from India-specific apps. 
+ 
+ “Indians, in general, spend less money on paid apps or in-app purchases compared to users in western countries. Given that, the JioPhone will be available only in India, the revenue will be even more limited since Jio users will be among the least interested in spending money for apps,” he said.
+ 
+ But key apps are expected to be there on featurephone s.  , for instance, already has a light version of its app which can run on featurephone s having low memory. Rival Flipkart has a native app — a mobile Web page that can be downloaded on the home screen and sits there like an app — which can be used on lowcost smartphones and featurephone s. On its phone, Reliance is pre-loading apps offering video, movies, music and games.
+ 
+ Added to this mix are Facebook and YouTube apps, with   expected to come in after sales begin this month. To run complex apps, featurephone s will require larger memory and faster processing capabilities than those mostly available in such devices now.
+ 
+ Companies like Qualcomm, which is supplying for JioPhone, and Spreadtrum are working to cater to this demand. Qualcomm is working with nearly a dozen device and design makers and carrier partners on supplying chips for featurephone s.
+  
+ Local brands Micromax, Karbonn and Intex are learnt to have already readied their own 4G featurephone s. But they aren’t immediately launching their products as some support by telecom carriers is needed to make it work for them with Reliance heavily subsidising the JioPhone.
+ 
+ “We’re in discussions to bring in 4G featurephone with some telcos,” said an executive at a leading Chinese mobile phone brand, which has swiftly climbed up the ranks over the past year. “But the first challenge is matching the price of the JioPhone … some operator bundling is critical for the device price to come down to Rs 1,800-1,900, from the existing levels of Rs 2,500-3,000.”
+ 

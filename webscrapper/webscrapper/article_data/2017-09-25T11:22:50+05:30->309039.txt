@@ -1,0 +1,38 @@
+KOLKATA | MUMBAI: The 57% cut in interconnect usage charge and decision to scrap it altogether from January 2020 is likely to drive incumbent telecom operators such as  ,   India and   to rapidly launch and expand calling over   technology, and unveil more bundled offers to protect their turf, said analysts and industry experts.
+ 
+  This could trigger a faster shift to data services from voice, which accounts for about 80% of revenue at present, they said.
+  
+  The Telecom Regulatory Authority of India last week slashed   to 6 paise per minute, with effect from October 1. IUC is paid by a mobile carrier where a call originates to the mobile network where it terminates.
+  
+  In recent reports, Bank of America-Merrill Lynch and CLSA said that any move towards zero IUC, or a bill-and-keep model, would automatically compel incumbents to upgrade networks to voice over LTE or VoLTE, a technology which is currently offered pan-India only by new entrant   Infocomm, and migrate their traffic to cut costs.
+  
+  
+  
+  
+  The incumbent operators, of whom Bharti Airtel recently announced its commercial VoLTE services launch in Mumbai, have opposed the cut in IUC. The other two are in a testing phase of VoLTE.
+  
+  A senior executive of one of the top three incumbent telecom operators said that the steep cut in interconnect charges would “unfairly” force incumbents to switch to VoLTE networks even at a time when 90% of voice traffic in India still terminates on 2G, 3G and non-VoLTE 4G networks.
+  
+  “The customer must be free to choose his preferred technology and it’s not for us to compel him to make a choice of one over another. With Trai throwing its weight behind one technology (VoLTE), there is clearly a travesty of justice, and the regulator’s commitment of being technology neutral is broken,” said the executive, who did not wish to be named.
+  
+  In a recent interview to ET, former Trai chairman Rahul Khullar backed this view, saying the regulator’s IUC regulation forces telcos to migrate to VoLTE, which requires fully dedicated IP-networks, ironically at a time when next-generation networks in India remain a distant thought.
+  
+  Older operators currently offer voice services on the legacy circuit-switch technology, with data being offered on a 4G network and voice on a 3G or 2G network. VoLTE technology allows an operator to offer both voice and data on the same network, with voice being just another application that rides on an LTE data network, resulting in more efficient use of airwaves.
+  
+  Goldman Sachs warned that the latest IUC regulation underscores “the regulatory risks in the Indian telecom sector”, which could prompt “investors to question” whether further regulatory changes in the industry could hurt incumbent carriers.
+  
+  Kotak Institutional Equities said that such regulatory decisions “chip away at any incumbency advantage”. “Managing the regulatory side of the equation on grey areas like IUC is critical and incumbents have not done a good job here,” it said in a note seen by ET.
+  
+  The top three incumbent telcos — Bharti Airtel, Vodafone and Idea Cellular — will be the biggest revenue losers once IUC is cut and then scrapped since they have the most number of subscribers and they garner a majority share of the IUC as most calls terminate on their networks.
+  
+  In the immediate term, brokerage PhillipCapital said, the IUC cut and the sharp growth in data uptake will prompt incumbents to unveil more bundled offers to protect average revenue per user or ARPU, although the near-term impact will be negative as profitability of such offers could be lower.
+  
+  Analysts at Swiss brokerage UBS said the shift towards zero IUC would accelerate the move of the Indian mobile market to bundled plans.
+  
+  Big operators, it said, would “now be disincentivised to support low ARPU customers”, who primarily receive incoming calls, and may move them to “minimum threshold ARPU plans”.
+  
+  According to IBS, markets such as the United States, Hong Kong and Singapore, which have embraced zero IUC, are primarily post-paid markets where “customers have to sign up for bundled packages”.
+  
+  PhillipCapital, however, said it expects bundling and benefits of ARPU protection to provide some respite from the envisaged sharp drops in operating income (Ebitda) following the reduction in interconnect rates.
+  
+  Goldman Sachs said while the IUC cut will hurt the top three telcos in the near term, the medium-to-long term impact is likely to be less pronounced as the traffic flow between incumbent telcos and Jio is expected to “become symmetrical over time”. 

@@ -1,0 +1,11 @@
+Bengaluru:   has won a $100 million, five-year integrated outsourcing contract from German reinsurer Munich Re that involves infrastructure management services and application development.   was the other major contender for the deal.
+
+ When TOI contacted Munich Re on the deal, the company said, “Please note it is not our policy to comment on individual client or business relationships.” Wipro also did not comment.
+ 
+ The average annual value of deals in the banking, financial services & insurance (BFSI) sector has dropped from $23.5 million a decade ago to $17.3 million in 2016, according to data analysed by research firm ISG. By that yardstick, a $100 million deal across five years is well above the average.
+ ISG said that enterprise buyers, for the most part, are no longer signing large, long-term contracts with a single provider, opting instead for the flexibility and niche capabilities they gain from working with multiple providers.
+ 
+ Jimit Arora, who leads US-based advisory Everest Group’s IT services research practice, said he has witnessed increased investments from insurers in trying to drive end-to-end transformation of their technology estates. And as we see that, the number of integrated deals are expected to increase, he said. “In fact, as the market matures, we also expect to see more BPaaS (business process as a service)-type of constructs where the full spectrum of business process operations, applications, and infrastructure are served by one service provider,” he said.
+ 
+ In a study completed earlier this year, Everest found nearly half (48%) of enterprise clients were dissatisfied with their incumbents especially as it relates to dimensions such as innovation. “Consequently, as deals come up for renewal, you should expect to see more deals changing heads. The incumbents curse that we see in most mature markets is now being strongly felt in the IT services marketplace,” Arora said.
+ 

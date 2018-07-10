@@ -1,0 +1,13 @@
+Mumbai: Google’s   — a digital payment app that enables transaction on the   ( ) platform — has crossed half a million registered users within 24 hours of launch.
+
+ Speaking to TOI, Diana Layfield, VP and head of finance and commerce products at Google’s Next Billion Users, said, “We are seeing strong adoption. There is a huge market out there. Anyone using cash is a potential user.”
+ 
+ Highlighting the importance   places on this product, the company has set up a dedicated call centre for Google Tez. The company is considering using ‘feet on the street’ to promote usage among merchants. “We have not ruled anything out. We have relationship with large number of merchants as advertisers and we have business relationships with them because of Google maps,” said Layfield. For starters it will work with businesses from which Google has received enquiries.
+ 
+ Among the large merchants who accept payments online, Google has partnered  ,  ,  ,   and Jet Airways as launch partners. According to Layfield, what distinguishes Tez from other payment options is one — a vastly simplified online checkout flow. Customers can complete the transaction without having to leave the site or fill a whole lot of details. Also, merchants can interact with customers through the app and extend offers.
+ 
+ But the biggest driver is expected to be the face-to-face payment feature — ‘cash mode’ that maintains users privacy. The transaction is completed by pairing both phones through ultrasound, when they are in physical proximity. No username or mobile number needs to be entered. Going forward Google plans to create ‘hyperlocal’ experiences based on geo-location. Users, within proximity to a merchant establishment, can get offers from merchants who are on Google Maps. 
+ 
+ According to Layfield, Google Tez will have a very strong anti-spam policy. “The focus is completely around the user. You will never be contacted by a business without permission,” said Layfield. The app will also have an additional layer of security in addition to the built-in multiple authentication features. At the back-end Google has brought in world-class machine learning to flag anything like a phishing request, and to highlight fraudulent virtual payment address (UPI IDs) seeking collect requests. “We also have a bunch of security measures if your phone is stolen which we talk about as the Tez shield,” said Layfield.
+ 
+ 

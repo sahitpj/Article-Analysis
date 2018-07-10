@@ -1,0 +1,30 @@
+ORLANDO:  's identity system rivals the growth of other platform innovations like  , Android or  ,   CEO   has said.
+
+ Nadella, in his book 'Hit Refresh', which was released during the ongoing Microsoft Ignite 2017 conference, has praised India's leap forward in the digital and technological arena.
+ 
+ "Aadhaar now has scaled to over one billion people, rivaling the growth of other platform innovations such as Windows, Android or Facebook," the 50-year-old wrote in his book that hit the book stores today.
+ 
+ He praised the creation of the new digital ecosystem  .
+ 
+ IndiaStack is a set of APIs (application programming interface) that allows governments, businesses, startups and developers to utilise an unique digital Infrastructure to solve India's hard problems towards presence-less, paperless, and cashless service delivery.
+ 
+ "China strategically used the global supply chain and their own domestic market to amplify their comparative advantage and bootstrap their economic growth," the India-born CEO noted.
+ 
+ "The combination of industrial policy, public sector investment, and entrepreneurial energy is what many other countries will also look to replicate from China's success. I see the beginnings of this in India with the creation of the new digital ecosystem known as IndiaStack," Nadella said.
+ 
+ "India is leapfrogging from once being an infrastructure-poor country to now leading in digital technology. IndiaStack ushers in a presence-less, cashless, paperless economy for all its citizens," said the Indian American CEO from Microsoft.
+ 
+ In his book, Nadella wrote that on a trip to Bengaluru he engaged in a conversation with Nandan Nilekani about IndiaStack and its future road map.
+ 
+ "Nandan is the legendary founder of  , who went on to create a new startup working with the Indian Government- Aadhaar-the identity system that is at the center of IndiaStack," he said.
+ 
+ Nadella has also mentioned about Enlightiks, a startup that was acquired by Practo, a leading e-health company in India.
+ 
+ "I met the founder of Enlightiks on the same trip to Bengaluru. They are using the latest cloud technology and AI from Microsoft to create a state-of-the-art health care diagnostics service that can, for example, detect an Atrial fibrillation event before it happens because of the rich data going from the personal device of the patient directly to the cloud," he said.
+ 
+ "In turn, this cloud service can be made available to hospitals in Smaller towns or rural areas in India. Enlightiks also has plans to take advantage of IndiaStack to authenticate the user, accept payment, create portal medical records, and much more. This Indian innovation is now looking to expand in the US, Africa and everywhere else," he wrote.
+ 
+ According to Nadella, this dynamic is not unique to China or India.
+ 
+ "I saw this across Chile, Indonesia, and Poland, and also in France, Germany, and Japan. Reflecting on my earlier visit to Egypt, it's clear they are investing in human capital," he said.
+ 
